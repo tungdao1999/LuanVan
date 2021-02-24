@@ -31,9 +31,9 @@ public class StopWordRemoval extends TextProcessing{
 	public String removeByLibrary(String text) {
 		String word = "";
 		for (int i = 0; i < listStopWords.size(); i++) {
-			word = listStopWords.get(i);
+			word = " " + listStopWords.get(i) + " ";
 			if(text.contains(word))
-				text = text.replaceAll(word, "");
+				text = text.replaceAll(word, " ");
 		};
 		return text;
 	}
