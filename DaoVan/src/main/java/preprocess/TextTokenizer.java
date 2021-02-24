@@ -23,7 +23,7 @@ public class TextTokenizer extends TextProcessing{
 		textpro.initSenSegmenter(ResourcesUtils.resourcePath + "/PreProcess/"+ "models/jvnsensegmenter");
 		textpro.initSenTokenization();
 		textpro.initSegmenter(ResourcesUtils.resourcePath + "/PreProcess/"+ "models/jvnsegmenter");
-		textpro.initPosTagger(ResourcesUtils.resourcePath + "/PreProcess/"+ "models/jvnpostag/maxent");
+		//textpro.initPosTagger(ResourcesUtils.resourcePath + "/PreProcess/"+ "models/jvnpostag/maxent");
 		return textpro.process(text);
 	}
 	public String splitSentences(String text) {

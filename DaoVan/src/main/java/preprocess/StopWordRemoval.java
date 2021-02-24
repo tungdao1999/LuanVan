@@ -16,7 +16,7 @@ public class StopWordRemoval extends TextProcessing{
 	private static List<String> getListStopWord() {
 		// TODO Auto-generated method stub
 		try {
-			return ResourcesUtils.getResourceFileData("PreProcess/VN_stopWords.txt");
+			return ResourcesUtils.getResourceFileData("/PreProcess/VN_stopWords.txt");
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

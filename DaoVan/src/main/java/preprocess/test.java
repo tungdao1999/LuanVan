@@ -14,8 +14,9 @@ public class test {
 //		 TODO Auto-generated method stub
 		TextParser parser = new OfficeWordParser();
 		TextParserFactory factory = new TextParserFactory(parser);
-		ITextProcessor processor = new TextTokenizer(new StopWordRemoval(new TextCleaner(factory)));
-		processor.preProcessing("D://group11_requirement_ver1.0 .docx");
+		ITextProcessor processor = new StopWordRemoval(new TextTokenizer(new TextCleaner(factory)));
+		String a = processor.preProcessing("D://group11_requirement_ver1.0 .docx");
+		System.out.println(a);
 	}
 
 }
