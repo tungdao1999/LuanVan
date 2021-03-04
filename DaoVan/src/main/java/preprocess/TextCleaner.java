@@ -5,7 +5,7 @@ import java.util.List;
 public class TextCleaner extends TextProcessing{
 	//private static List<String> htmlTags = getHTMLTags();
 	private static String HTML_REGEX = "<[^>]*>";
-	private static String SYMBOL_REGEX = "<[^>]*>";
+	private static String SYMBOL_REGEX = "[!@#$%^&*(),.?\\\":{}|<>/]";
 	
 	public TextCleaner(ITextProcessor itp) {
 		super(itp);
