@@ -17,10 +17,11 @@ import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.Directory;
 
+import constants.DocumentField;
 import resource.ResourcesUtils;
 
 public class ITViecIndexer implements IIndexer {
-	private static String INDEX_DIR = ResourcesUtils.resourcePath + "/lucene/crawled";
+	private static String INDEX_DIR = ResourcesUtils.resourcePath + "/lucene/crawled/";
 	private static String HOME_PAGE = "https://itviec.com/blog/";
 	
 	public void indexingByUrl(Directory dir) {

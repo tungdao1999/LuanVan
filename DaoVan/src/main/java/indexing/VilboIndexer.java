@@ -17,6 +17,7 @@ import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.Directory;
 
+import constants.DocumentField;
 import resource.ResourcesUtils;
 
 public class VilboIndexer implements IIndexer {
@@ -75,8 +76,8 @@ public class VilboIndexer implements IIndexer {
 	public Document parseToDocument(String id,String linkWeb,String fileName,String content) {
 		Document document = new Document();
 		document.add(new StringField(DocumentField.ID_FIELD, id, Field.Store.YES));
-		document.add(new StringField(DocumentField.LINK_WEB_FIELD, linkWeb, Field.Store.YES));
-		document.add(new StringField(DocumentField.FILE_NAME_FIELD, fileName, Field.Store.YES));
+		document.add(new TextField(DocumentField.LINK_WEB_FIELD, linkWeb, Field.Store.YES));
+		document.add(new TextField(DocumentField.FILE_NAME_FIELD, fileName, Field.Store.YES));
 		document.add(new TextField(DocumentField.CONTENT_FIELD, content, Field.Store.NO));
 		return document;
 	}
