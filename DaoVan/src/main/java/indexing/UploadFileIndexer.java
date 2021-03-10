@@ -20,9 +20,9 @@ import org.apache.lucene.store.Directory;
 import constants.DocumentField;
 import resource.ResourcesUtils;
 
-public class VilboIndexer implements IIndexer {
-	private static String INDEX_DIR = ResourcesUtils.resourcePath + "/lucene/crawled/Viblo/";
-	private static String HOME_PAGE = "https://viblo.asia/p/";
+public class UploadFileIndexer implements IIndexer {
+	private static String INDEX_DIR = ResourcesUtils.resourcePath + "/lucene/crawled/uploadFile/";
+	private static String HOME_PAGE = "https://itviec.com/blog/";
 	
 	public void indexingByUrl(Directory dir) {
 		StandardAnalyzer analyzer = new StandardAnalyzer();
@@ -42,7 +42,7 @@ public class VilboIndexer implements IIndexer {
 		for (File file : listLink) {
 			
 			String id = UUID.randomUUID().toString();
-			String linkWeb = HOME_PAGE + file.getName().replace(".txt", "");
+			String linkWeb = HOME_PAGE + file.getName();
 			String fileName = file.getName();
 			String fileContent = "";
 			try {
@@ -69,18 +69,17 @@ public class VilboIndexer implements IIndexer {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
-		
 	}
-	
-	public Document parseToDocument(String id,String linkWeb,String fileName,String content) {
+
+	public Document parseToDocument(String id, String linkWeb, String fileName, String content) {
 		Document document = new Document();
 		document.add(new StringField(DocumentField.ID_FIELD, id, Field.Store.YES));
-		document.add(new TextField(DocumentField.LINK_WEB_FIELD, linkWeb, Field.Store.YES));
-		document.add(new TextField(DocumentField.FILE_NAME_FIELD, fileName, Field.Store.YES));
+		document.add(new StringField(DocumentField.LINK_WEB_FIELD, linkWeb, Field.Store.YES));
+		document.add(new StringField(DocumentField.FILE_NAME_FIELD, fileName, Field.Store.YES));
 		document.add(new TextField(DocumentField.CONTENT_FIELD, content, Field.Store.NO));
 		return document;
 	}
+
 	public List<File> getPathOfTextCrawled() {
 		File[] files = new File(INDEX_DIR).listFiles();
 		
@@ -94,6 +93,7 @@ public class VilboIndexer implements IIndexer {
 		
 		return listLink;
 	}
+
 	public String readFile(String path) throws IOException {
 		BufferedReader br = new BufferedReader(new FileReader(path));
 		String result = "";
@@ -114,8 +114,5 @@ public class VilboIndexer implements IIndexer {
 		    br.close();
 		}
 		return result;
-	}
-	public static void main(String[] args) throws IOException {
-		FileTxtIndex fti = new FileTxtIndex();
 	}
 }

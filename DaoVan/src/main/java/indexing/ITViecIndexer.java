@@ -21,7 +21,7 @@ import constants.DocumentField;
 import resource.ResourcesUtils;
 
 public class ITViecIndexer implements IIndexer {
-	private static String INDEX_DIR = ResourcesUtils.resourcePath + "/lucene/crawled/";
+	private static String INDEX_DIR = ResourcesUtils.resourcePath + "/lucene/crawled/ITViec/";
 	private static String HOME_PAGE = "https://itviec.com/blog/";
 	
 	public void indexingByUrl(Directory dir) {
@@ -42,7 +42,7 @@ public class ITViecIndexer implements IIndexer {
 		for (File file : listLink) {
 			
 			String id = UUID.randomUUID().toString();
-			String linkWeb = HOME_PAGE + file.getName();
+			String linkWeb = HOME_PAGE + file.getName().replace(".txt", "");
 			String fileName = file.getName();
 			String fileContent = "";
 			try {
