@@ -1,0 +1,61 @@
+Nội_dung Lập_trình hướng đối_tượng OOP là_gì
+OOP được dùng để làm_gì
+Đối_tượng Object và Lớp Class trong OOP là_gì
+Ưu_điểm của lập_trình hướng đối_tượng OOP 4 đặc_tính cơ_bản của OOP Những ngôn_ngữ OOP phổ_biến nhất Java C++ PHP JavaScript Python OOP viết tắt của Object Oriented Programming – lập_trình hướng đối_tượng là một phương_pháp lập_trình dựa_trên khái_niệm về lớp và đối_tượng
+OOP tập_trung vào các đối_tượng thao_tác hơn là logic để thao_tác chúng giúp code dễ quản_lý tái sử_dụng được và dễ_bảo_trì
+Bất_kỳ developer nào muốn đi trên con_đường lập_trình cũng đều phải_biết về_OOP
+Đọc_bài_viết này để biết OOP là_gì
+Đối_tượng và lớp trong OOP là_gì
+Các đặc_tính cơ_bản của OOP là_gì
+Các ngôn_ngữ OOP phổ_biến và tài_liệu tham_khảo Tham_khảo việc_làm OOP Developer trên ITviec
+Lập_trình hướng đối_tượng OOP là_gì
+OOP được dùng để làm_gì
+OOP viết tắt của Object Oriented Programming – lập_trình hướng đối_tượng là một phương_pháp lập_trình dựa_trên khái_niệm về lớp và đối_tượng
+OOP tập_trung vào các đối_tượng thao_tác hơn là logic để thao_tác chúng
+OOP là nền_tảng của các design pattern hiện_nay
+Đọc thêm Design pattern là_gì
+Vì_sao nên học design pattern
+Mục_tiêu của OOP là tối_ưu việc quản_lý source code giúp tăng khả_năng tái sử_dụng và quan_trọng hơn_hết là giúp tóm gọn các thủ_tục đã biết_trước tính_chất thông_qua việc sử dụng các đối_tượng
+Đối_tượng Object và Lớp Class trong OOP là_gì
+Đối_tượng Object Đối_tượng trong OOP bao_gồm 2 thành_phần chính Thuộc_tính Attribute là những thông_tin đặc_điểm của đối_tượng Phương_thức Method là những hành_vi mà đối_tượng có_thể thực_hiện Để dễ hình_dung ta có một ví_dụ thực_tế về đối_tượng là smartphone
+Đối_tượng này sẽ có Thuộc_tính màu_sắc bộ_nhớ hệ điều hành… Phương_thức gọi_điện chụp_ảnh nhắn_tin ghi âm… Lớp Class Lớp là sự_trừu_tượng_hóa của đối_tượng
+Những đối_tượng có những đặc_tính tương_tự nhau sẽ được tập_hợp thành một lớp
+Lớp cũng sẽ bao_gồm 2 thông_tin là thuộc_tính và phương_thức
+Một đối_tượng sẽ được xem là một thực_thể của lớp
+Tiếp_nối ví_dụ ở phần đối_tượng object phía_trên ta có lớp class smartphone gồm 2 thành_phần Thuộc_tính màu_sắc bộ_nhớ hệ điều hành… Phương_thức gọi_điện chụp_ảnh nhắn_tin ghi âm… Các đối_tượng của lớp này có_thể là iPhone Samsung Oppo Huawei… Ưu_điểm của lập_trình hướng đối_tượng OOP OOP mô_hình hóa những thứ phức_tạp dưới dạng cấu_trúc đơn_giản
+Code OOP có_thể sử_dụng lại giúp tiết_kiệm tài_nguyên
+Giúp sửa lỗi dễ_dàng hơn
+So với việc tìm lỗi ở nhiều vị_trí trong code thì tìm lỗi trong các lớp được cấu_trúc từ trước đơn_giản và ít mất thời_gian hơn
+Có tính bảo_mật cao bảo_vệ thông_tin thông_qua đóng_gói
+Dễ mở_rộng dự_án
+4 đặc_tính cơ_bản của OOP Tính đóng_gói Encapsulation Tính đóng_gói cho_phép che_giấu thông_tin và những tính_chất xử_lý bên_trong của đối_tượng
+Các đối_tượng khác không_thể tác_động trực_tiếp đến dữ_liệu bên_trong và làm thay_đổi trạng_thái của đối_tượng mà bắt_buộc phải thông_qua các phương_thức công_khai do đối_tượng đó cung_cấp
+Tính_chất này giúp tăng tính bảo_mật cho đối_tượng và tránh tình_trạng dữ_liệu bị hư_hỏng ngoài ý_muốn
+Tính kế_thừa Inheritance Đây là tính_chất được sử_dụng khá nhiều
+Tính kế_thừa cho_phép xây_dựng một lớp mới lớp Con kế_thừa và tái sử_dụng các thuộc_tính phương_thức dựa_trên lớp cũ lớp Cha đã có trước_đó
+  Các lớp Con kế_thừa toàn_bộ thành_phần của lớp Cha và không_cần phải định_nghĩa lại
+Lớp Con có_thể mở_rộng các thành_phần kế_thừa hoặc bổ_sung những thành_phần mới
+Ví dụ  Lớp Cha là smartphone có các thuộc_tính màu_sắc bộ_nhớ hệ điều hành… Các lớp Con là iPhone Samsung Oppo cũng có các thuộc_tính màu_sắc bộ_nhớ hệ điều hành… Tính đa_hình Polymorphism Tính đa_hình trong lập_trình OOP cho_phép các đối_tượng khác_nhau thực_thi chức_năng giống_nhau theo những cách khác_nhau
+Ví dụ  Ở lớp smartphone mỗi_một dòng máy đều kế_thừa các thành_phần của lớp cha nhưng iPhone chạy trên hệ_điều_hành iOS còn Samsung lại chạy trên hệ_điều_hành Android
+Chó và mèo cùng nghe mệnh_lệnh “kêu đi” từ người_chủ
+Chó sẽ “gâu gâu” còn mèo lại kêu “meo meo”
+Tính trừu_tượng Abstraction Tính trừu_tượng giúp loại_bỏ những thứ phức_tạp không cần_thiết của đối_tượng và chỉ tập_trung vào những gì cốt_lõi quan_trọng
+Ví_dụ Quản_lý nhân_viên thì chỉ cần quan_tâm đến những thông_tin như Họ tên Ngày_sinh Giới_tính … Chứ không cần phải quản_lý thêm thông_tin về Chiều_cao Cân_nặng Sở_thích Màu_da … Những ngôn_ngữ OOP phổ_biến nhất Java Java là ngôn_ngữ lập_trình hướng đối_tượng OOP đa mục_đích và độc_lập nền_tảng
+Thay_vì biên_dịch_mã nguồn thành mã máy trên nền_tảng cụ_thể code Java được biên_dịch thành bytecode – một định dạng trung_gian
+Bytecode sau_đó sẽ được chạy bởi môi_trường thực_thi runtime environment
+Code Java “viết một_lần chạy mọi nơi” nên khá lý_tưởng cho những người mới tìm_hiểu
+Tham_khảo 12 tài_liệu học lập_trình Java chọn_lọc C++ Là một ngôn_ngữ lập_trình hướng đối_tượng được phát_triển bởi Bjarne Stroustrup nhưng C++ mang cả 2 phong_cách lập_trình hướng cấu_trúc giống C và có thêm phong_cách hướng đối_tượng
+Nếu đã quen_với lập_trình hướng cấu_trúc trước_đó thì việc học C++ không_phải là điều quá khó_khăn
+Tham_khảo Tài_liệu học C++ hoàn_toàn miễn_phí PHP PHP là ngôn_ngữ lập_trình đa mục_đích được rất nhiều Developer sử_dụng
+Đây là ngôn_ngữ kịch_bản mã nguồn mở chạy ở phía server và được dùng để tạo_ra các ứng_dụng web
+Tham_khảo 10+ sách_lập_trình PHP hay nhất mọi cấp độ JavaScript JavaScript là ngôn_ngữ lập_trình được sử_dụng trong việc xây_dựng các website có tính tương_tác cao với mức_độ phổ_biến được xếp_hạng bậc_nhất
+Học JavaScript khá dễ_dàng và đặc_biệt phù_hợp cho những developer mới bắt_đầu học lập_trình
+Tham_khảo 20+ tài_liệu học JavaScript hay nhất hiện_nay Python Python là ngôn_ngữ lập_trình hướng đối_tượng bậc cao dùng để phát_triển website và nhiều ứng_dụng khác_nhau
+Python được tạo_ra bởi Guido van Rossum và được phát_triển trong một dự_án mã mở open source
+Với cú_pháp cực kì đơn_giản và thanh_lịch Python là lựa_chọn hoàn_hảo cho những_ai lần_đầu_tiên học lập_trình
+  Tham_khảo 20 tài_liệu lập_trình Python từ cơ_bản đến nâng_cao Bạn thấy bài_viết hay và cần_thiết với nhiều người
+Đừng ngại nhấn nút Share bên_dưới nhé
+Và đừng quên tham_khảo việc_làm OOP Developer trên ITviec
+Related posts Top các tech blogger nổi_tiếng thế giới bạn cần biết updated 2020 GitHub là_gì
+Ba lợi_ích sự_nghiệp to_lớn GitHub mang đến cho Developer
+Top 10 ngôn_ngữ lập_trình nên học trong năm 2020 30+ tài_liệu lập_trình game “chất” nhất Chia_sẻ bài_viết

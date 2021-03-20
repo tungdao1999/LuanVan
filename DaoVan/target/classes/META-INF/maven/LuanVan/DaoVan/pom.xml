@@ -7,6 +7,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
 		<lucene.version>6.6.0</lucene.version>
+		<nd4j.version>0.7.1</nd4j.version>
+		<dl4j.version>0.7.1</dl4j.version>
+		<poi.version>3.10-FINAL</poi.version>
 	</properties>
 
 	<dependencies>
@@ -47,6 +50,22 @@
 			<groupId>org.apache.lucene</groupId>
 			<artifactId>lucene-queryparser</artifactId>
 			<version>${lucene.version}</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.deeplearning4j</groupId>
+			<artifactId>deeplearning4j-ui-model</artifactId>
+			<version>${dl4j.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.deeplearning4j</groupId>
+			<artifactId>deeplearning4j-nlp</artifactId>
+			<version>${dl4j.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.nd4j</groupId>
+			<artifactId>nd4j-native</artifactId>
+			<version>${nd4j.version}</version>
 		</dependency>
 
 

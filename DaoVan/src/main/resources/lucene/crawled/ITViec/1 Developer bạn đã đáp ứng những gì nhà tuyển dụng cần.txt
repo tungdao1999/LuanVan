@@ -1,0 +1,131 @@
+Nội_dung I
+CV và portfolio trực_tuyến II
+Lựa_chọn con_đường cho chính mình III
+Full-stack hay chuyên môn hóa IV
+Tìm_kiếm một sự_nghiệp không_phải một vị_trí V
+Hãy khiến bản_thân đáng chú_ý VI
+Phỏng_vấn lập_trình viên_VII
+Giờ là lúc bạn ứng_tuyển thành công  Chỉ một cái click developer có_thể tìm thấy hàng triệu lời_khuyên trên internet về bí quyết ứng tuyển thành_công
+Tuy nhiên bao nhiêu trong_số đó thực sự đáp ứng đúng những gì nhà tuyển_dụng cần
+ITviec xin giới_thiệu bài_viết của tác_giả Jeff Smith tại website SitePoint
+Với những chia_sẻ thực_tế từ các chuyên_gia tuyển_dụng của Atlassian có_thể giúp bạn Tạo một hồ_sơ cá_nhân ấn_tượng Chuẩn_bị hành_trang hợp_lí cho quá_trình ứng_tuyển Vượt_qua vòng phỏng_vấn một_cách tự_tin nhất Xem việc_làm Developer tại ITviec Cách_đây không lâu tôi có dịp phỏng_vấn Matt Langan và Christian Macolino hai Senior Tech Recruiters tại Atlassian
+Mục đích là để có được cái nhìn chân_thực nhất về quy_trình tuyển_dụng lập_trình viên từ góc_độ của những chuyên_gia tìm_kiếm tài_năng của một công_ty phần_mềm 3
+3 tỉ USD
+I
+CV và portfolio trực_tuyến Hãy bắt_đầu với CVresume sơ_yếu lí lịch và portfolio bộ sưu_tập dự_án cá_nhân
+Thông_qua những tài_liệu này chúng_ta có_thể giới_thiệu tất_cả điểm nổi_bật của bản_thân cho bất kì ai tham_gia vào quy_trình tuyển_dụng
+Thực_tế developer thường đầu_tư nhiều thời_gian cho phần này hơn việc tìm_kiếm công_việc để ứng_tuyển
+Digital hay truyền_thống
+Không phải lúc nào portfolio dưới dạng digital VD website cá_nhân CV trực tuyến cũng được đánh_giá cao hơn một hồ_sơ soạn theo cách truyền_thống
+Thực_tế đối_với những vị_trí không liên_quan đến công_việc thiết_kế nhà tuyển_dụng chỉ quan_tâm làm_sao lấy_được đúng thông_tin họ cần
+Tuy_nhiên ngày nay cách dễ_dàng nhất để lấy các thông_tin trên là dựa vào một resume hay portfolio dưới dạng digital
+Nhắc_đến digital resume Christian cho_biết Bí_quyết để tạo một hồ_sơ digital ấn tượng là đảm_bảo bạn đã liệt_kê đầy_đủ và cập_nhật thường_xuyên những thông_tin phù_hợp về bản_thân để những gì bạn từng làm luôn có_thể tìm_kiếm được và nổi_bật hẳn so với các ứng_viên khác
+Chia_sẻ này không_chỉ áp_dụng cho các doanh_nghiệp lớn như Atlassian mà còn cả với các công_ty nhỏ
+Thậm_chí là những công_ty không hoạt_động trong lĩnh_vực công_nghệ
+Đối_với những công_ty nhỏ như_vậy portfolio trực_tuyến đôi_khi còn đóng_vai trò quan trọng hơn
+Do không có nhiều chuyên_môn hay khả_năng để đánh_giá năng_lực thực_sự của bạn các công_ty này thường lựa_chọn giải_pháp phân_tích những thành_tích bạn đạt được trong quá_khứ
+Và họ làm_việc này thậm_chí còn kỹ hơn các công_ty công_nghệ lớn
+Những bài_viết hay giúp bạn “tân trang” lại CV của mình 3 Cách_tạo ấn_tượng cho CV 5 kẻ_thù của CV Công_thức bí_mật của Google cho 1 CV thần_thánh Có nên ghi mức_lương mong_muốn trong CV
+Tôi tìm_kiếm điều này ở một CV II
+Lựa_chọn con_đường cho chính mình Về việc developer nên học và bắt_đầu sự_nghiệp của mình như_thế_nào Matt có lời_khuyên sau Bạn đã từng nghe đến những tech group này ngay tại Việt_Nam
+Hãy thực_hiện những side project những sở_thích của bạn
+Hãy bắt_đầu 1 blog thảo_luận trên các diễn_đàn gia_nhập vào cộng_đồng Stack Overflow hay Github đặt câu_hỏi đưa_ra câu trả_lời thử_sức với các cuộc_thi lập trình đến_dự những buổi tech meetup
+Trong công_việc hiện_tại hãy thành_thạo những gì bạn đang làm yêu_cầu được giao thêm việc và giúp_đỡ những người_khác phát_triển – đặc_biệt là những người ít kinh_nghiệm hơn_bạn
+Việc không ngừng học_hỏi cũng rất quan_trọng
+Christian chia_sẻ Năm_năm đầu_tiên trong sự_nghiệp của bạn thực_sự mang tính quyết_định
+Ở một vị_trí mới hay tham_gia vào một mảng mới bạn phải giống như một miếng mút vậy luôn sẵn_sàng tiếp_thu tò_mò đặt câu_hỏi
+Nhưng sau_khi đạt mốc 4 hay 5 năm rồi bạn đã biết nhiều hơn mọi_người sẽ tìm đến bạn để xin chỉ_dẫn cơ_hội để bạn_học hỏi sẽ ít dần_đi
+Do_đó nếu bạn_học phải những thói_quen hay phương_pháp không tốt trong giai_đoạn đầu của sự_nghiệp chúng sẽ theo bạn rất_lâu sau_này
+Tự_đánh_giá bản_thân Với những_ai đã vượt_qua khỏi mốc_đó có_lẽ bây_giờ là lúc để tự_đánh_giá lại bản_thân_mình
+Hãy dành một_ít thời_gian cân_nhắc xem bạn đang ở đâu trên con_đường sự_nghiệp của mình
+Bạn có còn đang học_hỏi từ những đồng_nghiệp người_dùng từ những dự_án của mình không
+Có đang tự_cải_thiện và phát_triển bản_thân thông_qua những side project cá_nhân không
+Bạn có còn đam_mê với công_việc của mình không
+Nếu bạn vẫn còn khát_khao học_hỏi hãy xem thử 100+ resources ITviec tổng_hợp riêng cho developer 11 Sách_lập trình kinh_điển cho Developer “chất” Lợi_ích của việc dùng Git 10 Website hỏi_đáp hay cho Developer 18 Website học lập_trình hay Những IT Blogger Việt bạn không_thể bỏ_qua Tìm_kiếm đam_mê Đối_với rất nhiều công_ty đam_mê lập_trình là một yếu_tố cực kì quan_trọng
+Đặc_biệt với những vị_trí ít kinh_nghiệm junior yếu_tố ấy nhiều lúc còn đóng_vai trò lớn hơn một bằng_cấp hay kiến_thức cụ_thể_nào_đó
+Tuy_nhiên rất nhiều trong_số chúng_ta mải chú ý vào việc giữ_lấy công_việc cho bản thân mà quên_mất thuở ban_đầu điều_gì đã khiến mình hứng_thú với lập_trình
+Chúng_ta không nhận_ra rằng đôi_khi chính niềm đam_mê và động_lực đưa ta đến vị_trí hiện_tại mới là thứ mà nhà tuyển_dụng đang tìm_kiếm
+Thay_đổi Nếu hiện_tại bạn đang làm một lập_trình viên mà bạn không_còn học_hỏi và không_còn đam_mê với sự_nghiệp của mình nữa đã đến_lúc ban nên cân_nhắc xem mình cần phải làm_gì để giải_cứu bản_thân khỏi tình_thế_đó và thay_đổi mọi_thứ
+Có_thể chỉ đơn_giản là thay_đổi thái_độ của bạn đối_với công_việc hay_là thử_sức với những task mới ở công_ty
+Hoặc đó cũng có_thể là những thay_đổi lớn như đổi_vị_trí việc_làm đổi_công_ty thậm_chí là đổi_nghề
+ Đừng bằng_lòng với thực tại chỉ vì làm vậy dễ hơn là thay_đổi
+III
+Full-stack hay chuyên_môn_hóa_Rất nhiều developer gặp khó_khăn với lựa_chọn này dù là mới vào nghề hay đã có kinh_nghiệm lâu_năm
+Trở thành chuyên_gia của 1 ngôn_ngữ hay trở thành 1 lập_trình viên full-stack bên nào tốt_hơn
+Thành_thạo một mảng nào_đó Mục_tiêu cho những người_mới bắt_đầu là tiếp_xúc với càng nhiều thứ càng tốt sau_đó bắt_đầu đi_sâu vào một mảng và trở_thành chuyên_gia trong mảng_đó
+Dù vậy trong thời_gian rảnh của mình hãy tiếp_tục nghiên_cứu những vấn_đề khác
+Sau_khi cảm_thấy đã vững về mảng hiện_tại rồi bạn có_thể bắt_đầu nghĩ_đến chuyện mở_rộng kĩ_năng nghề_nghiệp của mình
+Tuy_nhiên cũng cần phải đa_năng Những nhà tuyển_dụng tìm_kiếm lập_trình viên có kinh_nghiệm senior xác_nhận rằng việc có một nền_tảng kiến_thức rộng cũng rất cần_thiết
+Hãy thử_sức với các dự_án ngôn_ngữ và vai_trò khác_nhau cả ở công_ty lẫn những side projects của bạn để giúp bản_thân bạn trở_nên đa_năng hơn và làm phong_phú thêm kĩ_năng của mình
+Matt cho_biết Chúng_tôi muốn tuyển những người có_thể hiểu được công_nghệ từ khâu ý_tưởng cho_đến lúc thực_thi
+“Kiến thức nền_tảng và niềm đam_mê mới là cái cốt_lõi để bạn tiến_xa hơn trong công việc…” – anh Nguyễn_Xuân_Huy – Tech Architect của Cybozu Vietnam chia_sẻ
+Christian cũng nhận_xét tương_tự về lợi_ích của full-stack Ngôn_ngữ hay nền_tảng chỉ đơn_giản là những công_cụ để giải_quyết vấn_đề của doanh_nghiệp
+Công_nghệ đang phát_triển nhanh đến mức những gì được xem là hiện_đại và phù_hợp trong hôm_nay có_thể trở_nên thừa_thãi vào ngày_mai
+Chúng_tôi cần những người luôn muốn học_hỏi và phát_triển không ngừng để kịp với tốc_độ thay_đổi của công_nghệ
+Christian bổ_sung thêm rằng thay_vì chỉ tập_trung vào một lĩnh_vực một kĩ_sư phần_mềm còn cần thêm nhiều tố chất khác như Khả_năng lập_trình căn_bản Hiểu_biết vững_vàng về kiến_trúc hệ_thống Kiến_thức sâu và rộng về lập_trình phần_mềm Khả_năng cân_bằng giữa những mâu thuẫn và thích_ứng để giải quyết công việc Đam_mê Kĩ_năng giao_tiếp Khả_năng hoàn_thành đúng và kịp yêu_cầu
+Lời_khuyên cho các developer là hãy nghĩ về việc xây_dựng kĩ năng của mình như hình một chữ T
+Có_nghĩa là lựa_chọn 1 lĩnh_vực để đào_sâu vào nhưng đừng giới_hạn bản_thân trong mỗi lĩnh_vực_đó
+Hãy tiếp_tục học_hỏi và mở_rộng kiến_thức của mình vì có_thể kiến_thức đó sẽ trở_thành chuyên_môn của bạn trong công_việc tiếp_theo
+Anh Phạm_Huy_Hoàng – chủ blog “Tôi đi code dạo” chia_sẻ 3 lợi_ích cho sự_nghiệp khi làm full-stack developer  IV
+Tìm_kiếm một sự_nghiệp không_phải một vị_trí Atlassian cũng_như nhiều công_ty khác tuyển một người có_tài đơn_giản chỉ vì muốn sở_hữu tài_năng của anh_ta chứ không_phải để tìm người lấp vào một vị_trí còn trống trong team
+Do_đó đôi khi quan trọng nhất là đặt được chân vào công_ty còn việc để bạn tập_trung vào một vị_trí hay lĩnh_vực nào sẽ do công_ty tiến_hành sau khi tuyển_dụng kết_thúc
+Điều này khiến việc cân_nhắc kĩ mục_tiêu của bạn lúc lựa_chọn công_ty trở_nên quan_trọng hơn bao_giờ hết
+Đừng chỉ nộp đơn vì công_việc
+Hãy nghiên_cứu công_ty mà bạn chọn
+Tìm_hiểu về nhân_viên nhân_sự và tuyển_dụng của họ tìm_cách để người_ta biết tới mình
+Hãy tìm cho mình một môi trường cho phép bạn làm_việc chung với các developer tài_năng
+ Từ đó bạn sẽ dễ_dàng học_hỏi từ những đàn_anh đồng_nghiệp cùng trang_lứa và thậm_chí là cả những đàn_em sau_này
+V
+Hãy khiến bản_thân đáng chú_ý Khi tôi hỏi Matt và Christian rằng trong_suốt thời_gian tìm_kiếm developer cho Atlassian họ có câu_chuyện thú_vị nào về những ứng_viên không
+Hoặc là ứng_tuyển thành_công ngay_lập_tức hoặc là bị từ_chối ngay_lập_tức cả_hai đều không nghĩ_ra được gì
+Nguyên_nhân chính là_vì Atlassian cũng_như nhiều công_ty công_nghệ lớn khác_thường theo_đuổi những tài_năng trong tầm ngắm sẵn của họ hơn là tự chờ những ứng_viên tìm đến với mình
+Do_đó bài_học ở_đây là Hãy khiến bản_thân đáng chú_ý
+Không Lập_Trình Khi Rảnh_Rỗi Có Biến Bạn Thành Developer Tồi
+Các cách để gây chú_ý Viết blog
+Đóng_góp vào các mã nguồn mở
+Sử_dụng mạng xã_hội
+Hãy tạo cho mình một sự_hiện_diện trên internet
+Tương_tác với các bạn_bè của mình trong cộng_đồng developer như GitHub các diễn_đàn của SitePoint Stack Overflow và nhiều cộng_đồng khác
+Cung_cấp đầy_đủ thông_tin trên hồ_sơ trực_tuyến của mình Khi một người giới_hạn lại những thông_tin mà anh_ta cung_cấp những nhà tuyển_dụng như Matt và Christian cũng sẽ chẳng thể_nào tiếp_cận anh_ta được nữa
+Nhà tuyển_dụng chỉ có_thể ra quyết_định liên_lạc với ai dựa_trên những thông_tin mà họ có_thể tìm được
+VI
+Phỏng_vấn lập_trình viên Dưới đây là 6 điểm cần lưu_ý mà Matt và Christian chia_sẻ từ những buổi phỏng_vấn thực_tế của họ 1
+Nghiên_cứu công_ty Hãy đọc qua website và blog của công_ty
+Xem các video cảm_nhận văn_hóa của họ và tìm_hiểu tin_tức về công_ty cũng_như các dự_án mà họ đang tiến_hành
+Nắm_vững thông_tin cho_thấy bạn thực_sự có_hứng_thú
+Đồng_thời giúp bạn chuẩn_bị tốt_hơn để có_thể thảo_luận về công_ty một_cách thông_minh và đặt những câu_hỏi phù_hợp
+2
+Kiểm_tra thông_tin người phỏng_vấn Hãy xem qua LinkedIn và những nguồn_thông_tin khác để hiểu hơn về những người sẽ gặp và phỏng_vấn bạn
+3
+Chuẩn_bị những kĩ_năng cần_thiết Bạn cần phải biết mình có_thể sẽ được test những kĩ năng_nào
+Nếu bạn không_biết hãy tìm_cách để điều_tra ra
+Sau_đó hãy chuẩn_bị thật vững những kĩ_năng này cho dù bạn có tự_tin đến mức nào đi chăng_nữa
+Đừng để một câu_hỏi đơn_giản về code phá_hỏng mất cơ_hội của bạn trong_lúc hồi_hộp
+4
+Luyện_tập Luyện_tập pair programming online với bạn_bè hay thông_qua dịch_vụ
+Nhiều vị_trí developer trong các công_ty phần_mềm hoặc các tổ_chức lớn yêu_cầu bạn phải vượt_qua một bài test về pair programming
+Hoặc chí_ít là quan_sát xem cách bạn code như_thế_nào
+Nếu không có_thể họ sẽ áp_dụng pair programming cho các developers của mình trong trường_hợp bạn được tuyển
+Dù_sao đi nữa nếu bạn không quen_với pair programming hãy tập làm_quen với nó dù chỉ_là một_ít
+5
+Hiểu_rõ bản_thân_mình Hãy nhớ_lại những tình_huống ứng_xử những câu_chuyện thất_bại và thành_công mà bạn đã từng_trải_qua trong học_tập cũng_như làm_việc
+Hãy hiểu_rõ con_đường mà bạn đã đi_qua điểm mạnh và điểm_yếu của bạn với tư_cách là một developer hay_là một thành_viên trong team
+6
+Bạn cũng có_quyền đặt câu_hỏi Nên nhớ rằng buổi phỏng_vấn không_chỉ dành cho nhà tuyển_dụng để quyết_định xem họ có cần bạn hay không
+Đó cũng là cơ_hội để bạn quyết_định xem liệu bạn có cần họ
+Khi một người_phỏng_vấn hỏi bạn có câu_hỏi gì không bạn nên đặt câu_hỏi
+Hãy hỏi về định_hướng phát_triển của những dự_án mà có_thể bạn sẽ tham_gia hoặc hỏi về mục_tiêu của công_ty
+Hoặc giả hỏi về vai_trò của bạn trong sự_phát_triển của công_ty như_thế_nào
+Nếu bạn có bất kì ý_tưởng nào cho những dự_án hay muốn bổ_sung thêm điều_gì vào dịch_vụ của họ hãy cho họ_biết
+Hãy là một người thú_vị và đồng_thời thể_hiện mình có_hứng_thú với công_ty
+Đây vừa là cơ_hội cho bạn tìm_hiểu về họ cũng_như là cơ_hội cho họ hiểu_rõ hơn về_bạn
+Download ngay 11 mẫu CV IT “chất” VII
+Giờ là lúc bạn ứng_tuyển thành công  Điều quan_trọng là_phải nhớ rằng phần_lớn những lời_khuyên trong bài_viết này phụ_thuộc hoàn_toàn vào_bạn
+Nếu bạn muốn một vị_trí bạn phải đấu_tranh vì nó
+Bạn có_thể sẽ phải mất nhiều thời_gian và công_sức để chuẩn_bị đầy_đủ những hành_trang liệt_kê ở trên
+ Nhưng đến cuối_cùng tất_cả nỗ_lực bạn bỏ_ra đều xứng_đáng cả
+– Dịch và rút_gọn từ bài_viết của tác_giả Jeff Smith – SitePoint
+You can read English version here
+Đừng quên tham_khảo hàng trăm việc_làm Developer tại ITviec
+Related posts 7 tâm sự Dev thực_sự quan_tâm khi tìm_việc nhưng không nói_ra Phạm Huy Hoàng “Blog cá_nhân sẽ giúp bạn được nhà tuyển_dụng đánh_giá cao hơn” Có nên ghi mức_lương mong_muốn trong CV
+CV là gì và 5 lỗi viết CV thường gặp cần phải bỏ ngay Chia_sẻ bài_viết

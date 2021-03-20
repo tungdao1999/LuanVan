@@ -27,6 +27,16 @@ public class FileSearcher {
 			e.printStackTrace();
 		}
 	}
+	public FileSearcher(String dirPath) {
+		Directory dir = DirectoryInitilizer.createFSDirectory(dirPath);
+		try {
+			this.searcher = createSearcher(dir);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
 
 	public IndexSearcher createSearcher(Directory dir) throws IOException {
 		IndexReader reader = DirectoryReader.open(dir);
@@ -70,6 +80,15 @@ public class FileSearcher {
 
 	public void setSearcher(IndexSearcher searcher) {
 		this.searcher = searcher;
+	}
+	public boolean checkExistedLink(String link) throws Exception {
+		TopDocs hits = searchByWeb(link, 1);
+		if(hits.totalHits == 0) {
+			return false;
+		}
+		else {
+			return true;
+		}
 	}
 
 }

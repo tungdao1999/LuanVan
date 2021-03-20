@@ -1,0 +1,72 @@
+Nội_dung Cover Letter là_gì
+Thế_nào là một Cover Letter chuyên_nghiệp
+Cover Letter hay Thư xin_việc là thư bạn gửi đến nhà tuyển_dụng để giới_thiệu sơ_bộ về bản_thân các thế_mạnh cũng_như kinh_nghiệm làm_việc liên_quan đến vị_trí ứng tuyển; đồng_thời thể_hiện niềm đam_mê và nguyện_vọng được cống_hiến cho công_ty
+Chất_lượng của Cover Letter là yếu_tố khiến nhà tuyển_dụng cân_nhắc có nên tiếp_tục xem CV hồ_sơ xin_việc của bạn hay không
+Thông_thường họ chỉ mất khoảng 10-15s để đọc Cover Letter và đưa_ra quyết_định
+Tuy_nhiên Cover Letter của bạn có_lẽ là cực_kỳ tệ_hại
+Bài_viết này sẽ cho bạn biết Cover Letter là_gì
+Cover Letter của bạn đã tốt hay chưa
+Cách_viết một Cover Letter chuyên_nghiệp để nhận_được nhiều cuộc phỏng_vấn hơn Những mẫu CV IT được nhà tuyển_dụng yêu_thích Xem thêm việc_làm Developer trên ITviec Cover Letter là_gì
+Cover Letter là thư bạn viết khi bạn gửi CV cho ITviec
+Đó là thứ đầu_tiên mà nhà tuyển_dụng xem
+Nó phải thể_hiện cho nhà tuyển_dụng thấy bạn tuyệt_vời như_thế_nào trước_khi họ bắt_đầu đọc CV của bạn
+Tải ngay 10+ mẫu CV chuyên_nghiệp cho nhiều vị_trí ngành_IT Chris – CEO của ITviec chia_sẻ rằng anh đã đọc hơn 6000 Cover Letter gửi đến ITviec
+70 trong_số đó cực_kỳ tệ_hại
+Tại_sao
+Bởi_vì đa_số Cover Letter không gây ấn_tượng với nhà tuyển_dụng
+Chúng không thuyết_phục được nhà tuyển_dụng rằng bạn là ứng_cử_viên phù_hợp cho công_việc
+Một_số còn chỉ ra rằng bạn KHÔNG phù_hợp
+Thế_nào là một Cover Letter chuyên_nghiệp
+Một Cover Letter tốt sẽ tóm_tắt nhanh_chóng tại_sao nhà tuyển_dụng nên chọn_bạn
+Nó định_hình CV và khiến nhà tuyển_dụng dễ_dàng hiểu khả_năng của bạn hơn
+Đây là hai mẫu Cover Letter đã nộp cho ITviec ứng_tuyển vị_trí Android Developer Mẫu A Dear MrMs HR
+My name is Thanh
+I’m writing to you because I want to apply for Android developer in your company
+Please see my CV and let me know if I fit with your jobs
+Thanks and Best Regards
+Mẫu B Have 3 android apps and 2 android game using cocos2d-x in Google Play
+Knowledge OOP design pattern singleton strategy Have experience using SVN
+Với vị_thế một nhà tuyển_dụng bạn muốn đọc CV nào trước
+Bạn sẽ chọn Cover Letter B phải không nào
+Hãy phân_tích từng_cái
+Cover Letter A có rất nhiều thông_tin mà những nhà tuyển_dụng không quan_tâm
+“Dear MrMs” hoặc “My name is…” và “I’m writing to you because I want to apply…” và “Please see my CV…” không có nghĩa gì cả
+Vậy những điều nhà tuyển_dụng quan_tâm ở một Cover Letter là_gì
+Cover Letter B đi_thẳng vào vấn_đề
+Nó cho_biết rõ_ràng vì_sao ứng_viên phù_hợp với công_việc
+Nó giúp nhà tuyển_dụng biết rằng ứng_viên đó đã làm ra nhiều ứng_dụng Android
+B còn kể_ra vài kỹ_năng cụ_thể
+Thật đơn_giản phải không nào
+Cover Letter của bạn trên ITviec Cùng_xem thêm 2 Cover Letter ứng_tuyển cho vị_trí Developer ở một công_ty game
+Mẫu A I have one year experience working as a Game Developer at XX Game Studio in Vietnam
+My responsibility is using C and Unity3D engine to develop a card game
+I am proficient in CC++C programming as well as using Unity3D game engine to create game
+Mẫu B Seeking an opportunity to work as a game software engineer to obtain and secure position that will enable me to use my skills as well as my ability to work well with people
+I am quick learner and work well under pressure
+I want to work in suitable environment that would challenge my technical skills and give me direction
+In the future I expect to become a expert programmer
+Bạn muốn phỏng_vấn ứng_viên nào trước
+Có_phải là người đã gửi mẫu A
+Giống như viết một đoạn code tốt mẫu A ngắn_gọn và hiệu_quả
+Nó cho_thấy ngay rằng ứng_viên có những kỹ_năng cần_thiết cho công_việc
+Mẫu B đầy những thông_tin vô_nghĩa
+Nó không giúp gì cho ứng_viên trong việc thuyết_phục nhà tuyển_dụng
+Cùng_nhìn thêm hai mẫu Cover Letter nữa ứng_tuyển cho vị_trí Android Developer
+Mẫu A 1 year industry experience in Android development
+Expertise includes • Android application development • Object-oriented programming design patterns • NoSQL technology with CouchBase Server
+• Web service integration
+• Working experience in XML
+Mẫu B See my CV
+B là một người lười_biếng và thậm_chí ngạo_mạn
+A là người có tổ_chức kỹ_năng tốt và giao_tiếp tốt
+Bạn sẽ muốn phỏng_vấn ai hơn
+Cover Letter là cánh_cửa đầu_tiên để bạn gây ấn_tượng với nhà tuyển_dụng
+Đừng làm_hỏng cơ_hội này
+Cho nhà tuyển_dụng thấy những kỹ_năng của bạn để nhận_được nhiều cơ_hội phỏng_vấn hơn
+Bạn có_thể tham_khảo và sử_dụng ngay một số mẫu Cover Letter ấn_tượng ngay tại_đây
+Khi đã tự_tin với kỹ_năng viết Cover Letter của mình và chuẩn_bị một CV xin_việc cực “ngầu” thì bạn còn chần_chừ gì mà_không tìm cơ_hội việc_làm “chất” hơn tại ITviec
+Tham_khảo thêm 5 kẻ_thù của CV dễ_khiến bạn đánh_mất cơ_hội phỏng_vấn Bạn nghĩ rằng những chia_sẻ này sẽ giúp_ích cho bạn_bè hoặc đồng_nghiệp
+Đừng quên nhấn nút Share bên_dưới nhé
+Và đừng quên xem ngay hàng trăm việc_làm Developer chất tại ITviec
+Related posts Có nên ghi mức_lương mong_muốn trong CV
+CV là gì và 5 lỗi viết CV thường gặp cần phải bỏ ngay Cách_viết CV xin_việc đơn_giản mà chuẩn nhất cho lập_trình viên Phỏng_vấn xin_việc không_còn là “nỗi ám ảnh” nhờ vào bộ bí_quyết sau_đây Chia_sẻ bài_viết

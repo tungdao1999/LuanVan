@@ -1,0 +1,110 @@
+Nội_dung React Native là_gì
+Học React Native để làm_gì
+Các ưu_điểm của React Native là_gì
+Các nhược_điểm của React Native là_gì
+CÁC TÀI_LIỆU HỌC REACT NATIVE HAY NHẤT React Native là một framework được tạo bởi Facebook cho_phép developer xây_dựng các ứng_dụng di_động trên cả Android và iOS chỉ với một ngôn_ngữ lập_trình duy_nhất JavaScript
+  Học React Native vừa nhanh_chóng vừa mang lại cho bạn nhiều cơ_hội chuyển_đổi nghề_nghiệp cũng_như một lức lương hấp_dẫn
+Bài_viết này sẽ cung_cấp cho bạn những tài_liệu React Native hay nhất giúp bạn Hiểu React Native là gì và các ưu nhược_điểm của React Native Tự_học React Native từ cơ_bản đến nâng_cao Cập_nhật các kiến_thức React Native từ chuyên_gia Xem thêm việc_làm React Native trên ITviec
+React Native là_gì
+Học React Native để làm_gì
+React Native là_gì
+React Native là một framework được tạo bởi Facebook cho_phép developer xây_dựng các ứng_dụng di_động trên cả Android và iOS chỉ với một ngôn_ngữ lập_trình duy_nhất JavaScript
+  Sự_ra_đời của React Native là lời giải cho bài_toán liên_quan đến hiệu_năng Hybrid và sự_phức_tạp khi phải viết nhiều loại ngôn_ngữ native cho từng nền_tảng di_động trước_đó
+Học React Native để làm_gì
+Học React Native sẽ giúp bạn tiết_kiệm được nhiều thời_gian và công_sức nếu muốn xây_dựng một ứng_dụng đa nền_tảng multi-platform
+Chỉ cần biết JavaScript không_cần phải học thêm bất_cứ ngôn_ngữ nào khác bạn đã có_thể chiến_đấu trên mọi mặt_trận
+Ưu và nhược_điểm của React Native Các ưu_điểm của React Native là_gì
+Sử_dụng ít native code hơn Thời_gian phát_triển ứng_dụng được rút_ngắn Tiết_kiệm chi_phí nhân_lực cho doanh_nghiệp Khả_năng tái sử_dụng code cao 75 – 80 Trải nghiệm người_dùng rất tốt Không_cần nhiều kiến_thức nền Các nhược_điểm của React Native là_gì
+Chỉ hỗ_trợ 2 nền_tảng Android và iOS Hiệu_năng sẽ thấp hơn với ứng_dụng thuần native code Bảo_mật không cao Có một số thư_viện cần trả phí Khả_năng tùy_biến không thực_sự tốt với một_vài module Lý_do nên học React Native là_gì
+Đã biết Javascript thì học React Native cực nhanh Chỉ cần có kiến_thức về JavaScript hoặc đã từng học qua ReactJS thì việc học React Native sẽ trở_nên rất dễ_dàng
+Bạn có_thể nhanh_chóng code React Native mà không gặp bất_cứ trở_ngại nào
+Không tốn thời_gian để Recompiling Nếu như trước_đây mỗi khi bạn thay_đổi String trong lập_trình Android ứng_dụng sẽ phải compile lại từ_đầu thì giờ đây trong React Native mỗi thay_đổi của bạn sẽ được được tự_động cập_nhật mà không cần phải recompile
+Cộng_đồng người_dùng lớn_mạnh Mức_độ sử_dụng phổ_biến các lập_trình viên_hoạt động_năng_nổ trên các diễn_đàn thảo_luận và được Facebook chống_lưng
+Đó là những lý_do bạn sẽ không cô_đơn khi học React Native có cả một cộng_đồng hùng_mạnh luôn ở phía_sau hỗ_trợ_bạn
+Mở_ra nhiều cơ_hội nghề_nghiệp mới Là một Front-end Developer kinh_nghiệm làm_việc với JavaScript thực_sự là lợi_thế khi bạn hoàn_toàn có_thể lĩnh_hội React Native chỉ trong_vòng “vài nốt nhạc”
+Một_khi học React Native bạn sẽ tiến_xa hơn trên con_đường chinh_phục mảng phát_triển các ứng_dụng di_động
+Là một Back-end Developer bạn nên có kiến_thức cơ_bản về JavaScript
+Có như_vậy thì việc học React Native mới không gặp trở_ngại và khiến bạn nản_lòng
+Với việc chỉ sử_dụng JavaScript React Native mở_ra cơ_hội mới
+Bạn hoàn_toàn có_thể chuyển_hướng từ lập_trình web sang lập_trình di_động nếu cảm_thấy yêu_thích
+Trường hợp bạn đang là một Mobile Developer thì không_có gì phải bàn_cãi nữa React Native chính là một công_cụ giúp cho công_việc của bạn như “hổ mọc thêm cánh”
+CÁC TÀI_LIỆU HỌC REACT NATIVE HAY NHẤT I
+SÁCH HỌC REACT NATIVE CƠ_BẢN Learning React Native Building Native Mobile Apps with JavaScript Sách phù_hợp với những bạn mới học React Native và chưa có nhiều kinh_nghiệm về JavaScript
+Không lý_thuyết suông mà tập_trung vào phần thực_hành bạn sẽ nhanh_chóng biết_được cách xây_dựng một ứng_dụng di_động thông_qua những ví_dụ trực_quan
+Học được gì từ cuốn_sách này
+Giới_thiệu tổng_quan React Native là gì và cách hoạt_động của framework này Hướng_dẫn sử_dụng mobile components Làm thế_nào để xây_dựng ứng_dụng với React Native từng_bước_một React Native by Example Nếu bạn là người thích học React Native qua các ví_dụ cụ_thể thì đây là cuốn_sách không_thể bỏ_qua
+Thông_qua việc “giải phẫu” những project thực_tế từ cơ_bản đến phức_tạp bạn sẽ lên trình khá nhanh_đấy
+Học được gì từ cuốn_sách này
+Quy_trình tích_hợp Facebook SDK để xây_dựng ứng_dụng kết_nối dữ_liệu với bên thứ_ba Từng_bước cụ_thể để triển_khai Redux – thư_viện quản_lý state phổ_biến của JavaScript Biết cách sử_dụng Websockets để làm ứng_dụng chat React Up Running Building Web Applications Cuốn_sách được viết bởi Stoyan Stefanov – web developer làm_việc tại Facebook nên tương_đối cụ_thể về cách xây_dựng cũng_như tổ_chức quản_lý và tinh chỉnh các component React
+Tuy phiên_bản React thực_hành trong sách hơi lỗi_thời so với hiện_tại nhưng đây cũng là tài_liệu dễ_đọc dễ_hiểu mà bạn nên cân_nhắc
+Học được gì từ cuốn_sách này
+Tạo và sử_dụng các React component DOM component Sử_dụng cú_pháp JSX mở_rộng thay_thế cho các lệnh gọi hàm Sử_dụng công_cụ ESLint Flow và Jest để kiểm_tra và test thử code khi phát_triển ứng_dụng React and React Native React and React Native phù_hợp cho cả những người_mới học lẫn những người đã có kinh_nghiệm với nhiều minh_họa ở từng cấp độ khác_nhau
+  Sách được chia thành 3 phần với 26 chương bạn hoàn_toàn có_thể bắt_đầu ngay với phần mà mình hứng_thú và bỏ_qua những thông_tin đã_biết
+Sách không yêu_cầu kiến_thức nền về React
+Học được gì từ cuốn_sách này
+Làm thế_nào để tái sử_dụng React components Cách tận_dụng các API native của Android và iOS để phát_triển những ứng_dụng hấp_dẫn với React Native Sử_dụng Relay để xây_dựng kiến_trúc dữ_liệu hợp_nhất cho React UIs Getting Started with React Native Cuốn_sách dành cho web developer muốn xây_dựng các ứng_dụng di_động nhanh_chóng bắt mắt và native bằng cách áp_dụng các kỹ_năng sẵn_có
+Nếu đã có chút hiểu_biết về JavaScript và đang sử_dụng React trên website thì bạn có_thể yên_tâm cuốn_sách này thực_sự rất “dễ xơi”
+Không mất nhiều thời_gian để bạn có_thể làm_chủ một ứng_dụng chạy trên cả Android và iOS
+Học được gì từ cuốn_sách này
+Thiết_lập môi_trường React Native trên cả thiết_bị và các trình_giả lập Có_thể tự mình viết ra các UI component native Phát_triển các module native trong Objective-C và Java có khả_năng tương_tác với JavaScript II
+SÁCH HỌC REACT NATIVE NÂNG_CAO Mastering React Native Khi đã có những kiến_thức nhất_định về React Native bạn sẽ có nhu_cầu học_hỏi nhiều hơn để nâng_cao trình_độ
+Đây chính_xác là cuốn_sách bạn cần để nhảy_vọt thành chuyên_gia về React Native
+Học được gì từ cuốn_sách này
+Hướng_dẫn sử_dụng Flux và Redux để quản_lý data Sử_dụng các animation APIs để đưa_vào ứng_dụng Các bước tạo module Native của riêng bạn React Native in Action Developing iOS and Android Apps with JavaScript Cuốn_sách React Native in Action sẽ dạy bạn cách xây_dựng các ứng_dụng web và ứng_dụng di_động chất_lượng trên nhiều nền_tảng khác_nhau
+Có khá nhiều chủ_đề nâng_cao thú_vị được trình_bày trong sách styling APIs animations kiến_trúc dữ liệu… Ngoài_ra bạn cũng biết làm_thế_nào để tái sử_dụng code mà_không tốn nhiều công_sức
+  Học được gì từ cuốn_sách này
+Xây_dựng các ứng_dụng di_động và web đa nền_tảng Lưu_trữ và truy xuất_dữ_liệu cục_bộ Quản_lý dữ_liệu và trạng_thái Fullstack React Native Create beautiful mobile apps with JavaScript and React Native Sách chia_làm 11 chương với mỗi chương là một tình_huống cụ_thể về quá_trình thực_hiện các concept trong thực_tế
+Để có_thể hiểu được những gì tác_giả viết trong cuốn_sách bạn phải có kiến_thức nền_tảng về JavaScript
+Sách mở_ra chân_lý mới về cách xây_dựng một ứng_dụng di_động vừa chất_lượng vừa đẹp_mắt
+Học được gì từ cuốn_sách này
+React Native là_gì
+Các tính_năng nổi_bật Bạn có_thể bắt_tay ngay vào việc xây_dựng các ứng_dụng với nhiều thể loại khác_nhau bằng các mã nguồn minh_họa được đính_kèm trong mỗi_chương
+Cách vận_dụng kiến_thức được học vào dự_án thực_tế React Cross-Platform Application Development with React Native Build 4 real-world apps with React Native Nội_dung sách khá tương_đồng với những cuốn còn_lại hướng_dẫn developer xây_dựng ứng_dụng đa nền_tảng từ thương_mại điện_tử đến các dự_án game
+Tuy_nhiên nhiều case-study trong sách thực_sự giá_trị và mang lại góc nhìn mới_mẻ
+Học được gì từ sách này
+Cấu_trúc của một dự_án React Native dễ_bảo_trì và mở_rộng Khám_phá các pattern code và UI khác_nhau được sử_dụng cho Android và iOS Học_hỏi những tip hay_ho khi phát_triển ứng_dụng React Native Practical React Native Sách cung_cấp nhiều bài_tập thực_tiễn giúp bạn củng_cố các kiến_thức về vấn_đề xây_dựng ứng_dụng với React Native từ_đó bạn có_thể rút_ra kinh_nghiệm và tạo_ra các ứng_dụng nâng_cao hơn
+Học được gì từ sách này
+Nắm_vững các kiến_thức cơ_bản về React Native Làm thế_nào để tạo một dự_án có cấu_trúc logic Cách làm_việc với Expo một_chuỗi công_cụ mã nguồn mở React Native Cookbook Bringing the Web to Native Platforms Nếu bạn là một JavaScript developer đang muốn tìm_kiếm hướng_dẫn thực_tế để phát_triển các ứng_dụng di_động nhiều tính_năng bằng React Native thì cuốn_sách này đích_thị dành cho_bạn
+Không bắt_buộc nhưng nếu bạn đã từng có kinh_nghiệm làm_việc về React thì việc tiếp_thu những khái_niệm React Native được đề_cập trong cuốn_sách sẽ trở_nên dễ_dàng hơn
+Học được gì từ sách này
+Tận_dụng các component và thư_viện JavaScript trong hệ_sinh_thái React Thiết_kế các ứng_dụng đa nền_tảng cân_bằng về UX và độ phức_tạp kỹ_thuật Tự_động xuất_bản ứng_dụng và chia_sẻ ứng_dụng iOS Hands-On Design Patterns with React Native Cuốn_sách khởi_đầu với các mẫu pattern cơ_bản trong React sau_đó mở_rộng các pattern này trong các ứng_dụng di_động
+Mỗi chương sẽ kèm đầy_đủ mã nguồn của các ứng_dụng bạn có_thể thử xây_dựng và cho chúng chạy ngay trên điện_thoại của mình
+Học được gì từ sách này
+Tìm_hiểu các pattern trong React Native Khám_phá các React pattern phổ_biến được sử_dụng nhiều trong quá_trình phát_triển React Native Tìm_hiểu các kiểu_dáng và cách triển_khai các thiết_kế di_động tùy_chỉnh React Native Blueprints Cuốn_sách này bao_gồm toàn_bộ bộ tính_năng của React Native bắt_đầu từ các tính_năng đơn_giản nhất thư_viện navigation hoặc điều hướng đến các tính_năng tiên_tiến nhất tích_hợp với mã gốc
+Học được gì từ sách này
+Cách_tối ưu_hóa dự_án để tăng tốc_độ phát_triển ứng_dụng React Native Làm thế_nào để xác_định một ứng_dụng React Native đã sẵn_sàng đưa lên môi_trường production Sử_dụng các module bên_ngoài để tăng tốc_độ phát_triển và bảo_trì các dự_án của bạn III
+KHÓA HỌC REACT NATIVE ONLINE The Complete React Native + Hooks Course [2020 Edition] Khóa học tuyệt_vời cho newbie – người đã có kiến_thức JavaScript cơ bản
+Bạn sẽ_biết được các phương_thức cốt_lõi để xây_dựng các ứng_dụng native và các component trên các thiết_bị Android và iOS của React Native
+Khóa_học này có giá 17
+99USD với hơn 125
+000 học_viên đăng_ký rất đáng để bạn tìm_hiểu
+React Native Advanced Concepts Nếu bạn đã có kiến_thức cơ_bản về React Native và muốn nâng_cao hiểu_biết của bản_thân thì hãy xem_xét khóa_học này
+Với những đánh_giá tích_cực từ hơn 30
+000 học_viên nội_dung khóa_học chắc_chắn sẽ không khiến bạn thất_vọng
+  Vừa kết_hợp_lý_thuyết và thực_hành – xây_dựng 3 ứng_dụng phức_tạp khác_nhau bằng các tính_năng của React Native bạn sẽ nhận_ra trình_độ của bản_thân được cải_thiện đáng_kể sau khóa_học
+React Native – The Practical Guide [2020 Edition] Đây là một trong những khóa_học thực_tế nhất để học React Native hiệu_quả
+Cung_cấp nhiều ví_dụ thực_tiễn về các ứng_dụng “chất” được phát_triển bởi React Native giúp người học có định_hướng rõ_ràng về thứ mình sẽ làm
+Để đăng_ký khóa_học này hãy đảm_bảo bạn đã biết cơ_bản về React cũng_như JavaScript
+Create Your First React Native App Mặc_dù tiêu_đề khóa_học có_vẻ chỉ dành cho những người chưa có kinh_nghiệm xây_dựng ứng_dụng với React Native nhưng thực_chất nếu bạn là một React Native developer chỉ quen_với việc copy code từ StackOverflow hoặc muốn củng_cố kiến_thức của bản_thân thì đều có_thể đăng_ký học
+Yêu_cầu đối_với học_viên khi tham_gia khóa_học có hiểu_biết cơ_bản về JavaScript và một số cú_pháp ES6
+React Native Expo from Beginner to Pro Also with MeteorJS Bạn đang muốn phát_triển một ứng_dụng native
+Bạn muốn kết_hợp sử_dụng React Native và Meteor
+Hay bạn chỉ đơn_giản là hứng_thú với việc học React Native và Expo
+Dù câu_trả_lời là gì thì khóa_học này chính_xác là thứ bạn đang tìm_kiếm
+Không yêu_cầu khắt_khe đối_với người học miễn là bạn đã từng có kinh_nghiệm lập_trình và sở_hữu những kỹ_năng làm_việc với HTML CSS JavaScript thì đều có_thể nhanh_chóng “tiêu hóa” khóa_học này
+Start Building a React Native Application Khóa học miễn_phí đến từ egghead
+io chia thành nhiều phần riêng_biệt kèm thời_gian cụ_thể cho mỗi_phần
+Ngoài_ra còn có transcript bên_dưới rất hữu_dụng cho những bạn chưa tự_tin với khả_năng tiếng Anh của mình
+Còn chờ gì nữa mà_không click học ngay hôm_nay
+Multiplatform Mobile App Development with React Native Khóa_học này của Coursera được rút trích từ phần 3 nằm_trong khóa_học lớn “Full-Stack Web Development with React” do trường ĐH Khoa_học và công_nghệ Hồng_Kông biên_soạn
+Tham_gia khóa học bạn sẽ_biết cách làm_thế_nào để xây_dựng các ứng_dụng đa nền_tảng với Expo SDK và React Native
+Lưu_ý là bạn cần phải hoàn_thành khóa BootStrap 4 và React JS trước_khi muốn theo_học
+React Native Essential Training Đây là khóa_học trên LinkedIn được hướng_dẫn bởi Samer Buna – người có_nhiều năm kinh_nghiệm giảng_dạy và làm_việc với React Native
+Anh_ấy sẽ dạy bạn cách xây_dựng một ứng_dụng trò_chơi đơn_giản đến các ứng_dụng hướng_dữ_liệu phức_tạp hơn
+Bên_cạnh đó bạn còn được chia_sẻ về cách debug và giải_quyết những vấn_đề phổ_biến khi phát_triển ứng_dụng và test như_thế_nào để đảm_bảo ứng_dụng chạy tốt nhất có_thể
+Learning React Native Với kinh_nghiệm giảng_dạy cho các doanh_nghiệp lớn như Yahoo eBay Stanford… khóa_học của Alex Banks được thiết_kế khá rõ_ràng thời_lượng học vừa_đủ khiến cho học_viên không cảm_thấy nhàm_chán
+Bạn cũng sẽ nhận_được chứng_chỉ từ LinkedIn sau khi hoàn_thành khóa_học
+Bạn thấy bài_viết có nhiều tài_liệu hay và cần_thiết với nhiều người
+Đừng ngại nhấn nút Share bên_dưới nhé
+Và đừng quên tham_khảo việc_làm React Native trên ITviec
+Related posts 30+ tài_liệu lập_trình game “chất” nhất 11 tài_liệu lập_trình C++ miễn_phí chất nhất 10 Website giải nguy tức_khắc cho Developer 11 sách_lập trình kinh_điển dành cho Developer Chia_sẻ bài_viết

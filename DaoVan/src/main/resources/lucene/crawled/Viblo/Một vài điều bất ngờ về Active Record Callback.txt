@@ -1,0 +1,20 @@
+Tran Nhat Minh tn
+minh Follow 12 0 9 Published about 21 hours ago 3 min read 15 0 0 Một_vài điều bất_ngờ về Active Record Callback Report Active Record là một trong nhưng công_cụ tuyệt_vời của Rails
+Nó rất trực_quan và mạnh_mẽ
+Tuy_nhiên Active Record Callbacks có_thể có một số cơ_chế ngạc_nhiên và nên sử_dụng một_cách hợp_lý và cẩn_thận
+Hày làm một ví_dụ mới model Post với schema dưới đây create table posts do t t
+string title t
+string description t
+boolean published default false null false t
+boolean posted on social media default false null false t
+timestampsend after create commit Khi post được tạo chúng_ta sẽ publish và post bài_viết lên mạng
+Điều đầu_tiên nghĩ_đến là thêm 2 callbacks vào after create commit là publish post on social media class Post true Nếu như đã đọc hướng_dẫn của Rails về Active Record Callbacks nó đã đề_cập đến việc tránh sử_dụng update trong after commit callbacks Tránh việc update và save trong callbacks
+Điều này có_thể thay_đổi trạng_thái của model và gây_ra các tác_dụng phụ không mong_muốn
+Thay vào đó có_thể an_toàn gán trực_tiếp giá_trị cho thuộc_tính trong before create before update Vậy làm_sao để định_nghĩa callbacks cho trường_hợp này
+Điều đầu_tiên cần lưu_ý là lựa_chọn sự_kiện cho callback after create commit
+Active Record Callback except after commit được thực_hiện trong 1 transaction nó có_thể rollback nếu_có 1 exception
+Tuy_nhiên nếu hệ_thống cần tương_tác với bên_ngoài cần chắc_chắn transaction được commit trước_khi thực_sự tương_tác vói bên_ngoài cũng_như các thay_đổi sẽ không rollback
+Trong trường_hợp của chúng_ta methodo post on social media sẽ tương_tác với bên_ngoài vì_vậy đặt trong callback after create commit là hợp_lý
+Tuy_nhiên publish chỉ update 1 cột trong bảng DB và nó có_thể đặt trong before create hoặc after create callback
+class Post post was updated nhưng nếu thay_đổi phương_thức khác_nhau trong 2 method class Post post was created Updatepost
+save= post was updated Trong hầu_hết các trường_hợp bạn nên có những callbacks khác_nhau cho create và update Ruby on Rails active record All Rights Reserved Report

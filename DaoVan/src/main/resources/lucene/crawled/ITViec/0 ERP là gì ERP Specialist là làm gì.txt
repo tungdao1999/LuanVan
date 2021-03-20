@@ -1,0 +1,113 @@
+Nội_dung Hi chị
+Trước_khi đi_sâu vào công_việc của ERP Specialist chị có_thể giải_thích ERP là gì được không
+Những lợi_ích mà ERP mang lại là gì vậy chị
+Ưu_điểm của ERP Nhược_điểm của ERP Giờ thì chị giúp em định_nghĩa ERP Specialist là gì nhé
+Điều_gì thú_vị nhất ở công_việc ERP Specialist khiến chị có đủ can_đảm để bắt_đầu sự_nghiệp lại từ con_số 0
+Công_việc hàng_ngày của chị với cương_vị ERP Specialist là_gì
+ERP Developer khác_gì với ERP Specialist vậy chị
+Có_nghĩa là ERP Specialist không_cần phải_biết code
+Theo chị thì vì_sao ERP Specialist không yêu_cầu code hay_không nhất_thiết phải tốt_nghiệp từ các chuyên_ngành IT nhưng vẫn là công_việc thuộc lĩnh_vực IT
+Kỹ_năng và tố chất cần_thiết của một ERP Specialist
+Sai_lầm đáng nhớ trong sự_nghiệp của chị
+Bài_học chị rút_ra cho bản_thân_mình
+Nếu có_thể quay_lại quá_khứ thì chị có theo_đuổi nghề này nữa không
+Và tại_sao
+Chị đánh_giá thế_nào về mức_lương và cơ_hội nghề_nghiệp của ERP Specialist
+Những tài_liệu chị đã từng tham_khảo trong_suốt sự_nghiệp ERP là viết tắt của Enterprise Resource Planning nói đơn_giản là một hệ_thống quản_lý doanh_nghiệp
+ERP Specialist là người chuyên đưa_ra giải_pháp để kết_nối nhu_cầu người_dùng với các chức_năng của hệ_thống
+Đọc phỏng_vấn của ITviec với chị Trương_Ánh_Hồng – ERP Specialist tại Be Group để biết ERP là_gì
+ERP giúp_ích gì cho các công_ty
+Công_việc của người_làm ERP Specialist là_gì
+Mức_lương và cơ_hội nghề_nghiệp của ERP Specialist
+ERP Specialist có cần phải_biết code không
+Xem thêm việc_làm ERP trên ITviec Tiểu_sử Chị Hồng tốt_nghiệp ngành Tài_chính kế_toán tại trường ĐH Sư_phạm Kỹ_thuật
+Sau_khi ra trường chị làm công_việc Kế_toán tổng_hợp được khoảng 3 năm thì bất_ngờ rẽ_sang con_đường khác
+Ban_đầu chị gia_nhập FPT Software với vị_trí ERP Functional Consultant chỉ đơn_giản vì “bạn bè rủ rê” và đã có chút kinh_nghiệm về ERP trước_đó
+Nhưng sau hơn 4 năm làm_việc chị phát_hiện ra mình thực_sự yêu_thích công_việc này và quyết_định theo_đuổi nó
+Hiện_tại chị đang là ERP Specialist tại Be Group JSC
+Hi chị
+Trước_khi đi_sâu vào công_việc của ERP Specialist chị có_thể giải_thích ERP là gì được không
+ERP là viết tắt của Enterprise Resource Planning nói đơn_giản là một hệ_thống quản_lý doanh_nghiệp
+Nếu em tìm_kiếm trên Google thì sẽ có_nhiều nguồn tài_liệu nói bài_bản hơn
+Nhưng chị sẽ lấy ví_dụ để em dễ hình_dung
+Nhắc_đến phần_mềm kế_toán người_ta sẽ nghĩ ngay đến MISA
+Và MISA chỉ chuyên về kế_toán thôi nên nếu muốn chuyển_dữ_liệu từ phía bán_hàng về phía kế_toán thì cần phải sử_dụng đến một phần_mềm trung_gian khác để đẩy_dữ_liệu về
+Việc này tương_đối mất thời_gian
+  Với hệ_thống ERP thì tất_cả các module như mua_hàng bán_hàng sản_xuất kế_toán kho bãi… đều được liên_kết với nhau hết
+Nếu em nhập dữ_liệu trên module bán_hàng thì kế_toán cũng xem được ngay chứ không cần phải chờ_đợi
+Những lợi_ích mà ERP mang lại là gì vậy chị
+Cung_cấp thông_tin tức_thời
+  Tập_trung công_việc giữa các bộ_phận phòng ban với_nhau tạo_thành luồng thông_tin xuyên_suốt minh_bạch
+Ưu_điểm của ERP Tối_ưu_hóa nguồn lực doanh_nghiệp
+Tự_động_hóa quy_trình làm_việc trong doanh_nghiệp
+Giúp nhà quản_lý có cái nhìn toàn_diện về tình_hình doanh_nghiệp để đưa_ra những chiến_lược kinh_doanh phù_hợp dựa_vào các báo_cáo số_liệu nhanh_chóng kịp_thời
+ERP có khả_năng thay_đổi tùy_biến theo sự_phát_triển của thị_trường
+Tiết_kiệm thời_gian và chi_phí
+Điển_hình như chi_phí vận_hành chi_phí nhân công… Quản_lý tốt nguồn lực và tạo_ra hiệu_quả sản_xuất kinh_doanh cao góp_phần nâng_cao sự_hài_lòng của khách_hàng
+Nhược_điểm của ERP Chi_phí triển_khai ERP lớn
+Mất rất nhiều thời_gian và nguồn_lực cho việc triển_khai ERP
+Giờ thì chị giúp em định_nghĩa ERP Specialist là gì nhé
+ERP Specialist là người chuyên đưa_ra giải_pháp để kết_nối nhu_cầu người_dùng với các chức_năng của hệ_thống
+Điều_gì thú_vị nhất ở công_việc ERP Specialist khiến chị có đủ can_đảm để bắt_đầu sự_nghiệp lại từ con_số 0
+Chị nghĩ là_vì nghề này bắt_buộc chị lúc_nào_cũng phải suy_nghĩ và tư_duy để tìm_ra giải_pháp xử_lý vấn_đề đáp_ứng nhu_cầu cho khách_hàng
+Đó là điều chị không tìm thấy ở công_việc cũ – công_việc hàng_ngày hầu_như đều lặp_lại giống_nhau rất_lâu mới gặp tình_huống phức_tạp cần suy_nghĩ
+Chị Hồng_hàng trên thứ 5 từ trái sang cùng nhóm tình_nguyện Công_việc hàng_ngày của chị với cương_vị ERP Specialist là_gì
+Tiếp_nhận vấn_đề từ tất_cả người_dùng mà mình đang hỗ_trợ
+Đánh_giá những yêu_cầu từ phía người_dùng đối_với hệ_thống
+Thiết_kế và đưa_ra giải_pháp đối_với những yêu_cầu phù_hợp từ người_dùng
+Triển_khai hệ_thống đào_tạo và hướng_dẫn người_dùng sử_dụng
+Làm_việc trực_tiếp với vendor để đảm_bảo dự_án triển_khai đúng chất_lượng thời_hạn và yêu_cầu của người_dùng
+Chủ_động xem_xét những lợi_ích mà hệ_thống có_thể mang lại người_dùng và đề_xuất triển_khai
+ERP Developer khác_gì với ERP Specialist vậy chị
+ERP Developer là những bạn chuyên code cho hệ_thống ERP họ sẽ nhận bản design thiết_kế từ ERP Specialist và thực_hiện
+Có_nghĩa là ERP Specialist không_cần phải_biết code
+Đúng_rồi
+ERP Specialist không yêu_cầu phải_biết code
+  Theo chị thì vì_sao ERP Specialist không yêu_cầu code hay_không nhất_thiết phải tốt_nghiệp từ các chuyên_ngành IT nhưng vẫn là công_việc thuộc lĩnh_vực IT
+Nghề này không nhất_thiết cần một bạn biết code biết lập_trình các ngôn ngữ… chứ không_phải là không dính_dáng đến tech công_nghệ
+Mình là người quản_lý hệ_thống thì phải có kiến_thức về công_nghệ thông_tin về hệ_thống thì mới quản_lý nó được
+Kỹ_năng và tố chất cần_thiết của một ERP Specialist
+Theo chị thì bạn cần có một số yếu_tố sau_đây Tốt_nghiệp ngành CNTT hoặc kinh_tế tài_chính để có_thể hiểu về công_nghệ và cả hoạt_động kinh_doanh của doanh_nghiệp
+Sở_hữu những kỹ_năng quan_trọng làm tài_liệu tốt có khả_năng đào_tạo người_dùng kỹ_năng quản_lý kỹ_năng ra_quyết_định và làm hài_lòng khách_hàng Sai_lầm đáng nhớ trong sự_nghiệp của chị
+Khi chị mới làm_việc tại Be Group được 2 tuần thì có nhận_được yêu_cầu từ sếp là làm_lại master data sao_cho gọn đẹp
+Master data là những dữ_liệu liên_quan đến vendors nhà_cung_cấp customer khách_hàng employees nhân_viên item hàng hóa… Khi chị xem file employees nhân_viên thì chị thấy nội_dung khá sơ_sài
+Mỗi khi có người mới vào công_ty làm_việc thì người phụ_trách chỉ tạo ID thêm họ tên gán email và tài_khoản là xong
+Cá_nhân chị thì muốn quản_lý tất_cả thông_tin liên_quan đến nhân_viên về hợp_đồng làm_việc bộ_phận quản_lý cấp_bậc thông_tin cá nhân… Vậy_là chị tạo một file Excel mới bao_gồm danh_sách các nhân_viên với nội_dung đã chỉnh_sửa
+File này bao_gồm các trường_thông_tin như đã nói ở trên và có thêm 1 cột là Inactive chị đang ghi_nhận “Yes” tức_là chưa kích_hoạt Để cập_nhật tất_cả các thông_tin trên file Excel lên hệ_thống ERP chị dùng công_cụ gọi_là Import CSV
+Chỉ cần import file là hệ_thống sẽ tự_động đồng_bộ thông_tin mà không cần tạo từng nhân_viên một
+Lúc_này đáng_lẽ chị phải để Inactive là  “No” nhưng chị lại để “Yes” và import vào hệ_thống
+Thế_là toàn_bộ user của hệ_thống tất_cả các nhân_viên đang dùng hệ_thống của công_ty bị cắt quyền truy_cập trong_đó có chị
+Lúc_đó các phòng ban đồng_loạt gửi tin_nhắn và báo lỗi về một sai_lầm hết_sức ngớ_ngẩn làm ảnh hưởng khá nhiều đến công_việc của users
+Thông_thường những trường_hợp như_thế này sẽ nhờ đến sự_trợ_giúp từ phía vendor nhưng không_may là vendor cũng nằm_trong danh_sách này nên họ cũng không_thể truy_cập hệ_thống và làm_gì được
+Rốt_cuộc thì phía vendor phải liên_hệ cho hãng Oracle nhờ hỗ_trợ
+Và sự_cố cũng_được xử_lý 1 tiếng sau_đó
+Bài_học chị rút_ra cho bản_thân_mình
+Sau sự_việc đó thì chị rút_ra bài_học là đối_với việc import thông_tin mà liên_quan đến người_dùng hoặc phân_quyền trên hệ_thống thì phải luôn chia batch – chia nhỏ theo số_lượng user và theo thời_gian nhất_định
+  Ví_dụ Danh_sách employees có 50 người thì chia thành 5 nhóm nhỏ mỗi nhóm 10 người cho vào 1 file
+Import nhóm này thành_công thì mới chuyển qua nhóm khác
+Để khi rủi_ro xảy_ra mình vẫn có user khác ở công_ty để backup và có thời_gian để xử_lý rút kinh_nghiệm trước_khi chạy cho batch tiếp_theo
+Nếu có_thể quay_lại quá_khứ thì chị có theo_đuổi nghề này nữa không
+Và tại_sao
+Có chứ chị vẫn sẽ trở_thành một ERP Specialist vì như chị đã nói thì hiện_tại chị rất thích công_việc này
+Nó giúp chị phát_huy các kỹ_năng sở_trường của mình về làm tài_liệu làm hài_lòng khách_hàng và kỹ_năng ra_quyết_định
+Chị Hồng thứ 2 từ trái sang đi du_lịch cùng bạn_bè của mình Chị đánh_giá thế_nào về mức_lương và cơ_hội nghề_nghiệp của ERP Specialist
+Chị thấy nhu_cầu tuyển_dụng ERP Specialist còn_thấp
+Tuy_nhiên nếu công_ty nào thực_sự cần vị_trí này thì em sẽ giữ vai_trò quan_trọng trong công_ty
+Lương_trung_bình cho một bạn làm ERP Specialist sẽ nằm_trong khoảng 1000-1500USD
+Những tài_liệu chị đã từng tham_khảo trong_suốt sự nghiệp httpsdocs
+microsoft
+comen-usdynamics365 Tham_khảo cách sử_dụng khi làm Microsoft Dynamic NAV httpsdocs
+oracle
+comcloudlatestnetsuitecs gsNSVENNSVEN
+pdf Tham_khảo cách sử_dụng khi làm Oracle Netsuite httpstechinsight
+com
+vn Đọc để có thêm kiến_thức về công_nghệ httpscafef
+vn Đọc để có kiến_thức về tài_chính thị_trường Bạn thấy bài_viết hay và cần_thiết với nhiều người
+Đừng ngại nhấn nút Share bên_dưới nhé
+Và đừng quên tham_khảo việc_làm ERP trên ITviec
+Related posts SharePoint là_gì
+Tìm_hiểu SharePoint qua lời_khuyên của chuyên_gia Thuận Nguyễn_Làm Game Developer bạn có muốn
+updated Con_đường sự_nghiệp nào cho IT Freelancer
+Android Developer là làm_gì
+Lương_hấp_dẫn đến thế_nào
+Chia_sẻ bài_viết

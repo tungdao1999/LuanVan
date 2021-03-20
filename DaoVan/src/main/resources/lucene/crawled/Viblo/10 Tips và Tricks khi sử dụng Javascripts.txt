@@ -1,0 +1,96 @@
+Le_Thuan Dat datlt
+pnv Follow 7 0 1 Published about 2 hours ago 8 min read 25 0 1 10 Tips và Tricks khi sử_dụng Javascripts Happy New Year Report Giới_thiệu Để phát_triển web hoặc phát_triển đa nền_tảng JavaScript đang trở_nên phổ_biến rộng_rãi
+Trước_đây nó chỉ được coi là một ngôn_ngữ kịch_bản front-end nhưng giờ_đây nó cũng trở_nên phổ_biến với tư_cách là back-end
+Ngay cả Facebook’s React Native cũng dựa_trên JavaScript
+Do_đó chắc_chắn sẽ rất hữu_ích nếu biết một số thủ_thuật trong JavaScript không_chỉ ngăn chúng_ta viết thêm các dòng mã mà còn giúp mã của chúng_ta trở_nên sắc_nét và hiệu_quả
+Các tips trick giúp_việc sử_dụng Javascript hiệu_quả hơn 1
+Lập chỉ mục mảng nhanh hơn Hãy xem_xét một mảng [999 998 997 996 995] nếu chúng_ta muốn gán giá_trị của mảng này cho bất_kỳ biến nào chúng_ta sẽ khai_báo là const a = array[0]
+Nếu chúng_ta muốn gán nhiều biến sẽ thật tẻ_nhạt nếu cứ tiếp_tục làm_như_vậy
+Khi bạn_học ở trường var array1 = [999 998 997 996 995]; var x = array1[0]; var y = array1[1]; var z = array1[2]; document
+writex = + x + ; document
+writey = + y + ; document
+writez = + z + ; Output x = 999y = 998z = 997 Cách tốt_hơn var array2 = [999 998 997 996 995]; var [x y z
+
+
+rest] = array2; document
+writex = + x + ; document
+writey = + y + ; document
+writez = + z + ; document
+writerest = + rest + ; Output x = 999y = 998z = 997rest = 996 995 Do_đó việc gán cho nhiều biến như_thế này có_thể tiết_kiệm thời_gian và mã
+Tuy_nhiên cần lưu_ý rằng phần còn_lại là mảng tập_hợp những phần_tử còn_lại chứ không_phải từng mục riêng_lẻ
+2
+Định_nghĩa Function Ý_tưởng là đặt một số nhiệm_vụ phổ_biến hoặc lặp đi lặp_lại với_nhau và tạo một hàm để thay_vì viết đi viết_lại cùng một mã cho các đầu vào khác_nhau chúng_ta có_thể gọi hàm_đó
+Mọi_người chắc_hẳn đã sử_dụng các hàm như_thế này trong JavaScript
+Cách khai_báo hàm thông_thường Usual function in JavaScript function myFunctionp1 p2 return p1 p2 ; document
+getElementByIddemo
+innerHTML = myFunction5 4; Output Usual function in JavaScript20 Cách mới hơn Có một_cách khác mà thay vào đó các hàm được coi là biến không_phải là một thủ_thuật rất hữu_ích nhưng vẫn là một cái_gì đó mới
+Giữ hàm trong một biến nó sử_dụng các hàm mũi_tên như_thế này
+Function treated as variable in JavaScript var myFunction = p1 p2 = return p1 p2; document
+getElementByIddemo
+innerHTML = myFunction5 4; Output Function treated as variable in JavaScript20 3
+Định_nghĩa function trong một dòng Bây giờ thủ_thuật này thực_sự hay
+Nếu bạn biết Python bạn có_thể biết hàm lambda hoạt_động như một hàm tùy_ý và được viết bằng một dòng
+Chà chúng_tôi không sử_dụng hàm lambda trong JavaScript nhưng chúng_tôi vẫn có_thể viết các hàm một lớp
+Giả_sử chúng_ta muốn tính tích của hai số a và b chúng_ta có_thể làm điều đó trong tập lệnh một dòng
+Chúng_ta không_cần phải viết cụ_thể câu lệnh return vì cách xác_định này đã có_nghĩa là nó sẽ tự trả về kết_quả đầu_ra
+Function treated as variable in JavaScript const myFunction = a b = a b document
+getElementByIddemo
+innerHTML = myFunction5 4; Output Function treated as variable in JavaScript20 4
+Kiểu Boolean Trong_khi mọi ngôn_ngữ lập_trình chỉ có hai giá_trị Boolean Đúng và Sai
+JavaScript đưa nó đi xa hơn một_chút bằng cách giới_thiệu một tính_năng cho_phép người_dùng tạo bools
+Không giống như True và False chúng thường được gọi_là Truthy và Falsy tương_ứng
+Để tránh nhầm_lẫn tất_cả các giá_trị ngoại_trừ 0 False NaN null “” được mặc định là Truthy
+Việc sử_dụng bools mở_rộng này giúp chúng_tôi kiểm_tra điều_kiện một_cách hiệu_quả
+const a =
+1; const b =
+
+
+0; console
+loga; console
+logb; Output FalseTrue 5
+Lọc kiểu Boolean Đôi_khi chúng_ta có_thể muốn lọc ra tất_cả các bools chẳng_hạn như các bools “Falsy” 0 False NaN null “” khỏi một mảng điều này có_thể được thực_hiện bằng cách sử_dụng kết_hợp các hàm bản_đồ và bộ_lọc
+Ở đây nó sử_dụng từ khóa Boolean để lọc ra các giá_trị Falsy
+arrayToFilter
+mapitem = Item values
+filterBoolean; Input [1 2 3 0 Hi False True]Output [1 2 3 Hi True] 6
+Tạo một Objects trống Nếu được yêu_cầu tạo một đối_tượng trống trong JavaScript phương_thức truy_cập đầu_tiên của chúng_ta sẽ sử_dụng trong dấu ngoặc nhọn và gán nó cho một_biến
+Nhưng đây không_phải là một đối_tượng trống vì nó vẫn có các thuộc_tính đối_tượng của JavaScript như proto và các phương_thức khác
+Có một_cách để tạo một đối_tượng mà không có bất_kỳ thuộc_tính đối_tượng tồn_tại nào
+Đối_với điều này chúng_ta khai_báo một biến và gán nó cho một giá_trị null với proto của nó là không xác_định
+Using
+create method to create a completely empty object let dict = Object
+createnull; dict
+proto === undefined Đối_tượng này sẽ không có proto mặc_định hoặc các thuộc_tính khác cho_đến_khi người_dùng định_nghĩa khác
+7
+Truncate mảng Mặc_dù phương_thức
+splice được sử_dụng rộng_rãi để cắt hoặc loại_bỏ các phần cụ_thể của một mảng nhưng nó có độ phức_tạp thời_gian trong trường_hợp xấu nhất_là O n
+Tồn_tại một giải_pháp thay_thế tốt_hơn để xóa các phần_tử khỏi phần cuối của mảng
+Nó sử_dụng thuộc_tính
+length của mảng để làm_như_vậy
+let arrayToTruncate = [10 5 7 8 3 4 6 1 0]; Specifying the length till where the array should be truncated arrayToTruncate
+length = 6; console
+logarrayToTruncate Output Như đã thấy chúng_ta phải biết độ_dài của mảng sẽ được cắt_bớt theo cách này nếu không nó sẽ dẫn đến lỗi
+Thời_gian chạy ở_đây là O k trong_đó k là số_phần_tử sẽ còn_lại trong mảng
+[10 5 7 8 3 4] 8
+Merging objects Sự_ra_đời của toán_tử spread … cho_phép người_dùng dễ_dàng hợp_nhất với hoặc nhiều đối_tượng đã đạt được trước_đó bằng cách tạo một chức_năng riêng_biệt để thực_hiện cùng một công_việc
+Cách thông_thường function mergeObjectsobj1 obj2 for var key in obj2 if obj2
+hasOwnPropertykey obj1[key] = obj2[key]; return obj1; Cách cải_tiến hơn const obj1 = ; Items inside the object const obj2 = ; Items inside the object const obj3 =
+
+
+obj1
+
+
+obj2; Input obj1 = site'abcd' purpose'Education'obj2 = location'Noida'Outputobj3 = site'abcd' purpose'Education' location'Noida' 9
+Câu điều_kiện rút_gọn Kiểm_tra và lặp qua các điều_kiện là một phần thiết_yếu của mọi ngôn_ngữ lập_trình
+Trong JavaScript chúng_tôi làm điều đó như if condition doSomething; Tuy_nhiên việc sử_dụng các toán_tử khôn_ngoan giúp kiểm_tra các điều_kiện dễ_dàng hơn và cũng làm_cho mã code có một dòng condition doSomething; 10
+Sử_dụng regex để thay_thế ký_tự Rất thường_xuyên người_ta gặp_phải tình_huống trong_đó mỗi_lần xuất_hiện của một ký_tự hoặc một_chuỗi con nhưng thật không may phương_thức
+replace chỉ thay_thế một trường_hợp xảy_ra
+Chúng_ta có_thể giải_quyết vấn_đề này bằng cách sử_dụng regex với phương_thức
+replace
+var string = somethingstring; Some string console
+logstring
+replaceing abc; Output somethabcstrabc Kết_thúc Bài_viết đến dây là kết_thúc
+Mong rằng những típ và trick này sẽ sẽ giúp đuọc các bạn trong việc code của mình
+Nguồn httpswww
+geeksforgeeks
+orgjavascript-top-10-tips-and-tricks Tricks JavaScript Tips All Rights Reserved Report

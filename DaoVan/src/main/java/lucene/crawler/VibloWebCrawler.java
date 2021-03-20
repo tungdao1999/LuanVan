@@ -59,21 +59,21 @@ public class VibloWebCrawler extends ArticleWebCrawler{
 			}
 			articleName = document.getElementsByClass("article-content__title").get(0).text();
 			articleContent = document.getElementsByTag("article").get(0).text();
-			if(strategy.needMoreRelatedPosts()) {
-				System.out.println("need more related");
-				List<String> relatedPost= new ArrayList<String>();
-				Elements relateds = document.select("post-recommendations bg-light");
-				System.out.println(relateds.isEmpty());
-				System.out.println(relateds.get(0));
-				for (Element related : relateds) {
-					System.out.println(related.text());
-					Element aTag = related.getElementsByAttribute("href").get(0);
-					String relatedLink = webDomain + aTag.attr("href");
-					System.out.print(": " + relatedLink);
-					relatedPost.add(relatedLink);
-				}
-				strategy.addRelatedLinks(relatedPost);
-			}
+//			if(strategy.needMoreRelatedPosts()) {
+//				System.out.println("need more related");
+//				List<String> relatedPost= new ArrayList<String>();
+//				Elements relateds = document.select("post-recommendations bg-light");
+//				System.out.println(relateds.isEmpty());
+//				System.out.println(relateds.get(0));
+//				for (Element related : relateds) {
+//					System.out.println(related.text());
+//					Element aTag = related.getElementsByAttribute("href").get(0);
+//					String relatedLink = webDomain + aTag.attr("href");
+//					System.out.print(": " + relatedLink);
+//					relatedPost.add(relatedLink);
+//				}
+//				strategy.addRelatedLinks(relatedPost);
+//			}
 			extractFile(articleContent, articleName);
 		}
 		

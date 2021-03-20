@@ -1,0 +1,113 @@
+Trong Nguyen Ngoc nguyenngoctrong Follow 109 3 7 Published about 11 hours ago 4 min read 29 0 0 Building a WebRTC video broadcast using Javascript P2 Happy New Year Report Xin chào các bạn lại là tôi đây
+Ở bài trước chúng_ta đã triển_khai Socket
+io trên server
+Bây_giờ chúng_ta sẽ tiếp_tục với việc triên khai các kết_nối dưới client Layouts Layouts của chúng_ta bao_gồm hai tệp HTML cơ_bản chứa chế_độ xem video mà sau_này sẽ hiển_thị luồng video mà chúng_ta đang gửi và tệp CSS cho một_số kiểu cơ_bản
+Tệp index
+html chứa một chế_độ xem video sẽ hiển_thị luồng video từ broadcaster
+Import thư_viện socket
+io và watch
+js  Viewer   Ở broadcast
+html file chúng_ta sẻ cấu hình_như trên và thay watch
+js băng broadcast
+js Broadcaster Chúng_ta sẻ css đơn gian cho nó html overflow hidden; height 100;video width 100; height 100; position absolute; display block; top 0; left 0; object-fit cover;body background-color black; margin 0; height 100; width 100; position fixed; top 0; left 0; bottom 0; right 0;RT RTCPeerConnection RTCPeerConnections giúp chúng_ta kết_nối hai máy_tính nằm_trong mạng cục_bộ với_nhau
+Trong hướng_dẫn này chúng_ta có hai phần khác_nhau của kết_nối
+Một là broadcaster có_thể có_nhiều kết_nối peer-to-peer với client và gửi video bằng stream
+Cái thứ_hai là máy client chỉ có một kết_nối với đài broadcaster hiện_tại
+Broadcaster Đầu_tiên chúng_tôi tạo các đối_tượng cấu hình cho kết_nối peer-to-peer và máy_ảnh
+const peerConnections = ;const config = iceServers [ urls [stunstun
+l
+google
+com19302] ];const socket = io
+connectwindow
+location
+origin;const video = document
+querySelectorvideo;const constraints = video facingMode user audio true; Chúng_ta sử_dụng máy chủ google chính_thức cho kết_nối peer-to-peer và cấu hình máy_ảnh của chúng_ta bằng một_số thuộc_tính
+Bạn cũng có_thể bật âm_thanh bằng cách bỏ_bỏ comment ở trên
+Trước_khi tạo kết_nối peer-to-peer trước_tiên chúng_ta cần lấy video từ máy_ảnh để có_thể thêm nó vào kết_nối của mình
+navigator
+mediaDevices
+getUserMediaconstraints
+thenstream = video
+srcObject = stream; socket
+emitbroadcaster;
+catcherror = console
+errorerror; Tiếp_theo chúng_tôi sẽ tạo một RTCPeerConnection bằng đoạn mã sau socket
+onwatcher id = const peerConnection = new RTCPeerConnectionconfig; peerConnections[id] = peerConnection; let stream = video
+srcObject; stream
+getTracks
+forEachtrack = peerConnection
+addTracktrack stream; peerConnection
+onicecandidate = event = if event
+candidate socket
+emitcandidate id event
+candidate; ; peerConnection
+createOffer
+thensdp = peerConnection
+setLocalDescriptionsdp
+then = socket
+emitoffer id peerConnection
+localDescription; ;;socket
+onanswer id description = peerConnections[id]
+setRemoteDescriptiondescription;;socket
+oncandidate id candidate = peerConnections[id]
+addIceCandidatenew RTCIceCandidatecandidate;; Chúng_ta tạo một RTCPeerConnection mới mỗi khi một client mới tham_gia và lưu nó trong đối_tượng peerConnections của chúng_ta
+Sau_đó chúng_ta thêm luồng cục_bộ vào kết_nối bằng phương thức addTrack
+Sự_kiện peerConnection
+onicecandidate được gọi khi chúng_ta nhận_được một client và chúng_tôi gửi nó đến server
+Sau_đó chúng_ta gửi một đề_nghị kết_nối đến máy khách bằng cách gọi peerConnection
+createOffer và chúng_ta gọi peerConnection
+setLocalDescription để định cấu hình kết_nối
+Đóng kết_nối client ngắt kết_nối là một phần quan_trọng khác của ứng_dụng và chúng_ta có_thể làm_như vậy bằng cách sử_dụng mã sau socket
+ondisconnectPeer id = peerConnections[id]
+close; delete peerConnections[id];; Cuối_cùng chúng_ta sẽ đóng kết_nối socket nếu client đóng_cửa_sổ
+window
+onunload = window
+onbeforeunload = = socket
+close;; Watcher Client Watcher có khá nhiều chức_năng tương_tự
+Sự_khác biệt duy_nhất là chỉ mở một kết_nối ngang_hàng với đài broadcaster hiện_tại và nhận video thay_vì phát trực_tuyến
+Chúng_ta cũng cần tạo cấu_hình cho RTCPeerConnection của mình
+let peerConnection;const config = iceServers [ urls [stunstun
+l
+google
+com19302] ];const socket = io
+connectwindow
+location
+origin;const video = document
+querySelectorvideo; Sau_đó chúng_ta có_thể tạo RTCPeerConnection của mình và nhận luồng video từ broadcaster
+socket
+onoffer id description = peerConnection = new RTCPeerConnectionconfig; peerConnection
+setRemoteDescriptiondescription
+then = peerConnection
+createAnswer
+thensdp = peerConnection
+setLocalDescriptionsdp
+then = socket
+emitanswer id peerConnection
+localDescription; ; peerConnection
+ontrack = event = video
+srcObject = event
+streams[0]; ; peerConnection
+onicecandidate = event = if event
+candidate socket
+emitcandidate id event
+candidate; ;; Sau_khi kết_nối được thiết_lập chúng_ta có_thể tiếp_tục bằng cách sử_dụng luồng video bằng ontrack của đối_tượng peerConnection
+Chúng_ta cũng cần triển_khai các chức_năng vòng đời khác cho kết_nối ngang_hàng của chúng_ta để giúp chúng_ta mở và đóng các kết_nối mới
+socket
+oncandidate id candidate = peerConnection
+addIceCandidatenew RTCIceCandidatecandidate
+catche = console
+errore;;socket
+onconnect = socket
+emitwatcher;;socket
+onbroadcaster = socket
+emitwatcher;;window
+onunload = window
+onbeforeunload = = socket
+close; peerConnection
+close;; Lời kết Tại thời_điểm này ứng_dụng đã hoàn_tất và bạn có_thể tiếp_tục thử_nghiệm nó trên trình_duyệt của mình
+Thân_ái chào_tạm_biệt Tài Liệu Tham_Khảo httpsgabrieltanner
+orgblogwebrtc-video-broadcast httpswebrtc
+org httpsdeveloper
+okta
+comblog20201021webrtc-videochat-javascript Javascrip Node
+js webrtc All Rights Reserved Report

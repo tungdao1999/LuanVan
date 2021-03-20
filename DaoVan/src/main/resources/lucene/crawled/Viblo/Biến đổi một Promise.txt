@@ -1,0 +1,113 @@
+Nguyen Duy Khanh nguyen
+duy
+khanhc Follow 834 23 28 Published about 3 hours ago 8 min read 14 0 0 Biến_đổi một Promise Report Khái_niệm Promise đã khá quen_thuộc với chúng_ta rồi
+Khi muốn tạo hoặc nhận xử_lý bất_đồng_bộ xử_lý chờ trong javascript chúng_ta thường sẽ nghĩ_đến và sử_dụng Promise
+Nhưng đó mới chỉ_là những cách sử_dụng cơ_bản của Promise thôi
+Hôm_nay chúng_ta hãy thử biến_đổi nó một_chút và hy_vọng sau khi biến_đổi xong thì nó sẽ mang lại nhiều lợi_ích cũng_như tiện_lợi trong xử_lý tình_huống hơn
+I
+Promise Hãy quay_lại với khái_niệm Promise
+Nếu để hiểu theo nghĩa_đen thì Promise như một_lời hứa vậy và thực_chất cách hiểu này là đúng chứ không sai
+Promise là một đối_tượng đại_diện cho một xử_lý bất_động bộ xử_lý chờ
+Và khi một đối_tượng Promise được khởi chạy thì sẽ có 2 trường_hợp có_thể xảy_ra
+Một là Promise xử_lý thành_công và trả về kết_quả mong_muốn sau khi thành_công hai là Promise xử_lý thất_bại vì một số lý_do nào_đó đồng_thời cũng trả về mã lỗinguyên nhân gây_ra lỗi
+Thì cũng giống ngoài_đời thực vậy chúng_ta đã hứa một điều_gì_đó thì sẽ chỉ có 2 kết_quả nhận_được cùng với lời_hứa đó hoặc là lời_hứa được thực_hiện hoặc là thất_hứa
+Quay_lại với Promise trong javascript
+Khi khởi tạo 1 đối_tượng Promise thì đầu vào sẽ là một function với 2 tham_số là resolve và reject
+Chúng_ta có_thể tuỳ_ý đổi tên của 2 tham_số để có_thể phù_hợp hơn với tình_huống gặp_phải
+Một ví_dụ như dưới const give1000dollars = new Promisefunctiongive ungive give1500; bonus 500 ungive'Not enough money' Khi một đối_tượng Promise được khởi tạo vào chạy thì tương_ứng sẽ có 3 trạng_thái lần_lượt là pending fulfilled rejected
+Trạng_thái pending sẽ được gắn_vào khi đối_tượng Promise đó được khởi tạo và trong quá_trình chạy
+Trạng_thái fulfilled sẽ được gắn_vào khi đối_tượng Promise đó đã khởi chạy và thành_công trả về kết_quả
+Trạng_thái rejected sẽ được gắn_vào khi đối_tượng Promise đó đã khởi chạy nhưng thất_bại vì một lý_do nào_đó đồng_thời trả về mã lỗinguyên nhân lỗi
+Khi một đối_tượng Promise xử_lý xong không_còn ở trạng_thái pending nữa mà sẽ là fulfilled hoặc là rejected và để chúng_ta có_thể kiểm_tra đối_tượng Promise vừa chạy là thành_công hay thất_bại thì chúng_ta sẽ_dùng
+then
+catch
+
+then sẽ nhận một callback function function này sẽ nhận một tham_số
+Callback function sẽ được gọi khi đối_tượng Promise xử_lý thành_công và kết_quả sẽ được đưa_vào tham_số đầu vào của callback function
+
+catch cũng sẽ nhận một callback function function này cũng sẽ nhận một tham_số
+Callback function sẽ được gọi khi đối_tượng Promise xử_lý thất_bại và tương_ứng mã lỗinguyên nhân lỗi sẽ được đưa_vào tham_số đầu vào của callback function
+Một_cách nữa để kiếm tra kết_quả của một đối_tượng Promise là dùng async await
+Promise cũng cung_cấp cho chúng_ta một_số phương_thức hữu_ích giúp chúng_ta tận_dụng hết chức_năng của nó
+Như_là Promise
+all Promise
+race dùng để thao_tác với nhiều đối_tượng Promise theo các cách khác_biệt
+Promise
+resolve Promise
+reject dùng để điều_khiển một đối_tượng Promise thành_công trả về kết_quả hay thất_bại trả về mã lỗinguyên nhân lỗi
+Những cách_thức bên_trên khá cơ_bản và dễ áp_dụng
+Tiếp đến hãy cùng đi xa hơn cùng Promise hãy thử biển đổi cách sử_dụng của một đối_tượng Promise
+II
+Biến_đổi đối_tượng Promise Thì biến_đổi ở_đây có_nghĩa là_gì
+Biến_đổi một đối_tượng Promise có_nghĩa là chúng_ta cơ_bản vẫn dùng Promise để xử_lý những tác_vụ bất_đồng_bộ tác_vụ chờ bằng những cách_thức thông_thường nhưng kèo theo đó chúng_ta sẽ kết_hợp thêm một số logic để điều_khiển đối_tượng Promise đó
+Nghe Biến_đổi có_vẻ cao_siêu nhưng thực_chất chúng_ta sẽ chỉ đơn_giản kết_hợp Promisevới một_số tính_năng khác của javascript để sinh_ra một kết_hợp có nhiều chức_năng hơn và mang lại hiệu_quả hơn
+Ở bài này mục_đích của chúng_ta sẽ là dùng Promise và callback để tạo_ra một kết_hợp
+Trong quá_trình làm_việc với javascript chúng_ta thao_tác rất nhiều với callback chúng_ta dùng callback rất nhiều và thậm_chí những thư_viện bên thứ_ba cũng dựa_vào callback để cung_cấp cho chúng_ta nhiều tuỳ biển hơn khi sử_dụng thư_viện của họ
+Đến với một ví_dụ về load image
+Đầu_tiên thì việc load image sẽ cần một khoảng thời_gian vì_thế hãy xác_định nó là một xử_lý chờ vì khi load xong chúng_ta cẩn phải làm_gì_đó với nó_nữa
+Dùng để load image từ_đầu vào và thêm_vào thẻ `body`function loadImageimageSrc callback Tạo thẻ `img` mới dùng để chứa image chuẩn_bị load lên const image = document
+createElement'img' image
+src = imageSrc Gán `imageSrc` để bắt_đầu load image image
+onload = = callbacknull image Xử_lý khi load thành_công image
+onerror = = callbacknew Error'Load script error' xử_lý khi load gặp lỗi Thêm image vừa load vào thẻ `body` dù lỗi hay không lỗi
+document
+body
+appendimage Ở trên là một function loadImage đơn_giản dùng để load 1 image sau_đó thêm_vào trong thẻ body của file html
+Function này sẽ nhận 2 tham_số src là source của image muốn load callback là function dùng để gọi sau khi image được load hoặc khi có lỗi
+Tiếp_theo hãy cũng đưa Promise vào trong để xử_lý
+Dùng để load image từ_đầu vào và thêm_vào thẻ `body`function loadImageimageSrc callback Tạo thẻ `img` mới dùng để chứa image chuẩn_bị load lên const image = document
+createElement'img' image
+src = imageSrc Gán `imageSrc` để bắt_đầu load image image
+onload = = callbacknull image Xử_lý khi load thành_công image
+onerror = = callbacknew Error'Load script error' xử_lý khi load gặp lỗi Thêm image vừa load vào thẻ `body` dù lỗi hay không lỗi
+document
+body
+appendimage Dùng `Promise` để tạo một xử_lý chờ load imagefunction loadImageUsingPromiseimageSrc `resolve` `reject` sẽ được gọi ở `callback` của function `loadImage` return new Promisefunction resolve reject Gọi function `loadImage` để bắt_đầu load image loadImageimageSrc function error image if error rejecterror resolveimage Gọi function `loadImageUsingPromise` để bắt_đầu load image Sau_đó tương_ứng dùng `
+then` `
+catch` để bắt_phần xử_lý thành_công hay thất bạiloadImageUsingPromise'aaa'
+thenimage = console
+logimage
+catcherror = console
+logerror Ở đoạn code trên chúng_ta đã tạo một function loadImageUsingPromise cho_phép nhận một tham_số đầu vào là imageSrc và sau_đó khởi tạo và chạy một đối_tượng Promise để gọi function loadImage xử_lý load image tương_ứng với imageSrc
+Sau_đó sẽ trả về thẻ img được load thành_công hoặc trả về lỗi
+Ở đây tham_số đầu vào callback của function loadImage sẽ được xử_lý ngay trong phần xử_lý của đối_tượng Promise để chúng_ta có_thể nhận_được function resolve và reject dùng_cho xử_lý thành_công thất_bại trong việc load image
+Tiếp đến hãy thử cho_phép function loadImageUsingPromise được tạo tuỳ_biến
+Những functon xử_lý như loadImage loadFile loadSource sẽ là đầu vào
+Chúng_ta sẽ tạo nhiều xử_lý khác nữa chứ không đơn_thuần là loadImage
+Dùng để load image từ_đầu vào và thêm_vào thẻ `body`function loadImageimageSrc callback Tạo thẻ `img` mới dùng để chứa image chuẩn_bị load lên const image = document
+createElement'img' image
+src = imageSrc Gán `imageSrc` để bắt_đầu load image image
+onload = = callbacknull image Xử_lý khi load thành_công image
+onerror = = callbacknew Error'Load script error' xử_lý khi load gặp lỗi Thêm image vừa load vào thẻ `body` dù lỗi hay không lỗi
+document
+body
+appendimage TẠM ẨN function `loadImageUsingPromise` này và sẽ dùng function `promisify` để tạo Dùng `Promise` để tạo một xử_lý chờ load image function loadImageUsingPromiseimageSrc `resolve` `reject` sẽ được gọi ở `callback` của function `loadImage` return new Promisefunction resolve reject Gọi function `loadImage` để bắt_đầu load image loadImageimageSrc function error image if error rejecterror resolveimage Tạo một function gắn với xử_lý function đầu vào `func` Function sau khi được tạo sẽ dùng `Promise` để xử_lý cho function đầu vào `func`function promisifyfunc Ở ví_dụ load image thì function này sẽ là `loadImageUsingPromise` return function
+
+
+args Logic trong function sẽ gần giống như function `loadImageUsingPromise` Khác ở phần gọi xử_lý `func` hay chính là `loadImage` Vì `func` ở_đây có_thể là bất_kỳ xử_lý gì như_là `loadFile` `loadSource`
+
+
+return new Promisefunctionresolve reject function callbackerror result if error rejecterror resolveresult func
+callnull
+
+
+args callback Tạo function `loadImageUsingPromise` Giống như function `loadImageUsingPromise` đã được ẩn điconst loadImageUsingPromise = promisifyloadImage Gọi function `loadImageUsingPromise` để bắt_đầu load image Sau_đó tương_ứng dùng `
+then` `
+catch` để bắt_phần xử_lý thành_công hay thất bạiloadImageUsingPromise'aaa'
+thenimage = console
+logimage
+catcherror = console
+logerror Rất thú_vị đúng không nào
+Bây_giờ với function promisify chúng_ta có_thể tạo function trung_gian cho rất nhiều xử_lý khác nữa chứ không đơn_thuần là function loadImage
+III
+Kết_luận Vậy là chúng_ta đã đi_qua về cách biến_đổi đổi một đối_tượng Promise hay còn có_thể nói là kết_hợp Promise với những tính_năng khác để tăng hiệu_quả trong xử_lý tình_huống
+Sẽ còn rất nhiều cách kết_hợp khác nữa chứ không chỉ là Promise kết_hợp với callback
+Có_thể là tính_năng A kết_hợp với tính_năng B C
+
+
+Và độ phức_tạp cũng sẽ tăng_lên nhưng bên_cạnh đó thì lợi_ích của sự_kết_hợp mang lại sẽ rất lớn
+Bài_viết của mình đến đây là hết_rồi
+Cảm_ơn mọi_người đã đón_đọc
+Hy_vọng nó sẽ mang lại lợi_ích dù lớn hay nhỏ cho tất_cả chúng_ta
+Còn bây_giờ thì xin chào và hẹn_gặp lại các bạn trong những bài_viết tiếp_theo
+Promise JavaScript All Rights Reserved Report

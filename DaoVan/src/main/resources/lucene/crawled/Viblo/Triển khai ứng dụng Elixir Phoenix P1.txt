@@ -1,0 +1,54 @@
+Dang Duy danglduy Follow 16 0 3 Published about 3 hours ago 2 min read 3 0 0 Triển_khai ứng_dụng Elixir Phoenix P1 Happy New Year Report Giới_thiệu Elixir là một ngôn_ngữ lập_trình hàm phát_triển bởi Jose Valim cựu thành_viên phát_triển Rails Devise
+Elixir dựa_trên Erlang và chạy trên nền máy ảo BEAM Phoenix là một Elixir web framework sử_dụng Elixir và được inspired từ Rails Cài đặt Elixir Để cài_đặt elixir ta làm_theo hướng_dẫn httpselixir-lang
+orginstall
+html macOS brew install elixir ubuntudebian wget httpspackages
+erlang-solutions
+comerlang-solutions 2
+0 all
+deb sudo dpkg -i erlang-solutions 2
+0 all
+debsudo apt-get updatesudo apt-get install esl-erlangsudo apt-get install elixir Phoenix Để cài_đặt Phoenix ta làm_theo hướng_dẫn httpshexdocs
+pmphoenixinstallation
+html mix archive
+install hex phx new Khởi tạo Để khởi tạo 1 dự_án Phoenix ta cần chạy câu lệnh mix phx
+new [tên dự án] ở_đây tôi đặt_tên dự_án là blog phx sau_đó cd vào thư_mục và chạy mix ecto
+create để tạo config ecto kết_nối đến database mix phx
+new blog phx Output sẽ dạng như_sau Database Mặc_định dự_án Phoenix mặc định kết_nối với database Postgres
+Để đổi sang mysql lúc khởi tạo dự_án bạn thêm --database mysql ở bước trên
+Ứng với mỗi môi_trường phoenix đặt cấu hình database trong từng file cấu hình riêng thay_vì nằm_trong 1 file database
+yml như Rails Ở folder dự_án bạn thay_đổi file configdev
+exs đảm_bảo database username password là đang_đúng
+Chạy mix ecto
+create để khởi tạo database Tạo nhanh 1 trang CRUD Ở_đây ta dùng câu lênh mix phx
+gen
+html Accounts User users namestring ageinteger câu lệnh này sẽ tạo_ra đủ cấu_trúc controller view và model
+Câu_lệnh này gần giống với rails generate scaffold trong Rails new file libblog phxaccounts
+ex new file libblog phxaccountsuser
+ex new file libblog phx webcontrollersuser controller
+ex new file libblog phx webtemplatesuseredit
+html
+eex new file libblog phx webtemplatesuserform
+html
+eex new file libblog phx webtemplatesuserindex
+html
+eex new file libblog phx webtemplatesusernew
+html
+eex new file libblog phx webtemplatesusershow
+html
+eex new file libblog phx webviewsuser view
+ex new file privrepomigrations20210320082002 create users
+exs new file testblog phxaccounts test
+exs new file testblog phx webcontrollersuser controller test
+exs Thay_đổi file quản_lý router libblog phx webrouter
+ex thêm resources users UserController scope BlogPhxWeb do pipe through browser get PageController index resources users UserController end Sau_đó chạy mix ecto
+migrate để chạy migrate thêm bảng users vào database 164615
+421 [info] == Running 20210320082002 BlogPhx
+Repo
+Migrations
+CreateUsers
+change0 forward164615
+423 [info] create table users164615
+428 [info] == Migrated 20210320082002 in 0
+0s Bật server bằng mix phx
+server vào trang httplocalhost4000users là ta có_thể thấy được trang CRUD mới Mời các bạn đón đọc các bài tiếp_theo ở phần_sau
+elixir phoenix All Rights Reserved Report

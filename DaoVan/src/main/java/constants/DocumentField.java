@@ -10,4 +10,5 @@ public final class DocumentField {
     public static final String ITVIEC_CRAWL = "itviec";
     public static final String VIBLO_CRAWL ="vilbo";
     public static final String WIKI_CRAWL = "wikipedia";
+	public static final String LABEL_FIELD = "label";
 }

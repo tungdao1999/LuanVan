@@ -12,70 +12,64 @@ public class PreprocessingProcess {
 	private static String VIBLO_IN = ResourcesUtils.resourcePath + "/crawled/Viblo/";
 	private static String WIKI_IN = ResourcesUtils.resourcePath + "/crawled/Wiki/";
 	private static String UPLOAD_FILE_IN = ResourcesUtils.resourcePath + "/crawled/uploadFile/";
-	
+
 	private static String ITVIEC_OUT = ResourcesUtils.resourcePath + "/lucene/crawled/ITViec/";
 	private static String VIBLO_OUT = ResourcesUtils.resourcePath + "/lucene/crawled/Viblo/";
 	private static String WIKI_OUT = ResourcesUtils.resourcePath + "/lucene/crawled/Wiki/";
 	private static String UPLOAD_FILE_OUT = ResourcesUtils.resourcePath + "/lucene/crawled/uploadFile/";
-	
-	
+
 	public void preprocessingITViec() {
-			List<File> listFile = DirectoryActor.getPathOfTextCrawled(ITVIEC_IN);
-			
-			for (int i = 0; i < 1; i++) {
-				TextParser parser = new HTMLTextParser();
-				TextParserFactory factory = new TextParserFactory(parser);
-				ITextProcessor processor = new TextTokenizer(new TextCleaner(factory));
-				
-				String content = processor.preProcessing(ITVIEC_IN + listFile.get(i).getName());
-				
-				listFile.get(i).delete();
-				
-				try {
-					DirectoryActor.writeFile(content, ITVIEC_OUT + listFile.get(i).getName());
-				} catch (IOException e) {
-					e.printStackTrace();
-					}
-				}
-			
+		List<File> listFile = DirectoryActor.getPathOfTextCrawled(ITVIEC_IN);
+
+		for (int i = 0; i < listFile.size(); i++) {
+
+			String content = PreprocessService.PreprocessRawTextFile(ITVIEC_IN + listFile.get(i).getName());
+
+			listFile.get(i).delete();
+
+			try {
+				DirectoryActor.writeFile(content, ITVIEC_OUT + listFile.get(i).getName());
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+
 	}
+
 	public void preprocessingViblo() {
 		List<File> listFile = DirectoryActor.getPathOfTextCrawled(VIBLO_IN);
-		
-		for (int i = 0; i < 1; i++) {
-			TextParser parser = new HTMLTextParser();
-			TextParserFactory factory = new TextParserFactory(parser);
-			ITextProcessor processor = new TextTokenizer(new TextCleaner(factory));
-			
-			String content = processor.preProcessing(VIBLO_IN + listFile.get(i).getName());
-			
+
+		for (int i = 0; i < listFile.size(); i++) {
+
+			String content = PreprocessService.PreprocessRawTextFile(VIBLO_IN + listFile.get(i).getName());
+
 			listFile.get(i).delete();
-			
+
 			try {
 				DirectoryActor.writeFile(content, VIBLO_OUT + listFile.get(i).getName());
 			} catch (IOException e) {
 				e.printStackTrace();
-				}
 			}
+		}
 	}
+
 	public void preprocessingUploadFile() {
-			List<File> listFile = DirectoryActor.getPathOfTextCrawled(UPLOAD_FILE_IN);
-			
-			for (int i = 0; i < 1; i++) {
-				TextParser parser = new HTMLTextParser();
-				TextParserFactory factory = new TextParserFactory(parser);
-				ITextProcessor processor = new TextTokenizer(new TextCleaner(factory));
-				
-				String content = processor.preProcessing(UPLOAD_FILE_IN + listFile.get(i).getName());
-				
-				listFile.get(i).delete();
-				
-				try {
-					DirectoryActor.writeFile(content, UPLOAD_FILE_OUT + listFile.get(i).getName());
-				} catch (IOException e) {
-					e.printStackTrace();
-					}
-				}
+		List<File> listFile = DirectoryActor.getPathOfTextCrawled(UPLOAD_FILE_IN);
+
+		for (int i = 0; i < listFile.size(); i++) {
+
+			String content = PreprocessService.PreprocessRawTextFile(UPLOAD_FILE_IN + listFile.get(i).getName());
+
+			listFile.get(i).delete();
+
+			try {
+				DirectoryActor.writeFile(content, UPLOAD_FILE_OUT + listFile.get(i).getName());
+			} catch (IOException e) {
+
+				e.printStackTrace();
+				return;
+			}
+		}
 	}
-	
+
 }

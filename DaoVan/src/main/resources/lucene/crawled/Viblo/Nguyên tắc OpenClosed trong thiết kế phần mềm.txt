@@ -1,0 +1,201 @@
+Han Van Hiep quanghiepth86 Follow 1
+1K 45 60 Published about 19 hours ago 12 min read 50 1 1 Nguyên_tắc OpenClosed trong thiết_kế phần_mềm Report OpenClosed Principle hay còn gọi_là nguyên_tắc OpenClosed là một trong năm design principles cho phát_triển phần_mềm hướng đối_tượng được miêu_tả bở Robert C
+Martin
+Chúng được biết phổ_biến nhất với tên SOLID principles Single Responsibility Principle OpenClosed Principle Liskov Substitution Principle Interface Segregation Principle Dependency Inversion Mặc_dù nó là nguyên_tắc thứ_hai trong danh_sách các nguyên_tắc được đề_ra nhưng với ý_kiến cá_nhân của tôi nó là quan_trọng mà bất_kỳ lập trình viên cần phải_biết do_vậy tôi sẽ đi tìm_hiểu trước_tiên
+Tất_cả 5 nguyên_tắc thiết_kế này đều được sử_dụng một_cách rộng_rãi và hầu_hết các lập_trình viên từng phát_triển phần_mềm sẽ quen_thuộc với chúng
+Nhưng đừng lo_lắng nếu bạn chưa_từng nghe về chúng
+Tôi đã làm lập trình_viên trong một_vài năm trước_khi tôi học về SOLID principles và nhanh_chóng nhận_ra rằng chúng đã miêu_tả các quy_tắc và nguyên_tắc mà các đồng_nghiệp của tôi đã dạy tôi về cách_viết code tốt
+Như_vậy nếu bạn thậm_chí không_biết về tên của chúng thì có_thể bạn cũng đã từng sử_dụng chúng
+Nhưng điều đó không có nghĩa là chúng_ta không_nên nói và học về SOLID principles
+Trong bài_viết này tôi sẽ tập_trung về OpenClosed Principle và tôi sẽ giải_thích các nguyên_tắc khác trong các bài_viết tiếp_theo
+Định_nghĩa về OpenClosed Principle Rebert C
+Martin đã xem_xét nguyên_tắc này như Nguyên_tắc quan_trọng nhất của thiết_kế hướng đối_tượng
+Nhưng ông_ấy không_phải là người định_nghĩa đầu_tiên
+Bertrand Mayer đã viết năm 1998 trong cuốn_sách Object-Oriented Software Construction
+Ông_ấy giải_thích OpenClosed Principle như_sau “Software entities classes modules functions etc
+should be open for extension but closed for modification
+” Dịch một_cách nôm_na là Các thực_thể phần_mềm classes modules function
+
+
+nên mở với việc thêm mới nhưng đóng với việc sửa_đổi
+Ý_tưởng chung của nguyên_tắc này là tuyệt_vời
+Nó nói cho bạn viết code làm_sao để có_thể thêm function mới mà không cần phải thay_đổi code hiện_tại
+Điều_đó ngăn_chặn tình_huống mà một thay_đổi của class cũng yêu_cầu bạn thay_đổi tất_cả các class phụ_thuộc
+Thật không_may Bertrand Mayer đề_suất sử_dụng kế_thừa để đạt được mục_đích này “A class is closed since it may be compiled stored in a library baselined and used by client classes
+But_it is also open since any new class may use it as parent adding new features
+When a descendant class is defined there is no need to change the original or to disturb its clients
+” Có_nghĩa là một class là đóng vì nó có_thể được biên_dịch lưu_trữ trong một library baselined và được sử_dụng bởi client classes
+Nhưng mở vì bất_kỳ class nào_cũng có_thể sử_dụng nó như parent class
+thêm tính_năng mới
+Khi một lớp con được định_nghĩa không_cần thay_đổi code ban_đầu hoặc ảnh_hưởng đến client class của nó
+Nhưng như chúng_ta đã học qua các năm và như các tác_giả khác đã giải_thích một_cách rất chi_tiết ví_dụ như Robert C
+Matin trong bài_viết của ông_ấy về SOLID principles hoặc Joshua Bloch trong cuốn_sách Effective Java việc kế_thừa sẽ kết_hợp chặt_chẽ nếu class con phụ_thuộc vào chi_tiết implement của class cha
+Đó là tại_sao Robert C
+Martin và một_số người_khác đã định_nghĩa lại nguyên_tắc OpenClosed thành Polymorphic OpenClosed Principle Nguyên_tắc OpenClosed đa_hình
+Nó sử interface thay_vì class con để cho_phép triển_khai cái mà bạn có_thể dễ_dàng thay_thế mà không cần thay_đổi code sử_dụng chúng
+Interface là đóng cho việc sửa_đổi và bạn có_thể cung_cấp triển_khai mới để mở_rộng chức_năng của phần_mềm
+Lợi_ích chính của cách tiếp_cận này là một interface sẽ giới_thiệu thêm cấp độ ảo hóa abstraction nhằm cho_phép việc kết_nối mềm_dẻo
+Việc triển_khai một interface là độc_lập với những cái còn_lại và không_cần chia_sẻ bất_kỳ code nào
+Nếu bạn cho_rằng việc nhiều implement của một interface chia_sẻ một_số code có lợi bạn có_thể sử_dụng inheritance hoặc composition
+Bây_giờ chúng_ta hãy xem_xét một ví_dụ về OpenClosed Principle Ứng_dụng pha_cà_phê với OpenClosed Principle Bạn có_thể mua rất nhiều loại máy pha_cà_phê khác_nhau
+Có loại tương_đối cơ_bản chỉ pha_cà_phê phin và loại khác có bao_gồm máy_xay để pha các loại cà_phê khác_nhau ví_dụ espresso và cà_phê_phin
+Tất_cả chúng đều phục_vụ chung một mục_đích là Chúng pha_cà_phê ngon tuyệt để đánh_thức mọi_người mỗi_sáng
+Vấn_đề duy_nhất là bạn cần ra khỏi giường để bật máy pha_cà_phê
+Như_vậy tại_sao không bỏ_qua tất_cả các thử_thách của thế_giới vật_chất ví_dụ như là Làm_sao để đưa nước và cà_phê xay vào máy hoặc làm_thế_nào đặt một cái cốc bên_dưới nó mà_không cần ra khỏi giường và thực_hiện một chương_trình đơn_giản phục_vụ bạn một ly cà_phê
+Để chỉ ra lợi_ích của OpenClosed Principle tôi đã viết một ứng_dụng đơn_giản điều_khiển máy cà_phê đơn_giản để pha cho bạn cà_phê phin tuyệt_vời vào buổi_sáng
+BasicCoffeeMachine class Việc triển_khai của class BasicCoffeeMachine tương_đối đơn_giản
+Nó chỉ có một constructor một phương_thức public để thêm cà_phê xay và một phương_thức pha_cà_phê_phin
+import java
+util
+HashMap;import java
+util
+Map;public class BasicCoffeeMachine private Map configMap; private Map; groundCoffee; private BrewingUnit brewingUnit; public BasicCoffeeMachineMap coffee this
+groundCoffee = coffee; this
+brewingUnit = new BrewingUnit; this
+configMap = new HashMap; this
+configMap
+putCoffeeSelection
+FILTER COFFEE new Configuration30 480; public Coffee brewCoffeeCoffeeSelection selection Configuration config = configMap
+getCoffeeSelection
+FILTER COFFEE; get the coffee GroundCoffee groundCoffee = this
+groundCoffee
+getCoffeeSelection
+FILTER COFFEE; brew a filter coffee return this
+brewingUnit
+brewCoffeeSelection
+FILTER COFFEE groundCoffee config
+getQuantityWater; public void addGroundCoffeeCoffeeSelection sel GroundCoffee newCoffee throws CoffeeException GroundCoffee existingCoffee = this
+groundCoffee
+getsel; if existingCoffee
+= null if existingCoffee
+getName
+equalsnewCoffee
+getName existingCoffee
+setQuantityexistingCoffee
+getQuantity + newCoffee
+getQuantity; else throw new CoffeeExceptionOnly one kind of coffee supported for each CoffeeSelection
+; else this
+groundCoffee
+putsel newCoffee; Bạn có_thể dễ_dàng điều_khiển một máy cà_phê đơn_giản thông_qua ứng_dụng đúng không nào
+Hãy làm điều_đó
+BasicCoffeeApp class Phương_thức main của BasicCoffeeApp chuẩn_bị một Map với cà_phê xay khởi tạo một đối_tượng BasicCoffeeMachine và gọi phương_thức prepareCoffee để pha_cà_phê
+public class BasicCoffeeApp private BasicCoffeeMachine coffeeMachine; public BasicCoffeeAppBasicCoffeeMachine coffeeMachine this
+coffeeMachine = coffeeMachine; public Coffee prepareCoffeeCoffeeSelection selection throws CoffeeException Coffee coffee = this
+coffeeMachine
+brewCoffeeselection; System
+out
+printlnCoffee is ready
+; return coffee; public static void mainString[] args create a_Map of available coffee beans Map beans = new HashMap; beans
+putCoffeeSelection
+FILTER COFFEE new GroundCoffee My favorite filter coffee bean 1000; get a new CoffeeMachine object BasicCoffeeMachine machine = new BasicCoffeeMachinebeans; Instantiate CoffeeApp BasicCoffeeApp app = new BasicCoffeeAppmachine; brew a fresh coffee try app
+prepareCoffeeCoffeeSelection
+FILTER COFFEE; catch CoffeeException e_e
+printStackTrace; end main end CoffeeApp Đó là nó
+Kể từ bây_giờ bạn có_thể ở tại giường cho_đến_khi ngửi thấy mùi cà_phê được chuẩn_bị bởi BasicCoffeeApp
+Áp_dụng OpenClosed principle Nhưng điều_gì xảy_ra khi bạn thay BasicCoffeeApp
+Bạn có_thể nhận một cái_tốt hơn với máy_xay tích_hợp để có_thể pha thêm những thứ khác không_chỉ là cà_phê_phin
+Không_may CoffeeApp không hỗ_trợ loại này
+Nó sẽ tuyệt_vời nếu ứng_dụng của bạn có_thể điều_khiển cả_hai kiểu này
+Nhưng điều đó sẽ yêu_cầu một_vài code thay_đổi
+Và như bạn đã sử_dụng nó rồi tại_sao bạn không thay_đổi nhằm đáp_ứng những máy cà_phê trong tương_lai
+Mở_rộng CoffeeMachine interface Theo OpenClosed Principle bạn cần thêm một interface để_cho_phép điều_khiển máy cà_phê
+Đó thường là phần quan_trọng trong việc tái cấu_trúc
+Bạn cần để đưa_vào phương_thức mà bắt_buộc cho việc điều_khiển máy cà_phê nhưng không đưa_vào phương_thức tùy_chọn nào mà có_thể làm giới_hạn khả_năng mềm dẻo của việc triển_khai
+Trong ví_dụ này chỉ có duy_nhất phương thức brewCoffee
+Như_vậy interface CoffeeMachine chỉ có một phương_thức nó cần được triển_khai bởi tất_cả các class implement
+public interface CoffeeMachine Coffee brewCoffeeCoffeeSelection selection throws CoffeeException; Điều_chỉnh class BasicCoffeeMachine Trong bước_tiếp theo bạn cần điều_chỉnh class BasicCoffeeMachine
+Nó đã triển_khai phương_thức brewCoffee và cung_cấp tất_cả chức_năng cần_thiết
+Như_vậy bạn chỉ cần khai_báo rằng BasicCoffeeMachine triển_khai interface CoffeeeMachine
+public class BasicCoffeeMachine implements CoffeeMachine
+
+
+Thêm các implementations Bây_giờ bạn có_thể thêm triển_khai mới của interface CoffeeMachine
+Triển_khai của class PremiumCoffeeMachine là phức_tạp hơn class BasicCoffeeMachine
+Phương_thức brewCoffee được định_nghĩa bởi interface CoffeeMachine hỗ_trợ 2 CoffeeSelection khác_nhau
+Dựa_trên CoffeeSelection được cung_cấp phương_thức sẽ gọi cách pha_cà_phê tương_ứng
+Như bạn có_thể thấy trong việc triển_khai của những phương_thức này class cũng sử_dụng composition để tham_chiếu đến một Grinder cái mà xay cà_phê hạt trước_khi pha_cà_phê
+import java
+util
+HashMap;import java
+util
+Map;public class PremiumCoffeeMachine implements CoffeeMachine private Map configMap; private Map beans; private Grinder grinder; private BrewingUnit brewingUnit; public PremiumCoffeeMachineMap beans this
+beans = beans; this
+grinder = new Grinder; this
+brewingUnit = new BrewingUnit; this
+configMap = new HashMap; this
+configMap
+putCoffeeSelection
+FILTER COFFEE new Configuration30 480; this
+configMap
+putCoffeeSelection
+ESPRESSO new Configuration8 28; Override public Coffee brewCoffeeCoffeeSelection selection throws CoffeeException switchselection case ESPRESSO return brewEspresso; case FILTER COFFEE return brewFilterCoffee; default throw new CoffeeExceptionCoffeeSelection [ + selection + ] not supported
+; private Coffee brewEspresso Configuration config = configMap
+getCoffeeSelection
+ESPRESSO; grind the coffee beans GroundCoffee groundCoffee = this
+grinder
+grind this
+beans
+getCoffeeSelection
+ESPRESSO config
+getQuantityCoffee; brew an espresso return this
+brewingUnit
+brewCoffeeSelection
+ESPRESSO groundCoffee config
+getQuantityWater; private Coffee brewFilterCoffee Configuration config = configMap
+getCoffeeSelection
+FILTER COFFEE; grind the coffee beans GroundCoffee groundCoffee = this
+grinder
+grind this
+beans
+getCoffeeSelection
+FILTER COFFEE config
+getQuantityCoffee; brew a filter coffee return this
+brewingUnit
+brewCoffeeSelection
+FILTER COFFEE groundCoffee config
+getQuantityWater; public void addCoffeeBeansCoffeeSelection sel CoffeeBean newBeans throws CoffeeException CoffeeBean existingBeans = this
+beans
+getsel; if existingBeans
+= null if existingBeans
+getName
+equalsnewBeans
+getName existingBeans
+setQuantityexistingBeans
+getQuantity + newBeans
+getQuantity; else throw new CoffeeExceptionOnly one kind of coffee supported for each CoffeeSelection
+; else this
+beans
+putsel newBeans; Bạn đã hoàn_thành với hầu_hết công_việc tái cấu_trúc
+Bạn đã áp_dụng OpenClosed Principle với việc sử_dụng interface CoffeeMachine và cung_cấp 2 triển_khai độc_lập
+Chỉ còn duy_nhất một điều là hãy cho ứng_dụng sử_dụng các triển_khai khác_nhau của interface
+Điều_chỉnh CoffeeApp Class CoffeeApp bao_gồm 2 phần Class CoffeeApp Phương_thức main Bạn cần khởi tạo một triển_khai CoffeeMachine chỉ_định trong phương thức main
+Như_vậy bạn sẽ luôn cần điều_chỉnh phương_thức này nếu bạn thay máy cà_phê hiện_tại
+Nhưng miễn_là class CoffeeApp sử_dụng interface CoffeeMachine thì bạn không cần phải sửa nó
+import java
+util
+HashMap;import java
+util
+Map;public class CoffeeApp private CoffeeMachine coffeeMachine; public CoffeeAppCoffeeMachine coffeeMachine this
+coffeeMachine = coffeeMachine; public Coffee prepareCoffeeCoffeeSelection selection throws CoffeeException Coffee coffee = this
+coffeeMachine
+brewCoffeeselection; System
+out
+printlnCoffee is ready
+; return coffee; public static void mainString[] args create a_Map of available coffee beans Map; beans = new HashMap; beans
+putCoffeeSelection
+ESPRESSO new CoffeeBean My favorite espresso bean 1000; beans
+putCoffeeSelection
+FILTER COFFEE new CoffeeBean My favorite filter coffee bean 1000; get a new CoffeeMachine object PremiumCoffeeMachine machine = new PremiumCoffeeMachinebeans; Instantiate CoffeeApp CoffeeApp app = new CoffeeAppmachine; brew a fresh coffee try app
+prepareCoffeeCoffeeSelection
+ESPRESSO; catch CoffeeException e_e
+printStackTrace; end main end CoffeeApp Tổng_kết Bài_viết này thảo_luận về nguyên_tắc OpenClosed trong phát_triển phần_mềm
+Nó là một trong năm SOLID design principles được miêu_tả bởi Robert C
+Martin
+Nó thúc_đẩy việc sử_dụng interface để_cho phép bạn đáp_ứng chức_năng của ứng_dụng mà không phải thay_đổi code hiện_tại
+Chúng_ta sử_dụng nguyên_tắc này trong ví_dụ ứng_dụng điều_khiển các loại khác_nhau của máy pha_cà_phê thông_qua CoffeeApp
+Miễn_là máy pha_cà_phê triển_khai interface CoffeeMachine thì bạn có_thể điều_khiển nó qua ứng_dụng
+Điều duy_nhất bạn cần làm khi thay_đổi máy cà_phê hiện_tại là cung_cấp một triển_khai mới của interface và thay_đổi trong phương_thức main để khởi tạo loại chỉ_định
+Nếu bạn muốn tiến một bước_xa hơn bạn có_thể sử_dụng dependency injection reflection hoặc service loader API để thay_thế thể_hiện của class chỉ_định
+Cảm_ơn các bạn đã theo_dõi bài_viết hy_vọng mang đến cho các bạn những điều bổ_ích
+Bài_viết được dịch từ nguồn httpsstackify
+comsolid-design-open-closed-principle Design Principle All Rights Reserved Report

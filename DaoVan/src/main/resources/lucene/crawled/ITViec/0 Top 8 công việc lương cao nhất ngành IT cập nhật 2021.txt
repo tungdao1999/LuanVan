@@ -1,0 +1,255 @@
+Nội_dung 1
+PROJECT MANAGER 2
+PRODUCT OWNER 3
+SOFTWARE ARCHITECT 4
+IT MANAGER 5
+FULL-STACK DEVELOPER 6
+DEVOPS ENGINEER 7
+ TESTER 8
+BRIDGE SYSTEM ENGINEER Nghe_đồn ngành Công_nghệ thông_tin đang rất hot và thiếu_hụt nhân_lực trầm_trọng nên bạn cũng muốn bước_chân vào
+Tuy_nhiên có quá_nhiều nghề để lựa_chọn không_biết công_việc nào mới thật_sự mang_lại mức_lương cao và hứa_hẹn nhiều cơ_hội thăng_tiến
+ITviec đã tổng_hợp top 8 công_việc lương cao nhất trong ngành IT hiện_nay nhằm giúp bạn Hiểu thêm về thị_trường và các cơ_hội việc_làm Biết những kỹ_năng kiến_thức cần chuẩn_bị để ứng_tuyển thành_công Trau_dồi chuyên_môn với những tài_liệu “chất” nhất Xem việc làm Developer “chất” trên ITviec 1
+PROJECT MANAGER Quy_trình phối_hợp với các team của Project Manager Project Manager là một trong những công_việc lương cao nhất trong ngành_IT
+Chức_danh này thường có ở các công_ty Outsourcing với những trách_nhiệm chính như_sau Lập kế hoạch quy_trình làm ra sản_phẩm phần_mềm theo yêu_cầu hoặc nhu_cầu của khách_hàng
+Sắp_xếp quy_trình lịch_làm_việc của Developer Tester và những vị_trí liên_quan  giám sát chặt_chẽ để đảm_bảo chất_lượng và giao sản phẩm đúng hạn
+Theo_dõi kiểm_soát công_việc hằng ngày của từng thành_viên trong team
+Giao_tiếp với khách_hàng bao_gồm báo_cáo tiến_độ tình_hình những phần_việc đã hoàn_thành những lỗi đang gặp_phải để có phương_án giải_quyết
+Quản_lý chiến_lược cho Team bao_gồm đưa_ra mục_tiêu định_hướng và quản_lý rủi_ro cho những dự_án tiếp_theo
+Mức lương của Project Manager
+Lương_cho vị_trí Project Manager thường dao_động từ 1000-3000 USD
+Đặc_biệt những vị_trí Project Manager onsite ở nước_ngoài có_thể được trả đến 5000 USD hoặc thậm_chí cao hơn
+Công_việc Project Manager tại TPHCM Công_việc Project Manager tại Hà_Nội Những kỹ_năng cần có của một Project Manager là_gì
+1
+ Kỹ năng quản_lý dự_án Bao_gồm lập_quy_trình công_việc chi_tiết và lên thời_gian hoàn_thành các giai_đoạn để giao sản_phẩm đúng deadline
+Chẳng_hạn bạn cần phải sắp_xếp các phần_việc theo mức_độ ưu_tiên và nêu_rõ người chịu_trách_nhiệm cho từng_phần để đảm_bảo mọi_người không làm trùng việc của nhau và công_việc được làm_xong đúng thời_hạn
+2
+ Kỹ năng lập_kế_hoạch Cần phải có một Action Plan cụ_thể từ ngày đầu dự_án cho đến ngày cuối_cùng giao sản_phẩm
+Không nên để lúc thì các Dev phải làm_quá nhiều việc lúc thì họ phải ngồi_chơi
+3
+ Kỹ năng quản_lý thời_gian Phải thật_chặt chẽ chia việc đều cho từng khoảng thời_gian cụ_thể tránh để những yếu tố bên_ngoài như các kỳ_nghỉ lễ tiệc tùng… ảnh hưởng đến năng_suất
+4
+ Kỹ năng giao_tiếp Giao_tiếp tốt với khách_hàng bao_gồm lắng_nghe kỹ yêu_cầu của họ và xem chi_tiết phản_hồi của họ để chỉnh sửa sản_phẩm cho_đúng
+5
+ Kỹ năng giải_quyết vấn_đề Giải_quyết vấn_đề khi gặp sự_cố bao_gồm phân_tích nguyên_nhân rồi tìm giải_pháp thích_hợp qua các case study kinh_nghiệm từ đồng_nghiệp
+Những cuốn_sách hay dành cho Project Manager Project Management Body of Knowledge PMBOK là cuốn sách kinh_điển dành cho những bạn muốn trở thành Project Manager chuyên_nghiệp
+Head First PMP tổng_hợp tài_liệu để bạn chuẩn_bị cho kỳ_thi lấy chứng_chỉ PMP Project Management Professional của Project Management Institute Mỹ
+PMP Preparation Exam tập_hợp những bài thi cho kỳ_thi PMP
+The One Minute Manager Vị Giám_đốc Một phút Cuốn_sách của Ken Blanchard và Spencer Johnson được dịch sang tiếng Việt do Công_ty First News – Trí_Việt phát_hành cho bạn những hướng_dẫn về quản_lý con_người rất hay và dễ áp_dụng
+Applied Software Project Management cung_cấp nhiều công_cụ kỹ_thuật và bài_tập để bạn thực_hành quản_lý một software project
+97 Things Every Project Manager Should Know cung_cấp đầy_đủ những kỹ_năng để Project Manager quản_lý dự_án thành_công Xem ngay công_việc Project Manager tại ITviec Project Manager là gì 4 tố chất cần có của Manager 3 bài_học cho Project Manager Giao_tiếp tồi phá_hủy sự_nghiệp của Project Manager 2
+PRODUCT OWNER Định_nghĩa về vị_trí Product Manager của Martin Eriksson MindTheProduct Product Owner còn được gọi_là Product Manager cũng là một công_việc lương cao trong ngành_IT
+Khác với Project Manager Product Owner chỉ tập trung phát triển một “sản phẩm” website phần_mềm v
+v…
+Vì vậy chức_danh này thường gặp trong công ty Product
+Product Owner thường làm những công_việc sau Lên kế_hoạch chi_tiết xây_dựng sản_phẩm bao_gồm code thiết_kế định_hướng nội_dung v
+v… Quản_lý phân_công công_việc cho các team Development Design và phối_hợp với team Marketing Sales… thực hiện kế hoạch trên
+Nghiên_cứu nhu_cầu người_dùng để lập_kế_hoạch thay_đổi nâng_cấp sửa_chữa sản_phẩm
+Phối hợp với các bộ_phận liên_quan như Sales Marketing chăm_sóc khách_hàng CS… để nghe phản_hồi từ người dùng và điều_chỉnh sản_phẩm cho phù_hợp
+Product Owner cũng chính là người phải trả_lời các câu_hỏi “Tại sao phải có sản_phẩm này
+” “Nên có gì trong sản_phẩm
+” và “Khi nào thì nên ra_mắt sản_phẩm
+” trước_khi các Developer Engineer bắt_đầu công_việc
+Mức lương của Product Owner
+Product Owner nhận lương trung_bình từ 1200-3000 USD hoặc cao hơn tùy quy_mô tính_chất của sản_phẩm
+Công_việc Product Owner tại TPHCM Công_việc Product Owner tại Hà_Nội Những kỹ_năng cần_thiết của một Product Owner là_gì
+1
+Kỹ năng quản lý hiệu_quả hoạt_động performance của sản_phẩm
+
+2
+Kỹ_năng giải_quyết vấn đề problem-solving skill bao_gồm tìm_hiểu nguồn_gốc của vấn_đề đưa_ra các giải_pháp đánh_giá và lựa_chọn giải_pháp
+3
+Kiến_thức tổng_quát về tất_cả các khía_cạnh của sản_phẩm từ thiết_kế và trải nghiệm người_dùng đến code và cấu_trúc dữ_liệu
+4
+Kỹ_năng giao tiếp để tương_tác tốt với các team liên_quan
+5
+Kỹ_năng nghiên_cứu hành_vi người dùng để đáp_ứng nhu_cầu của họ
+Những tài_liệu hữu_ích dành cho Product Owner Software Product Management Essentials cuốn_sách chia_sẻ các tip kỹ_năng và case study cần_thiết để quản_lý một Product
+Agile Product Management with Scrum cuốn_sách gồm những case study giúp các Product Manager tạo_ra những product thành_công với Scrum
+Making It Right Product Management For A Startup World cuốn_sách cung_cấp những  kỹ năng kinh nghiệm_thực_tế và các framework bảng biểu để bạn thực_hành làm một Product Manager thực_thụ
+Introduction to Software Product Management là khóa_học online miễn_phí của Đại học Alberta Canada giúp bạn hiểu_rõ tầm_quan_trọng và vai_trò của một Software Product Manager
+Agile Planning for Software Products là một khóa_học miễn_phí khác của Đại học Alberta hướng_dẫn cách lập_kế_hoạch quy_trình cho một Software Product theo phương pháp Agile
+Xem ngay công_việc Product Owner tại ITviec Product Owner là_gì
+Công_việc của Product Owner ra_sao
+Product Manager là_gì
+Công_việc của Product Manager trong E-commerce start-up Công_ty Product vs Outsourcing 3 điểm khác_biệt 3
+SOFTWARE ARCHITECT “Công trình” hằng ngày của một Software Architect Software Architect là “cánh tay phải” của một công ty Product được xem như “kiến trúc sư” xây_dựng kiến_trúc tổng_thể của phần_mềm và phương_thức hoạt_động cho phần_mềm_đó
+Công_việc cụ_thể gồm Phân_tích phần_mềm thành một nhóm module thành_phần nhỏ
+Tạo sự_liên_kết giữa các thành_phần đó với_nhau giúp chúng kết_hợp làm_việc trơn_tru
+Xây_dựng hạ_tầng để đáp_ứng yêu_cầu của các module thành_phần trên gồm bảo_mật security tiến_trình xử_lý transaction và quản_lý lỗi error handling
+Thẩm_định kiến_trúc đã tạo_ra
+Định_hướng cho các thành_viên trong team để họ làm_đúng theo cấu_trúc đã xây nên
+Vì số_lượng các công_ty Product ở Việt_Nam ngày_càng tăng vị_trí Software Architect cũng trở_nên phổ biến hơn
+Do_đó nếu bạn yêu_thích công_việc này hãy chuẩn_bị kiến_thức và kỹ năng  cần_thiết nhé
+Mức lương của Software Architect
+Software Architect có mức_lương trung_bình từ 2000-4000 USD
+Các Software Architect onsite ở nước_ngoài có_thể nhận mức_lương lên_đến 6000 USD
+Công_việc Software Architect tại TPHCM Công_việc Software Architect tại Hà_Nội Developer cần những gì để trở_thành Software Architect
+1
+Làm_việc nhiều với kiến_trúc tổng_thể của một sản phẩm để có cái nhìn toàn_diện về nó và phát_triển dần cách tư_duy của một Software Architect
+2
+Nắm_vững kiến_thức về một công_nghệ bao gồm cú pháp ngôn ngữ lập_trình APIs frameworks các mẫu thiết_kế nguyên_lý kiểm thử… để_trở thành một chuyên_gia kỹ_thuật về nó
+3
+Có kiến_thức nền_tảng về các công_nghệ liên quan để hỗ_trợ cho việc xây_dựng kiến_trúc cho sản_phẩm
+4
+Tính quyết đoán để đưa_ra quyết_định hợp_lý về công_nghệ kỹ_thuật cho sản phẩm
+5
+Khả_năng giao_tiếp tốt để truyền_đạt được tầm_nhìn vào thiết_kế_đó
+6
+Khả_năng lãnh đạo vì phải đưa_ra tầm_nhìn tốt cho hệ_thống và tạo động_lực cho team làm_việc lắng_nghe dẫn_dắt họ
+Các tài_liệu hữu_ích dành cho Software Architect Domain-Driven Design là cuốn sách giới thiệu hướng thiết_kế cho những hệ_thống lớn
+Patterns of Enterprise Application Architecture cuốn_sách cung cấp nhiều pattern phù_hợp để phát_triển hệ_thống lớn
+Software Architecture Patterns e-book miễn_phí này chia_sẻ cách vận_hành ưu_khuyết_điểm của nhiều pattern thường gặp trong công_việc của một Software Architect
+Software Architecture in Practice là quyển_sách đã đạt nhiều giải thưởng hướng dẫn những Software Architect tương_lai cách kiến_tạo một sản_phẩm chi_tiết nhất
+Software Architecture Design khóa_học online miễn_phí trong 2 tháng trên trang Udacity hướng_dẫn những kiến_thức cơ_bản trong việc kiến tạo và thiết_kế các hệ_thống phần_mềm
+Xem ngay công_việc Software Architect tại ITviec Làm_sao để_trở thành Technical Architect Làm_sao để_trở thành Software Architect 4
+IT MANAGER Vị_trí IT Manager thường gặp ở các công_ty có lĩnh_vực kinh_doanh chính ngoài ngành_IT
+Công_việc của IT Manager thường bao_gồm Lên kế_hoạch tổ_chức và quản_lý hạ_tầng và nhân_viên để đảm_bảo hạ_tầng IT của công_ty vận_hành ổn_định và an_toàn
+Phân_tích nhu_cầu mạng máy_tính và góp_phần thiết_kế kiến_trúc tích_hợp và lắp_đặt mạng
+Duy_trì phần_cứng và phần_mềm của mạng
+Làm_việc với người_dùng để đảm_bảo nền_tảng hệ_thống máy_tính đáp_ứng được nhu_cầu của họ
+Thiết_lập và kiểm_soát quyền truy_cập hệ_thống đảm_bảo an_ninh và bảo_mật cho hệ_thống
+Hỗ_trợ và hướng_dẫn người_dùng sử_dụng và quản_trị mạng nội_bộ
+Duy_trì sự_ổn_định cho hệ_thống tối_ưu sử_dụng tài_nguyên cài_đặt và kiểm_tra các bản nâng_cấp phần_mềm
+Đào_tạo phân_công và giám_sát công_việc của các nhân_viên trong nhóm
+Tư_vấn soạn_thảo các quy_trình quy_định trong phạm_vi công_việc
+Mức_lương của IT Manager
+IT Manager là một trong những công_việc lương cao trong ngành_IT
+Mức_lương cho vị_trí này thường dao_động từ 1000 USD đến 2000 USD
+Công_việc IT Manager tại TPHCM Công_việc IT Manager tại Hà_Nội_Các kỹ_năng cần có của IT Manager là_gì
+1
+Nắm_vững kiến_thức về hệ_thống hạ_tầng IT
+2
+Kỹ_năng giải_quyết vấn_đề bao_gồm tìm_hiểu nguồn_gốc của vấn_đề đưa_ra các giải_pháp đánh_giá và lựa_chọn giải_pháp
+3
+Khả_năng giao_tiếp và kết_nối tốt với các phòng ban để hiểu và đáp_ứng nhu_cầu của họ
+4
+Khả_năng làm_việc nhóm hiệu_quả
+Tài_liệu dành cho IT Manager IT Infrastructure Architecture Infrastructure building blocks and concepts cuốn_sách của Sjaak Laan giải_thích các khái_niệm lịch_sử và cách thực_hiện một cơ_sở hạ_tầng IT mạnh và ổn_định
+CIO Paradox Battling the Contradictions of IT Leadership cuốn_sách rất thú_vị và bổ_ích nếu bạn đặt mục_tiêu ở thành CIO – Chief Information Officer
+Xem ngay công_việc IT Manager tại ITviec 5
+FULL-STACK DEVELOPER Full-stack Developer là người có khả_năng làm cả Front-end lẫn Back-end của sản_phẩm
+Những công_việc thường làm bao_gồm Làm_việc với những Developer khác để xác_định các kiến_trúc lập_trình các giải_pháp tốt nhất nhằm đáp_ứng yêu_cầu công_việc
+Lên kế_hoạch code test và triển_khai sản_phẩm
+Code cả front-end và back-end cho sản_phẩm
+Review code và test sản_phẩm trước_khi deploy Fix bug khi xảy_ra lỗi
+Mức_lương của Full-stack Developer
+Với mức_lương thường dao_động từ 1000 USD đến 2500 USD Full-stack Developer góp_mặt trong danh_sách những công_việc lương cao nhất ngành_IT
+Công_việc Full-stack Developer tại TPHCM Công_việc Full-stack Developer tại Hà_Nội Full-stack Developer cần có những kỹ_năng gì
+1
+Làm tốt các công_việc liên_quan đến front-end HTML CSS JavaScript frameworksthư viện
+2
+Thông_thạo một trong những ngôn_ngữ lập_trình back-end
+3
+Kỹ_năng phân_tích xác_định và giải_quyết vấn_đề bao_gồm tìm_hiểu nguồn_gốc của vấn_đề đưa_ra các giải_pháp đánh_giá và lựa_chọn giải_pháp
+4
+Kỹ_năng giao_tiếp tốt để làm_việc với các bên liên_quan
+5
+Tính ham học_hỏi liên_tục cập_nhật kiến_thức và kỹ_năng mới
+Công_việc Senior Full-stack Developer tại TPHCM Công_việc Senior Full-stack Developer tại Hà_Nội Một_số tài_liệu hay dành cho Full-stack Developer Trang web Mozilla Developer Network có_nhiều links dẫn đến các tutorials miễn_phí về HTML CSS và JavaScript ở mức_độ cơ_bản trung_cấp và nâng_cao
+Learning JavaScript Design Patterns là cuốn_sách của Addy Osmani dành cho những lập_trình viên muốn nâng_cao kiến_thức về design patterns và cách áp_dụng chúng vào ngôn_ngữ lập_trình JavaScript
+jQuery Succinctly e-book miễn_phí của Cody Lindley trình_bày ngắn_gọn những khái_niệm thiết_yếu cho việc lập_trình jQuery ở mức_độ trung_cấp và cao_cấp
+Patterns of Enterprise Application Architecture cuốn_sách của Martin Fowler cung_cấp nhiều pattern phù_hợp để phát_triển hệ_thống lớn
+Xem ngay công_việc Full-stack Developer tại ITviec Full Stack Developer là_gì
+Có lợi_ích gì cho sự_nghiệp của bạn
+Bạn muốn thành_công
+Hãy là một Full-Stack Developer với thái_độ tốt 6
+DEVOPS ENGINEER Mô_tả công_việc của một DevOps Nhờ tính_năng_động và kiêm_nhiệm DevOps Engineer là một trong những công_việc được trả_lương tốt nhất ngành IT hiện_nay
+Nhiệm_vụ chính của vị_trí này thường bao_gồm Xây_dựng thiết_kế hệ_thống để các team Development Testing và Operation làm_việc trơn_tru xuyên_suốt tối_ưu_hóa vòng_đời phát_triển phần_mềm SDLC – Software Development Life Cycle tiết_kiệm thời_gian hoàn_thành sản_phẩm
+Phối_hợp với các team trên trong các giai_đoạn khác_nhau của phát_hành sản_phẩm bao_gồm Build xây_dựng Deploy triển_khai Test kiểm thử và Continuous Improvement cải_tiến liên_tục
+Khắc_phục sự_cố và duy_trì hệ_thống phần_mềm hàng_ngày
+Liên_tục nghiên_cứu đánh_giá và làm_việc với các công_nghệ mới để tối_đa_hóa hiệu_quả của phần_mềm
+Sử_dụng các công_cụ DevOps điện toán đám_mây hạ tầng… để tăng hiệu_quả đầu_ra của sản_phẩm
+Mức lương của DevOps Engineer
+DevOps Engineer là một công_việc lương cao trong ngành IT với mức_lương trung_bình vào_khoảng 1000-2500 USD
+Công_việc DevOps tại TPHCM Công_việc DevOps tại Hà_Nội Chân_dung một DevOps Engineer 1
+Có khả_năng làm_việc với nhiều công nghệ và sử_dụng thành_thạo các công_cụ để phục_vụ nhiều quy_trình
+2
+Có khả_năng code script deploy và test vì phải phối_hợp với tất_cả các team trong quy_trình làm sản_phẩm
+3
+Có khả_năng làm_việc sâu_sát với hệ thống để đảm_bảo sự_kết_nối xuyên_suốt trong quá_trình thực_hiện
+4
+Có khả năng quản_lý dữ liệu với lượng data khổng_lồ liên_quan tới nhiều team và nhiều công_việc khác_nhau
+5
+Có kỹ_năng làm_việc cross-team
+ Đây là kỹ_năng quan_trọng nhất của một DevOps Engineer vì công việc này đòi_hỏi khả_năng làm_việc nhóm rất cao
+Điều mà bất kì DevOps Engineer nào_cũng phải ghi_nhớ là khả_năng kỹ_thuật không làm_nên vị_trí này mà phải có tư_duy DevOps để  phối_hợp chặt_chẽ hài_hòa giữa các team và các giai đoạn làm sản_phẩm
+Công_việc Senior DevOps tại TPHCM Công_việc Senior DevOps tại Hà_Nội Những e-book miễn_phí dành cho DevOps Engineer DevOps For Dummies giúp bạn hiểu những khái_niệm cơ_bản về nghề DevOps
+From Agile to DevOps at Microsoft Developer Division cung_cấp các tool case và hướng_dẫn cho những công_ty chuyển từ phương_pháp Agile sang DevOps
+How to Enhance IT Support with DevOps hướng_dẫn bạn cách làm_việc cross-team khi áp_dụng phương pháp DevOps
+Xem ngay công_việc DevOps tại ITviec DevOps là_gì
+DevOps Engineer là làm_gì
+7
+ TESTER Định_nghĩa về Tester và Developer theo blogger QA- QC Arena Tester Chuyên_viên Kiểm thử Phần_mềm là người chịu_trách_nhiệm kiểm_tra chất_lượng của phần mềmứng dụng trước_khi đưa_vào sử_dụng hoặc bàn_giao cho khách_hàng
+Đây là công_việc “hot” do nhu_cầu tuyển_dụng rất cao
+Tùy dự_án giai_đoạn và loại Testing Manual hay Automation mà công_việc của mỗi Tester có_thể sẽ rất khác_nhau
+Công_việc cụ_thể của Manual Tester Nhận yêu_cầu của khách_hàng
+Thiết_kế Test Case
+Tiến_hành các Test Case
+Báo_cáo lỗi và kết_quả Testing để Developer sửa
+Công_việc cụ_thể của Automated Tester Nhận yêu_cầu khách_hàng
+Viết script cho trường_hợp kiểm_thử
+Tiến_hành theo script
+Debug lỗi
+Báo_cáo lỗi và kết_quả Testing
+Con_đường sự_nghiệp vị_trí ban_đầu là Tester chuyên_viên kiểm thử phần_mềm rồi đến Test Leader Test Manager và Test Director
+Công_việc Tester tại TPHCM Công_việc Tester tại Hà Nội Tester vs QC vs QA
+Cả Tester và QC Quality Control QA Quality Assurance đều nằm_trong nhánh nghề_nghiệp về kiểm_định và quản_lý chất_lượng
+Tuy_nhiên 3 công_việc này có sự_khác_biệt với_nhau cụ_thể Tester chỉ chịu trách nhiệm kiểm tra phần_mềm tìm_kiếm các lỗi thiếu_sót trong sản_phẩm trong quá_trình thực_thi hệ_thống để Developer sửa lại làm việc độc_lập với team QC và QA
+QA giám_sát quản_lý và ban_hành tiêu_chuẩn chất_lượng cho sản_phẩm cũng_như quyết_định phương_pháp và tool nào để kiểm_tra
+QC kiểm_tra và kiểm_soát chất_lượng sản_phẩm giữa các công_đoạn sản_xuất và ở khâu thành_phẩm là người thực_thi kế_hoạch của QA
+Mức lương của Tester Trái_với suy_nghĩ của nhiều người Tester là một công_việc lương cao trong ngành IT trung_bình từ 500-2000 USD
+Automated Test Developer giỏi thậm_chí có_thể được trả đến 3000 USD
+Công_việc Senior Tester tại TPHCM Công_việc Senior Tester tại Hà_Nội Kỹ_năng và kiến_thức cần cho một Tester 1
+Phương_pháp test cho từng case cụ thể tương ứng với từng domain quy_trình sản_phẩm khách_hàng loại lỗi đòi_hỏi Tester phải nắm_vững kiến_thức cơ_bản về phần_mềm và kinh_nghiệm test đa dạng sản phẩm
+2
+Tư_duy phân_tích và tư_duy logic từ nhiều_góc độ để tìm_ra được những lỗi ẩn sâu trong sản_phẩm
+3
+Luôn tò_mò đặt_câu hỏi để nhìn ra được những vấn_đề mà ngay_cả các Developer còn thiếu_sót trong sản_phẩm
+4
+Kỹ_năng học_hỏi nhanh để thích_ứng với nhiều vấn_đề lỗi trong các domain công_nghệ mới
+5
+Tính tỉ mỉ để xác_định chính_xác mọi lỗi nhỏ trong từng dấu_chấm dấu_phẩy và sự logic của thông_điệp hình_ảnh
+6
+Kỹ_năng giao tiếp khéo léo để truyền_tải được ý_nghĩa của việc kiểm thử đến các team liên_quan
+Những tài_liệu hay dành cho Tester Blackbox Software Testing Course BBST là khóa_học online cung_cấp kiến_thức từ cơ_bản đến nâng_cao về Testing
+uTest University courses các khóa học online về Software Testing từ cơ_bản đến nâng_cao
+MinistryOfTesting trang web có các khóa học online chất_lượng giúp Software Testers nâng_cao tay_nghề
+Guru99 trang web cung_cấp nhiều tutorial miễn_phí cho Tester
+Blog Developsense
+com của Michael Bolton về mọi vấn_đề của Testing
+Blog Satisfice
+com của James Bach cung_cấp sách video tutorial hữu_ích cho Tester
+StickyMinds
+com của TechWell cập_nhật tin_tức resource và các câu_hỏi về nghề
+Testingvn và VNTester
+com là hai forum giúp bạn hỏi_đáp và cập_nhật tin_tức về nghề
+Xem ngay công_việc Tester tại ITviec Kiểm thử phần_mềm ai làm chẳng được
+Tester là_gì
+Kỹ_năng nào cần để_trở thành Tester giỏi
+Công_việc QA là_gì
+3 lời_khuyên để_trở thành Automation Tester 8
+BRIDGE SYSTEM ENGINEER Bridge System Engineer BrSE – kỹ_sư cầu_nối là người_làm nhiệm_vụ kết_nối “team nhà” với khách_hàng đảm_bảo hai bên thông_hiểu nhau và việc hợp_tác được thuận_lợi suôn_sẻ
+Do_đó BrSE phải theo dự_án từ đầu tới cuối và nắm_được mọi_việc để có_thể ứng_phó kịp_thời
+Nghề BrSE chia_làm nhiều nhánh công_việc cụ_thể thay_đổi theo từng giai_đoạn quy_mô cũng_như tính_chất dự_án
+Nhưng nhìn_chung có_thể hiểu như_sau BrSE = Developer + Business Analyst + Tester + Project Manager Con_đường sự_nghiệp bắt_đầu với vị_trí Junior BrSE cần người theo_sát để kèm_cặp sau_đó phát_triển dần lên BrSE có_thể làm_việc độc_lập Onsite Lead PreSale… Mức_lương của BrSE Do yêu_cầu nhiều kỹ_năng tổng_hợp nên BrSE là một công_việc lương cao trong ngành IT với mức_lương dao_động từ 1000 USD đến 2500 USD
+Nếu làm_việc ở Nhật  BrSE có_thể được trả đến 3500 USD
+Kỹ_năng và kiến_thức cần cho một BrSE 1
+Code vững để có_thể đảm_nhiệm từ A-Z trong các dự_án pilot cũng_như hiểu_rõ các vấn đềgiải pháp kỹ_thuật để truyền_đạt đúng đủ cho cả hai phía đội nhà – đội_khách
+2
+Ngoại_ngữ tốt
+Với BrSE cho thị_trường Nhật bạn cần ít_nhất N2 để có_thể làm_việc độc_lập
+3
+Kỹ_năng giao_tiếp biết cách lắng nghe; tránh xung_đột ngay từ đầu; thu_thập thông_tin đầy_đủ để hiểu_rõ hiểu_sâu vấn đề; trình_bày vấn_đề ngắn_gọn dễ_hiểu đầy_đủ
+4
+Tự_học để luôn nâng_cao kiến_thức kỹ_năng do mỗi dự_án sử_dụng một ngôn_ngữ lập_trình và framework khác_nhau
+Những resource hay cho BrSE Blog kysubrse
+com blog của Nguyễn_Văn_Trọng một kỹ_sư cầu nối có hơn 5 năm kinh_nghiệm onsite tại Nhật
+Bạn sẽ tìm thấy những chia_sẻ chi_tiết về nghề BrSE tại_đây
+Kỹ_sư cầu_nối là_gì
+Con_đường trở thành kỹ_sư cầu_nối Xem ngay công_việc BrSE tại ITviec Kỹ_sư cầu_nối BrSE là_gì
+Con_đường trở thành kỹ_sư cầu nối Quan_điểm của bạn về những công_việc lương cao kể_trên
+Bạn biết những công_việc lương cao khác trong ngành_IT
+Hãy chia_sẻ với ITviec nhé
+Và đừng quên tham_khảo việc_làm Developer tại ITviec
+Related posts 3 bước thương_lượng mức_lương cao hơn Cách đàm_phán mức_lương cao hơn khi nhảy việc Lương của lập_trình viên như bạn thấp tại_sao vậy
+Sử_dụng 3 tips sau để marketing bản_thân nhận lương cao hơn Chia_sẻ bài_viết

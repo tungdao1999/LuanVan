@@ -1,0 +1,22 @@
+khánh hoàng khanhhoang Follow 150 3 19 Published about 3 hours ago 2 min read 10 0 0 Reactjs advanced hooks phần 1 Happy New Year Report Trong bài chia_sẻ lần_trước mình có nói về một hooks là useMemo
+Hôm_nay mình sẽ giới_thiệu thêm cho các bạn về một_chút Advance Hooks trong React
+Chúng_mình cùng đi tìm_hiểu nhé
+useState import React useState form 'react';function Count  const [count setCount] = useState0; return     Click count    setCountcount + 1    Click me       Trên đây là một ví_dụ mình dùng một hook của react là useState
+Hook phải được gọi bên_trong function component
+useState trả về một cặp_dữ_liệu tham_số thứ_nhất là một local state được khai_báo khi tạo một hook tham_số thứ 2 là một handler cho_phép bạn thay_đổi được giá_trị của local state nó tương_tự như this
+state được dùng ở class
+Chúng_ta có_thể khai_báo nhiều state hook cùng một_lúc
+Điều quan_trọng chú_ý là khi state thay_đổi thì sẽ re-render lại component
+useEffect import React useState useEffect form 'react';function Count  const [count setCount] = useState0;  giống như componentDidMount và componentDidUpdate useEffect =  console
+log1; []; dependency return     Click count    setCountcount + 1    Click me       State này là sự_kết_hợp của 3 phương_thức componentDidMount componentDidUpdate componentWillUnmount kết_hợp lại với_nhau useEffect cho_phép chúng_ta xử_lý logic và được gọi mỗi khi có sự_thay_đổi
+useEffect dựa_vào dependency để quyết_định có chạy hay_không khi bạn không truyền dependency vào thì nó sẽ chạy luôn khi component render
+Hook này rất hay khi chúng_ta muốn cho func có chạy hay không
+Các quy_tắc sử_dụng Hooks Hooks là các function javascript có những quy_luật bạn phait tuân_theo khi sử_dụng chúng
+Chỉ sử_dụng Hook ở trên cùng
+Không gọi hook trong các vòng lặp điều_kiện hay các func lồng_nhau
+Chỉ_gọi Hook ở trong function component hoặc từ custom Hook Bạn có_thể lên npm tải plugin eslint-plugin-react-hooks nó sẽ tự_động kiểm_tra xem bạn đã dùng đúng chưa và đưa_ra cảnh_báo
+Ok
+Chắc chúng_ta dừng ở_đây nhỉ để các bạn_đọc hiểu thêm về hai hook này trước bài sau mình sẽ giới_thiệu thêm cho các bạn những hook hay ở bài tiếp_theo
+Mình khuyết khích các bạn_đọc và tìm_hiểu thêm trên doc của reactjs
+Tổng_kết Qua vài những chia_sẻ nhỏ ở trên của mình sẽ giúp được các bạn hiểu thêm về hook
+Mình cảm_ơn các bạn đã đọc_bài_viết của mình nếu mình có nhầm chỗ nào mong các bạn góp_ý giúp mình ạ ReactJS All Rights Reserved Report

@@ -1,0 +1,36 @@
+Nguyen Trong Hieu Eval Follow 88 1 21 Published about 21 hours ago 4 min read 9 0 0 Sử_dụng autoclosure trong Swift để cải_thiện hiệu_suất Report autoclosure trong Swift là một loại closure cho_phép bỏ_qua dấu ngoặc nhọn và làm_cho nó trông giống như một biểu_thức bình_thường
+Tuy_nhiên đi_sâu vào chi_tiết hơn thì nó vẫn là một closure
+Việc sử_dụng nó cho_phép chúng_ta có_thể cải_thiện hiệu_quả code của mình hơn
+Từ khóa autoclosure có_thể là mới đối_với bạn và đối_với nhiều người trong chúng_ta thật khó để đưa_ra các trường_hợp sử_dụng cho nó
+Tuy_nhiên nếu quan_sát kỹ bạn sẽ nhận_thấy rằng nó được sử_dụng trong các thư_viện API Swift tiêu_chuẩn mà bạn đang sử_dụng hàng_ngày 1
+autoclosure là_gì
+Tất_cả nằm_trong tên_gọi của nó autoclosure tự_động tạo một closure từ một đối_số được truyền cho một function
+Chuyển một đối số_thành một closure cho_phép chúng_ta trì_hoãn yêu_cầu thực_tế của đối_số
+Hãy giải_thích điều này chi_tiết hơn bằng cách sử_dụng ví_dụ code sau
+Trong ví_dụ này chúng_ta đã tạo method debugLog và struct Person mà chúng_ta sẽ in ra struct Person CustomStringConvertible let name String var description String printAsking for Person description
+return Person name is \name let isDebuggingEnabled Bool = false func debugLog  message String You could replace this in projects with if DEBUG if isDebuggingEnabled print[DEBUG] \message let person = Personname Eval debugLogperson
+description Prints Asking for Person description
+Mặc_dù chúng_ta đã tắt debugging struct Person vẫn được yêu_cầu description của nó
+Điều này là do đối_số message của debugLog được tính trực_tiếp
+Chúng_ta có_thể giải_quyết vấn_đề này bằng cách sử_dụng closure let isDebuggingEnabled Bool = false func debugLog  message - String You could replace this in projects with if DEBUG if isDebuggingEnabled print[DEBUG] \message let person = Personname Eval debugLog person
+description Prints - Closure message chỉ được gọi khi debugging được bật
+Bạn có_thể thấy rằng bây_giờ chúng_ta cần phải chuyển đối số closure vào method debugLog nên nhìn trông không_được đẹp_mắt cho lắm
+Chúng_ta có_thể cải_thiện đoạn code này bằng cách sử_dụng từ khóa autoclosure let isDebuggingEnabled Bool = false func debugLog  message autoclosure - String You could replace this in projects with if DEBUG if isDebuggingEnabled print[DEBUG] \message let person = Personname Eval debugLogperson
+description Prints - Logic bên_trong phương_thức debugLog vẫn giữ_nguyên và vẫn phải làm_việc với một closure
+Tuy_nhiên về mức_độ thực_hiện bây_giờ chúng_ta có_thể truyền đối_số như_thể nó là một biểu_thức bình_thường
+Nó trông vừa clean và quen_thuộc khi chúng_ta đã tối_ưu_hóa code debug logging của mình
+autoclosure cho_phép trì_hoãn quá_trình tính_toán thực_tế của đối số giống như chúng_ta đã thấy trước_đây với các lazy collections và lazy properties
+Trên thực_tế nếu debugging không_được bật chúng_ta sẽ không_còn tính_toán debug descriptions như trước_đây nữa
+2
+Ví_dụ về các API Swift tiêu_chuẩn sử_dụng autoclosure Bây_giờ chúng_ta đã biết cách autoclosure hoạt_động chúng_ta có_thể xem qua các thư_viện API tiêu_chuẩn sử_dụng từ khóa này
+Một ví_dụ phổ_biến là function assertconditionmessagefileline
+Điều_kiện của nó chỉ được đánh_giá if DEBUG là true và message của nó chỉ được gọi nếu điều_kiện không thành_công
+Cả hai đối_số đều là auto closure
+Trên thực_tế nhiều API testing sử_dụng tính_năng autoclosure
+Ví_dụ như đây public func XCTAssert  expression autoclosure throws - Bool message autoclosure - String = file StaticString = file line UInt = line XCTAssertTruetry expression message file file line line 3
+Kết_luận autoclosure có_thể là một giải_pháp tuyệt_vời để ngăn_chặn công_việc không cần_thiết nếu code không thực_sự được sử_dụng
+Về mức_độ thực_hiện mọi_thứ trông giống_nhau chi_tiết hơn thì chúng_ta đã tối ưu hóa code của mình
+Hy_vọng rằng điều này sẽ giúp bạn trong việc code hiệu_quả hơn 😍
+Vậy_là bài_viết của mình đến đây là hết 😁
+Cảm_ơn các bạn đã theo_dõi bài_viết
+😃 Swift All Rights Reserved Report

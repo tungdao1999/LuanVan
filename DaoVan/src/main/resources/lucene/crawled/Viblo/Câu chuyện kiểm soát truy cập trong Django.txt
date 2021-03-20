@@ -1,0 +1,87 @@
+hiepkyou hiepkyou Follow 200 4 14 Published about 5 hours ago 4 min read 14 0 0 Câu_chuyện kiểm_soát truy_cập trong Django
+Report Nếu bạn đang xây_dựng một ứng_dụng với Django có_thể bạn sẽ muốn kiểm_soát quyền truy_cập ứng với từng loại user
+Ví_dụ Bạn có_thể muốn tạo_ra sự_khác_biệt trong thông_tin mà người_dùng premium và người_dùng thông_thường trên các trang web dành cho thành_viên
+Những tính_năng này sẽ phổ_biến trên các trang web có quy_mô lớn hơn một_chút
+Có nhiều cách để kiểm_soát quyền truy_cập với Django
+Một_số trong_số chúng được tích_hợp sẵn vào Django hoặc được cung_cấp dưới dạng application
+Trong bài_viết này tôi sẽ so_sánh chúng để xem chúng có_thể được sử_dụng như_thế_nào và chúng phù_hợp với những trường_hợp nào
+Cấu_trúc của bài_viết này là như_sau
+Permission trong Django Django-guardian Django-role-permissions Django-rules Permission trong Django Permission trong Django chính là permission của level model được nhóm vào các Group
+Trường_hợp trong INSTALLED APPS có django
+contrib
+auth thì khi thời_điểm run migrate thì tất các các model sẽ được tạo thêm quyền View add change delete
+Ghi gán những quyền này với các Group và User thì sẽ có_thể giới_hạn được các thao_tác theo các quyền được gán
+Lấy một ví_dụ như Trong một Application có tên là app có model tên là Post vậy khi run migrate thì sẽ có 3 permission như_sau được tạo_ra
+app
+add post app
+change post app
+delete post app
+view post Để xác_nhận rằng các quyền này dã được cho user hay chưa chúng_ta dùng method has perm được cung_cấp bởi model User user
+has perm'app
+add post'True Việc xoá và gán quyền có_thể thực_hiện được từ 「User permissions」 của màn quản_lý
+Từ template nếu muốn tham_chiếu tới quyền chúng_ta có_thể sửa dụng biến perms được thêm_vào tự_động trong content
+if perms
+app
+view post This content will be shown users with view post permission
+endif Đến đây chúng_ta đã hình_dung được về quyền mà nó được tự_động thêm_vào vậy làm_thế_nào để customize lại theo ý_thích của bản_thân
+Bằng việc đinh nghĩa Customize permission chúng_ta có_thể làm dược việc này
+Và chúng_ta sẽ sử_dụng tuộc tín permissions của Model
+class Postmodels
+Model content = models
+TextField author = models
+ForeignKeyUser on delete=models
+CASCADE class Meta permissions = 'view content' 'View content' Đến đây khi run migrate tự_động các quyền sẽ được tạo_ra
+Để nắm_bắt được chi_tiết hơn hãy tham_khảo httpsdocs
+djangoproject
+comendevtopicsauthdefaultpermissions-and-authorization Django-guardian Django-guardianlà app có_thể implement permission của level Object
+Đối_với permission của Django thì sẽ handle được_việc access tới toàn_bộ Object trong model thì django-guardian có_thể handle access tới instance của các model riêng_biệt
+Hãy cùng lấy ví_dụ để hiểu_rõ hơn ví_dụ User A đã tạo 100Post User B tạo 200Post
+Trong trường_hợp này khi sử_dụng django-guardian thì có_thể handle được_việc User không_thể access vào 200Post
+from django
+contrib
+auth
+models import User from guardian
+shortcuts import assign perm from app
+models import Post john = User
+objects
+createusername='john' post = Post
+objects
+createcontent='This is the content
+' author=john john
+has perm'view content' postFalse assign perm'view content' john post john
+has perm'view content' postTrue Việc định_nghĩa của Permission không_chỉ với User mà có_thể ứng với cho cả Group
+from django
+contrib
+auth
+models import Group group = Group
+objects
+createname='editors' assign perm'view content' group post bob = User
+objects
+createusername='bob' bob
+groups
+addgroup bob
+has perm'view content' postTrue Tham_khảo chi_tiết hơn tại httpsdjango-guardian
+readthedocs
+ioenstable Django-role-permissions Là Application để quản_lý permission bởi base role
+Chúng_ta sẽ không setting riêng_biệt việc User nào có tể access vào Object nào mà sẽ tiến_hành định_nghĩa Role và quản_lý base theo định_nghĩa này
+from rolepermissions
+roles import AbstractUserRoleclass WriterAbstractUserRole available permissions = 'create content' True 'view content' True class ReaderAbstractUserRole available permissions = 'create content' False 'view content' True User được phân_bổ các role có_thể check được về các role của user đó và permission
+from rolepermissions
+checkers import has permission has role from rolepermissions
+roles import assign role has rolejohn WriterFalse assign rolejohn Writer has rolejohn WriterTrue has permissionjohn 'create content'True Check quyền của Object level from rolepermissions
+permissions import register object checkerregister object checkerdef edit contentrole user obj if role == Writer return True if obj
+author == user return True return False Khi cần gọi thì sẽ làm_như sau from rolepermissions
+checkers import register object checker has object permission'edit content' john post Tham_khảo link sau để biết thêm chi_tiết httpsdjango-role-permissions
+readthedocs
+ioenstable Django-rules Cũng implement permission của object level
+Đặt biết điểm nổi_bật đó là không sửa dụng database model trong quản_lý permission
+Trước_tiên cần đinh nghĩa biến_số trả_vè giá_trị luận_lý
+Khi có cần gán thêm rules
+predicate
+rules
+predicatedef is post writteruser obj return obj
+author == user Tiếp đến gán permission với biến đã định_nghĩa
+rules
+add rule'can edit post' is post writer Sau_đó sử dụn Object và tiến ảnh test permission
+rules
+test rule'can edit post' john postTrue Role Permission Django Python All Rights Reserved Report

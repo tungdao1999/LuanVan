@@ -9,6 +9,9 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import lucene.search.FileSearcher;
+import resource.ResourcesUtils;
+
 public class ITViecWebCrawler extends ArticleWebCrawler {
 
 	//static String webDomain = "https://viblo.asia";
@@ -50,6 +53,14 @@ public class ITViecWebCrawler extends ArticleWebCrawler {
 		String articleLink, articleName, articleContent = null;
 		while (!strategy.isDone()) {
 			articleLink = strategy.nextLink();
+			try {
+				if(isExist(articleLink)) {
+					continue;
+				}
+			} catch (Exception e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			}
 			System.out.println(articleLink);
 			try {
 				document = Jsoup.connect(articleLink).get();
@@ -80,6 +91,12 @@ public class ITViecWebCrawler extends ArticleWebCrawler {
 
 	}
 
+
+	private boolean isExist(String articleLink) throws Exception {
+		// TODO Auto-generated method stub
+		FileSearcher fs = new FileSearcher(ResourcesUtils.resourcePath + "/lucene/index");	
+		return fs.checkExistedLink(articleLink);
+	}
 
 	@Override
 	public void crawlArticle(String link) {

@@ -1,0 +1,64 @@
+Nội_dung Cách_viết CV xin_việc dành cho lập_trình viên_tưởng dễ mà khó CV xin_việc gồm mấy_phần
+Theo một khảo_sát các công_ty đăng tuyển tại ITviec có đến 80 CV không hiểu những gì nhà tuyển_dụng cần
+Vậy thì cách_viết CV xin_việc dành cho lập_trình viên như_thế_nào thì nhà tuyển_dụng mới chú_ý đến
+Khi đọc xong bài_viết này bạn nhất_định sẽ nằm_trong top 20 CV xin_việc hiểu được mong_đợi của mọi nhà tuyển_dụng cũng_như nắm_được cách_viết CV xin_việc đơn_giản mà đúng_chuẩn
+Gần_đây ITviec đọc được một bài_viết khá thú_vị của Greg Beech – Principal Engineer của Deliveroo – về điều mà ông tìm_kiếm ở CV của một lập trình_viên
+Đây cũng_như là “tiếng lòng” chung của nhiều nhà tuyển_dụng tại Việt_Nam
+Xem thêm việc_làm Developer trên ITviec Cách_viết CV xin_việc dành cho lập_trình viên_tưởng dễ mà khó Lời_khuyên của Greg Beech về cách_viết CV xin_việc chuyên_nghiệp cho những bạn lập trình_viên chỉ đơn_giản mà đánh_trúng tâm_lý nhà tuyển_dụng thế này thôi Ngắn_gọn Bạn muốn làm một lập_trình viên không_phải vào vị_trí biên_tập ở một tòa_soạn nào_đấy
+Đừng viết dài_dòng
+Chẳng nhà tuyển_dụng nào muốn đọc từng từ trên một chiếc CV dài 8 trang đâu_dù CV bạn có chất_lượng đến như_thế_nào đi chăng_nữa
+Tập_trung vào những gì bạn giỏi nhất Bạn là một lập_trình viên có kinh_nghiệm hẳn bạn đã làm_việc với nhiều ngôn_ngữ nhiều nền_tảng nhiều mô_hình nhiều dự_án khác_nhau nhưng bạn không_cần phải nhắc_đến tất_cả những điều đó vì chưa_chắc bạn là “bậc thầy” ở tất_cả mọi lĩnh_vực
+Show don’t tell – Thể_hiện đừng kể_lể Hãy đưa_ra những thành_tựu sản_phẩm mà bạn đã đạt được
+Một_vài số_liệu cụ_thể hoặc link dẫn đến sản_phẩm dẫn đến project GitHub của bạn sẽ đáng tin hơn những lời nói_suông
+Cuối_cùng đừng quên rằng nhà tuyển_dụng chỉ chấp_nhận CV không lỗi chính_tả không lỗi ngữ_pháp và không mắc_lỗi viết_hoa đầu dòng
+Công_việc lập_trình đòi_hỏi sự_chính_xác
+Nếu bạn không_thể viết vài trang CV không có lỗi thì làm_sao nhà tuyển_dụng tin được rằng code của bạn cũng không có lỗi
+Đấy chỉ đơn_giản thế này thôi
+Bạn có_thể dừng đọc_bài_viết này ở_đây nhưng nếu bạn thực_sự muốn biết cách_viết CV đơn_giản mà chuyên_nghiệp để chinh_phục cả những nhà tuyển_dụng khó nhất ITviec sẽ giúp bạn trong phần_sau của bài_viết này
+Tham_khảo thêm GitHub là_gì
+3 lợi_ích GitHub mang lại cho Developer
+CV xin_việc gồm mấy_phần
+Cách_viết CV xin_việc đơn_giản không khó
+Để viết CV xin_việc đơn_giản lập_trình viên chỉ cần làm CV có ba phần cơ_bản Tóm_tắt bản_thân Kinh_nghiệm làm_việc và Bằng_cấp
+Cách_viết CV xin_việc phần Tóm_tắt bản_thân Đây là phần_đầu trong CV của bạn
+Hãy nhớ một câu_thế này “First impression lasts” hay như một câu_nói quen_thuộc hơn “Ấn tượng đầu_tiên rất quan trọng”
+Chính vì_thế hãy làm_cho phần mở_đầu của bạn khiến cho nhà tuyển_dụng muốn tìm_hiểu hơn về_bạn
+Vậy thì cách_viết CV nào “nắm bắt” được nhà tuyển_dụng đây
+“Tóm tắt” chỉ cần vài câu là đủ nhưng nó phải cho_biết bạn là ai bạn tìm_kiếm không tìm_kiếm điều_gì trong công việc; cho_biết bạn thích và không thích platform ngôn_ngữ lập_trình nào vì_sao như vậy; bạn giỏi chưa giỏi ở những mặt_nào
+Đừng ngần_ngại chia_sẻ những điều bạn không thích vì một sự_thật “lạ lùng” trong cách_viết CV đó là những thông_tin như_vậy lại thú_vị thu_hút sự_chú_ý của nhà tuyển_dụng nhiều hơn
+Và hãy nhớ về lời_khuyên mà ITviec đã nhắc_đến ở trên Ngắn_gọn
+Đừng viết những thông_tin vô_nghĩa như bạn là một người đầy nhiệt_huyết đam_mê với nghề lập_trình có_thể chịu được áp_lực công_việc cao… Bởi_vì bất_kỳ ai cũng có_thể viết những lời như_vậy cả
+Hãy chỉ nhắc_đến những vấn_đề có liên_quan với công_việc bạn đang muốn ứng_tuyển vào
+Nếu bạn thật_sự có niềm đam_mê với việc lập_trình hãy Thể_hiện đừng kể_lể
+Bạn có_thể dẫn link đến một dự_án GitHub của bạn một trang blog cá_nhân đến Stack Overflow profile hoặc bất_kỳ một sản_phẩm dự_án cá_nhân bạn từng làm
+Nếu không có bạn không cần nhắc_đến ở phần Summary
+Nói cách khác hãy thuyết_phục nhà tuyển_dụng rằng đối_với bạn lập_trình không_chỉ là công_việc mà còn là đam_mê là điều mà bạn sẵn_sàng làm để học_hỏi và thử_thách bản_thân dù không_được trả_lương
+Nếu bạn có đầy_đủ những thông_tin trên CÓ_LẼ nhà tuyển dụng sẽ muốn gặp_bạn
+Nhưng bạn vẫn chưa chắc_chắn được vào vòng phỏng_vấn vì_vậy đừng phá_hủy phần còn_lại của CV
+Xem ngay Cách_viết một Summary chuyên_nghiệp “đánh gục” nhà tuyển_dụng Cách_viết CV xin_việc phần Kinh_nghiệm Phần kế_tiếp bạn nên tập_trung là “Kinh nghiệm làm việc” bao_gồm Vị_trí làm_việc Tên công_ty Thời_gian bắt_đầu và kết_thúc tháng năm là đủ Mô_tả ngắn về công_việc bạn đã từng làm Description… Bạn không cần mô_tả hay dẫn link về công_ty từng làm_việc
+Nếu nhà tuyển_dụng có_hứng thú họ sẽ tự tìm_hiểu
+Ngày bắt_đầu và kết_thúc làm_việc rất quan_trọng
+Nó cho_biết bạn đã làm ở công_ty đó trong bao_lâu và bạn có khoảng_trống nào trong “Kinh nghiệm làm việc” của bạn không
+Con_đường sự_nghiệp của mỗi_người thường khác_nhau nhưng nếu bạn nhảy việc quá_nhiều hoặc có_nhiều khoảng_trống trong CV thì nhà tuyển_dụng sẽ chú_ý và đặt đâu_hỏi
+Bạn nên chuẩn_bị trước câu_trả_lời cho vấn_đề này trong_vòng phỏng_vấn
+Chú_ý rằng “Description” là phần bạn mô_tả những việc bạn ĐÃ LÀM không_phải là project bạn chỉ CÓ_MẶT trong_đó mà không thật_sự đóng_góp gì cả
+Cách_viết CV xin_việc phần Bằng_cấp Dù bằng_cấp không_thể phản_ánh năng_lực làm_việc thực_sự của bạn nhưng thực_tế là có rất nhiều nhà tuyển_dụng tại Việt_Nam khá quan_tâm đến nền_tảng học_vấn của ứng_viên
+Vậy_nên nếu_như ngành_học và trường đại_học của bạn thuộc hàng danh_tiếng thì tại_sao lại không thể_hiện chúng trong CV xin_việc
+Tuy_nhiên nếu không có bằng_cấp phù_hợp hãy bỏ_qua phần “Bằng cấp”
+Đừng cố để vào những bằng_cấp vô_nghĩa vì nó chỉ khiến CV của bạn trông rối_mắt hơn
+Cách_viết CV xin_việc phần Kỹ_năng và Sở_thích Liệt_kê tất_tần tật mọi thứ bạn biết trong phần “Kỹ năng” là một sai_lầm tệ_hại
+Việc liệt_kê quá_nhiều khiến nhà tuyển_dụng nghĩ bạn đang “spam” CV
+Họ cũng cho_rằng bạn không có định_hướng tốt cho nghề_nghiệp của mình
+Bạn là một lập_trình viên có kinh_nghiệm việc bạn quen_thuộc với ngôn_ngữ Java JavaScript CSS XML SQL… cũng tương_tự như việc bạn biết sử_dụng chương_trình Word Powerpoint Excel và ứng_tuyển vào vị_trí hành_chính vậy
+Những kỹ_năng này không thật_sự quá nổi_bật trong_mắt nhà tuyển_dụng vì hầu_hết tất_cả những ứng_viên ứng_tuyển vào vị_trí này đều thành_thục chúng
+Cách_viết CV xin_việc đơn_giản nhất là hãy chỉ nhắc_đến những nền_tảng ngôn_ngữ lập_trình mô hình… quen_thuộc trên nếu bạn thật_sự xuất_sắc gần_như đạt đến trình_độ cao nhất
+Nếu không_chỉ nên nhắc_đến những kỹ_năng ít người giỏi độ khó cao không nhiều người_quen_thuộc với chúng
+Như_vậy CV của bạn mới thật_sự nổi_bật
+Và hãy luôn nhớ rằng Thể_hiện đừng kể_lể
+Và hãy nhớ rằng chẳng nhà tuyển_dụng nào quan_tâm đến “Sở thích” của bạn cả
+Họ chỉ quan_tâm bạn làm_được những gì cho vị_trí bạn đang ứng_tuyển và cho công_ty thôi
+Một_số bài_viết hay về cách_viết CV xin_việc đơn_giản nên tham_khảo Công_thức bí_mật của Google cho một CV “thần thánh” Có nên ghi mức_lương mong_muốn trong CV 5 kẻ_thù của CV xin việc Nếu muốn có một mẫu CV rõ_ràng mạch_lạc để gây ấn_tượng với nhà tuyển_dụng thì bạn có_thể tải những mẫu CV của ITviec tại_đây CV cho Web Developer CV cho Software Engineer Hoặc download đầy_đủ 10+ mẫu CV IT cực “chất” Nếu bạn nghĩ những chia_sẻ này có_thể giúp_ích cho bạn_bè hoặc đồng_nghiệp thì đừng ngại nhấn nút Share bên_dưới nhé
+Tham_khảo thêm việc_làm developer tại ITviec
+Related posts Có nên ghi mức_lương mong_muốn trong CV
+Đọc để không bao_giờ viết Cover Letter tệ như_vầy nữa
+CV là gì và 5 lỗi viết CV thường gặp cần phải bỏ ngay Phỏng_vấn xin_việc không_còn là “nỗi ám ảnh” nhờ vào bộ bí_quyết sau_đây Chia_sẻ bài_viết

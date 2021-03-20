@@ -1,0 +1,49 @@
+Vuong_Huong quynhhuong Follow 590 11 21 Published about 2 hours ago 5 min read 6 0 0 GraphQL Fragment Report 1
+Fragment trong GraphQL là_gì
+Trong GraphQL có một khái_niệm hay được sử_dụng là Fragment
+Trong bài_viết ngày hôm_nay chúng_ta hãy cùng đi tìm_hiểu khái_niệm này là như_thế_nào nhé
+Một GraphQL Fragment là một phần_tử có_thể tái sử_dụng trong GraphQL Query
+Trong GraphQL sẽ có những_lúc bạn gặp_phải những tình_huống mà bạn cần phải query các field giống_nhau trong các câu query khác_nhau
+Khi mà bạn nhận_thấy các câu query của bạn có_nhiều các field bị lặp_lại tại nhiều vị_trí khác_nhau
+Bạn có_thể tóm chúng lại thành một đơn_vị có_thể tái sử_dụng gọi_là Fragment
+Một GraphQL Fragment cho_phép bạn khai_báo một bộ các field và sử_dụng chúng trong nhiều câu query
+Bạn có_thể liên_tưởng Fragment trong GraphQL có nét tương_đồng như_là function trong nhiều ngôn_ngữ lập_trình
+Bạn khai_báo function ở một chỗ và bạn gọi đến function ở nhiều chỗ dùng_đến nó
+Chúng đều là các phần_tử tái sử_dụng được
+2
+Các thành_phần của một Fragment Chúng_ta hãy đi_vào tìm_hiểu các thành_phần của một Fragment với cấu_trúc mẫu bên_dưới fragment Name on TypeName field1 field2 field3 Một Fragment sẽ bao_gồm 3 thành_phần sau Name Tên riêng_biệt cho 1 Fragment mỗi_một Fragment có 1 tên riêng TypeName Kiểu của object trong GraphQL Schema mà Fragment được tạo_ra từ_đó hay được lồng trong_đó Body Body của Fragment định_nghĩa các trường nào sẽ được query field1 field2 field3 3
+Lợi_ích của việc sử_dụng GraphQL Fragment Tại_sao Fragment lại là một khái_niệm rất cool trong GraphQL Thứ_nhất bởi tính tái sử_dụng của Fragment Với Fragment bạn có_thể cấu_trúc các câu query của bạn thành các phần_tử có_thể sử_dụng được ở nhiều chỗ mà không cần phải viết lặp đi lặp_lại
+Caching GraphQL Client tận_dụng các Fragment để cung_cấp các option caching
+Xem thêm apollographql
+comdocsreactcachingcache-interaction 4
+Tạo GraphQL Fragment Chúng_ta hãy cùng học cách tạo một GraphQL Fragment qua một_vài ví_dụ nhé
+Trong những ví_dụ trong bài_viết này mình sử_dụng Github's public API và viết query dựa_trên nó
+Bạn cũng có_thể chạy các câu query trên Github GraphQL Explorer googleRepo repository ownergoogle nameWebFundamentals name owner id avatarUrl resourcePath url facebookRepo repository ownerfacebook namereact name owner id avatarUrl resourcePath url Chúng_ta nhận_thấy ở_đây là chúng_ta đang query cùng các field bên_trong field owner nhiều lần
+Đây là lúc thích_hợp để chúng_ta sử_dụng Fragment Chúng_ta sẽ tạo một fragment gọi_là ownerInfo với từ khoá fragment
+Để tạo một Fragment chúng_ta phải nói cho GraphQL biết rằng Fragment này được tạo_ra trên field nào
+Trong trường_hợp này chúng_ta sẽ tạo 1 Fragment trên fieldRepositoryOwner Trong Body của Fragment chúng_ta có_thể bao_gồm tất_cả các field của đối_tượng RepositoryOwner
+Ở đây chúng_ta định_nghĩa các field là id avatarUrl resourcePath url là các field của fragment ownerInfo fragment ownerInfo for RepositoryOwner fieldsfragment ownerInfo on RepositoryOwner id avatarUrl resourcePath url 5
+Sử_dụng một GraphQL Fragment Chúng_ta có_thể sử_dụng Fragment mà chúng_ta sử_dụng ở ví_dụ trước trong phạm_vi một query bằng việc sử_dụng toán_tử
+
+
+và theo sau là tên của Fragment GraphQL Query with fragments googleRepo repositoryowner google name WebFundamentals name owner
+
+
+ownerInfo fragment facebookRepo repositoryowner facebook name react name owner
+
+
+ownerInfo fragment Response của query khi chúng_ta sử_dụng Fragment sẽ không thay_đổi so với khi chúng_ta không sử_dụng Fragment
+Fragment chỉ đơn_giản là làm_cho câu query được clean hơn dễ_đọc và tái sử_dụng GraphQL JSON Response data googleRepo name WebFundamentals owner id MDEyOk9yZ2FuaXphdGlvbjEzNDIwMDQ= avatarUrl httpsavatars1
+githubusercontent
+comu1342004
+v=4 resourcePath google url httpsgithub
+comgoogle facebookRepo name react owner id MDEyOk9yZ2FuaXphdGlvbjY5NjMx avatarUrl httpsavatars3
+githubusercontent
+comu69631
+v=4 resourcePath facebook url httpsgithub
+comfacebook 6
+Kết_luận Fragment là một khái_niệm rất thú_vị trong GraphQL nó cho_phép tái sử_dụng trong_khi viết các câu query loại_bỏ các đoạn mã phải viết đi viết_lại giúp các câu query dễ_đọc dễ_hiểu hơn
+Mong qua bài_viết này các bạn sẽ hiểu hơn về khái_niệm Fragment và có_thể sử_dụng Fragment khi viết GraphQL Schema cũng_như không bỡ_ngỡ mỗi khi đọc Schema có sử_dụng Fragment Nguồn tham_khảo httpsblog
+logrocket
+comgraphql-fragments-explained httpsgraphql
+orglearnqueriesfragments graphql fragment All Rights Reserved Report
