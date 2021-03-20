@@ -71,7 +71,6 @@ public class ITViecWebCrawler extends ArticleWebCrawler {
 					String relatedLink = tag.attr("href");
 					relatedPost.add(relatedLink);
 				}
-
 				strategy.addRelatedLinks(relatedPost);
 			}
 			extractFile(articleContent, articleName);
