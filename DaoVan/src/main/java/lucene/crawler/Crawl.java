@@ -34,7 +34,6 @@ public class Crawl {
 			crawler = new VibloWebCrawler(method, dir);
 		}else if(webCrawler.equalsIgnoreCase(DocumentField.WIKI_CRAWL)) {
 			dir = ResourcesUtils.resourcePath + "/" + "crawled/wiki";
-			
 		}
 		
 		crawler.crawl();
