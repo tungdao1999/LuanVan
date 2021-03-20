@@ -25,6 +25,7 @@ public class TraditionalCrawlMethod implements ICrawlMethod{
 		else {
 		for (int i = 0; i < feedsLink.size(); i++) {
 				linkQueue.add(feedsLink.get(i));
+			}
 		}
 	}
 
