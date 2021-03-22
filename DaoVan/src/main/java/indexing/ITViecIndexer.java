@@ -29,6 +29,7 @@ public class ITViecIndexer implements IIndexer {
 		int sentence_index  = 0;
 		BufferedReader br = null;
 		String line = "";
+		int docId =0;
 		StandardAnalyzer analyzer = new StandardAnalyzer();
 		IndexWriterConfig config = new IndexWriterConfig(analyzer);
 		IndexWriter writer = null;
@@ -50,8 +51,8 @@ public class ITViecIndexer implements IIndexer {
 			try {
 				br = new BufferedReader(new FileReader(file));
 				while((line = br.readLine()) != null) {
-					label = BASE_LABEL + sentence_index; 
-					Document document = parseToDocument(BASE_LABEL, label, linkWeb, fileName, line);
+					label = BASE_LABEL+docId+"_Line_"+sentence_index; 
+					Document document = parseToDocument(BASE_LABEL, label, linkWeb, fileName,file.getPath(), line);
 					try {
 						writer.addDocument(document);
 						writer.commit();
@@ -78,12 +79,13 @@ public class ITViecIndexer implements IIndexer {
 		
 	}
 
-	public Document parseToDocument(String id,String label, String linkWeb,String fileName,String sentence) {
+	public Document parseToDocument(String id,String label, String linkWeb,String fileName,String filePath,String sentence) {
 		Document document = new Document();
 		document.add(new StringField(DocumentField.ID_FIELD, id, Field.Store.YES));
 		document.add(new StringField(DocumentField.LABEL_FIELD, label, Field.Store.YES));
 		document.add(new TextField(DocumentField.LINK_WEB_FIELD, linkWeb, Field.Store.YES));
 		document.add(new TextField(DocumentField.FILE_NAME_FIELD, fileName, Field.Store.YES));
+		document.add(new TextField(DocumentField.FILE_PATH, filePath, Field.Store.YES));
 		document.add(new TextField(DocumentField.CONTENT_FIELD, sentence, Field.Store.YES));
 		return document;
 	}

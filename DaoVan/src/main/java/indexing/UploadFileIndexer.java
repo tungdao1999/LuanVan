@@ -17,18 +17,20 @@ import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.Directory;
 
+import MysqlHelper.MysqlAction;
 import constants.DocumentField;
 import resource.ResourcesUtils;
 
 public class UploadFileIndexer implements IIndexer {
 	private static String INDEX_DIR = ResourcesUtils.resourcePath + "/lucene/crawled/uploadFile/";
-	private static String HOME_PAGE = "https://itviec.com/blog/";
-	private static String BASE_LABEL = "ITV_";
+	private static String HOME_PAGE = "";
+	private static String BASE_LABEL = "UPL_";
 	
 	public void indexingByUrl(Directory dir) {
 		int sentence_index  = 0;
 		BufferedReader br = null;
 		String line = "";
+		int docId =0;
 		StandardAnalyzer analyzer = new StandardAnalyzer();
 		IndexWriterConfig config = new IndexWriterConfig(analyzer);
 		IndexWriter writer = null;
@@ -46,12 +48,14 @@ public class UploadFileIndexer implements IIndexer {
 		String label = "";
 		for (File file : listLink) {	
 			String linkWeb = HOME_PAGE + file.getName().replace(".txt", "");
-			String fileName = file.getName();		
+			String fileName = file.getName();
+			MysqlAction.insertToDatabase(java.time.LocalTime.now().toString(), fileName, file.getPath(),linkWeb, "txt", 1);
+			docId = MysqlAction.searchDocumentId(fileName);
 			try {
 				br = new BufferedReader(new FileReader(file));
 				while((line = br.readLine()) != null) {
-					label = BASE_LABEL + sentence_index; 
-					Document document = parseToDocument(BASE_LABEL, label, linkWeb, fileName, line);
+					label = BASE_LABEL+docId+"_Line_"+sentence_index; 
+					Document document = parseToDocument(BASE_LABEL, label, linkWeb, fileName,file.getPath(), line);
 					try {
 						writer.addDocument(document);
 						writer.commit();
@@ -78,12 +82,13 @@ public class UploadFileIndexer implements IIndexer {
 		
 	}
 
-	public Document parseToDocument(String id,String label, String linkWeb,String fileName,String sentence) {
+	public Document parseToDocument(String id,String label, String linkWeb,String fileName,String filePath,String sentence) {
 		Document document = new Document();
 		document.add(new StringField(DocumentField.ID_FIELD, id, Field.Store.YES));
 		document.add(new StringField(DocumentField.LABEL_FIELD, label, Field.Store.YES));
 		document.add(new TextField(DocumentField.LINK_WEB_FIELD, linkWeb, Field.Store.YES));
 		document.add(new TextField(DocumentField.FILE_NAME_FIELD, fileName, Field.Store.YES));
+		document.add(new TextField(DocumentField.FILE_PATH, filePath, Field.Store.YES));
 		document.add(new TextField(DocumentField.CONTENT_FIELD, sentence, Field.Store.YES));
 		return document;
 	}

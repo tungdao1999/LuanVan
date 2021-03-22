@@ -9,7 +9,7 @@ import org.apache.lucene.store.Directory;
 
 public interface IIndexer {
 	public void indexingByUrl(Directory dir);
-	public Document parseToDocument(String id,String label, String linkWeb,String fileName,String content);
+	public Document parseToDocument(String id,String label, String linkWeb,String fileName,String filePath,String content);
 	public List<File> getPathOfTextCrawled();
 	public String readFile(String path) throws IOException;
 }

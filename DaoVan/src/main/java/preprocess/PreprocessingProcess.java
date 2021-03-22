@@ -52,7 +52,7 @@ public class PreprocessingProcess {
 			}
 		}
 	}
-
+	
 	public void preprocessingUploadFile() {
 		List<File> listFile = DirectoryActor.getPathOfTextCrawled(UPLOAD_FILE_IN);
 
