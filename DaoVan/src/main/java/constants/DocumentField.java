@@ -17,4 +17,10 @@ public final class DocumentField {
 	public static final String DB_URL = "jdbc:mysql://localhost:3306/thesis";
 	public static final String DB_USER = "root";
 	public static final String DB_PASSWD = "1234";
+	
+	public static final String ITViec_TAG = "ITViec";
+	public static final String WIKI_TAG ="wiki";
+	public static final String VIBLO_TAG ="Viblo";
+	public static final String UPLOAD_TAG ="uploadFile";
+	
 }

@@ -20,7 +20,7 @@ import constants.DocumentField;
 import resource.ResourcesUtils;
 
 public class WikiIndexer implements IIndexer {
-	private static String INDEX_DIR = ResourcesUtils.resourcePath + "/lucene/crawled/Viblo/";
+	private static String INDEX_DIR = ResourcesUtils.resourcePath + "/lucene/crawled/wiki/";
 	private static String HOME_PAGE = "https://vi.wikipedia.org";
 	private static String BASE_LABEL = "wiki_";
 	public void indexingByUrl(Directory dir) {
