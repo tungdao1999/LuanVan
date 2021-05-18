@@ -1,0 +1,88 @@
+httpsitvieccomblogit-securityNội dung Chào anh_Việt
+Tại_sao anh lại quyết_định theo_đuổi con_đường trở_thành một IT Security khi công_việc trước_đó có_vẻ khá ổn_định
+Công_việc của một IT security là gì vậy anh
+Theo cá_nhân anh điều thú_vị nhất khi trở_thành IT security là gì Đã bao_giờ anh phát_hiện một lỗ_hổng bảo_mật và báo_cáo với cấp_trên nhưng lại bị hiểu_lầm là có dụng_ý xấu
+Những kỹ_năng và tố chất cần_thiết để theo_đuổi nghề IT Security
+Làm thế_nào để một bạn có_thể trở_thành IT Security Đâu là khó_khăn lớn nhất của nghề IT security theo cảm_nhận của anh
+Nghề IT security có_vẻ không phổ_biến lắm
+Vậy cơ_hội nghề_nghiệp có_phải cũng thấp không anh
+Mức_lương trung_bình của một người_làm IT security Đã bao_giờ anh có suy_nghĩ chuyển sang một công_việc khác chưa
+Có điều_gì anh ước là giá_như mình biết sớm hơn_trước_khi vào nghề IT security
+Những tài_liệu anh từng tham_khảo trên con_đường trở_thành IT security
+IT Security là nghề không mới nhưng không_phải ai cũng biết rõ công_việc của những người_làm trong lĩnh_vực này
+Với những người trong nghề thì IT Security mang lại khá nhiều trải nghiệm thú_vị và khiến họ cảm_thấy bản_thân không_bao_giờ bị lỗi_thời hay đi_theo lối mòn
+Có thực_sự như_vậy không Đọc_bài phỏng_vấn của ITviec với anh Hoàng_Minh_Việt – IT Security Manager tại SaiGonLab Services để tìm câu_trả_lời Công_việc của một IT Security Điều thú_vị khi làm IT Security và những khó_khăn trong nghề Cơ_hội nghề_nghiệp và mức_lương của IT Security Muốn trở_thành IT Security nên bắt_đầu từ đâu
+Xem thêm việc_làm IT Security trên ITviec Tiểu_sử Mặc_dù tốt_nghiệp ngành Điện_tử viễn_thông trường ĐH Tôn_Đức_Thắng nhưng sau khi ra trường anh Việt lại đi_theo hướng Technical
+Anh từng nắm_giữ vị_trí Technical Team Leader và Technical Supervisor tại một_số công_ty như ALTA Media và An Thinh InfoTech
+Tuy_nhiên con_đường sự_nghiệp của anh rẽ_sang một nhánh khác khi anh xác_định được hướng_đi mà mình thực_sự muốn theo_đuổi
+Anh quyết_định đầu_quân cho Trung_tâm Công_nghệ thông_tin và truyền_thông TP
+HCM trực_thuộc Sở Thông_tin và Truyền_thông TP
+HCM với vị_trí ban_đầu là IT Network Administrator sau_đó là IT Security Executive  Sau hơn năm gắn_bó anh chuyển sang làm_việc cho SaiGonLab Services với vai_trò IT Security Manager
+Chào anh_Việt
+Tại_sao anh lại quyết_định theo_đuổi con_đường trở_thành một IT Security khi công_việc trước_đó có_vẻ khá ổn_định Đây là câu_chuyện khá tình_cờ và có người ảnh_hưởng đến quyết_định này của anh
+Người đầu_tiên phải kể đến là anh Khánh trước_kia là giám_đốc IT của VinMart anh_em có duyên gặp_nhau anh Khánh chia_sẻ với anh rất nhiều điều về những con_đường sự_nghiệp mình đã đi_qua
+Lúc_đó anh kiểu như thức_tỉnh và nhận_ra bản_thân_mình muốn làm một công_việc khác có_thể đi được đường_dài và gặt_hái nhiều thành_công hơn
+Vậy_là anh quyết_định nghỉ_việc ở công_ty
+Người thứ_hai không kém phần quan_trọng là sếp cũ của anh ở Trung_tâm Công_nghệ thông_tin và truyền_thông TPHCM
+Lúc mới sang đây làm anh chỉ nghĩ là làm Network thôi
+Nhưng sếp anh là người đã định_hướng cho anh theo con_đường IT Security
+Sếp không nói gì nhiều chỉ đơn_giản đưa_cho anh các công_cụ và thiết_bị rồi bảo_anh nghiên_cứu
+Từ những lần hoàn_thành tốt nhiệm_vụ được giao mà sếp tin_tưởng anh hơn
+Anh dần chuyển sang làm_công_việc của một IT Security cho_đến tận bây_giờ
+Công_việc của một IT security là gì vậy anh
+Công_việc có_thể hơi khác_nhau tùy_thuộc vào từng tổ_chức
+Còn bản_thân anh trước_đây đảm_nhiệm một_số việc như Giám_sát điều_chỉnh chính_sách an_ninh thông_tin của tổ chức  Ví_dụ đơn_giản là trong nội_bộ công_ty mình setup xem những ai có quyền truy_cập vào folder bảng_lương
+Vì đây là thông_tin khá nhạy_cảm không_phải ai cũng được phép xem
+Giám_sát thậm_chí trực_tiếp triển_khai và vận_hành các giải_pháp an_toàn thông_tin cho hệ_thống
+Ví_dụ hệ_thống firewall anti virus IDS… Giám_sát và xử_lý các sự_cố về an_toàn thông_tin theo thực_tế hoặc diễn_tập các tình_huống an_toàn thông_tin tự giả_định hoặc sử_dụng dịch_vụ của các bên System Integration Phối_hợp với các phòng ban đơn_vị khác kế_toán thu_ngân để kiểm_tra sự_cố xem hậu_quả như_thế_nào thiệt_hại ra sao biện_pháp khắc phục… Hỗ_trợ IT Helpdesk xử_lý các vấn_đề nằm ngoài khả_năng của họ Anh Việt thứ từ phải sang du_lịch cùng đồng_nghiệp Theo cá_nhân anh điều thú_vị nhất khi trở_thành IT security là_gì
+Anh nghĩ là điều  Hiệu_quả công_việc đến từ việc giao_tiếp với user IT Security là người_làm_việc với những vấn_đề liên_quan đến kỹ_thuật nhưng thực_chất cũng đang đối_mặt với vấn_đề con_người
+Một user bình_thường sẽ cảm_thấy rất phiền_phức khi hệ_thống yêu_cầu phải tạo mật_khẩu có độ khó cao hoặc thường_xuyên thay_đổi mật_khẩu để đảm_bảo tính_mật
+Là một IT Security mình phải tư_vấn giải_thích lợi_ích và tầm_quan_trọng của những việc này cho họ “Làm thế_nào để họ tuân_thủ những quy_định về an_toàn thông ninh với một tâm_thế thoải_mái không cảm_thấy bị ép buộc” quá_trình này khiến anh thấy hứng_thú Nghề này đòi_hỏi anh phải nghĩ như một hacker Để có_thể chủ_động hơn trong xử_lý các sự_cố người_làm IT Security phải suy_nghĩ làm_thế_nào để tìm_ra lỗ_hổng của hệ_thống sớm nhất có_thể tất_nhiên là không với chủ_đích gây_hại
+Nói đơn_giản thì em với bạn_bè có_thể chơi đoán mật_khẩu của nhau hoặc thách_đố nhau hack được file lưu_trữ trong máy_tính
+Chính những hành_động đơn_giản như_thế này đã bắt mình phải vận_dụng suy_nghĩ của một hacker Đã bao_giờ anh phát_hiện một lỗ_hổng bảo_mật và báo_cáo với cấp_trên nhưng lại bị hiểu_lầm là có dụng_ý xấu
+Tình_huống này anh nghĩ là cũng ít bản_thân anh thì chưa gặp bao_giờ
+Vì doanh_nghiệp thuê mình về là để mình làm những công_việc này mà
+Tuy_nhiên anh thấy những lỗ_hổng mà mình phát_hiện ra và báo_cáo lại với cấp_trên chỉ nên nằm_trong phạm_vi và thẩm_quyền công_việc mà mình phụ trách  Ví_dụ Em đang phụ_trách web mà em lại báo_cáo với cấp_trên rằng em vừa phát_hiện lỗ_hổng về database do người_khác phụ_trách thì không_nên
+Dễ gây hiểu_lầm và vô_tình có_thể em sẽ gây ảnh_hưởng không tốt đến đồng_nghiệp
+Những kỹ_năng và tố chất cần_thiết để theo_đuổi nghề IT Security
+Về kỹ_năng kỹ_thuật thì anh nghĩ bạn nên Nắm về networking Routing NAT VPN… Về hệ_điều_hành biết cách_thức các hệ_điều_hành Linux Window iOS Mac hoạt_động như_thế_nào Về phần_mềm phải nắm về dữ_liệu mã_hóa các ký_tự mật_mã học như RSA mã_hóa đối_xứng mã_hóa bất_đối xứng… Nắm_được các công_cụ chuyên về an_ninh mạng Kali Linux Metasploit NMap… Nên biết một ngôn_ngữ lập_trình có_thể chỉ ở mức_độ cơ_bản C Python Ruby on Rails… Tham_khảo ngôn_ngữ lập_trình nên học trong năm Ngoài các yếu_tố nói trên muốn theo_đuổi công_việc này bạn phải có một tư_duy tốt học_hỏi từ nhiều nguồn thường_xuyên đặt_câu_hỏi như một hacker mũ_trắng và có kỹ_năng đọc hiểu tài_liệu tiếng Anh
+Làm thế_nào để một bạn có_thể trở_thành IT Security
+Nếu bạn muốn theo học chính_quy thì anh thấy ở thời_điểm hiện_tại có khá nhiều trường đào_tạo về an_ninh mạng  Miền Bắc thì có ĐH Bách_Khoa Hà_Nội ĐH Công_nghệ Hà_Nội và một trường rất nổi_tiếng không_thể không nhắc_đến là Học_viện kỹ_thuật mật_mã dành cho bạn nào muốn chuyên về mật_mã
+Miền_Trung thì có ĐH Bách_Khoa Đà_Nẵng
+Còn miền_Nam thì có_Học_viện công_nghệ bưu_chính viễn_thông ĐH Công_nghệ thông_tin ĐH FPT… Còn nếu bạn đã ra trường hoặc muốn chuyển_ngành thì có_thể bắt_đầu học những chứng_chỉ về Network và System như CCNA MCSA rồi học về Security +
+Sau_đó bạn nên dành nhiều thời_gian để tự_học và nghiên_cứu sâu về Kali Linux Metasploit…
+Youtube là kênh nên tham_khảo vì có khá nhiều video hướng_dẫn rất chi_tiết
+Sâu hơn nữa bạn có_thể thi các chứng_chỉ CEH hoặc CHFI Ở mức này thì bạn đã có_thể tự_tin đi xin_việc được rồi
+Việc_làm IT Security tại TP
+HCM Việc_làm IT Security tại Hà_Nội Đâu là khó_khăn lớn nhất của nghề IT security theo cảm_nhận của anh
+Khó_khăn nhất là công_nghệ lúc_nào_cũng đi_lên và các lỗ_hổng bảo_mật luôn bị phát_hiện sau hacker chúng_ta thường đi sau hacker một bước
+Bởi_vậy mới có thuật_ngữ zero-day nghĩa_là những lỗ_hổng chưa được phát hiện_ra
+Có những mã độc không_ai biết tới cứ nằm im trong hệ_thống tới khi hacker phát đi lệnh phá_hoại thì người_ta mới biết là nó tồn_tại
+Truy vết ra thì mới biết mã độc_đó đã nằm_trong hệ_thống vài trăm ngày rồi
+Anh Việt khi tham_gia Security BootCamp Nghề IT security có_vẻ không phổ_biến lắm
+Vậy cơ_hội nghề_nghiệp có_phải cũng thấp không anh
+Anh thì nghĩ ngược_lại
+Nghề này càng trong tương_lai càng phát_triển vì vấn_đề an_toàn thông_tin đang dần được chú_trọng hơn
+Hiện_nay mọi tổ_chức đều biết về vấn_đề bảo_mật an_toàn thông_tin nên vai_trò vị_trí của ngành này càng cao và cơ_hội nghề_nghiệp không_hề thấp
+Mức_lương trung_bình của một người_làm IT security
+Theo một bài nghiên_cứu anh có đọc thì mức_lương của một bạn Fresher hoặc Junior rơi vào_khoảng - USD
+Còn những bạn đã có_kinh_nghiệm làm_việc từ - năm thì lương khoảng - USD
+Nhìn_chung thì mức_lương trung_bình của nghề này có_vẻ thấp hơn các nghề khác nhưng về độ_bền thì anh nghĩ làm IT security có_thể đi được đường_dài hơn
+Xem thêm công_việc lương cao nhất ngành IT Đã bao_giờ anh có suy_nghĩ chuyển sang một công_việc khác chưa
+Anh chưa
+Khi làm_việc mà thấy công_nghệ về bảo_mật liên_tục thay_đổi nếu thực_sự yêu_thích thì sẽ không muốn thay_đổi
+Có một tổ_chức gọi_là CVE Common Vulnerabilities and Exposures thường_xuyên cập_nhật các lỗ_hổng mã độc từ ứng_dụng hoặc hệ_điều_hành đã được phát_hiện ra trên toàn thế_giới
+Chỉ với việc cập_nhật danh_sách này và xem_xét ứng_dụng cho doanh_nghiệp cũng đủ khiến em thấy công_việc luôn mới mỗi_ngày rồi
+Có điều_gì anh ước là giá_như mình biết sớm hơn_trước_khi vào nghề IT security
+Chắc là chỉ ước giá_như mình biết đến và theo_đuổi nghề này sớm hơn thôi cười
+Những tài_liệu anh từng tham_khảo trên con_đường trở_thành IT security
+Kiến_thức cơ_bản về an_ninh mạng Bắt_đầu tìm_hiểu về an_ninh mạng thì mình nên bắt_đầu từ link này khá tập_trung và dễ_hiểu về roadmap của an_ninh mạng  Cộng_đồng An_ninh mạng Việt_Nam Đây là diễn_đàn thường_xuyên cập_nhật tin_tức và các case study về lỗ_hổng bảo_mật dễ_dàng đặt câu_hỏi và tương_tác với các thành_viên khác
+CyStack Resource Trang này thường cập nhập các số_liệu thống_kê về tình_hình An_ninh mạng sẽ có lợi cho người đang đi_làm đang cần thu_thập số_liệu vì mục_đích báo_cáo nghiên_cứu
+Null Byte Hướng_dẫn nhiều kỹ_năng liên_quan đến an_toàn thông_tin có video chi_tiết
+Và một số trang tin_tức hay để tham_khảo như httpsanninhmangnet httpsictnewsvietnamnetvn httpsaisgovvn Bạn thấy bài_viết hay và cần_thiết với nhiều người Đừng ngại nhấn nút Share bên_dưới nhé
+Và đừng quên tham_khảo việc_làm IT Security trên ITviec
+Related posts SharePoint là_gì
+Tìm_hiểu SharePoint qua lời_khuyên của chuyên_gia Thuận Nguyễn_Làm lập_trình game có dễ_dàng như bạn_tưởng
+Angular – vũ_khí hạng nặng của Front-end Developer
+Làm thế_nào để_trở thành một Full Stack Developer được săn_đón nhất
+Chia_sẻ bài_viết

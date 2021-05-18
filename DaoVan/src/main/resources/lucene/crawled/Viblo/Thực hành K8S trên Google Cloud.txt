@@ -1,0 +1,22 @@
+httpsvibloasiapthuc-hanh-ks-tren-google-cloud-gAmyMEKdbledangtuanbk ledangtuanbk Follow Published Saturday AM min read Thực_hành KS trên Google Cloud Report Kubernetes KS trở_nên quá phổ_biến ở thời_điểm hiện_tại ai cũng nói về nó
+Tuy_nhiên để sử_dụng thì không_hề dễ_ràng
+Trong bài hôm_nay mình sẽ không đi quá nhiều vào các định_nghĩa mà đi_thẳng vào thực_tế để mọi_người dễ hình_dung
+Các bài_viết tiếp_theo mình sẽ đi chi_tiết từng chi_tiết của từng steps
+Mình sẽ sử_dụng KS của Google Cloud nên mọi_người cần có tài_khoản google cloud với miễn_phí
+Làm_theo hướng_dẫn này httpscloudgooglecomfreedocsgcp-free-tierfree-trial Bước tạo cluster httpsconsolecloudgooglecomkuberneteslist vào link này nhấn vào create để tạo cluster chọn loại Standard Đặt_tên cluster các thông_số khác để_mặc định sau_này sẽ tìm_hiểu chi_tiết
+Chờ khoảng phút google cloud sẽ tạo cluster cho_bạn
+Như_vậy mình đã tạo xong KS cluster google đã làm hết việc của mình là sử_dụng để triển_khai hệ_thống lên_đó
+Bước_tiếp theo là triển_khai ứng_dụng lên_đó
+Trong ví_dụ này mình sẽ sử_dụng images sẵn_có trên repository của google cloud nginxlatest trong thực_tế mình sẽ phải build docker image và đẩy_lên quay về tab clusters chọn deploy Nhấn continue và chọn deploy là xong
+Sau_khi deploy xong thì mặc định hệ_thống sẽ tạo cho mình Pods Trên mỗi Pod sẽ có container chạy xem chi_tiết của deployment ta sẽ thấy Muốn truy_cập được từ bên_ngoài mình sẽ phải tạo thêm service nó có tác_dụng như revert proxy
+Click vào Expose để thực_hiện expose ra bên_ngoài để có_thể truy_cập
+Có textbox cần fill vì nginx của mình chạy port Target Port
+Ta muốn client truy_cập vào port Port
+Xem chi_tiết ảnh phía trên
+Sau_khi tạo xong service click vào Service Ingress kết_quả như bên_dưới
+Endpoint chứa thông_tin của public IP và port lúc này bạn đã thành_công truy_cập vào web site của mình
+Bài này viết rất đơn_giản những thao_tác đơn_giản nhất để có_thể thực_hành
+Trong các bài_viết tiếp_theo mình sẽ xử_lý giúp các bạn có_thể custom được KS
+Phân_biệt kỹ hơn về Standard và Autopilot AutoScaling config các tham_số khi_nào thì hệ_thống tự_động scale Tự build và sử_dụng image của riêng mình đẩy_lên Google cloud repository Thay_vì sử_dụng UI người_dùng có_thể sử_dụng cloud shell hoặc Commandline trên chính máy local
+Sử_dụng YAML để config deploy services
+AutoDeployment Docker Auto Scaling Google Cloud Ks All Rights Reserved Report

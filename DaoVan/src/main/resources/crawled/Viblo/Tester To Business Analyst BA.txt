@@ -1,0 +1,87 @@
+httpsvibloasiaptester-to-business-analyst-ba-WAyKWZxXTran Thi Minh_Thuy tranthiminhthuy Follow Published Friday AM min read Tester To Business Analyst BA Report QATester là người_kiểm_tra phần_mềm được phát_triển để đảm_bảo phần_mềm đáp_ứng các yêu_cầu cuối_cùng của khách_hàng
+BA cũng chịu_trách_nhiệm xác_minh phần_mềm được xây_dựng và phân_phối có đáp_ứng các yêu_cầu cuối_cùng của khách_hàng hay không
+Nếu BA và tester chuyển_đổi vai_trò của họ thì mỗi_người trong_số họ có_thể giải_phóng bộ kỹ_năng của họ có_thể mang lại lợi_ích cho chính dự_án
+Khi nói đến kiểm thử hệ_thống phần_mềm cả tester và BA_đều hoạt_động như hai_mặt của cùng một đồng_tiền
+Tại_sao lại là Business Analyst BA
+Tester chuyên_nghiệp có kiến_thức và hiểu_biết toàn_diện về phần_mềm
+Kỹ_năng này mở_ra cánh_cửa cho Tester tham_gia vào nhiều vai_trò trong ngành CNTT và bằng cách hiểu_rõ chu_kỳ phát_triển và quy_trình phát_triển Tester có_thể chọn trở_thành người quản_lý phát_hành kỹ_sư tự_động_hóa
+Có_thể nói rằng chuyển_đổi nghề_nghiệp trong phân_tích nghiệp_vụ là một trong những triển_vọng của Tester
+Phân_tích nghiệp_vụ là một vai_trò lớn hơn nhiều khi so_sánh với kiểm thử hoặc bất_kỳ vai_trò nào khác được đề_cập ở trên
+Tester co những cơ_hội để_trở thành BA Một chuyên_gia kiểm thử có nhiều lý_do để nghĩ_đến việc chuyển_đổi nghề_nghiệp sang BA_bởi một_vài lý_do nhận_định sau Người kiểm_tra chú_ý đến từng chi_tiết nhỏ và có hiểu_biết cực_kỳ sâu về hệ_thống phần_mềm được xây_dựng Điều tự_nhiên là một Tester giỏi luôn đặt lợi_ích của khách_hàng lên hàng_đầu
+Một Tester được yêu_cầu đọc phân_tích và xem_xét các tài_liệu đặc tả yêu_cầu điều này giúp họ có thêm lợi_thế trong việc theo_đuổi vai_trò BA
+Kỹ_năng phân_tích của người kiểm_tra giúp nhà phân_tích kinh_doanh chỉ ra sự_không rõ_ràng trong các đặc tả yêu_cầu nếu_có
+Việc người kiểm thử trở_thành một nhà_phê_bình trong việc kiểm_tra các yêu_cầu trực_quan của phần_mềm là điều tự_nhiên Điều này có xu_hướng giúp người kiểm_tra trong_khi đối_chiếu các yêu_cầu từ khách_hàng
+Tester phải trực_quan hóa hệ_thống làm_việc trong giai_đoạn kích_thích yêu_cầu
+Nhiều yêu_cầu không_đáng có và không hợp_lý được loại_trừ ở giai_đoạn đầu
+Vì những người Tester luôn suy_nghĩ chín_chắn họ nhất_định phải nghĩ_ra một bức_tranh toàn_cảnh về hệ_thống Đây là đức_tính lớn nhất có_thể giúp_ích trong phân_tích kinh_doanh đặc_biệt là trong quá_trình kích_thích yêu_cầu
+Người kiểm thử tham_gia vào các dự_án và ghi_lại các báo_cáo lỗi Điều này giúp người kiểm_tra nâng_cao kỹ_năng tài_liệu rất cần_thiết trong phân_tích kinh_doanh
+Nếu người kiểm thử đang làm_việc trong Agile Framework thì việc chuyển sang phân_tích kinh_doanh sẽ dễ_dàng hơn Điều này đã được giải_thích chi_tiết trong phần tiếp_theo
+Agile nằm_trong danh_mục ‘Iterative Incremental’
+Cách_tiếp_cận khác với Waterfall trong_đó sản_phẩm cuối_cùng được phát_hành và chỉ có sẵn để thử_nghiệm ở giai_đoạn cuối
+Trong Agile toàn_bộ yêu_cầu được chia thành các nhóm requirement và thay_vì phát_triển toàn_bộ hệ_thống cùng một_lúc từng nhóm yêu_cầu được phát_triển thử_nghiệm và phát_hành cho khách_hàng
+Phần_mềm được phát_hành có khả_năng giao_hàng cho khách_hàng
+Nhóm Agile là “Tự tổ chức” với Product Owner BA_xác_định và quản_lý các yêu_cầu Master Người quản_lý và kiểm_soát nhóm Thành_viên nhóm thường có đến thành_viên nhóm đa chức_năng bao_gồm Dev Team và Tester team
+Vì_vậy đó là tất_cả về sự_năng_động của đội và tính kỷ_luật cao
+Như ở hình trên BA tham_gia vào giai_đoạn đầu của quy_trình ngay từ đưa_ra các product backlog các yêu_cầu lập_kế_hoạch chạy nước_rút hỗ_trợ Dev team với các yêu_cầu trong quá_trình phát_triển phần_mềm và cả kiểm_tra các yêu_cầu cấp cao sau khi kiểm_tra xong
+Nhiều BA_thường chỉ kiểm_tra việc xây_dựng phần_mềm trong_suốt chu_kỳ
+Tester cũng thường tham_gia ngay từ_khi lập_kế_hoạch chạy nước_rút họp đánh_giá tương_tác chặt_chẽ với Dev team và thử_nghiệm kỹ_lưỡng
+Có sự_chồng_chéo về trách_nhiệm của BA và Tester ở_đây
+Khi người kiểm thử trở_thành nhà phân_tích kinh_doanh tức_là Tester BA_sự_tham_gia của anh_ta vào toàn_bộ quá_trình từ đầu đến cuối và do_đó người kiểm_tra sẽ dễ_dàng chuyển sang hồ_sơ BA_trong Agile Framework
+Các bước để Tester có_thể trở_thành BA Step Đó là một động_thái tích_cực và việc chuẩn_bị phải bắt_đầu khi bạn vẫn còn là một Tester Quan_sát và tiếp_thu trách_nhiệm của một BA_Điều này trở_nên dễ_dàng khi bạn là một phần của Agile process
+Nếu không nhanh_nhẹn hãy nỗ_lực thêm để làm_việc chặt_chẽ với BA
+Chia_sẻ khối_lượng công_việc của anh_ấy cô_ấy
+Bạn có_thể nhận các nhiệm_vụ nhỏ trong_khi quản_lý các hoạt_động của riêng mình
+Quan_sát BA trong các tương_tác với khách_hàng ở nước_ngoài hoặc khi khách_hàng gọi_điện cho quá_trình giải_thích yêu_cầu
+Step Đọc phân_tích và xem_xét các tài_liệu đặc tả yêu_cầu do BA_cung_cấp nhưng với một góc_độ khác ngoài góc_độ của Tester Đọc các yêu_cầu từ góc_độ khơi_gợi
+Hãy nghĩ_đến việc đặt câu_hỏi về các yêu_cầu như trong “Tại sao lại yêu_cầu như vậy”
+Hiểu các quy_trình kinh_doanh và nghĩ về chúng từ đầu đến cuối
+Cố_gắng ánh_xạ quy_trình và yêu_cầu với phần_mềm hiện_có nếu_có để tìm_ra những khoảng_trống yêu_cầu
+Nếu đó là tùy_chỉnh thì hãy nghĩ_đến giải_pháp
+Giải_pháp do bạn cung_cấp và giải_pháp được cung_cấp bởi một BA nhất_định khác_nhau
+Giải_pháp của bạn có_thể tốt_hơn
+Step Nếu bạn đang thích các hoạt_động nêu trên thì bạn có_thể nghiêm_túc nghĩ_đến việc tiếp_tục với các kế_hoạch cụ_thể để_trở thành một BA Lĩnh_vực đầu_tiên và quan_trọng nhất để làm_việc là “Kỹ năng giao tiếp”
+Nếu bạn cho rằng mình chưa đủ giỏi thì hãy nhanh_chóng bắt_tay vào việc tương_tự
+Kỹ_năng giao_tiếp bằng miệng và bằng văn_bản xuất_sắc là điều bắt_buộc Điều cực_kỳ quan_trọng là_phải nắm_vững tiếng Anh
+Một BA_được yêu_cầu phải giao_tiếp với khách_hàng và các bên liên_quan khác_nhau trong doanh_nghiệp để đưa_ra các yêu_cầu
+BA cũng_được yêu_cầu để truyền_đạt các yêu_cầu cho một nhóm phát_triển
+BA_cần chuyển_đổi các yêu_cầu thành các đặc tả mà các nhà phát_triển có_thể dễ_dàng hiểu được
+Kỹ_năng giao_tiếp kém có_thể dẫn đến sai_sót trong việc thu_thập và sau_đó chuyển các yêu_cầu từ khách_hàng sang nhóm phát_triển do_đó dẫn đến hệ_thống phần_mềm được xây_dựng không chính_xác
+Cải_thiện kỹ_năng viết và nói tiếng Anh hoàn_toàn không_phải là một quá_trình nhanh_chóng
+Nó có_thể đạt được một_cách từ_từ và đều_đặn bằng cách hỗ_trợ BA trong các bài_tập bằng văn_bản và nỗ_lực chân thành liên_tục để giao_tiếp bằng tiếng Anh với các thành_viên trong nhóm
+Các khóa_học nói tiếng Anh đôi khi có_thể hữu_ích
+Cách_tốt nhất_là giao_tiếp bằng tiếng Anh_cả trong môi_trường cá_nhân cũng_như công_việc với các đồng_nghiệp
+Nhận phản_hồi và sửa_chữa theo đúng tinh_thần và tiếp_tục cải_thiện đều_đặn
+Step Bước_tiếp theo là mua bằng MBA hoặc bằng_cấp tương_đương
+Bây_giờ nó là BẮT_BUỘC
+Thành_công trong sự_nghiệp của một BA mà_không có bằng_cấp quản_lý là không đầy_đủ
+Mặc_dù có một số cử_nhân trong một số ngành không có bằng_cấp quản_lý nhưng bất_kỳ tổ_chức CNTT tốt và có uy_tín nào cũng luôn xem_xét một cử_nhân có bằng_cấp quản_lý Điều này sẽ tiếp_tục đóng_vai trò là một trở_ngại trong con_đường sự_nghiệp có_thể là đối_với sự_phát_triển hoặc đối_với một gói lương béo_bở
+Và có một lý_do cho cùng một
+MBA tạo_ra sự_khác_biệt -
+MBA mang lại những điều tốt nhất trong_bạn
+Nó giúp nâng_cao kỹ_năng giao_tiếp kỹ_năng giải_quyết vấn_đề phát_triển nhân_cách kỹ_năng lãnh_đạo kỹ_năng ra_quyết_định kỹ_năng quản_lý kỹ_năng đàm_phán thuyết_phục và cuối_cùng nhưng không kém phần quan_trọng là nó sẽ giúp bạn kiếm được mức_lương cao
+Người kiểm_tra có_thể theo đuổi một khóa_học MBA toàn thời_gian điều này có lợi hơn vì thiết_kế khóa_học phù_hợp_nhất với bạn
+Tuy_nhiên người_ta cũng có_thể chọn một khóa_học MBA bán thời_gian
+Dù là bán thời_gian hay toàn thời_gian bạn bắt_buộc phải lấy bằng_cấp từ một tổ_chức quản_lý tốt và có uy_tín
+Bằng_cấp không có sự_phát_triển về nhân_cách sẽ ít hữu_ích hơn về lâu_dài
+Trong nhiều tổ_chức CNTT hàng_đầu MBA hoặc bằng_cấp tương_đương là bắt_buộc đối_với vai_trò của Nhà phân_tích kinh_doanh
+Khung lương cũng khác_nhau đối_với các ứng_viên MBA và không MBA ứng_tuyển vào vị_trí BA
+Vì_vậy ngoài việc phát_triển nhân_cách và nâng_cao kỹ_năng giao_tiếp MBA hứa_hẹn sự_phát_triển cả về điểm_số và điểm_số
+Step Để theo_đuổi một khóa_học MBA toàn thời_gian một người rõ_ràng sẽ phải rời_bỏ công_việc của mình
+Nhưng điều đó hoàn_toàn xứng_đáng
+Bạn sẽ được hưởng nhiều lợi_ích hơn khi tiếp_tục công_việc sau khi hoàn_thành khóa_học quản_lý
+Người kiểm_tra có_thể không_phải từ_chức nếu anh_ta quyết_định theo_đuổi khóa_học MBA bán thời_gian
+Nhưng nhiều khi việc học và làm đồng_thời sẽ khiến bản_thân nhận áp_lực nhiều hơn
+Nhưng một_lần nữa những nỗ_lực và cố_gắng đã được đền_đáp xứng_đáng
+Hoàn_thành khóa_học quản_lý của bạn với sự_chân_thành và kiên_nhẫn
+Khoảng thời_gian của hầu_hết các khóa_học quản_lý là một hoặc hai năm
+Vậy Tester cần làm_gì Clear một phần mindset Bắt_đầu với “WHY” thay_vì “WHAT” Với mindset của Tester khi nhận_được bất_cứ yêu_cầu phần_mềm nào thì Tester thường sẽ đặt các câu_hỏi như Tính_năng này là_gì
+Làm thế_nào để test được tính_năng này Permission của tính_năng này là gì Ai có_quyền sử_dụng tính_năng này
+Thay vào đó chúng_ta nên bắt_đầu bằng “WHY” Tại_sao chúng_ta phải làm tính_năng này
+Mục_đích của nó để làm_gì
+Current process của user là gì để xác_định tại_sao chúng_ta phải enhance chỗ này
+Tính_năng này là CUSTOMER WANTS hay CUSTOMER NEEDS Ở vị_trí này cái mà bạn tiếp_nhận không_còn là software requirement để test nữa mà là yêu_cầu mong_muốn của khách_hàng nên mindset đặt câu_hỏi của bạn nên thay_đổi
+Không nên đi_vào chi_tiết quá sớm Đứng dưới góc nhìn của Tester sẽ focus rất nhiều vào unhappy case khi bất kì một tính_năng nào_đó được đưa_ra
+Tuy_nhiên trong một buổi meeting về tính_năng mới với khách_hàng khách_hàng chỉ muốn bạn proposed các giải_pháp để giải_quyết vấn_đề của người_ta
+Một vấn_đề không_chỉ có một_cách giải_quyết phân_tích ưu nhược_điểm của mỗi cái sẽ tốt_hơn là chăm_chăm vào các unhappy case
+Mình nói vậy không có nghĩa là phân_tích exception flow này không cần_thiết mà là vẫn cần nhưng chưa phải ở giai_đoạn này
+Chất_lượng phần_mềm quan_trọng nhưng không_phải là nhất Tester thường có mindset đòi_hỏi mọi_thứ đều phải hoàn_hảo cho_đến_khi release test case coverage bug kể_cả bug minor Tuy_nhiên đối_với BA thì bạn nên chấp_nhận sự_không hoàn_hảo khi release tính_năng lên production những case minor hoặc case khó có_thể xảy_ra có_thể bỏ_qua fix sau vì mục_đích để đáp_ứng yêu_cầu khách_hàng thời_điểm đó như chạy campain marketing nhân_dịp holiday cạnh_tranh với các đối thủ… Refer httpswwwsoftwaretestinghelpcomcareer-shift-from-tester-to-ba QA All Rights Reserved Report

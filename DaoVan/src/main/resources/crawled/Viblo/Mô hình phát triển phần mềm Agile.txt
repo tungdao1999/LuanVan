@@ -1,0 +1,37 @@
+httpsvibloasiapmo-hinh-phat-trien-phan-mem-agile-gGJApXNhung Nguyễn nhungbnth Follow Published Friday AM min read Mô_hình phát_triển phần_mềm Agile Happy New Year Report
+Agile là_gì
+Agile là một phương_pháp thúc_đẩy sự_lặp_lại liên_tục của quá_trình phát_triển và kiểm thử trong_suốt vòng đời phát_triển phần_mềm của dự_án
+Trong mô_hình Agile cả hoạt_động phát_triển và kiểm thử đều diễn_ra đồng_thời không như mô_hình Waterfall diễn_ra tuần_tự
+Phát_triển phần_mềm theo Agile Phát_triển phần_mềm theo Agile là một trong những quy_trình đơn_giản và hiệu_quả để biến tầm_nhìn về nhu_cầu kinh_doanh thành các giải_pháp phần_mềm
+Agile là một thuật_ngữ được sử_dụng để mô_tả các phương_pháp tiếp_cận phát_triển phần_mềm mà sẽ liên_tục lập_kế_hoạch học_hỏi cải_tiến hợp_tác nhóm phát_triển tiến_hóa và phân_phối sớm
+Nó khuyến_khích các phản_ứng linh_hoạt để thay_đổi
+Việc phát_triển phần_mềm theo Agile nhấn_mạnh vào bốn giá_trị cốt_lõi Tương_tác cá_nhân và theo nhóm hơn là các quy_trình và công_cụ Phần_mềm có_thể làm_việc hơn là tài_liệu đầy_đủ Sự hợp_tác của khách_hàng hơn là quá_trình đàm_phán hợp_đồng Đáp_ứng với các sự_thay_đổi hơn là tuân_thủ một kế_hoạch có sẵn
+So_sánh mô_hình Agile và Waterfall Mô_hình Agile và Waterfall là hai phương_pháp khác_nhau cho quá_trình phát_triển phần_mềm
+Mặc_dù chúng khác_nhau trong cách tiếp_cận nhưng cả_hai phương_pháp đều hữu_ích vào thời_điểm nào_đó tất_cả tùy_thuộc vào yêu_cầu và loại dự_án triển_khai
+Dưới_đây là bảng so_sánh về hai mô_hình này Mô_hình Agile Mô_hình Waterfall Đề_xuất cách tiếp_cận tăng dần và lặp đi lặp_lại đối_với thiết_kế phần_mềm Quá_trình phát_triển phần_mềm tuần_tự từ điểm bắt_đầu đến điểm kết_thúc Được chia thành các mô_hình riêng_lẻ mà các nhà thiết_kế sẽ làm_việc trên các phần này Quá_trình thiết_kế không_được chia thành các mô_hình riêng_lẻ Khách_hàng có xem sản_phẩm sớm và thường_xuyên để đưa_ra quyết_định cũng_như thay_đổi đối_với dự_án Khách_hàng chỉ có_thể xem sản_phẩm khi kết_thúc dự_án Mô_hình Agile được coi là không có cấu_trúc so với mô_hình Waterfall Mô_hình Waterfall an_toàn hơn vì chúng được định_hướng theo kế_hoạch Với các dự_án nhỏ có_thể được thực_hiện rất nhanh_chóng
+Tuy_nhiên với các dự_án lớn rất khó để ước_tính thời_gian phát_triển
+Tất_cả các loại dự_án có_thể được ước_tính và hoàn_thành
+Lỗi có_thể được sửa ở bất kì giai_đoạn nào khi đang phát_triển dự_án Chỉ khi kết_thúc toàn_bộ sản_phẩm được kiểm_tra
+Nếu lỗi yêu_cầu được tìm thấy hoặc bất_kỳ thay_đổi nào_phải được thực_hiện dự_án phải bắt_đầu lại từ đầu Quá_trình phát_triển là lặp đi lặp_lại và dự_án được thực_hiện trong khoảng thời_gian lặp_lại ngắn thường là - tuần
+Lập_kế_hoạch là rất ít với mỗi quá_trình Quá_trình phát_triển được diễn_ra theo từng giai_đoạn và giai_đoạn lớn hơn nhiều so với lặp_lại
+Mỗi giai_đoạn kết_thúc với mô_tả chi_tiết của giai_đoạn tiếp_theo Tài_liệu ít được ưu_tiên hơn so với phát_triển phần_mềm Tài_liệu là ưu_tiên hàng_đầu và thậm_chí có_thể sử_dụng để đào_tạo nhân_viên và nâng_cấp phần_mềm với nhóm khác Mỗi vòng lặp sprintiteration đều có giai_đoạn kiểm thử riêng
+Nó cho_phép thực_hiện regression test mỗi khi các chức_năng hoặc logic mới được phát_hành Chỉ sau giai_đoạn phát_triển giai_đoạn kiểm thử mới được thực_hiện vì các bộ_phận riêng_biệt không hoạt_động đầy_đủ Khi kết_thúc một sprint các tính_năng có_thể thay_đổi của sản_phẩm sẽ được bàn_giao cho khách_hàng
+Các tính_năng mới có_thể sử_dụng ngay_sau
+Nó rất hữu_ích khi bạn tiếp_xúc tốt với khách_hàng
+Tất_cả các tính_năng được phát_triển sẽ được phân_phối cùng một_lúc sau giai_đoạn triển_khai dài
+Tester và developers làm_việc cùng_nhau Tester làm_việc riêng_biệt với Dev Vào cuối mỗi sprint UAT User Acceptance Testing được thực_hiện UAT được thực_hiện khi kết_thúc dự_án Đòi_hỏi giao_tiếp chặt_chẽ với các nhà phát_triển và cùng_nhau phân_tích các yêu_cầu và lập_kế_hoạch Nhà phát_triển không tham_gia vào quá_trình lập_kế_hoạch và yêu_cầu
+Thông_thường sẽ có độ trễ thời_gian giữa các lần kiểm thử và viết code
+Quy_trình Agile Có rất nhiều quy_trình phát_triển phần_mềm dựa_theo Agile dưới đây mình sẽ liệt_kê và giải_thích chi_tiết mô_hình Scrum Scrum Khái_niệm SCRUM là một phương_pháp phát_triển phần_mềm theo Agile tập_trung đặc_biệt vào cách quản_lý các nhiệm_vụ trong môi_trường phát_triển dựa_trên nhóm
+Về cơ_bản Scrum có nguồn_gốc từ hoạt_động xảy_ra trong một trận_đấu bóng bầu_dục
+Scrum tin_tưởng vào việc trao_quyền cho nhóm phát_triển và ủng_hộ làm_việc trong các nhóm nhỏ từ đến thành_viên
+Chúng_ta có vài trò chính như_sau Scrum Master chịu_trách_nhiệm thiết_lập nhóm tổ_chức họp các sprint và loại_bỏ các trở_ngại để giúp cả đội tiến_bộ
+Product Owner tạo_ra các product backlog ưu_tiên các backlogcông việc tồn đọng đó và chịu_trách_nhiệm cung_cấp các chức_năng ở mỗi sprint
+Development Team tự_quản_lý công_việc của bản_thân và của nhóm đồng_thời tổ_chức công_việc để hoàn_thành sprint Product Backlog Đây là một kho lưu_trữ mà các yêu_cầu được theo_dõi với các chi_tiết về user stories yêu_cầu của người_dùng cần được hoàn_thành cho mỗi bản release
+Nó nên được Product Owner duy_trì và ưu_tiên và nó nên được phân_phối cho Development Team nhóm phát_triển
+Nhóm cũng có_thể yêu_cầu bổ_sung yêu_cầu mới sửa_đổi hoặc xóa yêu_cầu Thực_hành Scrum Các bài thực_hành được mô_tả trong bảng dưới đây Trong_đó Sprint Planning cuộc_họp diễn_ra nhằm mục_đích chuyển các yêu_cầu người_dùng và nghiệp_vụ thành bảng Product Backlog bảng này sẽ liệt_kê chi_tiết các đầu việc cần hoàn_thành để hướng tới sản_phẩm cuối
+Sprint quá_trình chính sẽ diễn_ra cho mỗi vòng lặp phát_triển thường sẽ là đến tuần Daily Meeting diễn_ra hàng ngày khoảng phút cả nhóm sẽ họp và thảo_luận về công_việc đã làm của ngày hôm_trước kế_hoạch cho hôm_nay và các vấn_đề gặp_phải Review Meeting diễn_ra khi được yêu_cầu để giới_thiệu và trình_bày về các tính_năng đã hoàn_thành Retrospective Meeting diễn_ra khi kết_thúc một sprint thường sẽ là buổi_họp rút kinh_nghiệm cũng_như đưa_ra các ý_tưởng giúp cả nhóm tiến_bộ hơn
+Quy_trình của Scrum Mỗi_lần lặp_lại của Scrum được gọi_là sprint Product backlog là danh_sách chứa tất_cả các chi_tiết về yêu_cầu Trong mỗi sprint các user stories của product backlog được chọn và chuyển thành sprint backlog Team làm_việc dựa_trên sprint backlog đã định_ra
+Team kiểm_tra các công_việc hàng_ngày Cuối sprint sẽ bàn_giao sản_phẩm
+Kết_luận Trên đây mình đã giới_thiệu về phương_pháp phát_triển phần_mềm Agile cũng_như một số mô_hình hoạt_động dựa_trên nguyên_tắc của nó
+Cảm_ơn mọi_người đã đọc_ạ
+Tài_liệu tham_khảo httpswwwgurucomagile-scrum-extreme-testinghtml httpsenwikipediaorgwikiAgile software development Testing Agile All Rights Reserved Report

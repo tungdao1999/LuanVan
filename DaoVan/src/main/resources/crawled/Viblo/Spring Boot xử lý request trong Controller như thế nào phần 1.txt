@@ -1,0 +1,45 @@
+httpsvibloasiapspring-boot-xu-ly-request-trong-controller-nhu-the-nao-phan--gGJANjXTống Hoàng Vũ tonghoangvu Follow K Published about hours ago min read Spring Boot xử_lý request trong Controller như_thế_nào phần Report Ok mình đã trở_lại đây dạo_này hơi bận_bịu tí nên ra_bài hơi lâu mong các bạn thông_cảm Hôm_nay chúng_ta sẽ cùng_nhau mổ_xẻ bên_trong controller như_thế_nào và cách hoạt_động của nó_nhé
+Ok let's go
+Controller là gì hoạt_động ra_sao
+Controller là_gì
+Như đã nói ở các bài trước Controller trong ứng_dụng Spring Boot là nơi tiếp_nhận request và trả về response cho client
+Có_thể hiểu controller chính là lớp trung_gian giữa server của bạn và bên_ngoài
+Về mặt code Controller chỉ đơn_thuần là một bean được đánh_dấu với Controller hoặc RestController
+Trong Spring Boot có hai dạng Controller tương_ứng hai annotation trên Controller có_thể trả về View qua một String hoặc JSON data trong response body nếu_được chỉ_định
+Thích_hợp cho các controller có routing chuyển trang các kiểu RestController chỉ có_thể trả về data trong response body
+Thích_hợp cho các controller để cung_cấp API
+Do_đó ta có_thể nói RestController Controller + ResponseBody
+Code ví_dụ Bên_dưới là cấu_trúc một controller nhé Controllerpublic class HomeController Bên_trong controller sẽ có_nhiều method mỗi cái sẽ bắt request cụ_thể Bắt GET home request và trả về view GetMappinghome public String homeModel model modeladdAttributename John return index Return tên của View model sẽ tự_động pass vào view Hoặc có_thể trả về data trong response body như các API GetMappingusers ResponseBody public List getUserList return new ArrayList Hoặc cái này tương_tự như trên nhưng có_thể tùy_chỉnh response status code header GetMappingusersid public ResponseEntity getUserByIdPathVariableid String userId Không_cần ResponseBody do có body rồi return ResponseEntitystatusbodynew User
+Các hoạt_động của controller Như hình trên khi client gửi một request tới server Spring Boot của mình thì nó sẽ đi_qua thứ gọi_là Front controller trước_Đây là controller có sẵn nó có tác_dụng sau Phân_giải request tìm coi request gọi tới method nào của controller nào để gọi đúng tới đó Các data của request sẽ được parse ra và mapping tương_ứng vào các tham_số controller method có RequestParam PathVariable Header tương_ứng Đặc_biệt Spring MVC có_thể parse được các data phức_tạp như enum List hay object
+Ví_dụ enum trong request là dạng string vẫn sẽ được parse đúng thành enum
+Nếu data không_thể parse được front controller sẽ trả về bad request hoặc có_cơ chế khác để chúng_ta ghi đè lại việc này
+Với chiều ngược_lại cũng tương_tự như_vậy
+Dữ_liệu trả về từ controller sẽ được build thành response và trả cho client
+Controller mapping
+Các loại HTTP request Bạn nào học về web hẳn đã rõ về khái_niệm HTTP request
+Mình sẽ không nói sâu về_phần này nhưng tạm hiểu mỗi HTTP request sẽ gồm thông_tin quan_trọng Request tới URL nào request tới đâu HTTP method là gì thể_hiện hành_động gì đấy với URL Trong controller chỉ cần nắm được hai thông_tin trên thì sẽ bắt_được mọi request được gửi tới sau_đó mới xử_lý tiếp
+Trong Rest API design thì người_ta thường_dùng danh_từ trong URL để chỉ đối_tượng được tác_động
+Còn các HTTP method để đại_diện cho hành_động nào sẽ áp_dụng lên đối_tượng_đó
+Ví_dụ như Request tới GET users có đối_tượng tác_động là users tất_cả user và hành_động là GET lấy thông_tin Request tới PUT users có đối_tượng là users user có_mã là và hành_động là PUT cập_nhật thông_tin Thường thì theo khuyến_nghị người_ta sử_dụng đúng HTTP method với các hành_động CRUD tương_ứng Create dùng POST method Read dùng GET method Update dùng PUT method Delete dùng DELETE method Hầu_hết các ứng_dụng web đều sử_dụng hành_động CRUD cơ_bản trên tới hơn rồi
+Ngoài_ra có_thể có các hành_động khác mà không có method tương_ứng như login thì có_thể thêm_vào endpoint như POST login dùng POST sẽ an_toàn hơn đọc thêm về các HTTP method để hiểu_rõ hơn ý_nghĩa của chúng
+Bắt các request Spring Boot dùng các annotation sau đánh_dấu lên từng method của controller để chỉ_định rằng khi HTTP method tương_ứng gọi tới thì method sẽ được thực_thi RestControllerpublic class UserController GetMappingusers public ResponseEntity getAllUsers DeleteMappingusersid public void deleteUserPathVariableid int id Ví_dụ trên có method bắt tương_ứng hai request là GET users và DELETE usersid
+Khi có request tương_ứng gửi tới thì hai method trên sẽ thực_thi và trả về kết_quả cho client
+Các annotation phổ_biến như GetMapping PostMapping PutMapping có dạng là tên HTTP method cộng với từ mapping
+Ngoài_ra còn có_thể dùng RequestMapping và chỉ_định thuộc_tính method như_sau RequestMappingvalue users method RequestMethodGET Ngoài_ra RequestMapping còn có_thể dùng bên_trên class controller để chỉ_định endpoint gốc cho toàn_bộ method bên_trong nó
+Ví_dụ như_sau RestControllerRequestMappinguserspublic class UserController Kết_hợp với route gốc ở trên ta có usersinfo GetMappinginfo
+Nhận request data trong Controller Controller nhận_dữ_liệu từ request tùy_vào dữ_liệu nằm ở đâu mà chúng_ta có cách lấy_ra khác_nhau Request param query string Path variable Request body Header
+Request param query string Ví_dụ như request sau GET usersagenameDũng thì chúng_ta có request param là age và name Dũng
+Khi đó muốn lấy_được hai giá_trị trên chúng_ta dùng RequestParam như_sau RestControllerpublic class UserController GetMappingusers public ResponseEntity getAllUsers RequestParamage int age RequestParamname String name Lúc_này hai biến age và name đã có dữ_liệu tương_ứng Trong trường_hợp RequestParam có thêm các tham_số khác thì chúng_ta phải viết như_sau
+Ví_dụ cả_hai trường age và name trên đều là optional không bắt_buộc nên chúng_ta dùng thuộc_tính required false cho RequestParam mặc định là true RestControllerpublic class UserController GetMappingusers public ResponseEntity getAllUsers RequestParamvalue age required false Integer age RequestParamvalue name required false String name Lúc_này hai biến age và name đã có dữ_liệu tương_ứng Lúc_này do biến age có_thể không có nên phải cho nó kiểu Integer có giá_trị null để biết_được age có_được gửi lên hay không
+Nếu là kiểu primitive thì nó sẽ luôn có giá_trị mặc_định
+Ngoài_ra RequestParam cũng có thuộc_tính defaultValue nếu request không_chỉ_định thì giá_trị default đó sẽ được sử_dụng Path variable Path variable là một phần trong đường dẫn URL ví_dụ GET usersinfo thì là path variable
+Sử_dụng PathVariable để làm_việc này tương_tự như dùng RequestParam GetMappingusersidinfopublic ResponseEntity getUserInfo PathVariablevalue id defaultValue int userId id là tên path variable tương_ứng trên url id PathVariable cũng có các thuộc_tính tương_tự RequestParam
+Request body Request method PUT POST mới có request body đây là nơi chứa data chính để gửi lên
+Thường thì request body sẽ ở dạng JSON hoặc form-data khi vào controller sẽ được tự_động parse ra thành Object ví_dụ DTO chẳng_hạn PostMappingloginpublic ResponseEntity loginRequestBody LoginDto loginDto Dữ_liệu trong request body có_thể là JSON form-data Tuy_nhiên khi vào controller sẽ bị parse thành object hết Đây là ví_dụ về class LoginDto ở trên có dùng lombok GetterSetterpublic class LoginDto private String username private String password
+Header PostMappingloginpublic ResponseEntity loginHeaderAuthorization String authHeader Biến authHeader sẽ có giá_trị là giá_trị của Authorization header Ví_dụ như trên mình muốn thực_hiện xác_thực người_dùng bằng Basic authentication
+Thông_tin username password được encode trong header có tên là Authorization
+Muốn lấy_được value trong header thì các bạn sử_dụng Header như trên
+Okay bài_viết tới đây là hết_rồi
+Bài tiếp_theo mình sẽ nói_tiếp về cách return dữ liệu về cho client nhé
+Nhớ đón xem và đừng quên ủng_hộ mình bằng cách vote và clip thật nhiều nhé
+Thân Spring Boot Java All Rights Reserved Report

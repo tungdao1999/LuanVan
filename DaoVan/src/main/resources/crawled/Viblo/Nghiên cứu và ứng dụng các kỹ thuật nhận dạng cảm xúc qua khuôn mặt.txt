@@ -1,0 +1,63 @@
+httpsvibloasiapnghien-cuu-va-ung-dung-cac-ky-thuat-nhan-dang-cam-xuc-qua-khuon-mat-ORNZqdmeKnducmanhkthd ducmanhkthd Follow Published Thursday PM min read Nghiên_cứu và ứng_dụng các kỹ_thuật nhận_dạng cảm_xúc qua khuôn_mặt Report I
+Giới_thiệu về nhận_dạng cảm_xúc qua khuôn_mặt Khuôn_mặt của con_người biểu_hiện nhiều cảm_xúc mà không cần phải nói_ra Đó là một trong những phương_tiện mạnh_mẽ và tự_nhiên nhất để con_người truyền_đạt thể_hiện cảm_xúc
+Không giống như các hình_thức giao_tiếp phi ngôn_ngữ khác cảm_xúc trên khuôn_mặt nó phổ_quát
+Hiện_nay nhận_dạng và phân_tích cảm_xúc khuôn_mặt tự_động là một vấn_đề thú_vị và đầy thách_thức có ảnh_hưởng to_lớn đến xã_hội
+Cảm_xúc trên khuôn_mặt và hành_động của chúng_ta là phương_tiện giao_tiếp phi ngôn_ngữ bao_gồm cảm_xúc giao_tiếp của con_người trong_đó thể_hiện cử_chỉ khuôn_mặt và hành_động của con_người
+Cảm_xúc khuôn_mặt có_thể được phân_tích dễ_dàng thông_qua hình_ảnh khuôn_mặt và máy_tính có_thể tương_tác với con_người như cách con_người tương_tác với_nhau Đó là lý_do tại_sao nhận_dạng cảm_xúc qua khuôn_mặt ngày_càng được sự_quan_tâm trong mọi lĩnh_vực
+Các nhà nghiên_cứu đã chỉ ra rằng cảm_xúc trên khuôn_mặt là phổ_quát và bẩm_sinh trong tất_cả các chủng_tộc giới_tính và độ_tuổi
+Thêm cảm_xúc trung_tính là có bảy cảm_xúc cơ_bản gồm trung_tính giận_dữ ghê_tởm sợ_hãi hạnh_phúc buồn và bất_ngờ
+Nhận_dạng cảm_xúc qua khuôn_mặt có ứng_dụng trong các lĩnh_vực khác_nhau Giáo_dục Phản_ứng của người học trong thời_gian thực và sự_tham_gia vào nội_dung là giáo_dục là một thước_đo_lường cho hiệu_quả của bài_giảng
+Tiếp_thị Đây là một_cách tuyệt_vời để các công_ty kinh_doanh phân_tích cách khách_hàng phản_hồi với quảng_cáo sản_phẩm bao_bì và thiết_kế cửa_hàng của họ
+Chơi game Với sự_ra_đời của game thực_tế ảo gần với trải nghiệm_thực_tế
+Nhận_dạng cảm_xúc khuôn_mặt đóng một vai_trò quan_trọng để cải_thiện trải nghiệm chơi trò_chơi
+Bảo_mật Nó có_thể giúp xác_định hành_vi đáng_ngờ trong đám_đông và có_thể được sử_dụng để ngăn_chặn tội_phạm và những kẻ khủng_bố tiềm_năng
+Chăm_sóc sức_khỏe Nó có_thể hữu_ích trong việc tự_động_hóa dịch_vụ y_tế
+Cả sức_khỏe thể_chất và tinh_thần có_thể được phân_tích thông_qua ứng_dụng này
+Dịch_vụ khách_hàng Quản_lý dịch_vụ khách_hàng có_thể hiệu_quả hơn bằng cách sử_dụng hệ_thống nhận_dạng cảm_xúc khuôn_mặt
+Phân_tích phản_hồi của khách_hàng và phản_ứng của máy_tính sẽ đảm_bảo tương_tác máy_tính với con_người_trong cuộc_sống thực
+Hệ_thống nhận_diện cảm_xúc khuôn_mặt được sử_dụng nhiều trong cuộc_sống điều_trị y_tế giao_tiếp song ngôn_ngữ đánh_giá đau của bệnh_nhân phát_hiện nói_dối giám_sát trạng_thái của người lái_xe phát_hiện trạng_thái buồn_ngủ dựa_vào cảm_xúc trên khuôn_mặt được phát_triển để cảnh_báo cho người lái_xe khi thấy dấu_hiệu buồn_ngủ mệt_mỏi
+II
+Tổng_quan về nhận_dạng cảm_xúc qua khuôn_mặt Đầu_tiên khi muốn nghiên_cứu về đề_tài này bạn cần phải chuẩn_bị những kiến_thức học máy là_gì
+Phân_loại các kỹ_thuật học máy Đưa_ra một số kỹ_thuật học_máy
+Tiếp_theo tìm_hiểu về SVM cách_thức hoạt_động và ứng_dụng của SVM trong thực_tế
+Cuối_cùng tìm_hiểu về CNN giới_thiệu về khái_niệm và mô_hình CNN
+Các kiến_thức trên các bạn có_thể dễ_dàng tìm_hiểu qua các bài_báo website khác trên mạng mình sẽ không nhắc_đến nữa nếu_có thời_gian mình sẽ có những bài_báo đi chi_tiết về những chủ_đề này
+Sau_đây mình xin bắt_đầu vào phần nội_dung chính của bài_viết và theo_như mình có tìm_hiểu thì chưa có nhiều bài_viết nào được nhắc_đến nội_dung nghiên_cứu này
+Chủ_đề của mình là nhận_dạng cảm_xúc qua khuôn_mặt sử_dụng phương_pháp chính là SVM và CNN
+Mục_tiêu của bài_viết So_sánh phương_pháp SVM và CNN trong nhận_dạng cảm_xúc qua khuôn_mặt
+So_sánh phương_pháp CNN cơ_bản và CNN cơ_bản kết_hợp các đặc_trưng truyền_thống Mình có tìm_hiểu số bài_báo và số các phần_mềm ứng_dụng thực_tế hiện_nay về nhận_diện khuôn_mặt thì thấy có vấn_đề chính và quan_trọng nhất cần giải_quyết là Thiếu dữ_liệu traning và các biến_thể không liên_quan đến biểu_hiện cảm_xúc ánh_sáng tư_thế đầu và sai_lệch nhận_dạng Để giải_quyết vấn_đề trên thì phương_pháp nhận_dạng cảm_xúc qua khuôn_mặt được chia thành nhiều hướng theo các tiêu_chí khác_nhau chia thành hai loại chính phương_pháp truyền_thống và phương_pháp hiện_đại_Để hiển_rõ hơn thế_nào là phương_pháp truyền_thống phương_pháp hiện_đại thì mình sẽ nói_qua về nội_dung này
+Phương_pháp truyền_thống Hệ_thống nhận_dạng cảm_xúc qua khuôn_mặt với phương_pháp truyền_thống thì xử_lý bài qua các giai_đoạn tiền xử_lý hình_ảnh khuôn_mặt trích_xuất đặc_trưng và phân_loại
+Tiền xử_lý là quá_trình được sử_dụng để cải_thiện hiệu_suất của hệ_thống nhận_dạng cảm_xúc qua khuôn_mặt và được thực_hiện các loại quy_trình khác_nhau căn chỉnh độ rõ chia tỷ_lệ hình_ảnh điều_chỉnh độ tương_phản và sử_dụng các quy_trình nâng_cao để cải_thiện các khung biểu_thức
+Trích_xuất đặc_trưng trong thị_giác máy_tính là một giai_đoạn quan_trọng nó phát_hiện ra việc chuyển từ mô_tả đồ_họa sang mô_tả dữ_liệu ẩn trích chọn những đặc_trưng riêng nhất của hình_ảnh sau_đó những mô_tả dữ_liệu này có_thể được sử_dụng làm_đầu vào cho bài_toán phân_loại
+Phân_loại là giai_đoạn cuối_cùng của hệ_thống nhận_diện cảm_xúc qua khuôn_mặt FER để phân_loại ra các loại cảm_xúc trên khuôn_mặt hạnh_phúc buồn_bã bất_ngờ tức_giận sợ_hãi ghê_tởm và bình_thường
+Sử_dụng các phương_pháp phân_loại như Cây quyết_định ID SVM HMM Hidden Markov Model thì phân_loại SVM cho độ_chính_xác và phân_loại tốt nhất
+Chính vì_vậy mình chọn SVM đại_diện cho phương_pháp truyền_thống để sử_dụng cho hệ_thống nhận_diện của mình
+Phương_pháp hiện_đại Trong phần này sẽ mô_tả các bước chính phổ_biến trong hệ_thống nhận_dạng cảm_xúc qua khuôn_mặt thực_hiện qua các giai_đoạn tiền xử_lý phân_lớp sử_dụng học sâu
+Những năm gần_đây học sâu có độ_chính_xác hơn phương_pháp truyền_thống vì nó không_phải qua bước trích_xuất các đặc_trưng một_cách tường_minh nó sẽ thực_hiện đi_kèm với phương_pháp phân_loại
+Tiền xử_lý ảnh cũng phải xử_lý_số vấn_đề của ảnh đầu vào hệ_thống xử_lý trước quá_trình trainning
+Các bước thực_hiện Căn chỉnh khuôn_mặt để phát_hiện khuôn_mặt tăng dữ_liệu hình_ảnh đảm_bảo đủ dữ_liệu training cuối_cùng là chuẩn_hóa_dữ_liệu khuôn_mặt
+Sử_dụng các phương_pháp CNN DBN DAE RNN GAN
+Phân_loại Trong phương_pháp truyền_thống bước trích_xuất đặc_trưng và bước phân_loại tính_năng là độc_lập với_nhau trong Deep learning có_thể thực_hiện FER theo cách từ đầu đến cuối
+Một lớp mất được thêm_vào cuối mạng để điều_chỉnh lỗi lan_truyền ngược sau_đó xác_suất dự_đoán của từng mẫu có_thể được mạng trực_tiếp xuất ra
+III
+Mô_hình mạng tích chập cho nhận_dạng cảm_xúc qua khuôn mặt Trong nội_dung này chúng_ta sẽ đặt câu_hỏi “Có nên kết_hợp đặc_trưng truyền_thống và CNN cho hệ_thống nhận_dạng cảm_xúc qua khuôn_mặt không” Để trả_lời cho câu_hỏi trên cần phải làm rõ và tìm_hiểu các nội_dung như giới_thiệu tổng_quan về phương_pháp CNN cho hệ_thống nhận_dạng cảm_xúc qua khuôn mặt tiếp_theo sẽ giới_thiệu mô_hình thiết_kế CNN kết_hợp đặc_trưng truyền_thống cho hệ_thống nhận_dạng cảm_xúc qua khuôn_mặt
+Tổng_quan về CNN cho nhận_dạng cảm_xúc qua khuôn_mặt Nhận_dạng cảm_xúc qua khuôn_mặt trong môi_trường tự_nhiên là một trong những lĩnh_vực được nghiên_cứu tích_cực trong nhiều năm_nay tuy_nhiên không tránh_khỏi một_số những thách_thức trong hệ_thống cần phải tìm_cách giải_quyết khắc_phục các vấn_đề đó Để giải_quyết các thách_thức đó họ đã tổ_chức thành cuộc thi để thúc_đẩy sự_tiến_bộ trong lĩnh_vực này
+Trong số các cuộc thách_thức có một cuộc thi thách_thức dùng database FER kết_quả chiến_thắng chung_cuộc là sử_dụng phương_pháp CNN dùng để nhận_dạng cảm_xúc khuôn_mặt
+Mô_hình kiến_trúc nhận_dạng cảm_xúc qua khuôn_mặt Hình mô_hình thiết_kế của hệ_thống nhận_dạng cảm_xúc qua khuôn_mặt sử_dụng phương_pháp CNN kết_hợp với đặc_trưng truyền_thống Đầu vào là hình_ảnh có kích_thước x pixel và chanels ảnh xám được lấy trong bộ_dữ_liệu dataset FER đầu_ra của hệ_thống là dự_đoán cảm_xúc của hình_ảnh Để thực_hiện quá_trình có_được đầu_ra hệ_thống cần thực_hiện theo hai giai_đoạn tiền xử_lý hình_ảnh phân_lớp sử_dụng học sâu
+Trong đó bước trích chọn đặc_trưng được thực_hiện một_cách không tường_minh ẩn bên_trong giai_đoạn phân_lớp sử_dụng học sâu các giai_đoạn thực_hiện một_cách liền mạch không phân_chia một_cách quá cụ_thể và rõ_ràng như phương_pháp truyền_thống
+Hình mô_hình kiến_trúc của phương_pháp CNN đầu vào là hình_ảnh có kích_thước là x sau_đó đồng_thời thực_hiện việc song_song Ảnh đầu vào thực_hiện đi_qua phương_pháp deep learning hiện_đại
+Trong giai_đoạn này thực_hiện đi_qua các bước các tầng tích chập tầng gộp tầng kết_nối
+Tạo_ra tầng kết_nối có kích_thước Ảnh đầu vào kết_hợp với các đặc_trưng truyền_thống Face lanmarks + HoG features Đầu_ra là tạo_ra tầng kết_nối có kích_thước
+Cuối_cùng hai công_việc thực_hiện song_song gộp lại tạo_thành tầng kết_nối đầy_đủ có kích_thước và cho ra kết_quả đầu_ra là một trong trạng_thái cảm_xúc
+Mô_hình SVM thiết_kế cho hệ_thống nhận_dạng cảm_xúc qua khuôn_mặt Mô_hình CNN cơ_bản thiết_kế cho hệ_thống nhận_dạng cảm_xúc qua khuôn măt IV Cài đặt và kiểm_thử
+Cơ_sở dữ_liệu FER được giới_thiệu trong ICML Chanllenges in Representation Learning Đầu vào hình_ảnh đã được gán nhãn đã được điều_chỉnh vùng cắt kích_thước x pixel
+Dữ_liệu được thu_thập bởi API tìm_kiếm hình_ảnh của Google
+Tập_huấn_luyện Training set chiếm dùng để học khi huấn_luyện
+Tập kiểm_chứng Cross validation set chiếm dùng để kiểm_chứng mô_hình huấn_luyện
+Tập kiểm_tra Test set chiếm dùng để kiểm_tra mô_hình đã phù_hợp sau khi huấn_luyện
+Môi_trường phát_triển Hệ điều_hành Server Ubuntu RAM GB HDD i GHZ CPU Công_cụ phát_triển Pycharm Ngôn_ngữ phát_triển Python Cơ_sở dữ_liệu Dataset FER Bên_trên là các môi_trường mà mình đã thực_hiện ngoài_ra các bạn còn có rất nhiều cách khác để thực_hiện mục_đích cuối_cùng là cho ra được kết_quả trainning như mong_muốn
+Kịch_bản kiểm thử Thử_nghiệm trên_bộ dataset FER Đầu vào tập_dữ_liệu đã được training từ trước Đầu_ra phần_trăm độ chính_xác trên toàn_bộ tập_dữ_liệu Sử_dụng phương_pháp SVM + CNN Thử_nghiệm trên ảnh bất_kỳ trong bộ dataset FER Đầu vào là ảnh bất_kỳ đã được gán nhãn kích_thước x Đầu_ra cảm_xúc của khuôn_mặt + phần_trăm dự_đoán độ chính hình_ảnh
+Sử_dụng phương_pháp SVM + CNN V
+Kết_luận Vậy là mình đã giới_thiệu cho các bạn về các phương_pháp nhận_diện cảm_xúc qua khuôn_mặt và làm_nổi_bật nội_dung nghiên_cứu chính của mình
+Mình mong đây là một bài_viết thú_vị mà mọi_người đang quan_tâm
+Nếu bài_viết này được nhiều bạn quan_tâm thì mình sẽ chia_sẻ từ các trainng dữ liệu đến_khi ra được kết_quả như của mình sẽ là một bài_viết đầy hứa_hẹn các bạn chờ tiếp nhá cnn SVM All Rights Reserved Report

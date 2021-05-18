@@ -1,0 +1,8 @@
+httpsvibloasiapkhung-project-dung-san-voi-fastapi-LjyVjVbraĐào Hải_Long longdaohai Follow Published Wednesday PM min read Khung Project dựng sẵn với FastAPI Report Tiếp_cận một framework mới là công_việc rất tốn thời_gian với Developer thường sẽ mất vài ngày đến vài tuần để bạn làm_quen và sử_dụng thành_thạo một framework mới
+Tuy_nhiên vấn_đề đặt_ra là kể_cả khi bạn biết cách sử_dụng framework rồi làm thế_nào để tổ_chức quản_lý source code cho hiệu_quả
+Trong quá_trình làm_việc mình cũng từng khá bối_rối khi tìm_cách tổ_chức source code trong project như_thế_nào cho thuận_lợi và dễ_dàng sử_dụng khi có một người_khác join team
+Thời_gian vừa qua mình làm_quen với FastAPI tính đến thời_điểm hiện_tại có khá ít tài_liệu tiếng việt hỗ_trợ cho framework này thậm_chí search trên medium hay ở việt nam trong_số trang tham_khảo cho Developer là Viblo và Kipalog số bài_viết liên_quan đến FastAPI là đếm trên đầu ngón_tay
+Source code cho FastAPI mình đặt ở link phía_dưới khi có cập_nhật mới mình sẽ update thêm trực_tiếp vào source code tài_liệu cài_đặt cách các bạn có_thể xem ngay tại Readmemd mình viết_sẵn
+Link Source code httpsgithubcomLongdhfastapi-base Kế_hoạch trong mấy ngày tiếp_theo mình sẽ cố_gắng bổ_sung document build source code này lên server để các bạn có hàng dùng demo và sau_đó là dựng Frontend tích_hợp với Backend này
+Hướng tới bất_cứ ai có nhu_cầu cần xây_dựng website quản_trị chỉ cần pull source code này về code thêm theo logic của bussiness là được
+Xem bài_viết gốc tại_đây FastAPI All Rights Reserved Report

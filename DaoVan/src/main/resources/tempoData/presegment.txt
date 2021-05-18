@@ -1,0 +1,1011 @@
+bộ giáo dục và đào tạo
+trường đại học nông lâm tp hcm
+khoa công nghệ thông tinluận văn tốt nghiệp
+áp dụng frame ork react native để xây dựng ứng dụng chợ xengành    công nghệ thông tinniên khóa   2014 2018lớp   dh14dtasinh viên thực hiện   hồ lâm laiđinh thế tân
+tp hồ chí minh tháng 8 năm 2018
+bộ giáo dục và đào tạo
+trường đại học nông lâmtp hcm
+khoa công nghệ thông tin
+luận văn tốt nghiệp
+áp dụng frame ork react native để xây dựng ứng dụng chợ xegiáo viên hướng dẫn sinh viên thực hiệnths nguyễn thị phương trâm hồ lâm lai đinh thế tân
+tp hồ chí minh tháng 8 năm 2018
+công trình hoàn tất tại
+trường đại học nông lâm tp hồ chí minh
+giáo viên hướng dẫn ths nguyễn thị phương trâm
+giáo viên phản biện 
+luận văn cử nhân được bảo vệ tại hội đồng chấm luận văn cử nhân trường đại học nông lâm tp hcm ngày 5 tháng 09 năm 2018
+nhận xét của giáo viên hướng dẫnnhận xét của giáo viên phản biệnsinh viên thư c hiê n 
+ho tên sinh viên hồ lâm lai pha i nam
+nga y tha ng năm sinh 12 10 1996 nơi sinh bình định
+chuyên nga nh công nghệ thông tin
+đi a chi 61 thôn chương hòa xã hòa châu bắc huyện hòa nhơn tỉnh bình định
+điê n thoa i liên la c 0164 670 9799
+email 14120052 st hcmuaf edu vn
+ho tên sinh viên đinh thế tân pha i nam
+nga y tha ng năm sinh 16 11 1996 nơi sinh quảng nam
+chuyên nga nh công nghệ thông tin
+đi a chi 16 hoàng diệu tam k quảng nam
+điê n thoa i liên la c 0906 100 446
+email 14130110 st hcmuaf edu vn
+bộ giáo dục và đào tạo  cộng hòa xã hội chủ nghĩa việt nam
+trường đh nông lâm tp hồ chí minh  độc lập tự do hạnh phúc
+nhiệm vụ luận văn cử nhân
+họ tên sinh viên hồ lâm lai  phái nam
+ngày tháng năm sinh 12 10 1996 nơi sinh bình định
+chuyên ngành công nghệ thông tin 
+ngành công nghệ thông tin
+họ tên sinh viên đinh thế tân phái nam
+ngày tháng năm sinh 16 11 1996 nơi sinh quảng nam
+chuyên ngành công nghệ thông tin 
+ngành công nghệ thông tin
+i tên đề tài áp dụng frame ork react native để xây dựng ứng dụng chợ xe
+ii nhiệm vụ và nội dunggiải quyết vấn đề kinh doanh xe của các đại l xe hình thức mua bán xe của cá nhân giải quyết nhu cầu người sử dụng xe hiện naygiải quyết được về phương tiện đi lại cho người muốn thuê xe với các hình thức như du lich đi bụi nội dung nghiên cứu tìm hiểu thuật toán tìm đường đi ngắn nhất để giải quyết vấn đề tìm đường đi từ vị trí cá nhân đến các địa điểm cho thuê bán xe phần mềm chạy trên cả 2 nền tảng android và ios xây dựng và phát triển ứng dụng chạy chương trình trong thời gian dài để có lượng dữ liệu nhu cầu sử dụng xe của mọi người 
+iii ngày giao nhiệm vụ 17 03 2018
+iv ngày hoàn thành nhiệm vụ 5 9 2018
+v họ tên cán bộ hướng dẫn ths nguyễn thị phương trâm
+ngày  ngày  ngày cán bộ hướng dẫn  cán bộ phản biện  khoa cntt
+báo cáo đồ án tốt nghiệp svth hồ lâm lai đinh thế tân gvhd nguyễn thị phương trâmbáo cáo đồ án tốt nghiệp svth hồ lâm lai đinh thế tân gvhd nguyễn thị phương trâmlời cảm ơnchúng em xin chân thành cảm ơn các thầy cô khoa công nghệ thông tin trường đại học nông lâm tp hồ chí minh với những kiến thức qu báu và sự tận tâm nhiệt huyết mà thầy cô đã truyền đạt cho chúng em trong suốt những năm đại học 
+chúng con xin gửi đến cha mẹ lời ghi ơn sâu sắc những người đã sinh ra và dạy bảo chúng con trưởng thành như ngày hôm nay 
+đặc biệt chúng em xin chân thành cảm ơn cô nguyễn thị phương trâm đã tận tình hướng dẫn chỉ bảo và giúp đỡ chúng em trong suốt quá trình thực hiện đề tài nghiên cứu này cảm ơn vì cô đã truyền tải cho chúng em không chỉ về kiến thức chuyên ngành mà còn cả về cách sống cách ứng xử cách suy nghĩ giúp chúng em trưởng thành hơn 
+cũng xin cám ơn tất cả những bạn bè đã chia sẻ kiến thức và tận tình giúp đỡ chúng tôi hoàn thành đề tài này 
+ngoài ra chúng em còn xin gửi lời cảm ơn tới nhà trường và văn phòng khoa công nghệ thông tin đã chân thành giúp đỡ tạo điều kiện chúng em thực hiện đề tài trong thời gian qua 
+trong quá trình thực hiện đề tài nghiên cứu mặc dù chúng em đã có những cố gắng nỗ lực thực hiện nhưng chúng em chắc không thể tránh được những sai sót nhất định kính mong sự thông cảm và tận tình chỉ bảo của qu thầy cô xin chân thành cảm ơn mọi người 
+sinh viên thực hiện
+hồ lâm lai
+đinh thế tân
+mục lục
+lời cảm ơn i
+danh sách hình ảnh được sử dụng vii
+danh sách các bảng được sử dụng x
+chương 1 mở đầu 1
+1 1  hiện trạng và khó khăn thực tế 1
+1 2  lí do chọn đề tài 1
+1 3  mục tiêu đề tài 2
+1 4  đối tượng nghiên cứu 2
+1 5  phạm vi nghiên cứu 3
+1 6  nội dung nghiên cứu 3
+1 6 1  về thời gian  3
+1 6 2  về không gian  3
+1 6 3  về nội dung  3
+1 6 3 1  cấu trúc kiến thức cơ bản gồm các thành phần sau  3
+chương 2 kiến thức cơ bản 5
+2 1  tìm hiểu về react native 5
+2 1 1  giới thiệu về react native  5
+2 1 1 1  ứng dụng hybrid  6
+2 1 1 2  ứng dụng native  6
+2 1 1 3  react native là hòa hợp điên rồ giữa cả hai  7
+2 1 2  tìm hiểu về react native  10
+2 1 2 1  thiết lập và đóng gói  10
+2 1 2 2  dom và styles  10
+2 1 2 3  animations và gesture  12
+2 1 2 4  component  13
+2 1 2 5  props 14
+2 1 2 6  state 15
+2 1 2 7  chuyển đổi qua lại giữa các component 17
+2 1 2 8  redux  20
+2 1 2 9  cấu trúc và nguyên lí hoạt động của redux  22
+2 1 2 10  publishing  23
+2 2  tìm hiểu về visual studio code  24
+2 2 1  visual studio code là gì  24
+2 2 2  chức năng của visual studio code  25
+2 3  tìm hiểu về android studio  25
+2 4  tìm hiểu về xcode  26
+2 5  tìm hiểu về genymotion  28
+2 5 1  genymotion là gì  28
+2 6  tìm hiểu về firebase  30
+2 6 1  firebase là gì  30
+2 6 2  tổng quan các dịch vụ mà firebase cung cấp  30
+2 6 3  nhóm công cụ để develop test app  31
+2 6 4  kết nối firebase với reactnative  35
+chương 3 phân tích và thiết kế ứng dụng chợ xe 39
+3 1  mô tả các yêu cầu về chức năng của ứng dụng  39
+3 1 1  sơ lượt về usecase và actor  40
+3 1 2  mô hình usecase của người dùng  42
+3 1 3  mô hình usecase của quản l  50
+3 2  lượt đồ tuần tự sequence diagram  52
+3 2 1  đăng k  52
+3 2 2  đăng nhập 53
+3 2 3  đăng xuất 53
+3 2 4  quên mật khẩu 54
+3 2 5  yêu thích  54
+3 2 6  đăng tin cho thuê  55
+3 2 7  đăng tin bán  55
+3 2 8  nhắn tin  56
+3 2 9  gọi điện  56
+3 2 10  tìm kiếm 57
+3 2 11  chỉ đường 57
+3 2 12  map 58
+3 2 13  quản lí bài đăng 58
+3 2 14  chi tiết sản phẩm 59
+3 3  lượt đồ lớp class diagram  60
+3 3 1  lớp account  61
+3 3 2  lớp authentication  61
+3 3 3  lớp firebase  61
+3 3 4  lớp user  61
+3 3 5  lớp database  61
+3 3 6  lớp salepost  62
+3 3 7  lớp rentalpost  62
+3 3 8  lớp productmanagerment  63
+3 3 9  lớp careproducts  63
+3 3 10  lớp image  65
+3 3 11  lớp storage  65
+3 4  mô hình cơ sở dữ liệu quan hệ erd  65
+3 4 1  lớp user  65
+3 4 2  lớp postsale  66
+3 4 3  lớp postrent  66
+3 5  kiến trúc hệ thống  67
+3 6  kiến trúc phần mềm  68
+chương 4 một số vấn đề gặp phải 71
+4 1  ngôn ngữ  71
+4 1 1  vấn đề đặt ra  71
+4 1 2  khó khăn  71
+4 1 3  hướng giải quyết  71
+4 2  server  71
+4 2 1  vấn đề đặt ra  71
+4 2 2  khó khăn  72
+4 2 3  hướng giải quyết  73
+4 3  luồng dữ liệu  73
+4 3 1  vấn đề đặt ra  73
+4 3 2  khó khăn  73
+4 3 3  hướng giải quyết  73
+4 4  thiết bị  74
+4 4 1  vấn đề đặt ra  74
+4 4 2  khó khăn  74
+4 4 3  hướng giải quyết  74
+4 5  thư viện  75
+4 5 1  vấn đề đặt ra  75
+4 5 2  khó khăn  75
+4 5 3  hướng giải quyết  75
+4 6  version libraries  75
+4 6 1  vấn đề đặt ra  75
+4 6 2  khó khăn  76
+4 6 3  hướng giải quyết 76
+chương 5 kết quả đạt được và hướng phát triển 77
+5 1  kết quả đạt được  77
+5 1 1  về kiến thức 77
+5 1 2  về nhận thức 77
+5 1 3  về sản phẩm 78
+5 1 3 1  về phía người dùng  78
+5 2  hạn chế  83
+5 3  hướng phát triển  83
+tài liệu tham khảo 89
+tài liệu về firebase  89
+tài liệu về xcode  89
+tài liệu về android studio  89
+tài liệu về prop type  89
+tài liệu về react native  89
+tài liệu về react native communications  90
+tài liệu về react native custom picker  90
+tài liệu về react native fetch blob 90
+tài liệu về react native geocoder  90
+tài liệu về react native image picker  90
+tài liệu về react native immediate phone call  90
+tài liệu về react native maps  90
+tài liệu về react native maps directions  91
+tài liệu về react native navigator  91
+tài liệu về redux  91
+tài liệu về redux logger  91
+tài liệu về redux persist  91
+tài liệu về redux thunk  92
+tài liệu về buil ứng dụng lên thiết bị thực  92
+phụ lục 93
+i  hướng dẫn sử dụng firebase  93
+ii  hướng dẫn cài đặt react native  98
+1  lập trình trên hđh indo s nền tảng android  98
+2  lập trình trên hđh macos nền tảng ios  103
+iii  hướng dẫn sử cài đặt bộ thư viện  104
+1  hướng dẫn cài đặt bộ thư viện navigation trên ios  104
+2  hướng dẫn cài đặt bộ thư viện navigation trên android  107
+iv  hướng dẫn build ứng dụng trên thiết bị thực  114
+1  bật chức năng gỡ lỗi qua usb android  115
+2  thiết lập trên thiết bị ios 115
+3  kết nối thiết bị với máy tính qua usb android  115
+4  kết nối thiết bị với máy tính qua usb ios  116
+5  cài đặt và chạy ứng dụng của bạn 116
+6  kết nối đến development server 116
+v  hướng dẫn đưa ứng dụng lên app store và ch play  119
+1  đưa ứng dụng lên ch play  119
+2  đưa ứng dụng lên app store  123
+a  cắm thiết bị của bạn qua usb 123
+b  cấu hình k mã 124
+c  xây dựng và chạy ứng dụng của bạn 124
+d  kết nối với máy chủ phát triển 124
+vi  hướng dẫn sử dụng ứng dụng  129
+danh sách hình ảnh được sử dụng
+hình 2 1 2 1 là 1 component class này cũng là component 14
+hình 2 1 2 2 cách thuôc tính props hoạt động 15
+hình 2 1 2 3 sau đó tạo 1 component appblink để đưa component vào sử dụng 16
+hình 2 1 2 4 sau đó tạo 1 component appblink để đưa component vào sử dụng 16
+hình 2 1 2 5 dòng chữ nhấp nháy liên tục trên màn hình 17
+hình 2 1 2 6 khi bạn muốn click để chuyển sang 1 màn hình mới 17
+hình 2 1 2 7 cách thức hoạt động giữa các component 21
+hình 2 1 2 8 cách thức hoạt động của redux 22
+hình 2 1 2 9 nguyên l hoạt động của redux 23
+hình 2 2 1 1 trình biên tập visual studio code 25
+hình 2 5 1 1 genymotion 30
+hình 2 5 1 2 máy ảo genymotion visual studio code 30
+hình 2 6 3 1 giới thiệu firebase 32
+hình 2 6 3 2 csdl được lưu trữ dưới dạng json dễ đọc và dễ hiểu 33
+hình 2 6 3 3 giới thiệu về firebase authentication 34
+hình 2 6 3 4 giới thiệu về firebase messaging 34
+hình 2 6 3 5 giới thiệu firebase storage 35
+hình 2 6 3 6 giới thiệu firebase notifications 36
+hình 2 6 4 1 vào file chứa project về react native đang làm 36
+hình 2 6 4 2 chọn file tìm administrator indo s po ershell 37
+hình 2 6 4 3 gõ npm install firebase  37
+hình 2 6 4 4 chọn addfirebase to your eb app 38
+hình 2 6 4 5 coppy dòng code trên 38
+hình 2 6 4 6 tạo một fire firebaseconfig js và paste vào firebaseconfig js 39
+hình 2 6 4 7 import tên firebase from đường dẫn vào các component cần sử dụng firebase 39
+hình 3 1 2 1 usecase người dùng 43
+hình 3 1 3 1 usecase của quản l  51
+hình 3 2 1 1 sequence cách thức đăng kí 53
+hình 3 2 2 1 sequence cách thức đăng nhập 54
+hình 3 2 3 1 sequence cách thức đăng xuất 54
+hình 3 2 4 1 sequence cách thức quên mật khẩu 55
+hình 3 2 5 1 sequence cách thức yêu thích bài đăng 55
+hình 3 2 6 1 sequence cách thức đăng tin cho thuê 56
+hình 3 2 7 1 sequence cách thức đăng tin bán 56
+hình 3 2 8 1 sequence cách thức nhắn tin tới người đăng 57
+hình 3 2 9 1 sequence cách thức gọi điện cho người đăng 57
+hình 3 2 10 1 sequence cách tìm kiếm hoạt động 58
+hình 3 2 11 1 sequence cách thức chỉ đường trên ggmaps 58
+hình 3 2 12 1 sequence cách tự tìm kiếm đường đi trên ggmaps 59
+hình 3 2 13 1 sequence của quản lí bài đăng 59
+hình 3 2 14 1 sequence chi tiết sản phẩm 60
+hình 3 2 14 1 mô hình sơ đồ lớp 61
+hình 3 3 11 1 mô hình cơ sỡ dữ liệu quan hệ 66
+hình 3 4 3 1 sơ đồ tổng quan kiến trúc hệ thống 69
+hình 3 4 3 1 sơ đồ kiến trúc phần mềm hệ thống 70
+hình 4 2 2 1 giới hạn truy cập vào storage 1 ngày 73
+hình 4 2 2 2 phân tích mức độ sử dụng ngày 73
+hình 4 2 3 1 storage đã có thể sử dụng được 74
+hình 4 3 3 1 phương thức kết nối tới store của redux 75
+hình 4 3 3 2 lấy được trạng thái mới của store nhanh chóng 75
+hình 4 4 3 1 một số thiết bị mượn và mua 76
+hình 5 1 3 1 giới thiệu firebase 89
+hình 5 1 3 2 thay đổi ngôn ngữ trên firebase 90
+hình 5 1 3 3 khởi tạo project 90
+hình 5 1 3 4 điền thông tin project 90
+hình 5 1 3 5 chờ đợi khởi tạo project 91
+hình 5 1 3 6 khởi tạo xong project 91
+hình 5 1 3 7 trang chính của firebase 92
+hình 5 1 3 8 mã code cần import vào project 92
+hình 5 1 3 9 lựa chọn hai danh mục cần để khởi tạo project 93
+hình 5 1 3 10 nhận add collection để tạo một cơ sở dữ liệu 93
+hình 5 1 3 11 ví dụ về field 94
+hình 5 1 3 12 một đối tượng trong cơ sở dữ liệu firebase 94
+hình 2 1 đăng k tài khoản người dùng và đăng nhập 126
+hình 2 2 giao diện chính 126
+hình 2 3tính năng search trong choxe 127
+hình 2 4 tạo thanh dra er menu 127
+hình 2 5 7 tính năng chính trong dra er menu 128
+hình 2 6 chức năng đăng tin xe cần bán 129
+hình 2 7 chức năng đăng tin cho thuê xe 129
+hình 2 8 chi tiết sản phẩm 130
+hình 2 9 hai chức năng gọi điện và nhắn tin 130
+hình 2 10 chức năng yêu thích sản phẩm 131
+hình 2 11 chức năng định vị sản phẩm 131
+hình 2 12 chức năng xem thông tin người dùng 132
+hình 2 13 chức năng chỉnh sửa thông tin người dùng 132
+hình 2 14 chức năng xem lại các xe đã được yêu thích 132
+hình 2 15 danh sách xe thuê bán đã quan tâm 133
+danh sách các bảng được sử dụng
+bảng 3 1 2 1 đăng k  43
+bảng 3 1 2 2 đăng nhập 43
+bảng 3 1 2 3 đăng xuất 44
+bảng 3 1 2 4 quên mật khẩu 44
+bảng 3 1 2 5 chỉnh sửa thông tin cá nhân 44
+bảng 3 1 2 6 yêu thích 45
+bảng 3 1 2 7 gọi điện 45
+bảng 3 1 2 8 nhắn tin 46
+bảng 3 1 2 9 hiên thị trang cá nhân 46
+bảng 3 1 2 10 tìm kiếm 46
+bảng 3 1 2 11 chỉ đường 47
+bảng 3 1 2 12 map 47
+bảng 3 1 2 13 đăng tin 48
+bảng 3 1 2 14 set trạng thái sản phẩm 48
+bảng 3 1 2 15 quản lí bài đăng 48
+bảng 3 1 2 16 chi tiết sản phẩm 49
+bảng 3 1 2 17 sản phẩm hôm nay 49
+bảng 3 1 3 1 đăng nhập 51
+bảng 3 1 3 2 quản l tài khoản 51
+bảng 3 1 3 3 quản l database 51
+bảng 3 1 3 4 quản l hình ảnh 52
+bảng 3 3 1 1 lớp account 61
+bảng 3 3 2 1 lớp authentication 61
+bảng 3 3 3 1 lớp firebase 61
+bảng 3 3 4 1 lớp user 61
+bảng 3 3 5 1 lớp database 62
+bảng 3 3 6 1 lớp salepost 62
+bảng 3 3 7 1 lớp rentalpost 63
+bảng 3 3 8 1 lớp productmanagerment 63
+bảng 3 3 9 1 lớp careproduct 64
+bảng 3 3 10 1 lớp image 65
+bảng 3 3 11 1 lớp storage 65
+bảng 3 4 1 1 lớp user 66
+bảng 3 4 2 1 lớp postsale 66
+bảng 3 4 3 1 lớp postrent 67
+chương 1 mở đầu
+1 1 hiện trạng và khó khăn thực tế
+theo thống kê việt nam hiện đang có 49 triệu xe máy cứ 2 người dân thì sỡ hữu một xe máy và khoảng 3 2 triệu xe ô tô đã đăng k tính theo con số sở hữu phương tiện thì cứ 1000 dân sở hữu 22 ô tô và đối với xe máy là 516 xe http ictne s vn dù t lệ sở hữu xe ô tô tại việt nam chưa lớn nhưng nhu cầu mua xe ô tô đang tăng lên rõ rệt một con số được nêu ra là tại việt nam t lệ tăng trưởng của xe máy là 7 3 và ô tô là 6 5 bình quân mỗi năm thị trường việt nam khai sinh thêm hơn 3 triệu chiếc xe máy với đà tăng tiến như vậy đến 2020 tổng số lượng xe máy lưu hành trên thị trường có khả năng đạt tới 60 triệu chiếc http autodaily vn theo những thống kê và số liệu cung cấp ở phía trên thì sự ra đời và tăng trưởng số lượng các dòng xe mới du nhập vào việt nam hằng năm cộng với số lượng xe hiện có ở việt nam thì khả năng muốn trao đổi xe vd bán xe mua xe thuê xe là nhu cần thiết thực của mỗi người đặt biệt là đối với các đại l xe chuyên bán xe mua xe thuê xe hết sức quan trọng nhưng những sân chơi để giúp mọi người giải quyết vấn đề này ở việt nam hiện rất ít nếu có điển hình nhất là chợ tốt nhưng ở chợ tốt ngoài các sản phẩm chuyên về xe thì còn rất nhiều các mặt hàng khác được trao đôi trong này ngoài chợ tốt thì còn có một ứng dụng chuyên về thuê xe xe oto giúp mọi người thuê xe với nhiều hình thức và nhiều loại xe phù hợp với từng nhu cầu của mọi người ứng dụng này tên là thuê xe 
+1 2 lí do chọn đề tài
+để đáp ứng một sân chơi chuyên về xe cùng với các nhu cầu về xe của mọi người đó là phần l do hình thành nên app chợ xe nhằm cung cấp một ứng dụng chuyên về xe cho mọi người với các hình thức như mua xe bán xe thuê xe tất cả các loại xe từ xe đạp xe máy xe ô tô để giúp mọi người giải quyết các vấn đề hiện tại của chính mình 
+1 3 mục tiêu đề tàimục tiêu tổng quát xây dựng ứng dụng chợ xe trên nền tảng thiết bị di động cả android và ios hệ thống cập nhật thường xuyên dữ liệu từ người dùngframe ork react native là mã nguồn mở sử dụng javascript do facebook phát hành luôn cập nhật và phát triển áp dụng thuật toán để tìm đường đi ngắn nhất giúp người dùng thuận tiện trong quá trình tìm kiếm mục tiêu cụ thể thứ nhất dùng react native để phát triển app chợ xe chạy được trên cả 2 nền tảng android và ios thứ hai áp dụng thuật toán để giải quyết bài toán tìm đường đi ngắn nhất hiển thị vị trí gần nhất và hiển thị địa điểm theo giá nhỏ nhất thứ ba xây dựng ứng dụng hoàn thiện để đưa vào thực tế 
+1 4 đối tượng nghiên cứuđối tượng nghiên cứu xe số lượng xe máy ô tô con người nhu cầu sử dụng xe máy xe ô tô k thuật  sử dụng công nghệ react nativenghiên cứu thuật toán để tìm đường đi ngắn nhất và tìm giá xe nhỏ nhất 
+1 5 phạm vi nghiên cứu nghiên cứu về react nativenghiên cứu thuật toán để giải quyết bài toán tìm đường đi ngắn nhất hiển thị các địa điểm xe gần nhất trên google map và hiển thị địa điểm theo giá xe
+1 6 nội dung nghiên cứu
+1 6 1 về thời gian 
+đề tài được thời gian 02 2017 đến 8 7 2018
+1 6 2 về không gian 
+đề tài được thực hiện tại trường đại học nông lâm tp hồ chí minh dưới sự hướng dẫn của ths phạm công thiện khoa công nghệ thông tin đại học nông lâm tp hồ chí minh
+1 6 3 về nội dung nhu cầu sử dụng xe của mọi người tìm hiểu thuật toán tìm đường đi ngắn nhất để giải quyết vấn đề tìm đường đi từ vị trí cá nhân đến các địa điểm cho thuê bán xe phần mềm chạy trên cả 2 nền tảng android và ios xây dựng và phát triển ứng dụng chạy chương trình trong thời gian dài để có lượng dữ liệu 
+1 6 3 1 cấu trúc kiến thức cơ bản gồm các thành phần sau react native phần 1 giới thiệuphần 2 tìm hiểu về react nativefirebase phần 1 giới thiệuphần 2 tổng quan các dịch vụ mà firebase cung cấp phần 3 nhóm công cụ để develop và test appphần 4 kết nối firebase với react nativeide hỗ trợ việc viết code genymotionandroid studio codevisual studio codexcode
+1 sản phẩm 
+sau khi hoàn thành đề tài sản phẩm đề tài bao gồm 
+ứng dụng chợ xe chạy trên hai nền tảng android và ios ứng dụng này cho phép người dùng có thể mua bán xe 2 bánh xe 4 bánh và các loại phương tiện khác ở trên một mạng lưới thị trường ảo ở đây người dùng có hai chức năng chính là đăng bán cho thuê một phương tiện nào đó kèm theo giá tiền và địa chỉ thực tế và mua thuê lại phương tiện đã được đăng tải lên trước đó ngoài ra chức năng khác cũng góp phần làm nên sự khác biệt của chợ xe đó là định vị vị trí bán cho thuê xe với mỗi người dùng có sỡ hữu cho mình một phương tiện giao thông trở lên đều có thể trở thành một cửa hàng nhỏ để phục vụ cho khách hàng có nhu cầu mua thuê xe và nếu ứng dụng này được thử nghiệm đầu tiên trên việt nam đồng nghĩa với việc sẽ có rất nhiều cửa hàng bán cho thuê phương tiện giao thông trải khắp đất nước việt nam thúc đẩy được nhu cầu du lịch phượt mua xe với giá rẻ của khách hàng trong nước ngoài nước nói riêng đồng thời đây cũng là một loại hình kinh doanh mới có thể kiếm theo thu nhập mà không bị rằng buộc thời gian 
+tập tài liệu thuyết minh ghi rõ thiết kế cách hiện thực các bước thử nghiệm bộ giải pháp
+source code của giải pháp source code chương trình nguồn mở cho phép tùy biến và cải tiến của chương trình 
+chương 2 kiến thức cơ bản
+trước khi bước vào lập trình một ứng dụng sử dụng frame ork react native bạn cần tìm hiểu và nắm vững kiến thức của các khái niệm dưới đây 
+tìm hiểu về react native
+giới thiệu về react native 
+react native được phát triển bởi facebook với mục đính ban đầu là áp dụng vào
+mạng xã hội lớn nhất hành tinh facebook do đặc tính công nghệ của mạng xã 
+hội facebook cần phải tạo ra nền tảng phát triển ứng dụng di động đa nền tảng có 
+hiệu năng không thua kém so với ứng dụng được phát triển độc lập cho từng nền 
+tảng do đó react native ra đời 
+react native là frame ork xây dựng ứng dụng di động sử dụng javascript do 
+facebook phát hành react native cho phép người dùng xây dựng và phát triển 
+ứng dụng trên cả hai hệ điều hành android và ios chỉ cần 1 ngôn ngữ javascript 
+duy nhất 
+react native chính thức trở thành mã nguồn mở vào tháng 3 năm 2015 cho đến 
+nay react native được áp dụng trong nhiều ứng dụng của ta và cả nước ngoài 
+để tìm hiểu về cách hoạt động của react native chúng ta sẽ đi đến hai khái niệm 
+ứng dụng native và ứng dụng hybird
+ứng dụng hybrid 
+là chương trình phần mềm trên điện thoại di động được viết dựa trên nền 
+tảng eb html5 css3 javascript bản chất hoàn toàn là ứng dụng eb nhưng 
+có thêm được các tính năng thao tác phần hệ điều hành như tập tin truy cập 
+máy ảnh gps hoặc các cảm biến như con quay hồi chuyển gia tốc kế 
+ứng dụng hybrid viết một lần chạy được trên nhiều nên tảng tiết kiệm được 
+rất nhiều chi phí
+nếu bạn là một eb developer bạn có thể sử dụng các k năng 
+html css js angularjs của mình để tạo ra các ứng dụng mobile mà không 
+cần phải biết java hay objective c
+ứng dụng native 
+là những ứng dụng được viết riêng cho một loại nền tảng như ios android indo s phone bằng các ngôn ngữ tương ứng của mỗi nền tảng đó ví dụ 
+java trên android object c trên ios c trên inphone mỗi native app chỉ 
+chạy được trên một nền tảng và không thể mang sang các nền tảng khác ví 
+dụ game cho ios sẽ không thể chạy được trên các máy android đa phần các 
+game mobile hiện nay là native app 
+do là ngôn ngữ trực tiếp cũng như không phải thông qua ứng dụng nào khác 
+nên tốc độ là nhanh nhất 
+tốc độ ở đây bao gồm tốc độ hiển thị độ mượt và tốc độ xử l nếu để k 
+bạn sẽ thấy các thao tác của ứng dụng native như chuyển trang điều hướng 
+cuộn trang đều rất mượt với việc hơn hẳn về tốc độ xử l nên ứng dụng 
+hybrid khó có thể làm được ứng dụng nặng đồ hoạ như game mặc dù vẫn có 
+thể làm được nhưng không mượt mà nên hầu như hiếm ai dùng hybrid cho 
+lập trình game cho điện thoại di động ngoại trừ một số game đơn giản như 
+xếp hình giải câu đố 2048 
+react native là hòa hợp điên rồ giữa cả hai 
+react native giúp cho lập trình viên eb có thể viết ứng dụng native để khắc phục các điểm yếu của ứng dụng eb và hybrid chỉ với một lập trình viên thành thạo javascript bạn có thể chiến đấu trên mọi mặt trận eb desktop server và bây giờ là mobile điều này không những có lợi cho lập trình viên eb mà nó giúp cho các doanh nghiệp phát triển sản phẩm đầu cuối với ít nhân lực hơn 
+khi xây dựng react native điều tuyệt vời là đã được tích hợp tính năng live 
+reload tương tự tính năng hot replacement module trong ebpack tính 
+năng live reload khác tính năng reload trong khi live reload chỉ tải lại 
+chức năng tập tin nào thay đổi thì reload sẽ tải lại toàn bộ mã nguồn ngoài 
+ra bạn cũng dễ dàng debug javascript trong chrome và safari đối với những 
+lỗi thuộc native thì phải cần đến xcode cho ios hoặc android studio cho 
+android 
+cách hoạt động của react native 25 ứng dụng viết bằng react native được chia làm 2 phần phần vie hiển thị và phần xử l 
+phần hiển thị được biên dịch từ javascript sẽ map với những component của hệ thống ví dụ điều hướng tab touch phần vie này được lấy cảm hứng từ virtual dom của react js mọi xử l vie được thực hiện trên một cây dom ảo sau đó được react native render lại bằng native vie 26 react native sử dụng jsx làm cú pháp chính jsx viết tắt của cụm từ javascript xml là một loại cú pháp mở rộng dành cho ngôn ngữ javascript viết theo kiểu xml jsx cung cấp cú pháp ngọt syntactic sugar để thay cho câu lệnh react createelement trong react 
+hãy xem một ví dụ khai báo một phần tử sau đây 
+const element elcome to jsx 
+đoạn mã trên sẽ tương đương với 
+react createelement text classname example elcome to jsx mã lệnh viết bằng jsx sẽ được chuyển sang javascript để trình duyệt có thể hiểu được để hiểu rõ hơn trang eb này sẽ giúp bạn biên dịch cú pháp jsx sang javascript mà cụ thể là es6 tên chính thức của javascript 
+phần xử l vẫn được thực hiện trực tiếp bằng ngôn ngữ javascript ví dụ 1 1 2 biểu thức này được xử l dưới bộ core thực thi javascript không phải thông dịch qua java hay s ift objective c rồi mới làm phép tính
+khuyết điểm của react native 
+react native là một giải pháp tuyệt vời cho phát triển ứng dụng trên điện thoại di động tuy nhiên đến thời điểm hiện tại vẫn còn tồn tại một số khuyết điểm 
+vẫn còn thiếu các component vie cho android map modal slider spinner hoặc các module như camera roll media pushnotificationios 
+không hỗ trợ indo phone đây sẽ là điểm trừ lớn nếu so với ứng dụng hybrid tuy nhiên nếu bạn chỉ tập trung cho ios và android thì tất nhiên đây không phải là vấn đề lớn 
+không build được ứng dụng ios trên indo và linux tất nhiên đây không phải là điểm yếu kém của bản thân react native mà đó là do yêu cầu từ apple 
+react native không thể build được ứng dụng quá phức tạp nếu bạn không biết s ift objecive c java tính phức tạp ở đây là ứng dụng của bạn cần phải chỉnh sửa các component bạn nên nhớ là để viết được 1 ứng dụng native bằng javascript luôn luôn có sẵn các component đã được viết từ s ift objective c ios và java android với tính chất 1 1 trường hợp bạn muốn chỉnh sửa 1 component nào đó thay đổi thành phần hoặc thêm api thì bạn phải tự viết bằng chính ngôn ngữ tương ứng của ios hoặc android tin vui cho bạn là cũng nhiều lập trình viên khác đã viết nhiều component cần thiết cho hầu hết ứng dụng đây cũng là l do vì sao facebook biến react native thành mã nguồn mở 
+không nên dùng để viết game có tính đồ họa và cách chơi phức tạp
+dùng es2015 es6 đây là cấu trúc mới cho javascript từ 2015 vì khá là mới nên những cấu trúc của nó có thể bạn chưa quen dẫn tới việc khó khăn trong việc tiếp cận 
+bạn có thể phải mất nhiều thời gian để theo hết hệ sinh thái của react tuy nhiên tất cả là để làm cho đời lập trình viên fullstack đẹp đẽ và những sản phẩm chất lượng hơn bao gồm react js react native flux relay graphql bạn không cần phải quan tâm những thứ này chỉ để viết ứng 
+dụng với react native 
+tìm hiểu về react native thiết lập và đóng gói 21 react native là một fram ork nơi reactjs là một thư viện javascript bạn có thể sử dụng cho trang eb của mình khi bạn bắt đầu một dự án mới với reactjs có thể bạn sẽ chọn một đóng gói bundler như ebpack và cố gắng tìm ra những module cần thiết nào bạn cần cho dự án của bạn react native đi kèm với tất cả mọi thứ bạn cần và bạn rất có thể sẽ không cần nhiều hơn nữa khi bạn bắt đầu một dự án mới bạn sẽ nhận thấy nó dễ dàng như thế nào để thiết lập nó rất nhanh và chỉ có bạn một dòng lệnh để chạy trong terminal và bạn sẽ sẵn sàng để chạy code bạn có thể bắt đầu mã hóa ứng dụng native đầu tiên của bạn ngay lập tức bằng cách sử dụng es6 một số tính năng es7 và thậm chí một vài polyfills để chạy ứng dụng của bạn bạn cần phải có xcode dành cho ios trên máy mac hoặc android studio dành cho android được cài đặt trên máy tính của bạn bạn có thể quyết định chạy nó trên mô phỏng trình mô phỏng của nền tảng mà bạn muốn sử dụng hoặc trực tiếp trên các thiết bị của riêng bạn 
+dom và styles 
+react native không sử dụng html để render app nhưng cung cấp các component thay thế hoạt động theo cách tương tự các component react native sẽmap các component ui ios hoặc android thực hữu dụng thực sự được render trên ứng dụng hầu hết các component được cung cấp có thể được biên dịch sang một thứ tương tự trong html ví dụ như một thành phần vie tương tự như thẻ div và một thành phần text tương tự như thẻ 
+import react component from react 
+import vie text from react native 
+export default class app extends component render return hello orld bởi vì mã của bạn không hiển thị trong một trang html điều này cũng có nghĩa là bạn sẽ không thể sử dụng lại bất k thư viện nào trước đây bạn đã sử dụng với reactjs để hiển thị bất k loại html svg hoặc canvas nào mặc dù bạn có thể tìm thấy các thư viện thay thế cho react native react parts có một category native cho bạn để tìm thấy những gì bạn cần để tạo style cho các component react native bạn sẽ phải tạo các stylesheets bằng javascript nó trông tương tự như css nhưng nó không chính xác như nhau điều này có thể khá khó hiểu lúc đầu và bạn có thể đạt được một điểm mà bạn tự hỏi làm thế nào bạn có thể tạo mixins như bạn sẽ làm với sass hoặc làm thế nào bạn có thể ghi đè lên style của một component mà bạn muốn tái sử dụng sau đó bạn hiểu react native không được tạo ra từ các phần tử eb và không thể được tạo kiểu theo cùng một cách may thay bạn rất có thể sẽ tìm thấy các giải pháp thay thế có sẵn để hoàn thành những gì bạn cần 
+const styles stylesheet create container flex 1 content backgroundcolor fff padding 30 button alignself center margintop 20 idth 100 animations và gesture 
+tạm biệt css animations với react native bạn sẽ phải tìm hiểu một cách hoàn toàn mới để làm động các component khác nhau của ứng dụng bằng javascript cách được đề xuất để làm chuyển động một component là sử dụng api animated do react native cung cấp bạn có thể so sánh nó với thư viện javascript nổi tiếng velocity js nó cho phép tạo ra các loại hình chuyển động khác nhau hẹn giờ hoặc dựa trên vận tốc liên quan đến một cử chỉ và có thể được sử dụng với các loại easing khác nhau nói chung bạn có thể thực hiện khá nhiều bất k loại chuyển động nào bạn sẽ làm trên eb react native cũng cung cấp layoutanimation mà thực sự rất hay và đơn giản để sử dụng cho quá trình transitions để tương tác với cử chỉ của người dùng react native cung cấp một thứ tương tự như các sự kiện liên quan đến javascript eb api gọi là panresponder bắt đầu và chạy có thể cảm thấy khá khó nhưng bạn sẽ thấy cuối cùng nó không phức tạp panresponder cần phải được áp dụng cho một vie hoặc văn bản hoặc hình ảnh của component để cho phép trình xử l cảm ứng trên vie từ đó panresponder cung cấp danh sách các chức năng bạn có thể sử dụng để bắt các sự kiện chạm khác nhau chẳng hạn như onpanrespondergrant touchstart onpanrespondermove touchmove hoặc onpanresponderrelease touchend các chức năng này sẽ cho phép bạn truy cập vào các sự kiện bản địa và trạng thái cử chỉ với thông tin như tất cả các chạm và vị trí của chúng cũng như khoảng cách tích lũy vận tốc và nguồn gốc chạm 
+component 
+để làm quen với react native điều đầu tiên chúng ta cần biết đó là về component và hầu hết 100 tất cả các tác vụ liên quan tới react native đều có sự hiện diện của component vậy component là gì 
+component được react native định nghĩa đơn giản là anything you see on the screen is some sort of component tất cả mọi thứ bạn thấy trên màn hình ứng dụng đều là một hay một phần của component
+hình 2 1 2 1 là 1 component class này cũng là component
+props
+props là viết tắt của properties một điều mà bạn cần phải nhớ khi sử dụng props đó là không bao giờ nên thay đổi giá trị của nó hay nói cách khác đây là một dữ liệu immutable hoặc unchanged
+các component nhận props từ component cha bạn không được thay đổi giá trị của props trong các component này mà chỉ được phép đọc giá trị ra thôi trong react thì dữ liệu sẽ đi theo một chiều có nghĩa là từ component cha các component con 
+bạn có thể tạo ra component sử dụng props tưởng của props đó là việc trừu tượng hoá các component để có thể sử dụng được ở nhiều chỗ khác nhau trong app hãy xem một ví dụ đơn giản sau 
+hình 2 1 2 2 cách thuôc tính props hoạt động
+ta có lớp cha là class lotsofgreetings hay còn gọi là component cha lớp con là class greeting hay còn gọi là component con 
+trong lớp cha ta khai báo một props là name tra truyền thông số là rexxar hay jaina hay valeera 
+thì khi ta gọi lại lớp con và truyền vào đó một biến this props name thì tự động nó sẽ nhận thông số name từ lớp cha sang lớp con 
+state
+có 2 kiểu dữ liệu trong component prop và state prop là kiểu dữ liệu được đặt bởi component cha và được cố định trong suốt vòng đời của một component đối với kiểu dữ liệu được thay đổi liên tục hoặc có thể thay đổi trong tương lại ta dùng state
+state thì hoạt động khác với props state là dữ liệu nội bộ của một component chính vì vậy chúng ta hoàn toàn có thể thay đổi state và coi nó là một kiểu dữ liệu mutable và sữ dụng hàm setstate để cập nhật giá trị 
+sở dĩ chúng ta cần dùng hàm này là do nó sẽ kích hoạt việc render lại component và tất cả component con nằm trong nó
+vậy thì khi nào nên sử dụng state bất cứ khi nào dữ liệu trong một component có thể thay đổi bởi chính nó 
+người dùng tương tác với component là một ví dụ về cách mà state hoạt động ấn vào một button checkbox thêm text vào form là những trường hợp mà chúng ta có thể sử dụng state 
+hình 2 1 2 3 sau đó tạo 1 component appblink để đưa component vào sử dụng
+hình 2 1 2 4 sau đó tạo 1 component appblink để đưa component vào sử dụng
+đoạn text sẽ nhấp nháy liên tục trên màn hình khi kiểu dữ liệu state của component thay đổi từ true sang false và lập lại liên tục 
+hình 2 1 2 5 dòng chữ nhấp nháy liên tục trên màn hình
+chuyển đổi qua lại giữa các component
+hình 2 1 2 6 khi bạn muốn click để chuyển sang 1 màn hình mới
+công cụ chuyển đổi mình muốn giới thiệu là react navigation công cụ này có cách sử dụng không thân thiện với các eb dev nhưng nó là công cụ phổ biến nhất trong cộng đồng react native đồng thời cũng đạt nhiều sao hơn trên github và công cụ này được th
+iết kế dành riêng cho react native 
+tất nhiên như mình đã kiểm nghiệm thì cả 2 công cụ này đều hoạt động tốt trên cả android và ios 
+bước đầu tiên vẫn là cài đặt thư viện
+npm install react navigation
+import công cụ cần thiết và navigate
+import createstacknavigator from react navigation 
+export default createstacknavigator 
+home 
+screen home profile 
+screen profile phía trên là bước khai báo việc hiển thị hiểu đơn giản là ta sẽ điều hướng dựa vào key thay vì url như phía eb key home sẽ tương ứng với component home 
+khi được khai báo với createstacknavigator các components thành phần home và profile sẽ có thêm 1 props navigation là công cụ giúp điều hướng 
+việc điều hướng cũng sẽ được thực hiện dựa theo key 
+class home extends react component 
+render 
+return 
+hello this is home this props navigation navigate profile truyền params 
+this props navigation navigate profile 
+id 1 
+user me tại thư mục profile ta nhận params bằng hàm sau 
+this props navigation getparam me defaultvalue 
+redux 57 redux là một thư viện javascript giúp tạo thành một lớp quản l trạng thái của ứng dụng 
+redux được xây dựng dựa trên nền tảng tư tưởng của ngôn ngữ elm và kiến trúc flux do facebook giới thiệu do vậy redux thường là bộ đôi kết hợp hoàn hảo với react native 
+trước tiên ta phải biết phiên làm việc của react native nếu không dùng redux
+hình 2 1 2 7 cách thức hoạt động giữa các component
+ta ví dụ component a là màn hình chính của điện thoại và màn hình a có 2 đó là b1 và b2
+nếu ta lần lượt click từng đó thì ta sẽ ra được component b1 c2 d3 b2 c4 d4
+trường hợp ở component d3 ta có một thay đổi thuộc tính màu background của component d4 thành màu vàng thì theo quy trình lệnh thay đổi màu và dữ liệu màu vàng sẽ được đưa từ 
+d3 c2 b1 a b2 c4 d4 
+đó là một quy trình rất dài coder phải gõ từng dòng lệnh trong từng component b1 a b2 c4 để có thể chuyển màu của component d4
+trong trường hợp c2 bị cắt hoặc giữa c2 và d3 có thêm 1 component e4 hoặc có sự thay đổi lớn giữa d3 và d4 thì lập trình viên phải sửa lại toàn bộ các dòng code nếu là một ứng dụng có dữ liệu dày đặt như facebook và youtube thì điều này là hoàn toàn bất khả thi 
+đó là l do redux ra đời 
+hình 2 1 2 8 cách thức hoạt động của redux
+redux sử dụng store làm kho chứa trung gian cho các hành động và dữ liệu được nhận từ một component và trả về cho các component khác có kết nối tới store với cách thức hoạt động khá gọn gàng và thao tác không hề phức tạp đến codes redux ghi điểm lớn trong mắt lập trình viên và trở thành một phần không thể thay thế của react native 
+cấu trúc và nguyên lí hoạt động của redux 
+hình 2 1 2 9 nguyên l hoạt động của redux
+redux được xây dựng dựa trên 4 nguyên l action được tạo ra nếu có bất cứ trạng thái nào của app hay là render của một vie được thay đổi và action này là một mệnh lệnh mang dữ liệu mới của trạng thái cần được thay đổi
+action key ne value store nơi lưu dữ toàn bộ trạng thái cũ key old value store đảm nhiệm nhiệm vụ nhận các action và chuyển action này cho reducer xác nhận và sửa đổi reducer kiểm tra xem action đã nhận có mã số key có trùng với key đang có hiện tại hay không nếu có thì value của key đó sẽ được thay đổi như action truyền vào key old value key ne value và trả trạng thái mới này về cho store store sẽ trả kết quả mới cho vie vie nhận kết quả của store trả về và cập nhật lại kết quả mới ra màn hình 
+publishing 
+nếu bạn phát triển một ứng dụng cho cả ios và android bạn sẽ cần phải tìm hiểu cách xcode và android studio hoạt động để đảm bảo mọi thứ được thiết lập đúng cách trước khi triển khai ứng dụng đầu tiên trên app store hoặc google play đối với ios nó hoạt động giống như bạn sẽ triển khai một ứng dụng native thông thường mặc dù đối với android bạn cần thực hiện theo khuyến nghị phản ứng để đăng nhập apk của bạn trước khi tải nó lên google play 20 
+tìm hiểu về visual studio code 
+visual studio code là gì 
+hình 2 2 1 1 trình biên tập visual studio code
+visual studio code là một trình biên tập mã được phát triển bởi microsoft dành cho indo s linux và macos nó hỗ trợ chức năng debug đi kèm với git có syntax highlighting tự hoàn thành mã thông mình snippets và cải tiến mã nguồn nó cũng cho phép tùy chỉnh do đó người dùng có thể thay đổi theme phím tắt và cá tùy chọn khác nó miễn phí và là phần mềm mã nguồn mở mặc dù gói tải xuống chính thì là có giấy phép 
+visual studio code được dựa trên electron một nền tảng được sử dụng để triển khai các ứng dụng node js máy tính cá nhân chạy trên động cơ bố trí blink mặc dù nó sử dụng nền tảng electron nhưng phần mềm này không phải là một bản khác của atom nó thực ra được dựa trên trình biên tập của visual studio online tên mã là monaco 
+trong cuộc khảo sát vào năm 2018 trên stack overflo visual studio code được xếp hạng là trình biên tập mã phổ biến nhất với 34 9 của 75398 người trả lời tuyên bố sử dụng nó 
+chức năng của visual studio code 
+visual studio code là một trình biên tập mã nó hỗ trợ nhiều ngôn ngữ và chức năng tùy vào ngôn ngữ sử dụng theo như trong bảng sau nhiều chức năng của visual studio code không hiển thị ra trong các menu tùy chọn hay giao diện người dùng thay vào đó chúng được gọi thông qua khung nhập lệnh hoặc qua một tập tin json ví dụ như tập tin tùy chỉnh của người dùng khung nhập lệnh là một giao diện theo dòng lệnh tuy nhiên nó biến mất khi người dùng nhấp bất cứ nơi nào khác hoặc nhấn tổ hợp phím để tương tác với một cái gì đó ở bên ngoài đó tương tự như vậy với những dòng lệnh tốn nhiều thời gian để xử l khi thực hiện những điều trên thì quá trình xử l dòng lệnh đó sẽ bị hủy tìm hiểu về android studio 12 react native là ngôn ngữ hai nền tảng cho nên đối với nền tảng android bạn cần sử dụng android studio để thiết lập thư viện cũng như hỗ trợ máy ảo về phía android 
+có nhiều công cụ để phát triển android nhưng đến nay công cụ chính thức và mạnh mẽ nhất là android studio đây là một phầm mềm bao gồm các bộ công cụ khác nhau dùng để phát triển ứng dụng chạy trên thiết bị sử dụng hệ điều hành android như các loại điện thoại smartphone các tablet android studio được đóng gói với một bộ code editor debugger các công cụ performance tool và một hệ thống build deploy trong đó có trình giả lập simulator để giả lập môi trường của thiết bị điện thoại hoặc tablet trên máy tính cho phép các lập trình viên có thể nhanh chóng phát triển các ứng dụng từ đơn giản tới phức tạp 
+tìm hiểu về xcode 10 11 react native là ngôn ngữ hai nền tảng cho nên đối với nền tảng ios bạn cần sử dụng xcode để thiết lập thư viện cũng như hỗ trợ máy ảo về phía android 
+xcode là một ide dành riêng cho việc phát triển phần mêm trên môi trường mac và cả ios đây là một ứng dụng hoàn toàn miễn phí của apple nhằm hỗ trợ cho các lập trình viên có thể phát triển các ứng dụng và game dành cho hệ sinh thái của apple tuy nhiên muốn đưa ứng dụng game của bạn lên bán trên appstore thì bạn cần trả phí 100 năm 
+xcode được phát hành miễn phí và cập nhật phiên bản mới nhất trên store của mac nếu bạn có một máy mac thì cứ tự nhiên lên do nload về không mất xu nào lại còn nhanh chóng gọn gàng chưa từng thấy 
+cho tới tháng 9 2013 xcode đã được phát triển tới phiên bản 5 0 mang nhiều tính năng mới mẻ và phù hợp với ios 7 
+nó sẽ hỗ trợ giao diện kéo thả mạnh mẽ hỗ trợ giao diện kéo thả các trình điều khiển như các nhãn label textbox để lập trình dễ dàng hơntừ xcode 4 2 trở lên storyboard giúp cho việc liên thông và lập trình giữa các vie controller dễ dàng hơn bao giờ hết những ông cụ vào từ lúc appstore mới mở cửa thì không thích điều này nói chung là cái level của mấy thằng cha đó khác mình hỗ trợ việc lập trình chỉnh lại cấu trúc của hàm phù hợpgiúp viết code nhanh hơn bằng phím tắtquản l các dự án thông qua manager và các svn github hỗ trợ kiểm thử giả lập máy để em có thể kiểm tra tính năng của chương trìnhtheo dõi và kiểm tra bộ nhớ cho phép chương trình chạytạo ra các bot chương trình tự động cho phép kiểm tra tính ổn định của chương trìnhkết nối với apple hỗ trợ đưa chương trình lên appstore để bánhỗ trợ các tài liệu kết luận xcode là công cụ số một dành cho việc phát triển ứng dụng và game cho mac os x và ios dĩ nhiên có một vài công cụ khác cũng cho phép bạn phát triển ứng dụng và game cho mac os x và ios nhưng không thể bằng xcode công cụ chính thức của apple vừa miễn phí lại mạnh mẽ đây luôn là lựa chọn hàng đầu của các lập trình viên ios 
+tìm hiểu về genymotion 
+genymotion là gì 
+genymotion thực chất sử dụng virtualbox để tạo ra các máy ảo tuy nhiên nó sẽ giúp chúng ta đơn giản được nhiều bước thiết lập genymotion được viết nên chủ yếu để các lập trình viên kiểm tra phần mềm của mình trước khi đưa google play nhưng chúng ta hoàn toàn có thể dùng nó cho nhu cầu chạy app thông thường cũng được 
+genymotion là máy ảo tuyệt vời nhất giúp các bạn lập trình android theo đánh giá của các giới lập trình viên thì genymotion là một máy ảo chạy nhanh rất nhiều so với android emulator và giúp tiết kiệm thời gian test khi chạy ứng dụng khi bạn lập trình android 
+hình 2 5 1 1 genymotion
+sự kiết hợp của bộ ba react native visual studio code genymotion đang được ưa chuộng nhất hiện nay nếu bạn đang lập trình một ứng dụng react native 
+hình 2 5 1 2 máy ảo genymotion visual studio code
+tìm hiểu về firebase 
+firebase là gì 
+firebase một nền tảng đám mây với rất nhiều tính năng nổi bật cho các lập trình viên mobile với firebase bạn có thể rút ngắn thời gian phát triển triển khai và thời gian mở rộng quy mô của ứng dụng mobile mình đang phát triển hỗ trợ cả 2 nền tảng android và ios firebase mạnh mẽ đa năng bảo mật và là dịch vụ cần thiết đầu tiên để xây dưng ứng dụng với hàng triệu người sử dụng sử dụng firebase bạn sẽ có được hưởng các lợi ích sau 
+xây dựng ứng dụng nhanh chóng mà không tốn thời gian nhân lực để quản l hệ thống và cơ sơ sở hạ tầng phía sau firebase cung cấp cho bạn chức năng như phân tích cơ sở dữ liệu báo cáo hoạt động và báo cáo các sự cố lỗi để bạn có thể dễ dàng phát triển định hướng ứng dụng của mình vào người sử dụng nhằm đem lại các trải nghiệm tốt nhất cho họ 
+uy tín chất lượng đảm bảo từ google firebase được google hỗ trợ và cung cấp trên nền tảng phần cứng với quy mô rộng khắp thế giới được các tập đoàn lớn và các ưng dụng với triệu lượt sử dụng từ người dùng 
+quản l cấu hình và trải nghiệm các ứng dụng của firebase tập trung trong một giao diện ebsite đơn giản các ứng dụng này hoạt động độc lập nhưng liên kết dữ liệu phân tích chặt chẽ 
+tổng quan các dịch vụ mà firebase cung cấp 
+firebase cung cấp cho chúng ta 2 nhóm sản phẩm chính tập trung vào 2 đối tượng là 
+develop test your app phát triển và kiểm thử các ứng dụng được thiết kế 
+gro engage your audience phân tích dữ liệu và tối ưu hóa trải nghiệm đối với người dùng 
+nhóm công cụ để develop test app realtime database lưu trữ và đồng bộ dữ liệu người dùng thời gian thực các ứng dụng hỗ trợ tính năng này có thể lưu trữ và lấy dữ liệu từ máy chủ trong tích tắc các dữ liệu được lưu trữ trong hệ thống cơ sở dữ liệu hỗ trợ nosql và được đặt trên nền tảng máy chủ cloud dữ liệu được ghi và đọc với thời gian thấp nhất tính bằng mili giây nền tảng này hỗ trợ đồng bộ hóa dữ liệu của người dùng kể cả khi không có kết nối mạng tạo nên trải nghiệm xuyên suốt bất chấp tình trạng kết nối internet của người sử dụng reatime database của firebase hổ trợ android ios eb c unity và cả xamarin 
+hình 2 6 3 1 giới thiệu firebasedữ liệu được lưu trữ ở định dạng json về cơ bản thì toàn bộ dữ liệu là một json tree lớn cùng với nhiều điểm node nên khi chúng ta xây dựng dữ liệu chúng ta cần chuẩn bị một cấu trúc json để dễ dàng cho việc truy cập tránh việc các node con bị lồng nhau
+hình 2 6 3 2 csdl được lưu trữ dưới dạng json dễ đọc và dễ hiểudữ liệu offline firebase cung cấp sự hỗ trợ tuyệt vời khi nói đến dữ liệu offline nó tự động lưu trữ offline khi không có kết nối internet tuy nhiên nó sẽ cho phép lưu trữ vào ổ đĩa persistence khi data offline thậm chí khi ứng dụng restart ổ đĩa persistence có thể gọi đến bởi dòng code ở phía dưới 
+firebasedatabase getinstance setpersistenceenabled true thực hiện các thao tác crud create read update delete tính bảo mật và quy địnhauthentication quản l người dùng một cách đơn giản và an toàn firebase auth cung cấp nhiều phương pháp để xác thực bao gồm email và mật khẩu các nhà cung cấp bên thứ ba như google hay facebook và sử dụng trực tiếp hệ thống tài khoản hiện tại của bạn xây dựng giao diện của riêng bạn hoặc tận dụng lợi thế của mã nguồn mở giao diện người dùng tùy biến hoàn toàn 
+chung quy lại authentication trong firebase thường được sữ dụng để làm chức năng đăng kí đăng nhập bằng nhiều ứng dụng như facebook t itter google và lưu trữ các tài khoản của người dùng
+hình 2 6 3 3 giới thiệu về firebase authentication cloud messaging gửi tin nhắn và thông báo cho người dùng qua các nền tảng android ios và eb một cách miễn phí bạn có thể gửi tin nhắn đến các thiết bị nhóm thiết bị hoặc các chủ đề hoặc phân đoạn người dùng cụ thể nhắn tin đám mây firebase fcm thậm chí là các ứng dụng lớn nhất cung cấp hàng trăm t thư mỗi ngày 
+hình 2 6 3 4 giới thiệu về firebase messagingcloud storage lưu trữ và chia sẻ nội dung do người dùng tạo ra như hình ảnh âm thanh và video với bộ nhớ đối tượng mạnh mẽ đơn giản và tiết kiệm chi phí được xây dựng cho quy mô của google các firebase sdk cho cloud storage thêm tính năng bảo mật của google để tải lên và tải tệp cho các ứng dụng firebase của bạn bất kể chất lượng mạng 
+hình 2 6 3 5 giới thiệu firebase storagefirebase notification là một dịch vụ miễn phí của firebase mà bạn có thể dùng nó để push notifications đến các thiết bị di động của người dùng một cách nhanh chóng 
+firebase notification được xây dựng trên firebase cloud messaging và fcm sdk cung cấp một lựa chọn cho các lập trình viên hay nhóm phát triển đang tìm kiếm một nền tảng gửi notification linh hoạt nhưng lại tối thiểu hóa công đoạn nghiên cứu và phát triển 
+nền tảng fcm còn cung cấp một giao diện điều khiển trực quan mạnh mẽ nơi mà bạn có thể cấu hình push notification mà không cần có một server nào khác 
+notifications tích hợp chặt chẽ với firebase analytics cho phép bạn hướng notifications đến một bộ phận người dùng theo những tiêu chí nào đó hơn thế nữa bạn có thể hướng notifications đến một nhóm người dùng định trước theo ứng dụng phiên bản hay ngôn ngữ mà họ sử dụng và cuối cùng bạn có thể hướng notification đến chính xác một người dùng nào đó mà bạn muốn 
+hình 2 6 3 6 giới thiệu firebase notifications
+kết nối firebase với reactnative 
+việt kết nối firebase với reactnative rất đơn giản giống như ta import một bộ thư viện mới cho ngôn ngữ của mình  
+hình 2 6 4 1 vào file chứa project về react native đang làm
+bước 1 vào file có chứa project chọn file tìm administrator indo s po ershell
+hình 2 6 4 2 chọn file tìm administrator indo s po ershell
+bước 2 gõ npm install firebase và chờ react native tự động tải firebase về
+hình 2 6 4 3 gõ npm install firebase 
+bước 3 sau đó vào trang eb firebase google com chọn addfirebase to your eb app sau khi tạo một tài khoản firebase
+hình 2 6 4 4 chọn addfirebase to your eb app
+bước 4 coppy dòng trên vào project tạo một tệp tin js mang tên firebaseconfig js
+hình 2 6 4 5 coppy dòng code trên
+bước 5 paste vào firebaseconfig js chỉnh sửa lại để phù hợp với ngôn ngữ react native như vậy ta đã hoàn thành việc cài đặt firebase cho react native
+hình 2 6 4 6 tạo một fire firebaseconfig js và paste vào firebaseconfig js
+bước 6 khi sửa dụng ta chỉ cần dùng dòng lệnh import tên firebase from đường dẫn 
+hình 2 6 4 7 import tên firebase from đường dẫn vào các component cần sử dụng firebase
+chương 3 phân tích và thiết kế ứng dụng chợ xe
+trong chương này chúng tôi sẽ trình bày chi tiết các vấn đề của ứng dụng thông qua những tài liệu phân tích và thiết kế sau đó chúng tôi sẽ trình bày thêm một số vấn đề gặp phải về mặt kĩ thuật khi thực hiện đề tài này và các giải pháp để giải quyết vấn đề 
+mô tả các yêu cầu về chức năng của ứng dụng 
+ứng dụng của đề tài gồm 2 mô đun mô đun dành cho người dùng bán cho thuê xe chạy trên hai nền tảng thiết bị android và ios giúp người dùng đăng tin bán hoặc cho thuê phương tiện giao thông của mìnhmô đun dành cho người mua thuê xe chạy trên hai nền tảng thiết bị android và ios thực hiện chức năng chính là giúp người dùng gọi điện và nhắn tin với chủ nhân của phương tiện giao thông mình yêu thích cùng với một số chức năng khác
+hệ thống này phải thực hiện được các chức năng sau đối với người dùng bán cho thuê xe cho phép người dùng được đăng tải thông tin của chiếc xe bao gồm loại xe hãng xe tên xe dòng xe màu sắc phân khối v v cho phép người dùng được đăng kèm theo ảnh của xe cho phép chỉnh sửa thông tin cá nhân của người dùngcho phép quản l sản phẩm đã được đăng cho phép quản l lịch sử của sản phẩm đối với người dùng mua thuê xe cho phép người dùng được tìm kiếm xe cho phép người dùng yêu thích xe cho phép người dùng nhắn tin gọi điện cho chủ rao bán cho phép chỉnh sửa thông tin cá nhân của người dùngcho phép quản l sản phẩm đã yêu thích đã mua đã thuêcho phép người dùng tìm kiếm xe trên google map được tích hợp
+sơ lượt về usecase và actor 
+user người dùng
+manager quản l 
+chức năng của người dùng đăng k đăng nhậpđăng xuấtquên mật khẩuxem và chỉnh sửa thông tin tài khoảnxem thông tin chi tiết sản phẩmyêu thíchgọi điệnnhắn tinxóa sản phẩmhiển thị trang cá nhântìm kiếmchỉ đườngquản l bài đăngđăng tin chọn ảnh set trạng thái của sản phẩm đang kiểm duyệt online messenger đang kiểm duyệt 
+chức năng của quản lí 
+bảng 1 bảng tên và tên viết tắt use case trong hệ thốngtên user casetên viết tắc của usecaseđăng k uc dangkyđăng nhậpuc dangnhapđăng xuấtuc dangxuatquên mật khẩuuc quenmatkhauxem và chỉnh sửa thông tin cá nhânuc chinhsuaxóauc xyêu thíchuc yeuthichgọi điệnuc goidiennhắn tinuc nhantinhiển thị trang cá nhânuc profile usertìm kiếmuc timkiemchỉ đườnguc chiduongđăng tinuc dangtinset trạng thái sản phẩmuc trangthaiquản lí bài đănguc quanlichi tiết sản phẩmuc chitietsản phẩm ngày hôm nayuc sphomnayquản l hình ảnhuc quanlyhinhanhquản l tài khoảnuc quanlytaikhoanquản l databaseuc quanlydatabase
+mô hình usecase của người dùng 
+hình 3 1 2 1 usecase người dùng
+đăng k usercaseđăng k k hiệuuc dangkyactorngười dùngpre conditionspost conditionssau khi hoàn tất người dùng sẽ có 1 tải khoản để sử dụng ứng dụngmô tảusercase cho phép người dùng nhập thông tin cần thiết để cho việc tạo tài khoản người dùng
+bảng 3 1 2 1 đăng k 
+đăng nhậpusercaseđăng nhậpk hiệuuc dangnhapactorngười dùngpre conditionsđã có tải khoản trong hệ thốngpost conditionssau khi hoàn tất người dùng được quyền truy cập vào ứng dụng để xem bảng tin và sử dụng các chức năng khácmô tảusercase này cho phép người dùng đăng nhập vào ứng dụng
+bảng 3 1 2 2 đăng nhập
+đăng xuấtusercaseđăng xuấtk hiệuuc dangxuatactorngười dùngpre conditionsngười dùng đã đăng nhập vào hệ thốngpost conditionssau khi hoàn tất người dùng sẽ thoát khỏi ứng dụng trở về màn hình đăng nhậpmô tảusercase này cho phép người dùng đăng xuất khỏi ứng dụng
+bảng 3 1 2 3 đăng xuất
+quên mật khẩuusercasequên mật khẩuk hiệuuc quenmatkhauactorngười dùngpre conditionsngười dùng đã đăng nhập vào hệ thốngpost conditionsngười dùng sẽ có thể lấy lại mật khẩu trong trường hợp quên mật khẩumô tảngười dùng sẽ có thể lấy lại mật khẩu trong trường hợp quên mật khẩu
+bảng 3 1 2 4 quên mật khẩu
+chỉnh sửa thông tin cá nhânusercasechỉnh sửa thông tin cá nhânk hiệuuc chinhsuaactorngười dùngpre conditionsngười dùng đã đăng nhập vào hệ thốngpost conditionsngười dùng sẽ có thể chỉnh sửa trang và thay đổi thông tin cá nhân mô tảusercase này cho phép người dùng xem và chỉnh sửa thông tin cá nhân bao gồm họ tên ngày tháng năm sinh số điện thoại ảnh đại diện và một số thuộc tính khác nếu có cập nhật
+bảng 3 1 2 5 chỉnh sửa thông tin cá nhân
+yêu thíchusercaseyêu thíchk hiệuuc yeuthichactorngười dùngpre conditionsngười dùng đã đăng nhập vào hệ thốngpost conditionsngười dùng có thể yêu thích tin rao trong danh sách xe được hiển thị ra màn hìnhmô tảusercase này cho phép người dùng yêu thích một bài đăng và lưu bài đăng đó vào rỗ hàng yêu thích
+bảng 3 1 2 6 yêu thích
+gọi điệnusercasegọi điệnk hiệuuc goidienactorngười dùngpre conditionsngười dùng đã đăng nhập vào hệ thốngpost conditionshiển thị số điện thoại của người bán trong ứng dụng điện thoại của máymô tảusercase này cho phép người dùng lấy được số điện thoại của người bán và truy cập vào ứng dụng điện thoại có trong máy người dùng kèm theo số điện thoại đã được dán sẵn
+bảng 3 1 2 7 gọi điện
+nhắn tinusercasenhắn tink hiệuuc nhantinactorngười dùngpre conditionsngười dùng đã đăng nhập vào hệ thốngpost conditionsngười dùng sẽ có thể nhắn tin cho người bán mô tảusercase này cho phép người dùng lấy được số điện thoại của người bán và truy cập vào ứng dụng tin nhắn có trong máy người dùng kèm theo số điện thoại đã được dán sẵn trong mục gửi tới 
+bảng 3 1 2 8 nhắn tin
+hiển thị trang cá nhânusercaseyêu thíchk hiệuuc giohangactorngười dùngpre conditionsngười dùng đã đăng nhập vào hệ thốngpost conditionsngười dùng có thể kiểm tra giỏ hàng đã có bao nhiêu xe yêu thíchmô tảusercase này cho phép người dùng kiểm tra lại hoặc xóa các sản phẩm họ đã yêu thích trong giỏ hàng
+bảng 3 1 2 9 hiên thị trang cá nhân
+tìm kiếmusercasetìm kiếmk hiệuuc timkiemactorngười dùngpre conditionsngười dùng đã đăng nhập vào hệ thốngpost conditionsgõ chữ để tìm kiếm sản phẩmmô tảusercase này cho phép người dùng thấy được danh sách sản phẩm sau khi gõ tìm kiếm
+bảng 3 1 2 10 tìm kiếm
+chỉ đườngusercasechỉ đườngk hiệuuc chiduongactorngười dùngpre conditionsngười dùng đã đăng nhập vào hệ thốngpost conditionsngười dùng sẽ có thể tìm vị trí giữa mình và địa chỉ bán sản phẩmmô tảusercase này cho phép người dùng có được vị trí của người bán và tự động chỉ đường từ vị trí của mình đến vị trí đó 
+bảng 3 1 2 11 chỉ đường
+mapusercasemapk hiệuuc mapactorngười dùngpre conditionsngười dùng đã đăng nhập vào hệ thốngpost conditionsngười dùng sẽ có thể mở màn hình bản đồ mô tảusercase này cho phép người dùng mở sang màn hình bản đồ và search hai vị trí khác nhau
+bảng 3 1 2 12 map
+đăng tinusercasemapk hiệuuc mapactorngười dùngpre conditionsngười dùng đã đăng nhập vào hệ thốngpost conditionsngười dùng sẽ có thể tìm vị trí giữa mình và địa chỉ bán sản phẩmmô tảusercase này cho phép người dùng có được vị trí của người bán và tự động chỉ đường từ vị trí của mình đến vị trí đó 
+bảng 3 1 2 13 đăng tin
+set trạng thái sản phẩmusercaseset trạng thái sản phẩmk hiệuuc trangthaiactorngười dùngpre conditionsngười dùng đã đăng nhập vào hệ thốngpost conditionsngười dùng sẽ có thể chỉnh sửa được trạng thái của sản phẩm đã bán cho thuêmô tảusercase này cho phép người dùng chỉnh sửa được trạng thái của sản phẩm từ đang bán thành đã bán hoặc đang cho thuê thành đã cho thuê
+bảng 3 1 2 14 set trạng thái sản phẩm
+quản lí bài đăngusercasequản lík hiệuuc quanliactorngười dùngpre conditionsngười dùng đã đăng nhập vào hệ thốngpost conditionsngười dùng sẽ có thể quản lí được danh sách các bài đã đăngmô tảusercase này cho phép người dùng có thể them bài đăng mới hoặc sửa xóa bài đăng xem lịch sử bài đăng 
+bảng 3 1 2 15 quản lí bài đăng
+chi tiết sản phẩmusercasechi tiết sản phẩmk hiệuuc chitietactorngười dùngpre conditionsngười dùng đã đăng nhập vào hệ thốngpost conditionsngười dùng có thể xem chi tiết thông tin của một sản phẩmmô tảusercase cho phép người dùng nhập xem thông tin của sản phẩm đồng thời có 3 lựa chọn gọi nhắn tin chỉ đường phía dưới cùng
+bảng 3 1 2 16 chi tiết sản phẩm
+sản phẩm hôm nayusercasesản phẩm hôm nayk hiệuuc dangkyactorngười dùngpre conditionsngười dùng đã đăng nhập vào hệ thốngpost conditionshiển thị các sản phẩm của ngày hôm naymô tảusercase cho phép người dùng xem được các sản phẩm mới đăng ngày ho
+bảng 3 1 2 17 sản phẩm hôm nay
+mô hình usecase của quản l 
+hình 3 1 3 1 usecase của quản l 
+đăng nhập usercaseđăng k k hiệuuc dangnhapactorngười dùngpre conditionsngười dùng phải đăng k tài khoản trước đópost conditionssau khi hoàn tất người dùng sẽ có 1 tải khoản để sử dụng ứng dụngmô tảusercase cho phép người dùng nhập thông tin cần thiết để cho việc tạo tài khoản người dùng
+bảng 3 1 3 1 đăng nhập
+quản l tài khoảnusercaseđăng k k hiệuuc quanlytaikhoanactorngười dùngpre conditionsngười dùng phải đăng nhập trước đópost conditionssau khi hoàn tất người dùng sẽ có thể quản l được số lượng account có trong ứng dụng của mìnhmô tảusercase cho phép người dùng thêm hoặc xóa đi account trong danh sách account có trong ứng dụng của mình
+bảng 3 1 3 2 quản l tài khoản
+quản l databaseusercaseđăng k k hiệuuc quanlydatabaseactorngười dùngpre conditionsngười dùng phải đăng nhập trước đópost conditionssau khi hoàn tất người dùng sẽ có thể quản l được số lượng sản phẩm đã đăng của accountmô tảusercase cho phép người dùng thêm hoặc xóa sản phẩm của một account bất kì
+bảng 3 1 3 3 quản l database
+quản l hình ảnhusercaseđăng k k hiệuuc quanlyhinhanhactorngười dùngpre conditionsngười dùng phải đăng nhập trước đópost conditionssau khi hoàn tất người dùng sẽ có thể quản l được số lượng hình ảnh sử dụng trong ứng dụngmô tảusercase cho phép người dùng thêm hoặc xóa hình ảnh được sử dụng trong ứng dụng
+bảng 3 1 3 4 quản l hình ảnh
+lượt đồ tuần tự sequence diagram 
+đăng k 
+hình 3 2 1 1 sequence cách thức đăng kí
+đăng nhập
+hình 3 2 2 1 sequence cách thức đăng nhập
+đăng xuất
+hình 3 2 3 1 sequence cách thức đăng xuất
+quên mật khẩu
+hình 3 2 4 1 sequence cách thức quên mật khẩu
+yêu thích 
+hình 3 2 5 1 sequence cách thức yêu thích bài đăng
+đăng tin cho thuê 
+hình 3 2 6 1 sequence cách thức đăng tin cho thuê
+đăng tin bán 
+hình 3 2 7 1 sequence cách thức đăng tin bán
+nhắn tin 
+hình 3 2 8 1 sequence cách thức nhắn tin tới người đăng
+gọi điện 
+hình 3 2 9 1 sequence cách thức gọi điện cho người đăng
+tìm kiếm
+hình 3 2 10 1 sequence cách tìm kiếm hoạt động
+chỉ đường
+hình 3 2 11 1 sequence cách thức chỉ đường trên ggmaps
+map
+hình 3 2 12 1 sequence cách tự tìm kiếm đường đi trên ggmaps
+quản lí bài đăng
+hình 3 2 13 1 sequence của quản lí bài đăng
+chi tiết sản phẩm
+hình 3 2 14 1 sequence chi tiết sản phẩm
+lượt đồ lớp class diagram 
+hình 3 2 14 1 mô hình sơ đồ lớp
+lớp account thuộc tínhkiểu dữ liệumô tảuseremailstringemail của account dùng để đăng nhậppass ordstringmật khẩu của account dùng để đăng nhập
+bảng 3 3 1 1 lớp account
+lớp authentication thuộc tínhkiểu dữ liệumô tảlistaccountlistdanh sách chứa toàn bộ account
+bảng 3 3 2 1 lớp authentication
+lớp firebase thuộc tínhkiểu dữ liệumô tảauthenticationauthenticationthuộc tính khai báo danh sách accountdatabasedatabasethuộc tính khai báo cơ sở dữ liệu storagestoragethuộc tính khai báo kho lưu trữ hình ảnh
+bảng 3 3 3 1 lớp firebase
+lớp user thuộc tínhkiểu dữ liệumô tảnameuserstringtên người dùng accountaccounttài khoản mà người dùng sở hữuphonenumberstringsố điện thoại của người dùnglatitudestringkí tự đầu tiên trong địa chỉ hiện tại của người dùnglongtitudestringkí tự cuối cùng trong vị trí hiện tại của người dùng
+bảng 3 3 4 1 lớp user
+lớp database thuộc tínhkiểu dữ liệumô tảlistuserlistdanh sách user được lưu trong cơ sở dữ liệulistsalepostlistdanh sách các bài đăng về bán xe được lưu trong cơ sỡ dữ liệulisrentalpostlistdanh sách các bài đăng về cho thuê xe được lưu trong cơ sỡ dữ liệu
+bảng 3 3 5 1 lớp database
+lớp salepost thuộc tínhkiểu dữ liệumô tảkindstringloại xevehiclenamestringtên xebrandstringhãng xelinestringdòng xe đời xe colorstringmàu xestatusbooleantình trạng xekmnumberintsố km đã chạylicenseplatestringbiển số xeyearofmanufactureintnăm sản xuất xeimagestringhình ảnh thật của xepriceintgiá xedatestringngày đăng sản phẩmphoneintsố điện thoại người đăng bàicarebooleanyêu thíchusercarestringngười yêu thích bài đăng nàyuserstringtên người đăng bài addressstringđịa chỉ bài đăng
+bảng 3 3 6 1 lớp salepost
+lớp rentalpost thuộc tínhkiểu dữ liệumô tảkindstringloại xevehiclenamestringtên xebrandstringhãng xelinestringdòng xe đời xe colorstringmàu xestatusbooleantình trạng xekmnumberintsố km đã chạylicenseplatestringbiển số xeyearofmanufactureintnăm sản xuất xeimagestringhình ảnh thật của xepriceperhourintgiá xe cho thuê mỗi giờpriceperhourintgiá xe cho thuê mỗi ngàydatestringngày đăng sản phẩmphoneintsố điện thoại người đăng bàicarebooleanyêu thíchusercarestringngười yêu thích bài đăng nàyuserstringtên người đăng bài addressstringđịa chỉ bài đăng
+bảng 3 3 7 1 lớp rentalpost
+lớp productmanagerment thuộc tínhkiểu dữ liệumô tảsalemanagermentlistdanh sách các bài đăng về bán xerentalmanagermentlistdanh sách các bài đăng cho thuê xe
+bảng 3 3 8 1 lớp productmanagerment
+lớp careproducts thuộc tínhkiểu dữ liệumô tảsalemanagermentlistdanh sách các bài đăng về bán xe đã yêu thíchrentalmanagermentlistdanh sách các bài đăng cho thuê xe đã yêu thích
+bảng 3 3 9 1 lớp careproduct
+lớp image thuộc tínhkiểu dữ liệumô tảimagestringmột chuỗi kí tự dạng đường link được lưu tại lớp storage
+bảng 3 3 10 1 lớp image
+lớp storage thuộc tínhkiểu dữ liệumô tảlistimagelistdanh sách hình ảnh được lưu trên firebase dưới dạng link
+bảng 3 3 11 1 lớp storage
+mô hình cơ sở dữ liệu quan hệ erd 
+hình 3 3 11 1 mô hình cơ sỡ dữ liệu quan hệ
+lớp user thuộc tínhkiểu dữ liệumô tảusernamestringemail dùng để để đăng nhập tài khoảnpass ordstringmật khẩu của tài khoản nameaccountstringtên người dùngimagestringảnh đại diện người dùngphonestringsố điện thoại của người dùnglatitudestringkí tự đầu tiên trong địa chỉ hiện tại của người dùnglongitudestringkí tự cuối cùng trong vị trí hiện tại của người dùng
+bảng 3 4 1 1 lớp user
+lớp postsale thuộc tínhkiểu dữ liệumô tảusernamestringemail dùng để để đăng nhập tài khoảnkindstringloại xevehiclenamestringtên xebrandstringhãng xelinestringdòng xe đời xe colorstringmàu xestatusbooleantình trạng xekmnumberintsố km đã chạylicenseplatestringbiển số xeyearofmanufactureintnăm sản xuất xeimagestringhình ảnh thật của xepriceintgiá xedatestringngày đăng sản phẩmphoneintsố điện thoại người đăng bàicarebooleanyêu thíchusercarestringngười yêu thích bài đăng nàyuserstringtên người đăng bài addressstringđịa chỉ bài đăng
+bảng 3 4 2 1 lớp postsale
+lớp postrent thuộc tínhkiểu dữ liệumô tảusernamestringemail dùng để để đăng nhập tài khoảnkindstringloại xevehiclenamestringtên xebrandstringhãng xelinestringdòng xe đời xe colorstringmàu xestatusbooleantình trạng xekmnumberintsố km đã chạylicenseplatestringbiển số xeyearofmanufactureintnăm sản xuất xeimagestringhình ảnh thật của xepriceperhourintgiá xe cho thuê mỗi giờpriceperhourintgiá xe cho thuê mỗi ngàydatestringngày đăng sản phẩmphoneintsố điện thoại người đăng bàicarebooleanyêu thíchusercarestringngười yêu thích bài đăng nàyaddressstringđịa chỉ bài đăng
+bảng 3 4 3 1 lớp postrent
+kiến trúc hệ thống 
+trong phần này chúng tôi sẽ trình bày về kiến trúc của hệ thống được thực hiện trong đề tài này thông qua sơ đồ dưới đây 
+hình 3 4 3 1 sơ đồ tổng quan kiến trúc hệ thống
+thiết bị điện thoại ios android react native
+react native firebase
+firebase firebase authentication
+firebase firebase database
+sử dụng dữ liệu tại cơ sở dữ liệu của firebase hoạt động theo dạng tree
+firebase firebase storage
+lưu trữ và quản l dữ liệu dạng ảnh videos mà người dùng tạo ra
+firebase react native
+react native api google maps
+react native thiết bị điện thoại ios android
+kiến trúc phần mềm 
+trong phần này chúng tôi trình bày về kiến trúc phần mềm của hệ thống thông qua sơ đồ dưới đây kiến trúc phần mềm của hệ thống được chia làm 3 phần client side ios android server side data side
+hình 3 4 3 1 sơ đồ kiến trúc phần mềm hệ thống
+client side tầng application layer ứng dụng điện thoại được viết bằng ngôn ngữ react native và sử dụng bộ thư viện của react nativetầng data access component truy cập tới dữ liệu cục bộ trên máytầng local data source phần dữ liệu cục bộ trên máy sử dụng redux với thư viện persist
+server side tầng service layer cung cấp các service giao tiếp giữa server và client thông qua giao thức httptầng google cloud platform cung cấp hai server chính đó là firebase và google api mapstầng data access layer quản l kho dữ liệu firebase database realtime firebase authentication firebase storage
+data side tầng data access quản l kho dữ liệu lớn trên hệ quản trị cơ sở dữ liệu gồm firebase database realtime cơ sở dữ liệu đám mây nosql đồng bộ hóa dữ liệu được đồng bộ hóa trên tất cả các client trong thời gian thực và luôn có sẵn khi ứng dụng offline firebase storage được xây dựng cho các nhà phát triển ứng dụng để lưu trữ và phục vụ nội dung do người dùng tạo ra chẳng hạn như hình ảnh hoặc video firebase authentication hầu hết các ứng dụng cần xác thực quyền giúp ứng dụng lưu dữ liệu an toàn sử dụng trong các đám mây thường là tài khoản người dùng 
+chương 4 một số vấn đề gặp phải
+truong chương này chúng tôi sẽ khi rõ những khó khăn gặp phải khi bắt đầu thực hiện một ứng dụng sử dụng frame ork react native
+4 1 ngôn ngữ 
+vấn đề đặt ra 
+react native là ngôn ngữ đa nền tảng mới được tạo từ facebook dựa trên javascript mọi thử đều rất mới mẻ và ít có tài liệu tham khảo hầu hết tài liệu về ngôn ngữ này đều được phát hành ở nước ngoài và được soạn thảo bằng tiếng nước ngoài 
+khó khăn 
+để hiểu được react native ngoài học ngôn ngữ trong thời gian dài ra bạn còn phải đọc tài liệu bằng tiếng nước ngoài và điều này khá khó khăn cho các bạn có khả năng dịch thuật bị hạn chế 
+mối quan hệ với các anh chị rành rỏi về ngôn ngữ này cũng ít cho nên khi gặp lỗi không tra được trên google thì tụi em cũng không có ai để support 
+hướng giải quyết 
+để làm được ứng dụng này tụi em phải học lại từ đầu tất cả 
+mọi thứ phải biết sử dụng tối thiểu javascript để áp dụng vào react native hoặc 
+là một số frame ork khác của javascript tìm kiếm bộ thư viện phù hợp với ứng 
+dụng
+4 2 server 
+4 2 1 vấn đề đặt ra 
+server phù hợp để sử dụng cho ứng dụng là hoàn toàn miễn phí và vì nó miễn phí nên nó cũng bị hạn chế 
+4 2 2 khó khăn 
+giới hạn số lần truy cập ảnh trong một ngày load ảnh từ server về chậm và đôi khi bị lỗi cảnh báo xuất hiện trên màn hình ứng dụng
+hình 4 2 2 1 giới hạn truy cập vào storage 1 ngày
+hình 4 2 2 2 phân tích mức độ sử dụng ngày
+4 2 3 hướng giải quyết 
+nên nâng cấp gói sử dụng để được hỗ trợ tốt hơn
+hình 4 2 3 1 storage đã có thể sử dụng được
+4 3 luồng dữ liệu 
+4 3 1 vấn đề đặt ra 
+react native được tạo ra từ sự kết hợp giữa các component với nhau các component liên kết với nhau thông qua export và import các component truyền dữ liệu với nhau thông qua props hoặc kết hợp với redux để render dữ liệu
+4 3 2 khó khăn 
+để xử l luồng trên react native rất khó khăn ví dụ dữ liệu sẽ được truyền từ component a z mà giữa 2 component này còn có các component a b c thì dữ liệu chắc chắn đi qua các component này nữa điều này đồng nghĩa ở mỗi component a b c người lập trình phải thêm phương thức để chuyển hướng trong mỗi component
+trong trường hợp ứng dụng có thêm component hoặc xóa 1 component nằm trong khoảng từ a z thì bắt buộc phải sửa lại từ đầu toàn bộ code 
+nếu một lúc dữ liệu quá lớn thì việc truyền dữ liệu sẽ gặp trục trặc vì sự trao đổi dữ liệu chằn chịt
+4 3 3 hướng giải quyết 
+redux là một frame ork tối ưu hóa luồng dữ liệu trong react native và ai dùng react native thì phải chắn chắn phải học thêm redux 
+redux hỗ trợ việc trao đổi dữ liệu giữa các component được suôn sẻ
+hình 4 3 3 1 phương thức kết nối tới store của redux
+hình 4 3 3 2 lấy được trạng thái mới của store nhanh chóng
+4 4 thiết bị 
+4 4 1 vấn đề đặt ra ứng dụng cần phải được cài đặt và chạy thử trên các thiết bị tương thích với nó
+4 4 2 khó khăn 
+build ứng dụng chạy trên nền tảng ios thì phải cần thiết bị đến từ apple như là iphone và macbook hoặc ipad để test thử ứng dụng mà các thiết bị này chi phí rất cao 
+ta cũng có thể build ứng dụng chạy trên nền tảng ios bằng các thiết bị 
+4 4 3 hướng giải quyết 
+mượn được macbook từ người quen nhưng thời gian mượn được thì hơi ngắn ngủi nên ứng dụng chưa được trơn tru trên cả hai nền tảng còn về điện thoại thì chúng em phải tự mua mỗi người một chiếc iphone để sử dụng 
+hình 4 4 3 1 một số thiết bị mượn và mua
+4 5 thư viện 
+4 5 1 vấn đề đặt ra 
+hạn chế về thư viện cho react native 
+4 5 2 khó khăn 
+vì là ngôn ngữ mới nên bộ thư viện hỗ trợ cho react native rất ít và bộ thư viện này cũng do các bạn lập trình viên khác trên thế giới tự viết nên có khi bị lỗi nhiềucó vài bộ thư viện chỉ hỗ trợ cho một nền tảng android hoặc ios 
+4 5 3 hướng giải quyết tự cài đặt và sử dụng thư viện cho mỗi hệ điều hành và đợi bản update mới từ thư viện 
+4 6 version libraries 
+4 6 1 vấn đề đặt ra 
+sự xung đột hoặc không tương thích giữa các version library và react native hoặc khi cập nhật vesion của react native
+4 6 2 khó khăn 
+khi gặp sự xung đột hoặc không tương thích giữa các vesion library và react native thì sẽ dẫn đến tình trạng crack app ngay lần chạy đầu tiên 
+khi cập nhật version mới cho react native sẽ có sự thay đổi về tên hoặc tính năng của các component nếu không cập nhật các tính năng mới hoặc sự thay đổi về tên của các component hoặc cũng như tên các chức năng thì sẽ gặp lỗi tình trạng nặng nhất là sẽ phải thay đổi lại vesion ban đầu của react native
+4 6 3 hướng giải quyết
+khi gặp sự xung đột hoặc không tương thích giữa các version library với react native thì ta phải hạ version của library xuống sao cho thích hợp với version của react native đang sử dụng
+đảm bảo sử dụng đúng các tính năng hoặc tên component của version react native mới hoặc đảm bảo không bị xung đột giữa các version library trong project
+chương 5 kết quả đạt được và hướng phát triển
+trong chương này chúng tối sẽ ghi rõ kết quả đạt được sau khi hoàn thành một ứng dụng sử dụng frame ork react naitive cũng như kết quả sau khi phát triển một đề tài luận văn tốt nghiệp kèm theo đó là mặt hạn chế và hướng phát triển
+5 1 kết quả đạt được 
+5 1 1 về kiến thức
+trong quá tình tìm hiểu và thực hiện đề tài này chúng tôi đã có thêm kiến thức để tạo ra một ứng dụng được viết bằng ngôn ngữ react native redux
+ứng dụng chúng tôi viết được là một ứng dụng phục vụ việc trao đổi xe và cung cấp xe cho nhu cầu đi lại của mọi người tại mọi khu vực
+biết được cách thức hoạt động giữa các bên client server databse diễn ra như thế nào và xử l dữ liệu thông qua các luồng hoạt động trao đổi giữa 3 bên chúng tôi biết thêm được một server có rất nhiều tính năng nổi trội và hoàn toàn miễn phí cho các lập trình viên để thử nghiệm đó là firebase
+đây cũng là lần đầu tiên chúng tôi làm việc với google cloud plaform google maps và đưa được maps lên thiết bị di động trên hai nền tảng ios android 
+về phần cứng ngoài trãi nghiệm các thiết bị của microsoft và android ra chúng tôi còn được sử dụng các thiết bị của apple như là macbook và iphone để build ứng dụng thấy được sự khác nhau giữa hai nền tảng ios andoird về dộ mượt cũng như giao diện
+5 1 2 về nhận thức
+trong thời gian nghiên cứu và phát triển đề tài này chúng tôi đã có những thay đổi khác biệt về sự tiến bộ về phương pháp tự học và các kĩ năng làm việc theo nhóm 
+việc áp dụng react native để lập trình một ứng dụng chạy trên điện thoại rất nhanh và dễ dàng sử dụng và chắc chắn rằng ngôn ngữ này sẽ được hỗ trợ và phát triển trong thời gian tới
+5 1 3 về sản phẩm
+sau khi hoàn thành đề tài này sản phẩm chúng tôi đúc kết lại đó là một ứng dụng chợ xe được lập trình bằng ngôn ngữ react native cùng frame ork redux chạy được trên hay nền tảng ios android 
+ứng dụng này cho phép người dùng có thể đăng tải thông tin chiếc xe của mình để bán hoặc cho thuê với mức giá tự do đồng thời cũng tạo ra một môi trường trao đổi phương tiện đi lại ở khắp mọi nơi trên đất nước bằng phương thức tìm đường đi của google cloud platform api maps việc sở hữu xe cộ trở nên dễ dàng và đơn giản hơn bao giờ hết khoảng cách không còn là trở ngại lớn nếu như xung quanh bạn có người sử dụng ứng dụng này ngoài ra người dùng cũng có thể lưu lại những bài đăng mình yêu thích quản l được các sản phẩm mình bán bằng cách xóa sửa hoặc thêm tin mới đẩy mạnh các bài viết mới ở mục các tin mới trong ngày và gọi điện hoặc nhắn tin trực tiếp tới chủ nhân của phương tiện mình yêu thích các ứng dụng của người dùng được liệt kê ra như sau 
+5 1 3 1 về phía người dùng cho phép người dùng đăng k tài khoảncho phép người dùng xem và chỉnh sửa thông tin cá nhâncho phép người dùng đăng tin bán hoặc cho thuêcho phép người dùng yêu thích một sản phẩm có trên màn hình chínhcho phép người dùng xem chi tiết thông tin sản phẩmcho phép người dùng nhắn tin tới chủ nhân của sản phẩmcho phép người dùng gọi điện thoại tới chủ nhân của sản phẩmcho phép người dùng biết được địa chỉ sản phẩm và kết nối tới đó bằng đường đi ngắn nhấtcho phép người dùng sử dụng bản đồ để tìm kiếm vị trí khác nhaucho phép người dùng xem được tin mới đăng cho phép người dùng tìm kiếm sản phẩm
+5 2 hạn chế 
+hướng tiếp cập với react native bị hạn chế do sự phổ biến của nó ở việt nam nói riêng và thế giới nói chung còn mới mẻ và chưa được hỗ trợ nhiều về thư viện 
+thiết bị để build ứng dụng trên nền tảng ios quá mắc và không dễ dàng mượn được dẫn tới việc viết và thử nghiệm ứng dụng bị chậm trễ
+5 3 hướng phát triển phát triển thêm về thuận toán hiển thị trang chủ người dùngcó nhiều tính năng hơn nữa như tìm theo giá tìm theo địa điểm tìm địa điểm gần tôi chat trực tuyếnđẩy mạnh sự mượt mà của ứng dụng bằng cách nâng cấp servergiao diện đẹp bắt mắt người dùng hơntriển khai ứng dụng vào thực tế
+tài liệu tham khảo
+trong mục này chúng tôi ghi rõ các nguồn tài liệu tham khảo được sử dụng trong khi làm ứng dụng
+tài liệu về firebase 1 https kipalog com posts google firebase la gi tao ung dung chat firebase2 https en ikipedia org iki firebase3 https cloud google com solutions mobile mobile firebase app engine flexible4 https hackernoon com introduction to firebase 218a23186cd75 https danglong name vn firebase la gi 6 https github com invertase react native firebase7 https rnfirebase io 8 https firebase googleblog com 2016 01 the beginners guide to react native and 84 html9 video tham khảo https youtube com atch v qmuydey6ebc
+tài liệu về xcode 10 https huygamer ordpress com tag xcode la gi 11 https codehub vn tao ung dung don gian voi xcode
+tài liệu về android studio 12 https quantrimang com android studio la gi 149713 
+tài liệu về prop type 13 https viblo asia p react proptypes khai bao kieu du lieu cho component naqzr1apkvx14 https reactjs org docs typechecking ith proptypes html15 https npmjs com package prop types16 https viblo asia p react proptypes khai bao kieu du lieu cho component naqzr1apkvx17 https hackernoon com are you using proptypes in react native 6067e2e5b52618 https codeburst io validating props easily ith react proptypes 96e8020820719 https techtalk vn cach tot nhat de viet react componet html
+tài liệu về react native 20 https medium com alexmngn from reactjs to react native hat are the main differences bet een both d6e8e88ebf2421 https viblo asia p nhung diem khac biet chinh giua reactjs va react native la gi 07lkxoad5v422 https techtalk vn tu mo react native khong chi la hello orld html23 https topit orks com blogs 15 thu vien react native ma toi su dung trong ung dung cua toi 24 http reactnative vn lap trinh mobile app voi react native 25 http it die vn r react native 26 http reactnative vn lap trinh mobile app voi react native 27 http babeljs io repl babili false bro sers build builtins false spec false loose false code lz d fqpghglgfbc a7abay byaod2 d040mauea debug false forcealltransforms false shippedproposals false circlecirepo evaluate true filesize false timetravel false sourcetype module line rap false presets es2017 2clatest 2creact 2cstage 2 prettier false targets version 6 26 0 envversion 28 https facebook github io react native docs tutorial html29 http reactnative vn lap trinh mobile app voi react native 30 https viblo asia p gioi thieu va lam quen voi react native naqzrg6glvx31 https fullstackstation com react native la gi 32 https fullstackstation com hoc react native trong 30 ngay qua vi du thuc te 33 https unbug gitbooks io react native training content 32 absolute relative html34 https github com fang ei716 30 days of react native
+tài liệu về react native communications 35 https viblo asia p ho react native ork 3q75 qrmz b36 https github com anarchicknight react native communications37 https techblog vn ho react native ork
+tài liệu về react native custom picker 38 video tham khảo https youtube com atch v 5jcydmtzn6g39 https npmjs com package react native custom picker
+tài liệu về react native fetch blob40 https github com kh237 react native fetch blob
+tài liệu về react native geocoder 41 https github com devfd react native geocoder42 https github com marlove react native geocoding
+tài liệu về react native image picker 43 video tham khảo https youtube com atch v oruk hxpi0g44 https youtube com atch v d1n 3qdlv8 
+tài liệu về react native immediate phone call 45 https npmjs com package react native immediate phone call
+tài liệu về react native maps 46 https github com react community react native maps47 https codeburst io react native google map ith react native maps 572e3d3eee1448 video tham khảo https youtube com atch v dssmjomabq49 https youtube com atch v xt pytntv4850 https youtube com atch v rj 1hmoa9m0
+tài liệu về react native maps directions 51 video tham khảo https youtube com atch v o0rsxpp2gms52 sách tham khảo k s ramya april 2015 s reshma dr s venkatesan direction ith ay point maker using google map api in international journal on applications in information and communication engineering pp 28 3053 https youtube com atch v hh4tt7bi4em54 https npmjs com package react native google maps directions55 https github com bramus react native maps directions56 https medium com princessjanf react native maps ith direction from current location ab1a371732c2
+tài liệu về react native navigator 57 https viblo asia p hai phuong phap dieu huong navigation trong ung dung react native oevkbr4akk 58 https ix github io react native navigation v2 docs installing 59 https viblo asia p react cach dieu huong hien thi tren vie b rznlao5x 60 https techblog vn hai phuong phap dieu huong navigation trong ung dung react native61 https ceobeginer blogspot com 2017 08 bai 12 navigating bet een screens html
+tài liệu về redux 62 https viblo asia p redux cho nguoi moi bat dau part 1 introduction zjleabbzkqj63 video tham khảo https youtube com atch v z 37mghejp064 https youtube com atch v 9i0ie9c sk t 1864s65 https medium com alexmngn from reactjs to react native hat are the main differences bet een both d6e8e88ebf24
+tài liệu về redux logger 66 video tham khảo https youtube com atch v dj8fr0mzm4467 https npmjs com package redux logger68 https techtalk vn hoc reactredux qua vi du thuc te redux html
+tài liệu về redux persist 69 video tham khảo https youtube com atch v gkc4hfp0zzu70 https youtube com atch v yavs nhuio71 https techtalk vn blog posts mobile app react native dau tien72 https codeburst io redux persist https github com rt2zz redux persist the f098b773cdcd
+tài liệu về redux thunk 73 https github com reduxjs redux thunk74 https viblo asia p redux cho nguoi moi bat dau part 3 middle are 3q75 dxmk b75 https insights innovatube com redux th e1 ba adt l c3 a0 c4 91 c6 a1n gi e1 ba a3n ph e1 ba a7n cu e1 bb 91i 4155b1cfed03
+tài liệu về buil ứng dụng lên thiết bị thực 76 https facebook github io react native docs signed apk android77 http iceteaviet com 2017 05 debug ung dung react native tren thiet html
+phụ lục
+mục này chúng tôi ghi rõ cách thức sử dụng các công cụ tham gia vào quá trình xây dựng ứng dụng cách xây dựng ứng dụng trên hai nền tảng android và ios và cách sử dụng ứng dụng sau khi hoàn thành
+i hướng dẫn sử dụng firebase 
+đầu tiên bạn vào đường dẫn https firebase google com 
+tiếp theo chọn get started
+hình 5 1 3 1 giới thiệu firebase
+để tiếp tục dễ dàng đọc và hiểu firebase bạn cần thay đổi ngôn ngữ của trang eb thường thì trang eb sẽ tự biên dịch sang tiếng pháp nên bạn cần thay đổi nó hoặc thêm ngôn ngữ tiếng anh usa bằng các bước sau 
+hình 5 1 3 2 thay đổi ngôn ngữ trên firebase
+sau khi thay đổi ngôn ngữ màn hình của firebase sẽ hiển thị như thế này 
+hình 5 1 3 3 khởi tạo project
+và việc của bạn là add project để tạo mới một project
+hình 5 1 3 4 điền thông tin project
+điền tất cả thông tin như project name vị trí và tick vào hai điều khoản đồng của google rồi nhấn create project
+hình 5 1 3 5 chờ đợi khởi tạo project
+chờ đợi firebase khởi tạo project và continue
+hình 5 1 3 6 khởi tạo xong project
+giao diện cloud của bạn sẽ hiện ra với đầy đủ thông tin về công cụ của google platform bên tay trái như là authentication database realtime storage v v
+hình 5 1 3 7 trang chính của firebase
+để làm việc với react native bạn cần nhúng đoạn script vào react nativechọn mục thứ 3 sau đó coppy đoạn mã ở dưỡi vào
+hình 5 1 3 8 mã code cần import vào project
+tới đây bạn quay lại chương 2 mục 2 4 4 trang 40 mình đã ghi sẵn cách kết nối firebase với react native rất cụ thể và rõ ràng các bước chỉ cần làm giống mình là phần kết nối giữa thiết bị và server đã sẳn sàng hoạt động
+tiếp theo bạn cần tạo cho mình một database để hỗ trợ ứng dụng click vô database chọn creat database như hình 
+lúc này sẽ có 2 mục cho bạn lựa chọn nếu bạn chọn phần start in locked mode đồng nghĩa với việc toàn bộ bên thứ ba người truy cập vào database của bạn sẽ ko thể đọc hoặc viết nếu bạn chọn phần start in test mode thì việc bạn cho phép mọi người có thể can thiệp vào việc chỉnh sửa project của bạn 
+vậy là hoàn tất việc sở hữu một database trên cloud môt cách dễ dàng hình 5 1 3 9 lựa chọn hai danh mục cần để khởi tạo project
+hình 5 1 3 10 nhận add collection để tạo một cơ sở dữ liệu
+nhấn add collection để khởi tạo một cơ sở dữ liệu mới
+hình 5 1 3 11 ví dụ về field
+một ví dụ về các trường của cơ sở dữ liệu và đây là kết quả
+hình 5 1 3 12 một đối tượng trong cơ sở dữ liệu firebase
+ii hướng dẫn cài đặt react native 
+1 lập trình trên hđh indo s nền tảng android 
+đầu tiên ta cần phải cài đặt tất cả các công cụ hỗ trợ react native dưới đây khi cài đặt trên hệ điều hành indo s
+1 jdk http oracle com technet ork java javase do nloads jdk8 do nloads 2133151 html
+2 node https nodejs org en 
+3 python2 https python org do nloads 
+react native khuyến cáo người dùng nên cài đặt jdk nodejs và pythons2 qua chocolatey một trình quản l package phổ biến cho hệ điều hành indo s
+giải thích 3 công cụ hỗ trợ trên như sau jdk viết tắt của java development kit bao gồm jre và các development tool là một bộ công cụ phát triển java nó dành cho những người lập trình java để phát triển ứng dụng nó bao gồm một môi trường chạy ứng dụng java một chương trình để dịch mã mà bạn viết thành mã bytecode khi ứng dụng java chạy nó dịch mã bytecode thành mã máy tính và thực thi điều đó có nghĩa là bytecode chỉ là một mã trung gian node node là 1 nền tảng chạy trên môi trường v8 javascript runtime node cho phép lập trình viên xây dựng các ứng dụng có tính mở rộng cao sử dụng javascript trên server và vì được porting từ c nên về mặt tốc độ xử l thì rất nhanh python là một ngôn ngữ lập trình bậc cao cho các mục đích lập trình đa năng do guido van rossum tạo ra và lần đầu ra mắt vào năm 1991 python được thiết kế với ưu điểm mạnh là dễ đọc dễ học và dễ nhớ python là ngôn ngữ có hình thức rất sáng sủa cấu trúc rõ ràng thuận tiện cho người mới học lập trình cấu trúc của python còn cho phép người sử dụng viết mã lệnh với số lần gõ phím tối thiểu l do python được cài đặt khi sử dụng react native bởi vì hệ thống xây dựng của react native là 100 dựa python nó được sử dụng để biên dịch mã nguồn và phục vụ trong chế độ phát triển 
+install 3 công cụ này như sau 
+đầu tiên install chocolatey 
+mở administrator command prompt cmd run dòng lệnhsystemroot system32 indo spo ershell v1 0 po ershell exe noprofile inputformat none executionpolicy bypass command iex ne object system net ebclient do nloadstring https chocolatey org install ps1 set path path allusersprofile chocolatey bin 
+sau đó run dòng lệnh trên cmd để tải nodejs pythong2 jdk8 về và installchoco install y nodejs install python2 jdk8 
+4 android studio https developer android com studio index html
+tải xuống và cài đặt android studio chọn thiết lập tùy chỉnh khi được nhắc chọn loại cài đặt đảm bảo các hộp bên cạnh tất cả các mục sau được chọn android sdkandroid sdk platformperformance intel haxm android virtual device
+android studio sẽ cài đặt android sdk mới nhất theo mặc định tuy nhiên việc xây dựng ứng dụng react native có mã gốc yêu cầu sdk android 6 0 marshmallo nói riêng bạn có thể cài đặt sdk android bổ sung thông qua trình quản l sdk trong android studio 
+bạn có thể truy cập trình quản l sdk từ màn hình elcome to android studio nhấp vào configure sau đó chọn sdk manager 
+chọn tab sdk platforms từ bên trong trình quản l sdk sau đó chọn hộp bên cạnh sho package details ở góc dưới cùng bên phải tìm và mở rộng mục nhập android 6 0 marshmallo sau đó đảm bảo tất cả các mục sau đều được chọn api googlenền tảng sdk android 23hình ảnh hệ thống intel x86 atom 64google api hình ảnh hệ thống intel x86 atom 64trình quản l sdk android
+tiếp theo chọn tab sdk tools và chọn hộp bên cạnh sho package details tại đây tìm kiếm và mở rộng mục nhập android sdk built tools sau đó đảm bảo rằng 23 0 1 được chọn 
+cuối cùng nhấp vào áp dụng để tải xuống và cài đặt android sdk và các công cụ xây dựng có liên quan 
+định cấu hình biến môi trường android home
+công cụ react native yêu cầu một số biến môi trường được thiết lập để xây dựng ứng dụng với mã gốc 
+mở ngăn system trong system and security trong indo s control panel sau đó nhấp vào change setting mở tab advanced và nhấp vào envirorment variable nhấp vào ne để tạo biến người dùng android home mới trỏ đến đường dẫn đến sdk android của bạn 
+sdk được cài đặt theo mặc định tại vị trí sau 
+c users your username appdata local android sdk
+bạn có thể tìm vị trí thực tế của sdk trong hộp thoại preferences của android studio bên dưới appearance behavior system settings android sdk 
+mở một cửa sổ command prompt mới để đảm bảo biến môi trường mới được nạp trước khi tiến hành bước tiếp theo 
+2 lập trình trên hđh macos nền tảng ios 
+đầu tiên ta cần phải cài đặt tất cả các công cụ hỗ trợ react native dưới đây khi cài đặt trên hệ điều hành indo s
+1 node atchman 
+react native khuyên bạn nên cài đặt node và atchman bằng homebre chạy các lệnh sau trong terminal sau khi cài đặt homebre 
+bre install node
+bre install atchman
+2 xcode cách dễ nhất để cài đặt xcode là thông qua mac app store cài đặt xcode cũng sẽ cài đặt trình mô phỏng ios và tất cả các công cụ cần thiết để xây dựng ứng dụng ios của bạn 
+iii hướng dẫn sử cài đặt bộ thư viện 
+1 hướng dẫn cài đặt bộ thư viện navigation trên ios 49 một số yêu cầu trước khi cài đặt node 8react native 0 51nmp npm install save react native navigation alpha
+trong xcode trong project navigator khung bên trái nhấp chuột phải vào libraries thêm tệp vào project name thêm node modules react native navigation lib ios reactnativenavigation xcodeproj
+trong xcode trong project navigator khung bên trái nhấn vào dự án của bạn trên cùng sau đó nhấp vào hàng mục tiêu của bạn project and targets list ở cột bên trái của khung bên phải và chọn build phases ngăn bên phải trong phần link binary ith libraries thêm libreactnativenavigation a 
+trong xcode bạn sẽ cần chỉnh sửa tệp này appdelegate m chức năng này là điểm vào chính cho ứng dụng của bạn bool application uiapplication application didfinishlaunching ithoptions nsdictionary launchoptions 
+2 hướng dẫn cài đặt bộ thư viện navigation trên android thêm thông tin sau vào android settings gradle 50 
+include react native navigation 
+project react native navigation projectdir ne file rootproject projectdir node modules react native navigation lib android app đảm bảo bạn đang sử dụng plugin gradle mới trong đường dẫn android gradle rapper gradle rapper properties
+distributionbase gradle user home
+distributionpath rapper dists
+zipstorebase gradle user home
+zipstorepath rapper distsdistributionurl https services gradle org distributions gradle 4 4 all zipdistributionurl https services gradle org distributions gradle 2 14 1 all zipcập nhật android build gradle 
+buildscript repositories google mavenlocal mavencentral jcenter maven url https maven google com name google dependencies classpath com android tools build gradle 3 0 1 classpath com android tools build gradle 2 2 3 allprojects repositories google mavencentral mavenlocal jcenter maven all of react native js obj c sources android binaries is installed from npmurl rootdir node modules react native android maven url https maven google com name google maven url https jitpack io ext buildtoolsversion 26 0 3 buildtoolsversion 27 0 3 minsdkversion 16minsdkversion 19compilesdkversion 26targetsdkversion 26supportlibversion 26 1 0 cập nhật project independence trong android app build gradle 
+android compilesdkversion rootproject ext compilesdkversionbuildtoolsversion rootproject ext buildtoolsversiondefaultconfig applicationid com yourproject minsdkversion rootproject ext minsdkversiontargetsdkversion rootproject ext targetsdkversionversioncode 1versionname 1 0 ndk abifilters armeabi v7a x86 compileoptions sourcecompatibility javaversion version 1 8targetcompatibility javaversion version 1 8dependencies compile filetree dir libs include jar compile com android support appcompat v7 rootproject ext supportlibversion compile com facebook react react native from node modulesimplementation filetree dir libs include jar implementation com android support appcompat v7 rootproject ext supportlibversion implementation com facebook react react native from node modulesimplementation project react native navigation cập nhật gradle properties và vô hiệu hóa xử l tài nguyên gia tăngdisable incremental resource processing as it broke release buildandroid enableaapt2 falsecập nhật mainactivity java
+mainactivity java nên được extends từ com reactnativenavigation navigationactivity thay vì reactactivity 
+tệp này nằm trong android app src main java com mainactivity java import com facebook react reactactivity import com reactnativenavigation navigationactivity public class mainactivity extends reactactivity public class mainactivity extends navigationactivity overrideprotected string getmaincomponentname return yourproject cập nhật mainapplication java
+tệp này nằm trong đường dẫn android app src main java com mainapplication java import android app application 
+import com facebook react reactapplication 
+import com facebook react reactnativehost 
+import com facebook react reactpackage 
+import com facebook react shell mainreactpackage 
+import com facebook soloader soloader import com reactnativenavigation navigationapplication import com reactnativenavigation react navigationreactnativehost import com reactnativenavigation react reactgate ay 
+import java util arrays 
+import java util list public class mainapplication extends application implements reactapplication public class mainapplication extends navigationapplication overrideprotected reactgate ay createreactgate ay reactnativehost host ne navigationreactnativehost this isdebug createadditionalreactpackages overrideprotected string getjsmainmodulename return index return ne reactgate ay this isdebug host overridepublic boolean isdebug return buildconfig debug protected list getpackages add additional packages you require hereno need to add rnnpackage and mainreactpackagereturn arrays aslist eg ne vectoriconspackage overridepublic list createadditionalreactpackages return getpackages rnn and react native version 
+react native navigation hỗ trợ nhiều phiên bản native react nhắm mục tiêu phiên bản react native được yêu cầu bởi dự án của bạn bằng cách chỉ định hương vị xây dựng rnn trong android app build gradle 
+android defaultconfig applicationid com yourproject minsdkversion rootproject ext minsdkversiontargetsdkversion rootproject ext targetsdkversionmissingdimensionstrategy rnn reactnativeversion reactnative56 versioncode 1versionname 1 0 xây dựng ứng dụng với lệnh gradle 
+giải pháp ưa thích rnn bạn muốn xây dựng được chỉ định trong app build gradle vì vậy để biên dịch chỉ có cách đó thay vì xây dựng toàn bộ dự án của bạn bằng cách sử dụng gradle assembledebug bạn nên hướng dẫn gradle để xây dựng mô đun ứng dụng gradle app asembledebug cách dễ nhất là thêm lệnh package json để xây dựng và cài đặt apk gỡ lỗi android của bạn scripts android cd android gradle app assembledebug gradle installdebug 
+bây giờ chạy npm chạy android để xây dựng ứng dụng của bạn bỏ qua các flavor khác của rnn 
+nếu bạn không muốn chạy npm chạy android và muốn giữ lệnh react native run android bạn cần chỉ định để sắp xếp để bỏ qua các flavor khác mà rnn cung cấp 
+để làm như vậy hãy chỉnh sửa android build gradle và thêm subprojects subproject afterevaluate if subproject plugins hasplugin android subproject plugins hasplugin android library android variantfilter variant def names variant flavors nameif names contains reactnative51 names contains reactnative55 setignore true bạn có thể sử dụng phản ứng native navigation 
+cập nhật index js import navigation from react native navigation import appregistry from react native 
+import app from app import name as appname from app json appregistry registercomponent appname app navigation registercomponent navigation playground elcomescreen app navigation events registerapplaunchedlistener navigation setroot root component name navigation playground elcomescreen iv hướng dẫn build ứng dụng trên thiết bị thực 67 68 
+1 bật chức năng gỡ lỗi qua usb android 
+hầu hết các thiết bị android mặc định bạn chỉ có thể cài đặt và chạy ứng dụng được tải xuống từ google play store để cài đặt ứng dụng do chính bạn dev ra bạn sẽ cần bật tính năng gỡ lỗi qua usb usb debugging trên thiết bị của mình 
+để bật gỡ lỗi qua usb trên thiết bị của bạn đầu tiên bạn cần tìm và bật menu tùy chọn nhà phát triển developer options bằng cách chọn cài đặt giới thiệu về điện thoại about phone sau đó chạm vào dòng build number bảy lần cho đến khi nó hiện lên thông báo bạn đã là nhà phát triển you re no a developer là thành công cuối cùng bạn có thể quay lại cài đặt tùy chọn nhà phát triển tick vào checkbox để bật gỡ lỗi qua usb 
+2 thiết lập trên thiết bị ios
+để chạy ứng dụng trên ios các bạn cần đăng k apple developer account 
+3 kết nối thiết bị với máy tính qua usb android 
+điều này là bắt buộc kể cả bạn có muốn debug và reload qua ifi đi chăng nữa thì cũng phải kết nối thiết bị qua usb để install app vào trước 
+kết nối thiết bị vào qua cổng usb như khi cài đặt app native thông thường sau đó kiểm tra kết nối bằng cách gõ lệnh sau indo s macos adb deviceslinux lsusb
+nếu thấy thiết bị của mình ở trong danh dách hiện ra thì thành công nếu không bạn hay kiểm tra lại đã bật usb debugging chưa cáp nối có chắc chắn thiết bị có hiển thị đang sạc hay không đã chọn mục đưa máy tính này vào danh sách thiết bị tin tưởng việc cần làm để cho thiết bị chấp nhận việc cài đặt ứng dụng truy cập bộ nhớ từ một máy tính lạ đã cài jdk8 và android sdk chưa 
+4 kết nối thiết bị với máy tính qua usb ios 
+kết nối thiết bị của bạn tới máy macos bằng cáp usb lighting đi đến thư mục ios trong thư mục chưa project của bạn sau đó mở tệp xcodeproj bên trong bằng xcode 
+chọn ứng dụng của bạn trong project navigator và tìm tab general chuyển đến signing và đảm bảo rằng tài khoản nhà phát triển apple của bạn đã được chọn 
+mở menu product từ thanh menu xcode sau đó chuyển đến destination tìm và chọn thiết bị của bạn từ danh sách xcode sẽ đăng k thiết bị của bạn để phát triển 
+nếu mọi thứ được thiết lập chính xác thiết bị của bạn sẽ được liệt kê là mục tiêu xây dựng trong thanh công cụ xcode bây giờ bạn có thể nhấn nút build và chạy hoặc chọn run từ menu product ứng dụng của bạn sẽ sớm khởi chạy trên thiết bị của bạn 
+5 cài đặt và chạy ứng dụng của bạn
+để cài đặt và chạy ứng dụng của bạn ở chế độ debug bạn cần bật cmd cd đến thư mục chứa profile của bạn thư mục có các file app json index android js index ios js rồi gõ lệnh 
+react native run android 
+hoặc
+react native run ios
+khi này máy tính sẽ tiến hành build project và install vào tất cả thiết bị và emulator đang được kết nối với máy tính 
+6 kết nối đến development server
+react native khi hoạt động cần kết nối tới một server ở đây thường là localhost 8081 bằng cách kết nối như vậy mỗi lần bạn có thay đổi nhỏ trong các vie ở file index android js index ios js thì chỉ cần ấn reload hoặc lắc nhẹ thiết bị thật là thay đổi sẽ tự động cập nhật và hiển thị ngay 
+bạn thường có hai cách để kết nối đến server cách 1 sử dụng adb reverse nên dùng 
+bạn nên sử dụng phương pháp này nếu thiết bị của bạn đang chạy android 5 0 lollipop hoặc cao hơn đối với các phiên bản dưới android 5 0 thì bạn có thể google adb reverse android pre lollipop và tham khảo một số cách orkaround chạy lệnh sau 
+adb reverse tcp 8081 tcp 8081
+sau đó mở app trên thiết bị lên lắc nhẹ thiết bị hoặc ấn phím menu trên thiết bị để sho dialog developer settings lên và chọn reload nếu thay đổi cập nhật ngay thì bạn đã thành công tuy nhiên nếu xuất hiện lỗi như sau 
+thì bạn cần kiểm tra lại kết nối của mình xem cáp usb có kết nối một cách chắc chắn không đã bật usb debugging chưa nêu không được bạn nên chuyển qua cách 2 cách 2 kết nối bằng ifi
+bạn có thể kết nối với development server thông qua sóng ifi tuy nhiên như mình đã đề cập ở trên trước tiên bạn phải cài đặt ứng dụng lên thiết bị của mình qua cáp usb và một khi đã cài đặt và chạy lần đầu xong bạn có thể tháo cáp usb ra thực hiện debug qua ifi bằng cách làm theo các hướng dẫn sau 
+bạn cần kết nối cả hai thiết bị đến cùng một ifi và bạn cũng cần biết địa chỉ ip hiện tại của máy tính của mình trước khi tiếp tục 
+để lấy được địa chỉ ip của máy tính bạn mở cmd và gõ ipconfig 
+các bạn tìm đến dòng ireless lan adapter i fi và lấy địa chỉ ipv4 192 168 100 2 đó chính là private ip của máy bạn dùng để kết nôi đến ifi hiện tai đảm bảo rằng thiết bị và máy tính chứa source code để chạy server cùng kết nối đến một mạng ifimở app react native của bạn trên thiết bịbạn sẽ thấy màn hình lỗi màu đỏ mình ví dụ ở phía trên nhưng không sao do chưa kết nối đến development server mà dấn nút menu trên thiết bị để mở developer settings trên appchọn dev settings debug server host for device gõ vào địa chỉ ip của máy bạn kèm theo port mà development server đang chạy trên ví dụ máy mình là 192 168 100 2 8081 ấn back trở lại menu developer settings chọn reload 
+v hướng dẫn đưa ứng dụng lên app store và ch play 
+1 đưa ứng dụng lên ch play 
+android yêu cầu tất cả các ứng dụng phải được k bằng k thuật số với chứng chỉ trước khi chúng có thể được cài đặt do đó để phân phối ứng dụng android của bạn qua cửa hàng google play bạn sẽ cần tạo apk phát hành đã được đăng k trang đăng k ứng dụng của bạn trên tài liệu dành cho nhà phát triển android mô tả chi tiết chủ đề hướng dẫn này trình bày tóm tắt quy trình cũng như liệt kê các bước cần thiết để đóng gói gói javascript tạo khóa k signing key 
+bạn có thể tạo khóa key riêng bằng keytool trên indo s keytool phải được chạy từ c program files java jdkx x x x bin keytool genkey v keystore my release key keystore alias my key alias keyalg rsa keysize 2048 validity 10000
+lệnh này sẽ nhắc bạn nhập mật khẩu cho keystore và key và cung cấp các trường tên phân biệt cho key của bạn sau đó nó sẽ tạo kho khóa dưới dạng tệp được gọi là my release key keystore
+keystore chứa một khóa duy nhất hợp lệ trong 10000 ngày bí danh là tên mà bạn sẽ sử dụng sau này khi đăng k ứng dụng của bạn vì vậy hãy nhớ ghi chú bí danh 
+trên máy mac nếu bạn không chắc chắn thư mục jdk bin của bạn ở đâu thì thực hiện lệnh sau để tìm nó usr libexec java home
+nó sẽ xuất kết quả trực tiếp của jdk dưới dạng một đường dẫn sau đó bạn điều hướng đến thư mục đó bằng lệnh sau cd library java javavirtualmachines jdk1 8 0 161 jdk contents home 
+bây giờ bạn có thể thực hiện lệnh keytool với quyền sudo như hiển thị bên dưới sudo keytool genkey v keystore my release key keystore alias my key alias keyalg rsa keysize 2048 validity 10000
+lưu hãy nhớ giữ tệp keystore của bạn ở chế độ riêng tư và không bao giờ cam kết điều khiển phiên bản thiết lập biến gradle 
+đặt file my release key keystore dưới đường dẫn android app trong project của bạn
+chỉnh sửa tệp gradle gradle properties hoặc android gradle properties và thêm thông tin sau thay thế bằng mật khẩu keystore chính xác bí danh và mật khẩu khóa 
+myapp release store file my release key keystore
+myapp release key alias my key alias
+myapp release store pass ord 
+myapp release key pass ord 
+đây sẽ là các biến global gradle mà sau này chúng ta có thể sử dụng trong cấu hình gradle của chúng ta để k ứng dụng của chúng ta 
+lưu về cách lưu keystore 
+khi bạn xuất bản ứng dụng trên ch play bạn sẽ cần phải xuất bản lại ứng dụng của mình dưới tên gói khác mất tất cả tải xuống và xếp hạng nếu bạn muốn thay đổi khóa k tại bất k thời điểm nào vì vậy sao lưu kho khóa của bạn và đừng quên mật khẩu 
+lưu về bảo mật nếu bạn không muốn lưu trữ mật khẩu của mình trong văn bản thuần túy và bạn đang chạy osx bạn cũng có thể lưu trữ thông tin đăng nhập của mình trong ứng dụng keychain access sau đó bạn có thể bỏ qua hai hàng cuối cùng trong gradle gradle properties thêm cấu hình đăng k vào cấu hình gradle của ứng dụng 
+chỉnh sửa tệp android app build gradle trong thư mục project của bạn và thêm cấu hình đăng k android defaultconfig signingconfigs release if project hasproperty myapp release store file storefile file myapp release store file storepass ord myapp release store pass ordkeyalias myapp release key aliaskeypass ord myapp release key pass ordbuildtypes release signingconfig signingconfigs releasexuất ra file apk 
+đơn giản chỉ cần chạy dòng code trong terminal cd androidgradle assemblerelease
+gradle s assemblerelease sẽ gói tất cả javascript cần thiết để chạy ứng dụng của bạn vào apk nếu bạn cần phải thay đổi gói javascript và hoặc gói tài nguyên ví dụ nếu bạn đã thay đổi tên tập tin mặc định thư mục hoặc cấu trúc chung của dự án hãy xem qua đường dẫn android app build gradle để hiểu cách bạn có thể cập nhật và phản ánh những thay đổi này 
+bạn có thể tìm được file apk trong đường dẫn android app build outputs apk app release apk và sẵn sàng được phân phốithử nghiệm bản phát hành ứng dụng của bạn
+trước khi tải bản dựng bản phát hành lên ch play hãy đảm bảo bạn đã kiểm tra k lưỡng trước tiên hãy gỡ cài đặt mọi phiên bản trước của ứng dụng bạn đã cài đặt cài đặt nó trên thiết bị bằng cách sử dụng react native run android variant release
+lưu rằng variant release chỉ khả dụng nếu bạn đã thiết lập k như mô tả ở trên 
+bạn có thể giết bất k phiên bản trình đóng gói đang chạy nào tất cả khung và mã javascript của bạn được đóng gói trong nội dung của apk phân tách apk bằng abi để giảm kích thước tệp 
+theo mặc định file apk được tạo có mã gốc cho cả kiến trúc cpu x86 và armv7a điều này giúp dễ dàng chia sẻ apk chạy trên hầu hết các thiết bị android tuy nhiên điều này có nhược điểm là sẽ có một số mã gốc không được sử dụng trên bất k thiết bị nào dẫn đến không cần thiết đối với các file apk lớn hơn 
+bạn có thể tạo apk cho từng cpu bằng cách thay đổi dòng sau trong android app build gradle def enableseparatebuildpercpuarchitecture falsedef enableseparatebuildpercpuarchitecture true
+tải cả hai tệp này lên các cửa hàng mà hỗ trợ theo thiết bị chẳng hạn như google play và amazon appstore và người dùng sẽ tự động nhận được apk thích hợp nếu bạn muốn tải lên các thị trường khác như apkfiles không hỗ trợ nhiều apk cho một ứng dụng hãy thay đổi dòng sau để tạo apk phổ biến mặc định với các tệp nhị phân cho cả hai cpu universalapk false if true also generate a universal apkuniversalapk true if true also generate a universal apkbật proguard để giảm kích thước của apk tùy chọn 
+proguard là một công cụ có thể làm giảm kích thước của apk nó thực hiện điều này bằng cách loại bỏ các phần của mã byte bytecode react native và các phụ thuộc của nó mà ứng dụng của bạn không sử dụng 
+quan trọng hãy đảm bảo kiểm tra k ứng dụng của bạn nếu bạn đã bật proguard proguard thường yêu cầu cấu hình cụ thể cho từng thư viện gốc bạn đang sử dụng xem app proguard rules pro 
+để bật proguard hãy chỉnh sửa file android app build gradle run proguard to shrink the java bytecode in release builds def enableproguardinreleasebuilds true
+2 đưa ứng dụng lên app store 
+a cắm thiết bị của bạn qua usb
+kết nối thiết bị ios của bạn với máy mac bằng cáp usb đến lightning điều hướng đến thư mục trong dự án của bạn sau đó mở tệp xcodeproj hoặc nếu bạn đang sử dụng cocoapods mở xc orkspace bên trong nó bằng cách sử dụng xcode 
+nếu đây là lần đầu tiên bạn chạy một ứng dụng trên thiết bị ios bạn có thể cần phải đăng k thiết bị của mình để phát triển mở menu sản phẩm từ thanh thực đơn của xcode sau đó đi đến đích tìm và chọn thiết bị của bạn từ danh sách xcode sau đó sẽ đăng k thiết bị của bạn để phát triển 
+b cấu hình k mã
+đăng k tài khoản nhà phát triển apple nếu bạn chưa có tài khoản 
+chọn dự án của bạn trong xcode project navigator sau đó chọn mục tiêu chính của bạn nó sẽ chia sẻ dự án cùng tên với bạn tìm tab chung chuyển đến đăng nhập và đảm bảo tài khoản nhà phát triển apple hoặc nhóm của bạn được chọn trong danh sách thả xuống nhóm 
+lặp lại bước này cho mục tiêu tests trong dự án của bạn 
+c xây dựng và chạy ứng dụng của bạn
+nếu mọi thứ được thiết lập chính xác thiết bị của bạn sẽ được liệt kê như là mục tiêu xây dựng trong thanh công cụ xcode và nó cũng sẽ xuất hiện trong cửa sổ devices bây giờ bạn có thể nhấn nút build and run hoặc chọn run từ menu product ứng dụng của bạn sẽ sớm khởi chạy trên thiết bị của bạn 
+nếu bạn gặp phải bất k sự cố nào vui lòng xem apple khởi chạy ứng dụng của bạn trên tài liệu thiết bị 
+d kết nối với máy chủ phát triển
+bạn cũng có thể lặp lại nhanh chóng trên một thiết bị bằng cách sử dụng máy chủ phát triển bạn chỉ phải trên cùng một mạng i fi như máy tính của mình lắc thiết bị của bạn để mở menu nhà phát triển sau đó bật tải lại trực tiếp ứng dụng của bạn sẽ tải lại bất cứ khi nào mã javascript của bạn đã thay đổi 
+i xử l sự cố
+nếu bạn gặp bất k sự cố nào hãy đảm bảo rằng máy mac và thiết bị của bạn nằm trên cùng một mạng và có thể liên lạc với nhau nhiều mạng không dây mở với cổng cố định được cấu hình để ngăn thiết bị tiếp cận các thiết bị khác trên mạng bạn có thể sử dụng tính năng điểm phát sóng cá nhân của thiết bị trong trường hợp này 
+khi cố gắng kết nối với máy chủ phát triển bạn có thể gặp màn hình màu đỏ có lỗi 
+kết nối với http localhost 8081 debugger proxy role client hết thời gian chờ bạn có đang chạy proxy node không nếu bạn đang chạy trên thiết bị hãy kiểm tra xem bạn có đúng địa chỉ ip không rct ebsocketexecutor m 
+để giải quyết vấn đề này hãy kiểm tra các điểm sau đây 
+ii mạng i fi 
+đảm bảo máy tính xách tay và điện thoại của bạn nằm trên cùng một mạng i fi 
+iii địa chỉ ip
+đảm bảo rằng tập lệnh xây dựng đã phát hiện địa chỉ ip của máy của bạn chính xác
+mở tab điều hướng báo cáo chọn xây dựng và tìm kiếm xip io địa chỉ ip được nhúng trong ứng dụng phải khớp với địa chỉ ip máy của bạn cộng với miền xip io
+iv cấu hình mạng bộ định tuyến
+react native sử dụng dịch vụ dns k tự đại diện xip io để giải quyết thiết bị của bạn vì apple ats cấm url có địa chỉ ip thay vì tên miền và mạng của nhà phát triển thường không được thiết lập để giải quyết tên máy chủ cục bộ một số bộ định tuyến có các tính năng bảo mật để ngăn máy chủ dns giải quyết mọi thứ trong dải ip cục bộ 
+bây giờ hãy kiểm tra xem bạn có thể giải quyết địa chỉ xip io không bằng cách chạy nslookup nslookup 10 0 1 123 xip io
+nếu nó không giải quyết địa chỉ ip cục bộ của bạn thì dịch vụ xip io bị hỏng hoặc nhiều khả năng router của bạn sẽ ngăn chặn nó 
+để vẫn sử dụng xip io phía sau bộ định tuyến của bạn định cấu hình điện thoại của bạn để sử dụng google dns 8 8 8 8 tắt tính năng bảo mật thích hợp trong bộ định tuyến của bạn
+v xây dựng ứng dụng của bạn để phát hành
+bạn đã xây dựng một ứng dụng tuyệt vời bằng cách sử dụng react native và giờ đây bạn đã sẵn sàng phát hành ứng dụng đó trong app store quá trình này giống với bất k ứng dụng ios gốc nào khác với một số cân nhắc bổ sung cần tính đến bật bảo mật giao thông ứng dụng
+app transport security là một tính năng bảo mật được giới thiệu trong ios 9 loại bỏ tất cả các yêu cầu http không được gửi qua https điều này có thể dẫn đến lưu lượng truy cập http bị chặn bao gồm cả máy chủ react native của nhà phát triển ats bị tắt localhosttheo mặc định trong các dự án react native để giúp phát triển dễ dàng hơn 
+bạn nên bật lại ats trước khi xây dựng ứng dụng của mình để sản xuất bằng cách xóa localhostmục nhập khỏi từ nsexceptiondomainsđiển trong tệp info plist của bạn trong ios thư mục bạn cũng có thể bật lại ats từ bên trong xcode bằng cách mở các thuộc tính đích của bạn trong ngăn thông tin và chỉnh sửa mục nhập cài đặt bảo mật giao thông ứng dụng định cấu hình lược đồ phát hành
+xây dựng ứng dụng để phân phối trong app store yêu cầu sử dụng releaselược đồ trong xcode các ứng dụng được tạo cho release sẽ tự động vô hiệu hóa menu nhà phát triển ứng dụng điều này sẽ ngăn người dùng của bạn vô tình truy cập menu trong quá trình sản xuất nó cũng sẽ gói javascript cục bộ vì vậy bạn có thể đặt ứng dụng trên thiết bị và kiểm tra trong khi không được kết nối với máy tính 
+để cấu hình ứng dụng của bạn được xây dựng bằng cách sử dụng chương trình release đi đến sản phẩm scheme sửa scheme chọn tab chạy trong thanh bên sau đó đặt trình đơn thả xuống cấu hình xây dựng release định cấu hình ứng dụng để sử dụng gói tĩnh
+trong quá trình phát triển react native đã tải mã javascript của bạn một cách linh hoạt khi chạy đối với một bản dựng sản xuất bạn muốn gói trước gói javascript và phân phối nó bên trong ứng dụng của bạn làm điều này đòi hỏi một sự thay đổi mã trong mã của bạn để nó biết để tải gói tĩnh 
+trong appdelegate m thay đổi mặc định jscodelocation để trỏ đến gói tĩnh được xây dựng trong bản phát hành jscodelocation nsbundle mainbundle urlforresource main ithextension jsbundle 
+điều này sẽ tham chiếu đến tệp main jsbundle tài nguyên được tạo trong bundle react native code and images giai đoạn xây dựng trong xcode 
+if configuration debug thenexport skip bundling truefimẹo chuyên nghiệp
+khi gói ứng dụng của bạn tăng kích thước bạn có thể bắt đầu thấy một màn hình trắng nhấp nháy giữa màn hình giật gân và hiển thị chế độ xem ứng dụng gốc của bạn nếu trường hợp này xảy ra bạn có thể thêm mã sau vào appdelegate m để giữ cho màn hình của bạn được hiển thị trong quá trình chuyển đổi place this code after self indo makekeyandvisible and before return yes uivie launchscreenvie nsbundle mainbundle loadnibnamed launchscreen o ner self options nil objectatindex 0 launchscreenvie frame self indo bounds rootvie loadingvie launchscreenvie xây dựng ứng dụng để phát hành
+giờ đây bạn có thể tạo ứng dụng để phát hành bằng cách nhấn b hoặc chọn sản phẩm xây dựng từ thanh trình đơn sau khi được xây dựng để phát hành bạn sẽ có thể phân phối ứng dụng cho người thử nghiệm beta và gửi ứng dụng tới app store 
+vi hướng dẫn sử dụng ứng dụng 
+bước 1 đăng k một tài khoản người dùng sau đó đăng nhập
+hình 2 1 đăng k tài khoản người dùng và đăng nhập
+bước 2 sau khi đăng nhập thành công màn hình chính xuất hiệnmặc định là giao diện xe được bán
+hình 2 2 giao diện chính
+bước 3 bạn có thể searching sản phẩm xe tương ứng với khung tìm kiếm sản phẩm ở trên 
+hình 2 3tính năng search trong choxe
+bước 4 lướt từ trái qua phải chúng ta sẽ có được thanh dra er menu với nhiều chức năng khác
+hình 2 4 tạo thanh dra er menu
+bước 5 7 giao diện sẽ xuất hiện khi người dụng click vàohình 2 5 7 tính năng chính trong dra er menu
+bước 6 để đăng tin một tin về bán xe bạn click vào đăng tin bán xe 
+hình 2 6 chức năng đăng tin xe cần bán
+tương tự ta có được đăng tin cho thuê xe như sau
+hình 2 7 chức năng đăng tin cho thuê xe
+bước 7 ta click vào xem chi tiết để được xem chi tiết sản phẩm
+hình 2 8 chi tiết sản phẩm
+bước 8 hãy gọi điên và nhắn tin cho chủ nhân của sản phẩm nhấn vào gọi điện hoặc nhắn tin
+hình 2 9 hai chức năng gọi điện và nhắn tin
+bước 9 để yêu thích và lưu sản phẩm bấm vào trái tim ở sản phẩm
+hình 2 10 chức năng yêu thích sản phẩm
+bước 10 để xem vị trí của sản phẩm và vị trí hiện tại của bạn bấm định vị google map sẽ hiễn thị và chỉ dẫn bạn đến vị trí của sản phẩm
+hình 2 11 chức năng định vị sản phẩm
+bước 11 xem thông tin người dùng click vào icon 
+hình 2 12 chức năng xem thông tin người dùng
+bước 12 chỉnh sửa người dùng bằng icon 
+hình 2 13 chức năng chỉnh sửa thông tin người dùng
+bước 13 xem lại lịch sử đăng tin thuê xe bán xe 
+bước 14 xem lại các tin đã yêu thích vào mục thông tin người dùng click vào 2 dòng này 
+hình 2 14 chức năng xem lại các xe đã được yêu thích
+giao diện xe quan tâm sẽ xuất hiện
+hình 2 15 danh sách xe thuê bán đã quan tâm

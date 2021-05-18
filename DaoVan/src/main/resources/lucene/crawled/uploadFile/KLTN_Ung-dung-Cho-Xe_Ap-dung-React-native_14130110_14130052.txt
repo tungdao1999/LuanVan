@@ -1,0 +1,1037 @@
+bộ giáo_dục và đào_tạo
+trường đại_học nông_lâm tphcm
+khoa công_nghệ thông tin
+luận văn tốt_nghiệp
+áp_dụng framework react native để xây_dựng ứng_dụng chợ xengành công_nghệ thông tinniên khóa_lớp dhdtasinh viên thực_hiện hồ lâm laiđinh thế_tân
+tphồ chí minh – tháng năm
+bộ giáo_dục và đào_tạo
+trường đại_học nông lâmtphcm
+khoa công_nghệ thông_tin
+luận_văn tốt_nghiệp
+áp_dụng framework react native để xây_dựng ứng_dụng chợ xegiáo viên hướng_dẫn sinh_viên thực hiệnthsnguyễn thị phương trâm hồ lâm lai đinh thế_tân
+tphồ chí minh – tháng năm
+công_trình hoàn_tất tại
+trường đại_học nông_lâm tphồ chí_minh
+giáo_viên hướng dẫnths nguyễn_thị phương_trâm
+giáo_viên phản_biện
+luận_văn cử_nhân được bảo_vệ tại hội_đồng chấm luận_văn cử_nhân trường đại_học nông_lâm tp hcm ngày tháng năm
+nhận_xét của giáo_viên hướng dẫnnhận xét của giáo_viên phản biệnsinh viên thực_hiện
+họ tên sinh_viên hồ lâm lai phái_nam
+ngày tháng năm sinh nơi_sinh bình_định
+chuyên_ngành công_nghệ thông_tin
+địa_chỉ thôn chương_hòa xã hòa_châu bắc huyện hòa nhơn tỉnh bình_định
+điện_thoại liên_lạc
+email sthcmuafeduvn
+họ tên sinh_viên đinh thế tân phái_nam
+ngày tháng năm sinh nơi_sinh quảng nam
+chuyên_ngành công_nghệ thông_tin
+địa_chỉ hoàng diệu tam kỳ quảng nam
+điện_thoại liên_lạc
+email sthcmuafeduvn
+bộ giáo_dục và đào_tạo cộng_hòa xã_hội_chủ_nghĩa việt nam
+trường đh nông_lâm tphồ chí minh độc_lập tự do hạnh_phúc
+nhiệm_vụ luận_văn cử_nhân
+họ tên sinh_viên hồ lâm lai phái_nam
+ngày tháng năm sinh nơi_sinh bình_định
+chuyên_ngành công_nghệ thông_tin
+ngành công_nghệ thông_tin
+họ tên sinh_viên đinh thế tân phái_nam
+ngày tháng năm sinh nơi_sinh quảng nam
+chuyên_ngành công_nghệ thông_tin
+ngành công_nghệ thông_tin
+i tên đề_tài áp_dụng framework react native để xây_dựng ứng_dụng chợ xe
+ii nhiệm_vụ và nội_dung
+· giải_quyết vấn_đề kinh_doanh xe của các đại_lý xe hình_thức mua_bán xe của cá_nhân
+· giải_quyết nhu_cầu người_sử_dụng xe hiện_nay
+· giải_quyết được về phương_tiện_đi_lại cho người muốn thuê xe với các hình_thức như du lich đi bụi …
+· nội_dung nghiên_cứu
+· tìm_hiểu thuật_toán tìm đường_đi ngắn nhất để giải_quyết vấn_đề tìm đường_đi từ_vị_trí cá_nhân đến các địa_điểm cho_thuê bán xe
+· phần_mềm chạy trên cả nền_tảng android và ios
+· xây_dựng và phát_triển ứng_dụng chạy chương_trình trong thời_gian dài để có lượng_dữ_liệu
+· nhu_cầu sử_dụng xe của mọi_người
+iii ngày_giao nhiệm_vụ
+iv ngày hoàn_thành nhiệm_vụ
+v họ tên cán_bộ hướng_dẫn ths nguyễn_thị phương_trâm
+ngày ……… ngày ……… ngày ………cán bộ hướng_dẫn cán_bộ phản_biện khoa cntt
+báo_cáo đồ_án tốt_nghiệp svth hồ lâm lai đinh thế tân gvhd nguyễn_thị phương_trâm
+báo_cáo đồ_án tốt_nghiệp svth hồ lâm lai đinh thế tân gvhd nguyễn_thị phương_trâm
+lời cảm_ơn
+chúng_em xin chân thành cảm_ơn các thầy_cô khoa công_nghệ thông_tin trường đại_học nông_lâm tphồ chí minh với những kiến_thức quý_báu và sự_tận_tâm nhiệt_huyết mà thầy_cô đã truyền_đạt cho chúng_em trong_suốt những năm đại_học
+chúng_con xin gửi đến cha_mẹ lời ghi ơn sâu_sắc những người đã sinh_ra và dạy_bảo chúng_con_trưởng thành như ngày hôm_nay
+đặc_biệt chúng_em xin chân thành cảm_ơn cô nguyễn_thị phương trâm đã tận_tình hướng_dẫn chỉ_bảo và giúp_đỡ chúng_em trong_suốt quá_trình thực_hiện đề_tài nghiên_cứu này cảm_ơn vì cô đã truyền_tải cho chúng_em không_chỉ về kiến_thức chuyên_ngành mà còn cả về cách_sống cách ứng_xử cách suy_nghĩ giúp chúng_em trưởng thành hơn
+cũng xin cám_ơn tất_cả những bạn_bè đã chia_sẻ kiến_thức và tận_tình giúp_đỡ chúng_tôi hoàn_thành đề_tài này
+ngoài_ra chúng_em còn xin gửi lời cảm_ơn tới nhà_trường và văn_phòng khoa công_nghệ thông_tin đã chân_thành giúp_đỡ tạo điều_kiện chúng_em thực_hiện đề_tài trong thời_gian qua
+trong quá_trình thực_hiện đề_tài nghiên_cứu mặc_dù chúng_em đã có những cố_gắng nỗ_lực thực_hiện nhưng chúng_em chắc không_thể tránh được những sai_sót nhất_định kính mong sự_thông_cảm và tận_tình chỉ_bảo của_quý thầy_cô xin chân thành cảm_ơn mọi_người
+sinh_viên thực_hiện
+hồ lâm_lai
+đinh thế_tân
+mục_lục
+lời cảm_ơn i
+danh_sách hình_ảnh được sử_dụng vii
+danh_sách các bảng được sử_dụng x
+chương mở_đầu hiện_trạng và khó_khăn thực_tế lí do chọn đề_tài mục_tiêu đề_tài đối_tượng nghiên_cứu phạm_vi nghiên_cứu nội_dung nghiên_cứu về thời_gian về không_gian về nội_dung cấu_trúc kiến_thức cơ_bản gồm các thành_phần_sau
+chương kiến_thức cơ_bản tìm_hiểu về reactnative giới_thiệu về react native ứng_dụng hybrid ứng_dụng native react native là hòa hợp điên_rồ giữa cả_hai tìm_hiểu về reactnative thiết_lập và đóng_gói dom và styles animations và gesture component props state chuyển_đổi qua_lại giữa các component redux cấu_trúc và nguyên_lí hoạt_động của redux publishing tìm_hiểu về visual studio code visual studio code là gì chức_năng của visual studio code tìm_hiểu về android studio tìm_hiểu về xcode tìm_hiểu về genymotion genymotion là gì tìm_hiểu về firebase firebase là gì tổng_quan các dịch_vụ mà firebase cung_cấp nhóm công_cụ để develop test app kết_nối firebase với reactnative
+chương phân_tích và thiết_kế ứng_dụng chợ xe mô_tả các yêu_cầu về chức_năng của ứng_dụng sơ lượt về usecase và actor mô_hình usecase của người_dùng mô_hình usecase của quản_lý lượt_đồ tuần_tự sequence diagram đăng_ký đăng nhập đăng xuất quên mật_khẩu yêu_thích đăng tincho thuê đăng tinbán nhắn tin gọi_điện tìm_kiếm chỉ_đường map quản_lí bài đăng chi_tiết sản_phẩm lượt_đồ lớp class diagram lớp account lớp authentication lớp firebase lớp user lớp database lớp salepost lớp rentalpost lớp productmanagerment lớp careproducts lớp image lớp storage mô_hình cơ_sở_dữ_liệu quan_hệ erd lớp user lớp postsale lớp postrent kiến_trúc hệ_thống kiến_trúc phần_mềm
+chương một số vấn_đề gặp_phải ngôn_ngữ vấn_đề đặt_ra khó_khăn hướng giải_quyết server vấn_đề đặt_ra khó_khăn hướng giải_quyết luồng_dữ_liệu vấn_đề đặt_ra khó_khăn hướng giải_quyết thiết_bị vấn_đề đặt_ra khó_khăn hướng giải_quyết thư_viện vấn_đề đặt_ra khó_khăn hướng giải_quyết version libraries vấn_đề đặt_ra khó_khăn hướng giải_quyết
+chương kết_quả đạt được và hướng phát_triển kết_quả đạt được về kiến_thức về nhận_thức về sản_phẩm về phía người_dùng hạn_chế hướng phát_triển
+tài_liệu tham_khảo
+tài_liệu về firebase
+tài_liệu về xcode
+tài_liệu về android studio
+tài_liệu về proptype
+tài_liệu về reactnative
+tài_liệu về reactnative communications
+tài_liệu về reactnative custompicker
+tài_liệu về reactnative fetchblob
+tài_liệu về reactnativegeocoder
+tài_liệu về reactnativeimagepicker
+tài_liệu về reactnativeimmediatephonecall
+tài_liệu về reactnativemaps
+tài_liệu về reactnativemapsdirections
+tài_liệu về reactnativenavigator
+tài_liệu về redux
+tài_liệu về reduxlogger
+tài_liệu về reduxpersist
+tài_liệu về reduxthunk
+tài_liệu về buil ứng_dụng lên thiết_bị thực
+phụ_lục
+i hướng_dẫn sử_dụng firebase
+ii hướng_dẫn cài_đặt react native lập_trình trên hđh windows – nền_tảng android lập_trình trên hđh macos nền_tảng ios
+iii hướng_dẫn sử cài đặt bộ thư_viện hướng_dẫn cài đặt bộ thư_viện navigation trên ios hướng_dẫn cài đặt bộ thư_viện navigation trên android
+iv hướng_dẫn build ứng_dụng trên thiết_bị thực bật chức_năng gỡ lỗi qua usb android thiết_lập trên thiết_bị ios kết_nối thiết_bị với máy_tính qua usb android kết_nối thiết_bị với máy_tính qua usb ios cài_đặt và chạy ứng_dụng của bạn kết_nối đến development server
+v hướng_dẫn đưa ứng_dụng lên app store và ch play đưa ứng_dụng lên ch play đưa ứng_dụng lên app store
+a cắm thiết_bị của bạn qua usb
+b cấu hình ký_mã
+c xây_dựng và chạy ứng_dụng của bạn
+d kết_nối với máy chủ_phát_triển
+vi hướng_dẫn sử_dụng ứng_dụng
+danh_sách hình_ảnh được sử_dụng
+hình là component class này cũng là component
+hình cách thuôc tính props hoạt_động
+hình sau_đó tạo component appblink để đưa component vào sử_dụng
+hình sau_đó tạo component appblink để đưa component vào sử_dụng
+hình dòng chữ nhấp_nháy liên_tục trên màn_hình
+hình khi bạn muốn click để chuyển sang màn_hình mới
+hình cách_thức hoạt_động giữa các component
+hình cách_thức hoạt_động của redux
+hình nguyên_lý hoạt_động của redux
+hình trình biên_tập visual studio code
+hình genymotion
+hình máy ảo genymotion visual studio code
+hình giới_thiệu firebase
+hình csdl được lưu_trữ dưới dạng json dễ_đọc và dễ_hiểu
+hình giới_thiệu về firebase authentication
+hình giới_thiệu về firebase messaging
+hình giới_thiệu firebase storage
+hình giới_thiệu firebase notifications
+hình vào file chứa project về react native đang làm
+hình chọn file tìm administrator windows powershell
+hình gõ npm install firebase
+hình chọn addfirebase to your web app
+hình coppy dòng code trên
+hình tạo một fire firebaseconfigjs và paste vào firebaseconfigjs
+hình import tên firebase from ‘đường dẫn’ vào các component cần sử_dụng firebase
+hình usecase người_dùng
+hình usecase của quản_lý
+hình sequence cách_thức đăng_kí
+hình sequence cách_thức đăng_nhập
+hình sequence cách_thức đăng_xuất
+hình sequence cách_thức quên mật_khẩu
+hình sequence cách_thức yêu_thích bài_đăng
+hình sequence cách_thức đăng_tin cho_thuê
+hình sequence cách_thức đăng_tin bán
+hình sequence cách_thức nhắn_tin tới người_đăng
+hình sequence cách_thức gọi_điện cho người_đăng
+hình sequence cách tìm_kiếm hoạt_động
+hình sequence cách_thức chỉ_đường trên ggmaps
+hình sequence cách tự tìm_kiếm đường_đi trên ggmaps
+hình sequence của quản_lí bài_đăng
+hình sequence chi_tiết sản_phẩm
+hình mô_hình sơ_đồ lớp
+hình mô_hình cơ sỡ_dữ_liệu quan_hệ
+hình sơ_đồ tổng_quan kiến_trúc hệ_thống
+hình sơ_đồ kiến_trúc phần_mềm hệ_thống
+hình giới_hạn truy_cập vào storage ngày
+hình_phân_tích mức_độ sử_dụng ngày
+hình storage đã có_thể sử_dụng được
+hình phương_thức kết_nối tới store của redux
+hình lấy_được trạng_thái mới của store nhanh_chóng
+hình một số thiết_bị mượn và mua
+hình giới_thiệu firebase
+hình thay_đổi ngôn_ngữ trên firebase
+hình khởi tạo project
+hình điền thông_tin project
+hình chờ_đợi khởi tạo project
+hình khởi tạo xong project
+hình trang chính của firebase
+hình mã code cần import vào project
+hình lựa_chọn hai danh_mục cần để khởi tạo project
+hình nhận add collection để tạo một cơ_sở_dữ_liệu
+hình ví_dụ về field
+hình một đối_tượng trong cơ_sở_dữ_liệu firebase
+hình đăng_ký tài_khoản người_dùng và đăng_nhập
+hình giao_diện chính
+hình tính_năng search trong choxe
+hình tạo thanh drawer menu
+hình tính_năng chính trong drawer menu
+hình chức_năng đăng_tin xe cần bán
+hình chức_năng đăng_tin cho_thuê xe
+hình chi_tiết sản_phẩm
+hình hai chức_năng gọi_điện và nhắn_tin
+hình chức_năng yêu_thích sản_phẩm
+hình chức_năng định_vị sản_phẩm
+hình chức_năng xem thông_tin người_dùng
+hình chức_năng chỉnh sửa thông_tin người_dùng
+hình chức_năng xem lại các xe đã được yêu_thích
+hình danh_sách xe thuêbán đã quan_tâm
+danh_sách các bảng được sử_dụng
+bảng đăng_ký
+bảng đăng_nhập
+bảng đăng_xuất
+bảng quên mật_khẩu
+bảng chỉnh sửa thông_tin cá_nhân
+bảng yêu_thích
+bảng gọi_điện
+bảng_nhắn_tin
+bảng hiên thị trang cá_nhân
+bảng tìm_kiếm
+bảng chỉ_đường
+bảng_map
+bảng đăng_tin
+bảng set trạng_thái sản_phẩm
+bảng quản_lí bài_đăng
+bảng chi_tiết sản_phẩm
+bảng sản_phẩm hôm_nay
+bảng đăng_nhập
+bảng quản_lý tài_khoản
+bảng quản_lý database
+bảng quản_lý hình_ảnh
+bảng lớp account
+bảng lớp authentication
+bảng lớp firebase
+bảng lớp user
+bảng lớp database
+bảng lớp salepost
+bảng lớp rentalpost
+bảng lớp productmanagerment
+bảng lớp careproduct
+bảng lớp image
+bảng lớp storage
+bảng lớp user
+bảng lớp postsale
+bảng lớp postrent
+chương mở đầuhiện trạng và khó_khăn thực_tế
+theo thống_kê việt nam hiện đang có triệu xe_máy cứ người_dân thì sỡ hữu một xe_máy và khoảng triệu xe ô_tô đã đăng_ký tính theo con_số sở_hữu phương_tiện thì cứ dân sở_hữu ô_tô và đối_với xe_máy là xe  httpictnewsvndù tỷ_lệ sở_hữu xe ô_tô tại việt nam chưa lớn nhưng nhu_cầu mua xe ô_tô đang tăng_lên rõ_rệt một con_số được nêu_ra là tại việt nam tỷ_lệ tăng_trưởng của xe_máy là và ô_tô là bình_quân mỗi năm thị_trường việt nam khai_sinh thêm hơn triệu chiếc xe_máy với đà tăng_tiến như_vậy đến tổng_số_lượng xe_máy lưu_hành trên thị_trường có khả_năng đạt tới triệu chiếc httpautodailyvntheo những thống_kê và số_liệu cung_cấp ở phía_trên thì sự_ra_đời và tăng_trưởng số_lượng các dòng xe mới du_nhập vào việt nam hằng năm cộng với số_lượng xe hiện_có ở việt nam thì khả_năng muốn trao_đổi xe vd bán xe mua xe thuê xe là nhu cần_thiết_thực của mỗi_người đặt biệt là đối_với các đại_lý xe chuyên bán xe mua xe thuê xe hết_sức quan_trọng nhưng những sân_chơi để giúp mọi_người giải_quyết vấn_đề này ở việt nam hiện rất ít nếu_có điển_hình nhất là chợ tốt nhưng ở chợ tốt ngoài các sản_phẩm chuyên về xe thì còn rất nhiều các mặt_hàng khác được trao đôi trong_này ngoài chợ tốt thì còn có một ứng_dụng chuyên về thuê xe xe oto giúp mọi_người thuê xe với nhiều hình_thức và nhiều loại xe phù_hợp với từng nhu_cầu của mọi_người ứng_dụng này tên là thuê xelí do chọn đề_tài
+để đáp_ứng một sân_chơi chuyên về xe cùng với các nhu_cầu về xe của mọi_người đó là phần lý_do hình_thành nên app chợ xenhằm cung_cấp một ứng_dụng chuyên về xe cho mọi_người với các hình_thức như mua xe bán xe thuê xe tất_cả các loại xe từ xe_đạp xe_máy xe_ô_tô để giúp mọi_người giải_quyết các vấn_đề hiện_tại của chính mìnhmục tiêu_đề_tài
+· mục_tiêu tổng_quát
+· xây_dựng ứng_dụng chợ xe trên nền_tảng thiết_bị di_động cả android và ios
+· hệ_thống cập_nhật thường_xuyên dữ_liệu từ người_dùng
+· framework react native là mã nguồn mở sử_dụng javascript do facebook phát_hành luôn cập_nhật và phát_triển
+· áp_dụng thuật_toán để tìm đường_đi ngắn nhất giúp người_dùng thuận_tiện trong quá_trình tìm_kiếm
+· mục_tiêu cụ_thể
+· thứ_nhất dùng react native để phát_triển app chợ xe chạy được trên cả nền_tảng android và ios
+· thứ_hai áp_dụng thuật_toán để giải_quyết bài_toán tìm đường_đi ngắn nhất hiển_thị vị_trí gần nhất và hiển_thị địa_điểm theo giá nhỏ nhất
+· thứ_ba xây_dựng ứng_dụng hoàn_thiện để đưa_vào thực_tế đối_tượng nghiên_cứu
+· đối_tượng nghiên_cứu
+· xe số_lượng xe_máy ô_tô …
+· con_người nhu_cầu sử_dụng xe_máy xe_ô_tô
+· kỹ_thuật
+· sử_dụng công_nghệ react native
+· nghiên_cứu thuật_toán để tìm đường_đi ngắn nhất và tìm giá xe nhỏ nhấtphạm vi nghiên_cứu
+· nghiên_cứu về react native
+· nghiên_cứu thuật_toán để giải_quyết bài_toán tìm đường_đi ngắn nhất hiển_thị các địa_điểm xe gần nhất trên google map và hiển_thị địa_điểm theo giá xenội dung nghiên cứuvề thời_gian
+đề_tài được thời_gian đến về không_gian
+đề_tài được thực_hiện tại trường đại_học nông_lâm tp hồ chí minh dưới sự_hướng_dẫn của ths phạm công thiện khoa công_nghệ thông_tin đại_học nông_lâm tp hồ chí minhvề nội_dung
+· nhu_cầu sử_dụng xe của mọi_người
+· tìm_hiểu thuật_toán tìm đường_đi ngắn nhất để giải_quyết vấn_đề tìm đường_đi từ_vị_trí cá_nhân đến các địa_điểm cho_thuê bán xe
+· phần_mềm chạy trên cả nền_tảng android và ios
+· xây_dựng và phát_triển ứng_dụng chạy chương_trình trong thời_gian dài để có lượng dữ liệucấu trúc kiến_thức cơ_bản gồm các thành_phần_sau
+· reactnative
+· phần giới_thiệu
+· phần tìm_hiểu về reactnative
+· firebase
+· phần giới_thiệu
+· phần tổng_quan các dịch_vụ mà firebase cung_cấp
+· phần nhóm công_cụ để develop và test app
+· phần kết_nối firebase với react native
+· ide hỗ_trợ việc viết code
+· genymotion
+· android studio code
+· visual studio code
+· xcodesản phẩm
+sau_khi hoàn_thành đề_tài sản_phẩm đề_tài bao_gồm
+ứng_dụng chợ xe chạy trên hai nền_tảng android và ios ứng_dụng này cho_phép người_dùng có_thể mua_bán xe bánh_xe bánh và các loại phương_tiện khác ở trên một mạng_lưới thị_trường ảo ở_đây người_dùng có hai chức_năng chính là đăng báncho thuê một phương_tiện nào_đó kèm_theo giá tiền và địa_chỉ thực_tế và muathuê lại phương_tiện đã được đăng_tải lên trước_đó ngoài_ra chức_năng khác cũng góp_phần làm_nên sự_khác_biệt của chợ xe đó là định_vị vị_trí báncho thuê xe với mỗi_người dùng có sỡ_hữu cho mình một phương_tiện giao_thông trở_lên đều có_thể trở_thành một cửa_hàng nhỏ để phục_vụ cho khách_hàng có nhu_cầu muathuê xe và nếu ứng_dụng này được thử_nghiệm đầu_tiên trên việt nam đồng_nghĩa với việc sẽ có rất nhiều cửa_hàng báncho thuê phương_tiện giao_thông trải khắp đất_nước việt nam thúc_đẩy được nhu_cầu du_lịch phượt mua xe với giá_rẻ của khách_hàng trong_nước_ngoài nước nói_riêng đồng_thời đây cũng là một loại_hình kinh_doanh mới có_thể kiếm theo thu_nhập mà_không bị rằng buộc thời_gian
+tập tài_liệu thuyết_minh ghi rõ thiết_kế cách hiện_thực các bước thử_nghiệm bộ_giải_pháp
+source code của giải_pháp source code chương_trình nguồn mở cho_phép tùy_biến và cải_tiến của chương_trình
+chương kiến_thức cơ_bản
+trước_khi bước_vào lập_trình một ứng_dụng sử_dụng framework react native bạn cần tìm_hiểu và nắm_vững kiến_thức của các khái_niệm dưới_đây
+tìm_hiểu về reactnative
+giới_thiệu về react native
+react native được phát_triển bởi facebook với mục đính ban_đầu là áp_dụng vào
+mạng xã_hội lớn nhất hành_tinh facebook do đặc_tính công_nghệ của mạng_xã
+hội facebook cần phải tạo_ra nền_tảng phát_triển ứng_dụng di_động đa nền_tảng có
+hiệu_năng không thua_kém so với ứng_dụng được phát_triển độc_lập cho từng nền
+tảng do_đó react native ra_đời
+react native là framework xây_dựng ứng_dụng di_động sử_dụng javascript do
+facebook phát_hành react native cho_phép người_dùng xây_dựng và phát_triển
+ứng_dụng trên cả_hai hệ_điều_hành android và ios chỉ cần ngôn_ngữ javascript
+duy_nhất
+react native chính_thức trở_thành mã nguồn mở vào tháng_năm cho_đến
+nay react native được áp_dụng trong nhiều ứng_dụng của ta và cả_nước_ngoài
+để tìm_hiểu về cách hoạt_động của reactnative chúng_ta sẽ đi đến hai khái_niệm
+ứng_dụng native và ứng_dụng hybird
+ứng_dụng hybrid
+là chương_trình phần_mềm trên điện_thoại di_động được viết dựa_trên nền
+tảng web html css javascript bản_chất hoàn_toàn là ứng_dụng web nhưng
+có thêm được các tính_năng thao_tác phần hệ_điều_hành như tập_tin truy_cập
+máy_ảnh gps hoặc các cảm_biến như con_quay hồi_chuyển gia_tốc kế…
+ứng_dụng hybrid viết một lần chạy được trên nhiều nên tảng tiết_kiệm được
+rất nhiều chi_phí
+nếu bạn là một web developer bạn có_thể sử_dụng các kỹ_năng
+htmlcssjsangularjs của mình để tạo_ra các ứng_dụng mobile mà không
+cần phải_biết java hay objectivec
+ứng_dụng native
+là những ứng_dụng được viết riêng cho một loại nền_tảng như ios android
+windows phone bằng các ngôn_ngữ tương_ứng của mỗi nền_tảng đó ví_dụ
+java trên android object c trên ios c trên winphone mỗi native app chỉ
+chạy được trên một nền_tảng và không_thể mang sang các nền_tảng khác ví
+dụ game cho ios sẽ không_thể chạy được trên các máy android đa_phần các
+game mobile hiện_nay là native app
+do là ngôn_ngữ trực_tiếp cũng_như không_phải thông_qua ứng_dụng nào_khác
+nên tốc_độ là nhanh nhất
+tốc_độ ở_đây bao_gồm tốc_độ hiển_thị độ mượt và tốc_độ xử_lý nếu để ý_kỹ
+bạn sẽ thấy các thao_tác của ứng_dụng native như chuyển trang điều hướng
+cuộn trang đều rất mượt với việc hơn_hẳn về tốc_độ xử_lý nên ứng_dụng
+hybrid khó có_thể làm_được ứng_dụng nặng đồ hoạ như game mặc_dù vẫn có
+thể làm_được nhưng không mượt_mà nên hầu_như hiếm ai dùng hybrid cho
+lập_trình game cho điện_thoại di_động ngoại_trừ một số game đơn_giản như
+xếp hình giải câu_đố …
+react native là hòa hợp điên_rồ giữa cả_hai
+react native giúp cho lập_trình viên web có_thể viết ứng_dụng native để khắc_phục các điểm_yếu của ứng_dụng web và hybrid chỉ với một lập_trình viên thành_thạo javascript bạn có_thể chiến_đấu trên mọi mặt_trận web desktop server và bây_giờ là mobile điều này không_những có lợi cho lập trình_viên web mà nó giúp cho các doanh_nghiệp phát_triển sản_phẩm đầu cuối với ít nhân_lực hơn
+khi xây_dựng react native điều tuyệt_vời là đã được tích_hợp tính_năng live
+reload – tương_tự tính_năng hot replacement module trong webpack tính
+năng live reload khác tính_năng reload trong_khi live reload chỉ_tải lại
+chức năngtập tin nào thay_đổi thì reload sẽ tải lại toàn_bộ mã nguồn_ngoài
+ra bạn cũng dễ_dàng debug javascript trong chrome và safari đối_với những
+lỗi thuộc native thì_phải cần đến xcode cho ios hoặc android studio cho
+android
+cách hoạt_động của react native
+ứng_dụng viết bằng react native được chia_làm phần phần viewhiển thị và phần xử_lý
+phần hiển_thị được biên_dịch từ javascript sẽ map với những component của hệ_thống ví_dụ điều hướng tab touch…phần view này được lấy cảm_hứng từ virtual dom của react js mọi xử_lý view được thực_hiện trên một cây dom ảo sau_đó được react native render lại bằng native viewreact native sử_dụng jsx làm cú_pháp chính jsx viết tắt của cụm từ javascript xml là một loại cú_pháp mở_rộng dành cho ngôn_ngữ javascript viết theo kiểu xml jsx cung_cấp cú_pháp ngọt syntactic sugar để thay_cho câu lệnh reactcreateelement trong react
+hãy xem một ví_dụ khai_báo một phần_tử sau_đây
+const element welcome to jsx
+đoạn mã trên sẽ tương_đương với
+reactcreateelementtextclassname examplewelcome to jsx
+mã lệnh viết bằng jsx sẽ được chuyển sang javascript để trình_duyệt có_thể hiểu được để hiểu_rõ hơn trang web này sẽ giúp bạn biên_dịch cú_pháp jsx sang javascript mà cụ_thể là estên chính_thức của javascript
+phần xử_lý vẫn được thực_hiện trực_tiếp bằng ngôn_ngữ javascript ví_dụ biểu_thức này được xử_lý dưới bộ core thực_thi javascript không_phải thông dịch qua java hay swiftobjectivec rồi mới làm_phép_tính
+khuyết_điểm của react native
+react native là một giải_pháp tuyệt_vời cho phát_triển ứng_dụng trên điện_thoại di_động tuy_nhiên đến thời_điểm hiện_tại vẫn còn tồn_tại một số khuyết_điểm
+vẫn còn thiếu các component view cho android map modal slider spinner hoặc các module như camera roll media pushnotificationios
+không hỗ_trợ window phone đây sẽ là điểm trừ lớn nếu so với ứng_dụng hybrid tuy_nhiên nếu bạn chỉ tập_trung cho ios và android thì tất_nhiên đây không_phải là vấn_đề lớn
+không build được ứng_dụng ios trên window và linux tất_nhiên đây không_phải là điểm_yếu_kém của bản_thân react native mà đó là do yêu_cầu từ apple
+react native không_thể build được ứng_dụng quá phức_tạp nếu bạn không_biết swiftobjecivec java – tính phức_tạp ở_đây là ứng_dụng của bạn cần phải chỉnh sửa các component bạn nên nhớ là để viết được ứng_dụng native bằng javascript luôn_luôn có sẵn các component đã được viết từ swiftobjectivec ios và java android với tính_chất trường_hợp bạn muốn chỉnh sửa component nào_đó thay_đổi thành_phần hoặc thêm api thì bạn phải tự viết bằng chính_ngôn_ngữ tương_ứng của ios hoặc android tin_vui cho bạn là cũng nhiều lập_trình viên khác đã viết nhiều component cần_thiết cho hầu_hết ứng_dụng đây cũng là lý_do vì_sao facebook biến react native thành mã nguồn mở
+không_nên dùng để viết game có tính đồ_họa và cách chơi phức_tạp
+dùng eses đây là cấu_trúc mới cho javascript từ vì khá là mới nên những cấu_trúc của nó có_thể bạn chưa quen dẫn tới việc khó_khăn trong việc tiếp_cận
+bạn có_thể phải mất nhiều thời_gian để theo hết hệ_sinh_thái của react tuy_nhiên tất_cả là để làm_cho đời lập_trình viên fullstack đẹp_đẽ và những sản_phẩm chất_lượng hơn bao_gồm react js react native flux relay graphql bạn không cần phải quan_tâm những thứ này chỉ để viết_ứng
+dụng với react native
+tìm_hiểu về reactnativethiết lập và đóng_gói
+react native là một framwork nơi reactjs là một thư_viện javascript bạn có_thể sử_dụng cho trang web của mình khi bạn bắt_đầu một dự_án mới với reactjs có_thể bạn sẽ chọn một đóng_gói bundler như webpack và cố_gắng tìm_ra những module cần_thiết nào bạn cần cho dự_án của bạn reactnative đi_kèm với tất_cả mọi thứ bạn cần và bạn rất có_thể sẽ không cần nhiều hơn_nữa khi bạn bắt_đầu một dự_án mới bạn sẽ nhận_thấy nó dễ_dàng như_thế_nào để thiết_lập nó rất nhanh và chỉ có bạn một dòng lệnh để chạy trong terminal và bạn sẽ sẵn_sàng để chạy code bạn có_thể bắt_đầu mã_hóa ứng_dụng native đầu_tiên của bạn ngay_lập_tức bằng cách sử_dụng es một_số tính_năng es và thậm_chí một_vài polyfills để chạy ứng_dụng của bạn bạn cần phải có xcode dành cho ios trên máy_mac hoặc android studio dành cho android được cài_đặt trên máy_tính của bạn bạn có_thể quyết_định chạy nó trên mô_phỏng trình mô_phỏng của nền_tảng mà bạn muốn sử_dụng hoặc trực_tiếp trên các thiết_bị của riêng bạn
+dom và styles
+reactnative không sử_dụng html để render app nhưng cung_cấp các component thay_thế hoạt_động theo cách tương_tự các component reactnative sẽmap các component ui ios hoặc android thực hữu_dụng thực_sự được render trên ứng_dụng hầu_hết các component được cung_cấp có_thể được biên_dịch sang một thứ tương_tự trong html ví_dụ như một thành_phần view tương_tự như thẻ div và một thành_phần text tương_tự như thẻ
+import react component from react
+import view text from reactnative
+export default class app extends component render return hello world!bởi vì mã của bạn không hiển_thị trong một trang html điều này cũng có_nghĩa là bạn sẽ không_thể sử_dụng lại bất_kỳ thư_viện nào trước_đây bạn đã sử_dụng với reactjs để hiển_thị bất_kỳ loại html svg hoặc canvas nào mặc_dù bạn có_thể tìm thấy các thư_viện thay_thế cho reactnative reactparts có một category native cho bạn để tìm thấy những gì bạn cần để tạo style cho các component reactnative bạn sẽ phải tạo các stylesheets bằng javascript nó trông tương_tự như css nhưng nó không chính_xác như_nhau điều này có_thể khá khó_hiểu lúc_đầu và bạn có_thể đạt được một điểm mà bạn tự hỏi làm_thế_nào bạn có_thể tạo mixins như bạn sẽ làm với sass hoặc làm_thế_nào bạn có_thể ghi đè_lên style của một component mà bạn muốn tái sử_dụng sau_đó bạn hiểu reactnative không_được tạo_ra từ các phần_tử web và không_thể được tạo kiểu theo cùng một_cách may thay bạn rất có_thể sẽ tìm thấy các giải_pháp thay_thế có sẵn để hoàn_thành những gì bạn cần
+const styles stylesheetcreatecontainer flex content backgroundcolor fffpadding button alignself centermargintop width animations và gesture
+tạm_biệt css animations! với reactnative bạn sẽ phải tìm_hiểu một_cách hoàn_toàn mới để làm động các component khác_nhau của ứng_dụng bằng javascript cách được đề_xuất để làm chuyển_động một component là sử_dụng api animated do reactnative cung_cấp bạn có_thể so_sánh nó với thư_viện javascript nổi_tiếng velocityjs nó cho_phép tạo_ra các loại_hình chuyển_động khác_nhau hẹn_giờ hoặc dựa_trên vận_tốc liên_quan đến một cử_chỉ và có_thể được sử_dụng với các loại easing khác_nhau nói_chung bạn có_thể thực_hiện khá nhiều bất_kỳ loại chuyển_động nào bạn sẽ làm trên web react native cũng cung_cấp layoutanimation mà thực_sự rất hay và đơn_giản để sử_dụng cho quá_trình transitions để tương_tác với cử_chỉ của người_dùng reactnative cung_cấp một thứ tương_tự như các sự_kiện liên_quan đến javascript web api gọi là panresponder bắt_đầu và chạy có_thể cảm_thấy khá khó nhưng bạn sẽ thấy cuối_cùng nó không phức_tạp panresponder cần phải được áp_dụng cho một view hoặc văn_bản hoặc hình_ảnh của component để_cho_phép trình xử_lý cảm_ứng trên view từ_đó panresponder cung_cấp danh_sách các chức_năng bạn có_thể sử_dụng để bắt các sự_kiện chạm khác_nhau chẳng_hạn như onpanrespondergrant touchstart onpanrespondermove touchmove hoặc onpanresponderrelease touchend các chức_năng này sẽ cho_phép bạn truy_cập vào các sự_kiện bản_địa và trạng_thái cử_chỉ với thông_tin như tất_cả các chạm và vị_trí của chúng cũng_như khoảng_cách tích_lũy vận_tốc và nguồn_gốc chạm  
+component
+để làm_quen với reactnative điều đầu_tiên chúng_ta cần biết đó là về component và hầu_hết tất_cả các tác_vụ liên_quan tới reactnative đều có sự_hiện_diện của component vậy component là_gì
+component được reactnative định_nghĩa đơn_giản là anything you see on the screen is some sort of component tất_cả mọi_thứ bạn thấy trên màn_hình ứng_dụng đều là một hay một phần của component
+hình là component class này cũng là component
+props
+props là viết tắt của properties một điều mà bạn cần phải nhớ khi sử_dụng props đó là không_bao_giờ nên thay_đổi giá_trị của nó hay_nói cách_khác đây là một dữ liệu immutable hoặc unchanged
+các component nhận props từ component cha bạn không_được thay_đổi giá_trị của props trong các component này mà chỉ được_phép đọc giá_trị ra thôi trong react thì dữ_liệu sẽ đi_theo một_chiều có_nghĩa là từ component cha các component con
+bạn có_thể tạo_ra component sử dụng props ý_tưởng của props đó là việc trừu_tượng hoá các component để có_thể sử_dụng được ở nhiều chỗ khác_nhau trong app hãy xem một ví_dụ đơn_giản sau
+hình cách thuôc tính props hoạt_động
+ta có lớp cha là class lotsofgreetings hay còn gọi_là component cha lớp con là class greeting hay còn gọi_là component con
+trong lớp cha ta khai_báo một props là name tra truyền_thông_số là ‘rexxar’ hay ‘jaina’ hay ‘valeera’
+thì khi ta gọi_lại lớp con và truyền vào đó một biến thispropsname thì tự_động nó sẽ nhận thông_số name từ lớp cha sang lớp_con
+state
+có kiểu dữ_liệu trong component prop và state prop là kiểu dữ_liệu được đặt bởi component cha và được cố_định trong_suốt vòng_đời của một component đối_với kiểu dữ_liệu được thay_đổi liên_tục hoặc có_thể thay_đổi trong tương lại ta dùng state
+state thì hoạt_động khác với props state là dữ liệu nội_bộ của một component chính vì_vậy chúng_ta hoàn_toàn có_thể thay đổi state và coi nó là một kiểu_dữ liệu mutable và sữ_dụng hàm setstate để cập_nhật giá_trị
+sở_dĩ chúng_ta cần_dùng hàm này là do nó sẽ kích_hoạt việc render lại component và tất_cả component con nằm_trong nó
+vậy thì khi_nào nên sử dụng state bất_cứ khi_nào dữ_liệu trong một component có_thể thay_đổi bởi chính nó
+người_dùng tương_tác với component là một ví_dụ về cách mà state hoạt động ấn vào một button checkbox thêm text vào form là những trường_hợp mà chúng_ta có_thể sử dụng state
+hình sau_đó tạo component appblink để đưa component vào sử_dụng
+hình sau_đó tạo component appblink để đưa component vào sử_dụng
+đoạn text sẽ nhấp_nháy liên_tục trên màn_hình khi kiểu dữ_liệu state của component thay_đổi từ true sang false và lập_lại liên_tục
+hình dòng chữ nhấp_nháy liên_tục trên màn_hình
+chuyển_đổi qua_lại giữa các component
+hình khi bạn muốn click để chuyển sang màn_hình mới
+công_cụ chuyển_đổi mình muốn giới_thiệu là reactnavigation công_cụ này có cách sử_dụng không thân_thiện với các web dev nhưng nó là công_cụ phổ_biến nhất trong cộng đồng reactnative đồng_thời cũng đạt nhiều sao hơn trên github và công_cụ này được th
+iết kế dành_riêng cho reactnative
+tất_nhiên như mình đã kiểm_nghiệm thì cả công_cụ này đều hoạt_động tốt trên cả android và ios
+bước_đầu_tiên vẫn là cài_đặt thư_viện
+npm install reactnavigation
+import công_cụ cần_thiết và navigate
+import createstacknavigator from reactnavigation
+export default createstacknavigator
+home
+screen home
+profile
+screen profile
+phía trên là bước khai_báo việc hiển_thị hiểu đơn_giản là ta sẽ điều hướng dựa vào key thay vì url như phía web key home sẽ tương_ứng với component home
+khi được khai_báo với createstacknavigator các components thành_phần home và profile sẽ có thêm props navigation là công_cụ giúp điều_hướng
+việc điều hướng cũng sẽ được thực_hiện dựa theo key
+class home extends reactcomponent
+render
+return
+hello! this is home!thispropsnavigationnavigateprofile
+truyền params
+thispropsnavigationnavigateprofile
+id
+user me
+tại thư_mục profile ta nhận params bằng hàm sau
+thispropsnavigationgetparamme defaultvalue
+redux redux là một thư_viện javascript giúp tạo_thành một lớp quản_lý trạng_thái của ứng_dụng
+redux được xây_dựng dựa_trên nền_tảng tư_tưởng của ngôn_ngữ elm và kiến_trúc flux do facebook giới thiệudo vậy redux thường là bộ đôi kết_hợp hoàn_hảo với react native
+trước_tiên ta phải_biết phiên làm_việc của react native nếu không_dùng redux
+hình cách_thức hoạt_động giữa các component
+ta ví_dụ component a là màn_hình chính của điện_thoại và màn_hình a có đó là b và b
+nếu ta lần_lượt click từng đó thì ta sẽ ra được component bcd bcd
+trường_hợp ở component d ta có một thay_đổi thuộc_tính màu background của component d thành màu vàng thì theo quy_trình lệnh thay_đổi màu và dữ_liệu màu vàng sẽ được đưa từ
+d c b a b c d
+đó là một quy_trình rất dài! coder phải gõ từng dòng lệnh trong từng component b abc để có_thể chuyển màu của component d
+trong trường_hợp c bị cắt hoặc giữa c và d có thêm component e hoặc có sự_thay_đổi lớn giữa d và d thì lập_trình viên phải sửa lại toàn_bộ các dòng code! nếu là một ứng_dụng có dữ_liệu dày đặt như facebook và youtube thì điều này là hoàn_toàn bất_khả thi!
+đó là lý_do redux ra_đời
+hình cách_thức hoạt_động của redux
+redux sử_dụng store làm kho_chứa trung_gian cho các hành_động và dữ_liệu được nhận từ một component và trả về cho các component khác có kết_nối tới store với cách_thức hoạt_động khá gọn_gàng và thao_tác không_hề phức_tạp đến codes redux ghi điểm lớn trong_mắt lập trình_viên và trở_thành một phần không_thể thay_thế của react native
+cấu_trúc và nguyên_lí hoạt_động của redux
+hình nguyên_lý hoạt_động của redux
+redux được xây_dựng dựa_trên nguyên_lý
+· action được tạo_ra nếu_có bất_cứ trạng_thái nào của app hay_là render của một view được thay_đổi và action này là một mệnh_lệnh mang dữ_liệu mới của trạng_thái cần được thay_đổi
+actionkey new value
+· store nơi lưu_dữ toàn_bộ trạng_thái cũ key old value store đảm_nhiệm nhiệm_vụ nhận các action và chuyển action này cho reducer xác_nhận và sửa_đổi
+· reducer kiểm_tra xem action đã nhận có mã_số key có trùng với key đang có hiện_tại hay không nếu_có thì value của key đó sẽ được thay_đổi như action truyền vào key old valuekeynew value và trả trạng_thái mới này về cho store store sẽ trả kết_quả mới cho view
+· view nhận kết_quả của store trả về và cập_nhật lại kết_quả mới ra màn_hình
+publishing
+nếu bạn phát_triển một ứng_dụng cho cả ios và android bạn sẽ cần phải tìm_hiểu cách xcode và android studio hoạt_động để đảm_bảo mọi_thứ được thiết_lập đúng cách trước_khi triển_khai ứng_dụng đầu_tiên trên app store hoặc google play đối_với ios nó hoạt_động giống như bạn sẽ triển_khai một ứng_dụng native thông_thường mặc_dù đối_với android bạn cần thực_hiện theo khuyến_nghị phản_ứng để đăng nhập apk của bạn trước_khi tải nó lên google play
+tìm_hiểu về visual studio code
+visual studio code là_gì
+hình trình biên_tập visual studio code
+visual studio code là một trình biên tập mã được phát_triển bởi microsoft dành cho windows linux và macos nó hỗ_trợ chức_năng debug đi_kèm với git có syntax highlighting tự hoàn_thành mã thông mình snippets và cải tiến mã nguồn nó cũng cho_phép tùy_chỉnh do_đó người_dùng có_thể thay_đổi theme phím tắt và cá tùy chọn khác nó miễn_phí và là phần mềm mã_nguồn mở mặc dù gói_tải xuống chính thì là có giấy_phép
+visual studio code được dựa trên electron một nền_tảng được sử_dụng để triển_khai các ứng dụng nodejs máy tính cá_nhân chạy trên động_cơ bố_trí blink mặc_dù nó sử_dụng nền_tảng electron nhưng phần_mềm này không_phải là một bản khác của atom nó thực_ra được dựa_trên trình biên_tập của visual studio online tên mã là monaco
+trong cuộc khảo_sát vào năm trên stack overflow visual studio code được xếp_hạng là trình biên_tập mã phổ_biến nhất với của người trả_lời tuyên_bố sử_dụng nó
+chức_năng của visual studio code
+visual studio code là một trình biên_tập mã nó hỗ_trợ nhiều ngôn_ngữ và chức_năng tùy vào ngôn_ngữ sử_dụng theo_như trong bảng sau nhiều chức_năng của visual studio code không hiển_thị ra trong các menu tùy_chọn hay giao_diện người_dùng thay vào đó chúng được gọi thông_qua khung nhập lệnh hoặc qua một tập tin json ví dụ như tập_tin tùy_chỉnh của người_dùng khung nhập lệnh là một giao_diện theo dòng lệnh tuy_nhiên nó biến_mất khi người_dùng nhấp bất_cứ nơi nào khác hoặc nhấn tổ_hợp phím để tương_tác với một cái_gì đó ở bên_ngoài đó tương_tự như_vậy với những dòng lệnh tốn nhiều thời_gian để xử_lý khi thực_hiện những điều trên thì quá_trình xử_lý dòng lệnh đó sẽ bị hủytìm hiểu về android studio
+react native là ngôn_ngữ hai nền_tảng cho_nên đối_với nền_tảng android bạn cần sử_dụng android studio để thiết_lập thư_viện cũng_như hỗ_trợ máy ảo về phía android
+có nhiều công_cụ để phát_triển android nhưng đến nay công_cụ chính_thức và mạnh_mẽ nhất_là android studio đây là một phầm mềm bao_gồm các bộ công_cụ khác_nhau dùng để phát_triển ứng_dụng chạy trên thiết_bị sử_dụng hệ_điều_hành android như các loại điện_thoại smartphone các tablet android studio được đóng_gói với một bộ code editor debugger các công_cụ performance tool và một hệ_thống builddeploy trong_đó có trình_giả lập simulator để giả lập môi_trường của thiết_bị điện_thoại hoặc tablet trên máy_tính cho_phép các lập_trình viên có_thể nhanh_chóng phát_triển các ứng_dụng từ_đơn giản tới phức_tạp
+tìm_hiểu về xcodereact native là ngôn_ngữ hai nền_tảng cho_nên đối_với nền_tảng ios bạn cần sử_dụng xcode để thiết_lập thư_viện cũng_như hỗ_trợ máy ảo về phía android
+xcode là một ide dành_riêng cho việc phát_triển phần mêm trên môi_trường mac và cả ios đây là một ứng_dụng hoàn_toàn miễn_phí của apple nhằm hỗ_trợ cho các lập_trình viên có_thể phát_triển các ứng_dụng và game dành cho hệ_sinh_thái của apple tuy_nhiên muốn đưa ứng dụnggame của bạn lên bán trên appstore thì bạn cần trả phí năm
+xcode được phát_hành miễn_phí và cập_nhật phiên_bản mới nhất trên store của mac nếu bạn có một máy_mac thì cứ tự_nhiên lên download về không mất xu nào lại còn nhanh_chóng gọn_gàng chưa_từng thấy
+cho tới tháng xcode đã được phát_triển tới phiên_bản mang nhiều tính_năng mới_mẻ và phù_hợp với ios
+nó sẽ hỗ trợgiao diện kéo thả mạnh mẽhỗ trợ giao_diện kéo thả các trình điều_khiển như các nhãn label textbox để lập_trình dễ_dàng hơntừ xcode trở_lên storyboard giúp cho việc liên_thông và lập_trình giữa các viewcontroller dễ_dàng hơn bao_giờ hết những ông_cụ vào từ lúc appstore mới mở cửa thì không thích điều này nói_chung là cái level của mấy thằng_cha đó khác mìnhhỗ trợ việc lập trìnhchỉnh lại cấu_trúc của hàm phù hợpgiúp viết code nhanh hơn bằng phím tắtquản lý các dự_án thông_qua manager và các svn githubhỗ trợ kiểm thửgiả lập máy để em có_thể kiểm_tra tính_năng của chương trìnhtheo dõi và kiểm_tra bộ_nhớ cho_phép chương_trình chạytạo ra các bot chương_trình tự_động cho_phép kiểm_tra tính ổn_định của chương trìnhkết nối với applehỗ trợ đưa chương_trình lên appstore để bánhỗ trợ các tài liệukết luận
+– xcode là công_cụ số một dành cho việc phát_triển ứng_dụng và game cho mac os x và ios dĩ_nhiên có một_vài công_cụ khác cũng cho_phép bạn phát_triển ứng_dụng và game cho mac os x và ios nhưng không_thể bằng xcode công_cụ chính_thức của apple
+– vừa miễn_phí lại mạnh_mẽ đây luôn là lựa_chọn hàng_đầu của các lập_trình viên ios
+tìm_hiểu về genymotion
+genymotion là_gì
+genymotion thực_chất sử_dụng virtualbox để tạo_ra các máy ảo tuy_nhiên nó sẽ giúp chúng_ta đơn_giản được nhiều bước thiết_lập genymotion được viết nên chủ_yếu để các lập_trình viên kiểm_tra phần_mềm của mình trước_khi đưa google play nhưng chúng_ta hoàn_toàn có_thể dùng nó cho nhu_cầu chạy app thông_thường cũng_được
+genymotion là máy ảo tuyệt_vời nhất giúp các bạn lập_trình android theo đánh_giá của các giới lập trình_viên thì genymotion là một máy ảo chạy nhanh rất nhiều so với android emulator và giúp tiết_kiệm thời_gian test khi chạy ứng_dụng khi bạn lập_trình android
+hình genymotion
+sự_kiết hợp của bộ_ba react native visual studio code genymotion đang được ưa_chuộng nhất hiện_nay nếu bạn đang lập_trình một ứng_dụng react native
+hình máy ảo genymotion visual studio code
+tìm_hiểu về firebase
+firebase là_gì
+firebase một nền_tảng đám_mây với rất nhiều tính_năng nổi_bật cho các lập_trình viên mobile với firebase bạn có_thể rút_ngắn thời_gian phát_triển triển_khai và thời_gian mở_rộng quy_mô của ứng_dụng mobile mình đang phát_triển hỗ_trợ cả nền_tảng android và ios firebase mạnh_mẽ đa_năng bảo_mật và là dịch_vụ cần_thiết đầu_tiên để xây dưng ứng_dụng với hàng triệu người sử_dụng sử_dụng firebase bạn sẽ có_được hưởng các lợi_ích sau
+xây_dựng ứng_dụng nhanh_chóng mà không tốn thời_gian nhân_lực để quản_lý hệ_thống và cơ sơ sở hạ_tầng phía sau firebase cung_cấp cho bạn chức_năng như phân_tích cơ_sở_dữ_liệu báo_cáo hoạt_động và báo_cáo các sự_cố lỗi để bạn có_thể dễ_dàng phát_triển định_hướng ứng_dụng của mình vào người_sử_dụng nhằm đem_lại các trải nghiệm tốt nhất cho họ
+uy_tín chất_lượng đảm_bảo từ google firebase được google hỗ_trợ và cung_cấp trên nền_tảng phần_cứng với quy_mô rộng_khắp thế_giới được các tập_đoàn lớn và các ưng_dụng với triệu lượt sử_dụng từ người_dùng
+quản_lý cấu hình và trải nghiệm các ứng_dụng của firebase tập_trung trong một giao_diện website đơn_giản các ứng_dụng này hoạt_động độc_lập nhưng liên_kết dữ_liệu phân_tích chặt_chẽ
+tổng_quan các dịch_vụ mà firebase cung_cấp
+firebase cung_cấp cho chúng_ta nhóm sản_phẩm chính tập_trung vào đối_tượng là
+develop test your app phát_triển và kiểm thử các ứng_dụng được thiết_kế
+grow engage your audience phân_tích dữ_liệu và tối_ưu_hóa trải_nghiệm đối_với người_dùng
+nhóm công_cụ để develop test app
+· realtime database lưu_trữ và đồng_bộ dữ_liệu người_dùng thời_gian thực các ứng_dụng hỗ_trợ tính_năng này có_thể lưu_trữ và lấy_dữ_liệu từ máy chủ trong tích_tắc các dữ_liệu được lưu_trữ trong hệ_thống cơ_sở_dữ_liệu hỗ_trợ nosql và được đặt trên nền_tảng máy chủ cloud dữ_liệu được ghi và đọc với thời_gian thấp nhất tính bằng mili giây nền_tảng này hỗ_trợ đồng_bộ_hóa_dữ_liệu của người_dùng kể_cả khi không có kết_nối mạng tạo_nên trải nghiệm xuyên_suốt bất_chấp tình_trạng kết_nối internet của người sử dụng reatime database của firebase hổ trợ android ios web c unity và cả xamarin
+hình giới_thiệu firebase
+· dữ liệu được lưu_trữ ở định dạng json về_cơ_bản thì toàn_bộ dữ_liệu là một json tree lớn cùng với nhiều điểm node nên khi chúng_ta xây_dựng dữ_liệu chúng_ta cần chuẩn_bị một cấu_trúc json để dễ_dàng cho việc truy_cập tránh việc các node con bị lồng_nhau
+hình csdl được lưu_trữ dưới dạng json dễ_đọc và dễ_hiểu
+· dữ liệu offline firebase cung_cấp sự_hỗ_trợ tuyệt_vời khi nói_đến dữ_liệu offline nó tự_động lưu_trữ offline khi không có kết_nối internet tuy_nhiên nó sẽ cho_phép lưu_trữ vào ổ_đĩa persistence khi data offline thậm_chí khi ứng_dụng restart ổ_đĩa persistence có_thể gọi đến bởi dòng code ở phía_dưới
+firebasedatabasegetinstancesetpersistenceenabledtrue
+· thực_hiện các thao_tác crudcreate read update delete
+· tính bảo_mật và quy_định
+· authentication quản lý người_dùng một_cách đơn_giản và an toàn firebase auth cung_cấp nhiều phương_pháp để xác_thực bao_gồm email và mật_khẩu các nhà_cung_cấp bên thứ_ba như google hay facebook và sử_dụng trực_tiếp hệ_thống tài_khoản hiện_tại của bạn xây dựng giao_diện của riêng bạn hoặc tận_dụng lợi_thế của mã nguồn mở giao_diện người_dùng tùy_biến hoàn_toàn
+chung_quy lại authentication trong firebase thường được sữ_dụng để làm chức_năng đăng kí đăng nhập bằng nhiều ứng_dụng như facebook twitter google và lưu_trữ các tài_khoản của người_dùng
+hình giới_thiệu về firebase authentication
+· cloud messaging gửi tin_nhắn và thông_báo cho người_dùng qua các nền_tảng android ios và web  một_cách miễn phí bạn có_thể gửi tin_nhắn đến các thiết_bị nhóm thiết_bị hoặc các chủ_đề hoặc phân_đoạn người_dùng cụ thể nhắn tin đám_mây firebase fcm thậm_chí là các ứng_dụng lớn nhất cung_cấp hàng trăm tỷ thư mỗi ngày
+hình giới_thiệu về firebase messaging
+· cloud storage lưu trữ và chia_sẻ nội_dung do người_dùng tạo_ra như hình_ảnh âm_thanh và video với bộ_nhớ đối_tượng mạnh_mẽ đơn_giản và tiết_kiệm chi_phí được xây_dựng cho quy_mô của google các firebase sdk cho cloud storage thêm tính_năng bảo_mật của google để tải lên và tải tệp cho các ứng_dụng firebase của bạn bất_kể chất_lượng mạng
+hình giới_thiệu firebase storage
+· firebase notification là một dịch_vụ miễn_phí của firebase mà bạn có_thể dùng nó để push notifications đến các thiết_bị di_động của người_dùng một_cách nhanh_chóng
+firebase notification được xây_dựng trên firebase cloud messaging và fcm sdk cung_cấp một lựa_chọn cho các lập_trình viên hay nhóm phát_triển đang tìm_kiếm một nền_tảng gửi notification linh_hoạt nhưng lại tối_thiểu_hóa công_đoạn nghiên_cứu và phát_triển
+nền_tảng fcm còn cung_cấp một giao_diện điều_khiển trực_quan mạnh_mẽ nơi mà bạn có_thể cấu hình push notification mà_không cần có một server nào_khác
+notifications tích_hợp chặt_chẽ với firebase analytics cho_phép bạn hướng notifications đến một bộ_phận người_dùng theo những tiêu_chí nào_đó hơn_thế nữa bạn có_thể hướng notifications đến một nhóm người_dùng định trước theo ứng_dụng phiên_bản hay ngôn_ngữ mà họ sử_dụng và cuối_cùng bạn có_thể hướng notification đến chính_xác một người_dùng nào_đó mà bạn muốn
+hình giới_thiệu firebase notifications
+kết_nối firebase với reactnative
+việt kết_nối firebase với reactnative rất đơn_giản giống như ta import một bộ thư_viện mới cho ngôn_ngữ của mình!
+hình vào file chứa project về react native đang làm
+bước_vào file có chứa project chọn file tìm administrator windows powershell
+hình chọn file tìm administrator windows powershell
+bước_gõ npm install firebase và chờ react native tự_động tải firebase về
+hình gõ npm install firebase
+bước sau_đó vào trang web firebasegooglecom chọn addfirebase to your web app sau_khi tạo một tài_khoản firebase
+hình chọn addfirebase to your web app
+bước coppy dòng trên vào project tạo một tệp tin js mang tên firebaseconfigjs
+hình coppy dòng code trên
+bước paste vào firebaseconfigjs chỉnh sửa lại để phù_hợp với ngôn_ngữ reactnative như_vậy ta đã hoàn_thành việc cài_đặt firebase cho react native
+hình tạo một fire firebaseconfigjs và paste vào firebaseconfigjs
+bước_khi sửa dụng ta chỉ cần_dùng dòng lệnh import tên firebase from ‘đường dẫn’
+hình import tên firebase from ‘đường dẫn’ vào các component cần sử_dụng firebase
+chương phân_tích và thiết_kế ứng_dụng chợ xe
+trong chương này chúng_tôi sẽ trình_bày chi_tiết các vấn_đề của ứng_dụng thông_qua những tài_liệu phân_tích và thiết_kế sau_đó chúng_tôi sẽ trình_bày thêm một số vấn_đề gặp_phải về mặt kĩ thuật khi thực_hiện đề_tài này và các giải_pháp để giải_quyết vấn_đề
+mô_tả các yêu_cầu về chức_năng của ứng_dụng
+ứng_dụng của đề_tài gồm môđun
+· môđun dành cho người_dùng báncho thuê xe chạy trên hai nền_tảng thiết_bị android và ios giúp người_dùng đăng_tin bán hoặc cho_thuê phương_tiện giao_thông của mình
+· môđun dành cho người muathuê xechạy trên hai nền_tảng thiết_bị android và ios thực_hiện chức_năng chính là giúp người_dùng gọi_điện và nhắn_tin với chủ_nhân của phương_tiện giao_thông mình yêu_thích cùng với một số chức_năng khác
+hệ_thống này phải thực_hiện được các chức_năng sau
+· đối_với người_dùng báncho thuê xe
+· cho_phép người_dùng được đăng_tải thông_tin của chiếc xe bao_gồm loại xe hãng xe tên xe dòng xe màu_sắc phân_khối vv
+· cho_phép người_dùng được đăng kèm_theo ảnh của xe
+· cho_phép chỉnh sửa thông_tin cá_nhân của người_dùng
+· cho_phép quản_lý sản_phẩm đã được đăng
+· cho_phép quản_lý lịch_sử của sản_phẩm
+· đối_với người_dùng muathuê xe
+· cho_phép người_dùng được tìm_kiếm xe
+· cho_phép người_dùng yêu_thích xe
+· cho_phép người_dùng nhắn_tin gọi_điện cho chủ rao bán
+· cho_phép chỉnh sửa thông_tin cá_nhân của người_dùng
+· cho_phép quản_lý sản_phẩm đã yêu_thích đã mua đã thuê
+· cho_phép người_dùng tìm_kiếm xe trên google map được tích_hợp
+sơ lượt về usecase và actor
+user người_dùng
+manager quản_lý
+chức_năng của người_dùng
+· đăng_ký
+· đăng_nhập
+· đăng_xuất
+· quên mật_khẩu
+· xem và chỉnh sửa thông_tin tài_khoản
+· xem thông_tin chi_tiết sản_phẩm
+· yêu_thích
+· gọi_điện
+· nhắn tin
+· xóa sản_phẩm
+· hiển_thị trang cá_nhân
+· tìm_kiếm
+· chỉ_đường
+· quản_lý bài_đăng
+· đăng_tin chọn ảnh
+· set trạng_thái của sản_phẩm đang kiểm_duyệt
+· online messengerđang kiểm_duyệt
+chức_năng của quản_lí
+bảng bảng tên và tên viết tắt use case trong hệ thốngtên user casetên viết tắc của usecaseđăng kýuc dangkyđăng nhậpuc dangnhapđăng xuấtuc dangxuatquên mật khẩuuc quenmatkhauxem và chỉnh sửa thông_tin cá nhânuc chinhsuaxóauc xyêu thíchuc yeuthichgọi điệnuc goidiennhắn tinuc nhantinhiển thị trang cá nhânuc profile usertìm kiếmuc timkiemchỉ đườnguc chiduongđăng tinuc dangtinset trạng_thái sản phẩmuc trangthaiquản lí bài đănguc quanlichi tiết sản phẩmuc chitietsản phẩm ngày hôm nayuc sphomnayquản lý_hình ảnhuc quanlyhinhanhquản lý_tài khoảnuc quanlytaikhoanquản lý databaseuc quanlydatabase
+mô_hình usecase của người_dùng
+hình usecase người_dùng
+đăng kýusercaseđăng kýký hiệuuc dangkyactorngười dùngpreconditionspostconditionssau khi hoàn_tất người_dùng sẽ có tải khoản để sử_dụng ứng dụngmô tảusercase cho_phép người_dùng nhập thông_tin cần_thiết để_cho việc tạo tài_khoản người_dùng
+bảng đăng_ký
+đăng nhậpusercaseđăng nhậpký hiệuuc dangnhapactorngười dùngpreconditionsđã có tải khoản trong hệ thốngpostconditionssau khi hoàn_tất người_dùng được_quyền truy_cập vào ứng_dụng để xem bảng tin và sử_dụng các chức_năng khácmô tảusercase này cho_phép người_dùng đăng nhập_vào ứng_dụng
+bảng đăng_nhập
+đăng xuấtusercaseđăng xuấtký hiệuuc dangxuatactorngười dùngpreconditionsngười dùng đã đăng nhập_vào hệ thốngpostconditionssau khi hoàn_tất người_dùng sẽ thoát_khỏi ứng_dụng trở_về màn_hình đăng nhậpmô tảusercase này cho_phép người_dùng đăng xuất khỏi ứng_dụng
+bảng đăng_xuất
+quên mật khẩuusercasequên mật khẩuký hiệuuc quenmatkhauactorngười dùngpreconditionsngười dùng đã đăng nhập_vào hệ thốngpostconditionsngười dùng sẽ có_thể lấy_lại mật_khẩu trong trường_hợp quên mật khẩumô tảngười dùng sẽ có_thể lấy_lại mật_khẩu trong trường_hợp quên mật_khẩu
+bảng quên mật_khẩu
+chỉnh sửa thông_tin cá nhânusercasechỉnh sửa thông_tin cá nhânký hiệuuc chinhsuaactorngười dùngpreconditionsngười dùng đã đăng nhập_vào hệ thốngpostconditionsngười dùng sẽ có_thể chỉnh sửa trang và thay_đổi thông_tin cá nhân mô tảusercase này cho_phép người_dùng xem và chỉnh sửa thông_tin cá_nhân bao_gồm họ tên ngày tháng năm_sinh số điện_thoại ảnh đại_diện và một_số thuộc_tính khác nếu_có cập_nhật
+bảng chỉnh sửa thông_tin cá_nhân
+yêu thíchusercaseyêu thíchký hiệuuc yeuthichactorngười dùngpreconditionsngười dùng đã đăng nhập_vào hệ thốngpostconditionsngười dùng có_thể yêu_thích tin rao trong danh_sách xe được hiển_thị ra màn hìnhmô tảusercase này cho_phép người_dùng yêu_thích một bài đăng và lưu bài đăng_đó vào rỗ hàng yêu_thích
+bảng yêu_thích
+gọi điệnusercasegọi điệnký hiệuuc goidienactorngười dùngpreconditionsngười dùng đã đăng nhập_vào hệ thốngpostconditionshiển thị số điện_thoại của người_bán trong ứng_dụng điện_thoại của máymô tảusercase này cho_phép người_dùng lấy_được số điện_thoại của người_bán và truy_cập vào ứng_dụng điện_thoại có trong máy người_dùng kèm_theo số điện_thoại đã được dán_sẵn
+bảng gọi_điện
+nhắn tinusercasenhắn tinký hiệuuc nhantinactorngười dùngpreconditionsngười dùng đã đăng nhập_vào hệ thốngpostconditionsngười dùng sẽ có_thể nhắn_tin cho người_bán mô tảusercase này cho_phép người_dùng lấy_được số điện_thoại của người_bán và truy_cập vào ứng_dụng tin_nhắn có trong máy người_dùng kèm_theo số điện_thoại đã được dán sẵn trong mục gửi tới
+bảng_nhắn_tin
+hiển_thị trang cá nhânusercaseyêu thíchký hiệuuc giohangactorngười dùngpreconditionsngười dùng đã đăng nhập_vào hệ thốngpostconditionsngười dùng có_thể kiểm_tra giỏ hàng đã có bao_nhiêu xe yêu thíchmô tảusercase này cho_phép người_dùng kiểm_tra lại hoặc xóa các sản_phẩm họ đã yêu_thích trong giỏ_hàng
+bảng hiên thị trang cá_nhân
+tìm kiếmusercasetìm kiếmký hiệuuc timkiemactorngười dùngpreconditionsngười dùng đã đăng nhập_vào hệ thốngpostconditionsgõ chữ để tìm_kiếm sản phẩmmô tảusercase này cho_phép người_dùng thấy được danh_sách sản_phẩm sau_khi gõ tìm_kiếm
+bảng tìm_kiếm
+chỉ đườngusercasechỉ đườngký hiệuuc chiduongactorngười dùngpreconditionsngười dùng đã đăng nhập_vào hệ thốngpostconditionsngười dùng sẽ có_thể tìm vị_trí giữa mình và địa_chỉ bán sản phẩmmô tảusercase này cho_phép người_dùng có_được vị_trí của người_bán và tự_động chỉ_đường từ_vị_trí của mình đến vị_trí_đó
+bảng chỉ_đường
+mapusercasemapký hiệuuc mapactorngười dùngpreconditionsngười dùng đã đăng nhập_vào hệ thốngpostconditionsngười dùng sẽ có_thể mở_màn hình bản_đồ mô tảusercase này cho_phép người_dùng mở sang màn_hình bản_đồ và search hai vị_trí khác_nhau
+bảng_map
+đăng tinusercasemapký hiệuuc mapactorngười dùngpreconditionsngười dùng đã đăng nhập_vào hệ thốngpostconditionsngười dùng sẽ có_thể tìm vị_trí giữa mình và địa_chỉ bán sản phẩmmô tảusercase này cho_phép người_dùng có_được vị_trí của người_bán và tự_động chỉ_đường từ_vị_trí của mình đến vị_trí_đó
+bảng đăng_tin
+set trạng_thái sản phẩmusercaseset trạng_thái sản phẩmký hiệuuc trangthaiactorngười dùngpreconditionsngười dùng đã đăng nhập_vào hệ thốngpostconditionsngười dùng sẽ có_thể chỉnh sửa được trạng_thái của sản_phẩm đã báncho thuêmô tảusercase này cho_phép người_dùng chỉnh sửa được trạng_thái của sản_phẩm từ đang bán thành đã bán hoặc đang cho_thuê thành đã cho_thuê
+bảng set trạng_thái sản_phẩm
+quản_lí bài đăngusercasequản líký hiệuuc quanliactorngười dùngpreconditionsngười dùng đã đăng nhập_vào hệ thốngpostconditionsngười dùng sẽ có_thể quản lí được danh_sách các bài đã đăngmô tảusercase này cho_phép người_dùng có_thể them bài đăng mới hoặc sửa xóa bài đăng xem lịch_sử bài_đăng
+bảng quản_lí bài_đăng
+chi_tiết sản phẩmusercasechi tiết sản phẩmký hiệuuc chitietactorngười dùngpreconditionsngười dùng đã đăng nhập_vào hệ thốngpostconditionsngười dùng có_thể xem chi_tiết thông_tin của một sản phẩmmô tảusercase cho_phép người_dùng nhập xem thông_tin của sản_phẩm đồng_thời có lựa_chọn gọi nhắn_tin chỉ đường phía_dưới cùng
+bảng chi_tiết sản_phẩm
+sản_phẩm hôm nayusercasesản phẩm hôm nayký hiệuuc dangkyactorngười dùngpreconditionsngười dùng đã đăng nhập_vào hệ thốngpostconditionshiển thị các sản_phẩm của ngày hôm naymô tảusercase cho_phép người_dùng xem được các sản_phẩm mới đăng ngày ho
+bảng sản_phẩm hôm_nay
+mô_hình usecase của quản_lý
+hình usecase của quản_lý
+đăng nhậpusercaseđăng kýký hiệuuc dangnhapactorngười dùngpreconditionsngười dùng phải đăng_ký tài_khoản trước đópostconditionssau khi hoàn_tất người_dùng sẽ có tải khoản để sử_dụng ứng dụngmô tảusercase cho_phép người_dùng nhập thông_tin cần_thiết để_cho việc tạo tài_khoản người_dùng
+bảng đăng_nhập
+quản_lý_tài khoảnusercaseđăng kýký hiệuuc quanlytaikhoanactorngười dùngpreconditionsngười dùng phải đăng nhập trước đópostconditionssau khi hoàn_tất người_dùng sẽ có_thể quản_lý được số_lượng account có trong ứng_dụng của mìnhmô tảusercase cho_phép người_dùng thêm hoặc xóa_đi account trong danh_sách account có trong ứng_dụng của mình
+bảng quản_lý tài_khoản
+quản_lý databaseusercaseđăng kýký hiệuuc quanlydatabaseactorngười dùngpreconditionsngười dùng phải đăng nhập trước đópostconditionssau khi hoàn_tất người_dùng sẽ có_thể quản_lý được số_lượng sản_phẩm đã đăng của accountmô tảusercase cho_phép người_dùng thêm hoặc xóa sản_phẩm của một account bất_kì
+bảng quản_lý database
+quản_lý hình ảnhusercaseđăng kýký hiệuuc quanlyhinhanhactorngười dùngpreconditionsngười dùng phải đăng nhập trước đópostconditionssau khi hoàn_tất người_dùng sẽ có_thể quản_lý được số_lượng hình_ảnh sử_dụng trong ứng dụngmô tảusercase cho_phép người_dùng thêm hoặc xóa hình_ảnh được sử_dụng trong ứng_dụng
+bảng quản_lý hình_ảnh
+lượt_đồ tuần_tự sequence diagram
+đăng_ký
+hình sequence cách_thức đăng_kí
+đăng_nhập
+hình sequence cách_thức đăng_nhập
+đăng_xuất
+hình sequence cách_thức đăng_xuất
+quên mật_khẩu
+hình sequence cách_thức quên mật_khẩu
+yêu_thích
+hình sequence cách_thức yêu_thích bài_đăng
+đăng tincho thuê
+hình sequence cách_thức đăng_tin cho_thuê
+đăng tinbán
+hình sequence cách_thức đăng_tin bán
+nhắn tin
+hình sequence cách_thức nhắn_tin tới người_đăng
+gọi_điện
+hình sequence cách_thức gọi_điện cho người_đăng
+tìm_kiếm
+hình sequence cách tìm_kiếm hoạt_động
+chỉ_đường
+hình sequence cách_thức chỉ_đường trên ggmaps
+map
+hình sequence cách tự tìm_kiếm đường_đi trên ggmaps
+quản_lí bài_đăng
+hình sequence của quản_lí bài_đăng
+chi_tiết sản_phẩm
+hình sequence chi_tiết sản_phẩm
+lượt_đồ lớp class diagram
+hình mô_hình sơ_đồ lớp
+lớp accountthuộc tínhkiểu dữ liệumô tảuseremailstringemail của account dùng để đăng nhậppasswordstringmật khẩu của account dùng để đăng_nhập
+bảng lớp account
+lớp authenticationthuộc tínhkiểu dữ liệumô tảlistaccountlistdanh sách chứa toàn_bộ account
+bảng lớp authentication
+lớp firebasethuộc tínhkiểu dữ liệumô tảauthenticationauthenticationthuộc tính khai_báo danh_sách accountdatabasedatabasethuộc tính khai_báo cơ_sở_dữ_liệu storagestoragethuộc tính khai_báo kho lưu_trữ hình_ảnh
+bảng lớp firebase
+lớp userthuộc tínhkiểu dữ liệumô tảnameuserstringtên người_dùng accountaccounttài khoản mà người_dùng sở hữuphonenumberstringsố điện_thoại của người dùnglatitudestringkí tự đầu_tiên trong địa_chỉ hiện_tại của người dùnglongtitudestringkí tự cuối_cùng trong vị_trí hiện_tại của người_dùng
+bảng lớp user
+lớp databasethuộc tínhkiểu dữ liệumô tảlistuserlistdanh sách user được lưu trong cơ_sở_dữ liệulistsalepostlistdanh sách các bài đăng về bán xe được lưu trong cơ sỡ_dữ liệulisrentalpostlistdanh sách các bài đăng về cho_thuê xe được lưu trong cơ sỡ_dữ_liệu
+bảng lớp database
+lớp salepostthuộc tínhkiểu dữ liệumô tảkindstringloại xevehiclenamestringtên xebrandstringhãng xelinestringdòng xe_đời xecolorstringmàu xestatusbooleantình trạng xekmnumberintsố km đã chạylicenseplatestringbiển số xeyearofmanufactureintnăm sản_xuất xeimagestringhình ảnh thật của xepriceintgiá xedatestringngày đăng_sản phẩmphoneintsố điện_thoại người đăng bàicarebooleanyêu thíchusercarestringngười yêu_thích bài đăng nàyuserstringtên người đăng_bài addressstringđịa chỉ bài_đăng
+bảng lớp salepost
+lớp rentalpostthuộc tínhkiểu dữ liệumô tảkindstringloại xevehiclenamestringtên xebrandstringhãng xelinestringdòng xe_đời xecolorstringmàu xestatusbooleantình trạng xekmnumberintsố km đã chạylicenseplatestringbiển số xeyearofmanufactureintnăm sản_xuất xeimagestringhình ảnh thật của xepriceperhourintgiá xe cho_thuê mỗi giờpriceperhourintgiá xe cho_thuê mỗi ngàydatestringngày đăng_sản phẩmphoneintsố điện_thoại người đăng bàicarebooleanyêu thíchusercarestringngười yêu_thích bài đăng nàyuserstringtên người đăng_bài addressstringđịa chỉ bài_đăng
+bảng lớp rentalpost
+lớp productmanagermentthuộc tínhkiểu dữ liệumô tảsalemanagermentlistdanh sách các bài đăng về bán xerentalmanagermentlistdanh sách các bài đăng cho_thuê xe
+bảng lớp productmanagerment
+lớp careproductsthuộc tínhkiểu dữ liệumô tảsalemanagermentlistdanh sách các bài đăng về bán xe đã yêu thíchrentalmanagermentlistdanh sách các bài đăng cho_thuê xe đã yêu_thích
+bảng lớp careproduct
+lớp imagethuộc tínhkiểu dữ liệumô tảimagestringmột chuỗi kí tự_dạng đường link được lưu tại lớp storage
+bảng lớp image
+lớp storagethuộc tínhkiểu dữ liệumô tảlistimagelistdanh sách hình_ảnh được lưu trên firebase dưới dạng link
+bảng lớp storage
+mô_hình cơ_sở_dữ_liệu quan hệ erd
+hình mô_hình cơ sỡ_dữ_liệu quan_hệ
+lớp userthuộc tínhkiểu dữ liệumô tảusernamestringemail dùng để để đăng nhập_tài khoảnpasswordstringmật khẩu của tài_khoản nameaccountstringtên người dùngimagestringảnh đại_diện người dùngphonestringsố điện_thoại của người dùnglatitudestringkí tự đầu_tiên trong địa_chỉ hiện_tại của người dùnglongitudestringkí tự cuối_cùng trong vị_trí hiện_tại của người_dùng
+bảng lớp user
+lớp postsalethuộc tínhkiểu dữ liệumô tảusernamestringemail dùng để để đăng nhập tài khoảnkindstringloại xevehiclenamestringtên xebrandstringhãng xelinestringdòng xe_đời xecolorstringmàu xestatusbooleantình trạng xekmnumberintsố km đã chạylicenseplatestringbiển số xeyearofmanufactureintnăm sản_xuất xeimagestringhình ảnh thật của xepriceintgiá xedatestringngày đăng_sản phẩmphoneintsố điện_thoại người đăng bàicarebooleanyêu thíchusercarestringngười yêu_thích bài đăng nàyuserstringtên người đăng_bài addressstringđịa chỉ bài_đăng
+bảng lớp postsale
+lớp postrentthuộc tínhkiểu dữ liệumô tảusernamestringemail dùng để để đăng nhập tài khoảnkindstringloại xevehiclenamestringtên xebrandstringhãng xelinestringdòng xe_đời xecolorstringmàu xestatusbooleantình trạng xekmnumberintsố km đã chạylicenseplatestringbiển số xeyearofmanufactureintnăm sản_xuất xeimagestringhình ảnh thật của xepriceperhourintgiá xe cho_thuê mỗi giờpriceperhourintgiá xe cho_thuê mỗi ngàydatestringngày đăng_sản phẩmphoneintsố điện_thoại người đăng bàicarebooleanyêu thíchusercarestringngười yêu_thích bài đăng nàyaddressstringđịa chỉ bài_đăng
+bảng lớp postrent
+kiến_trúc hệ_thống
+trong phần này chúng_tôi sẽ trình_bày về kiến_trúc của hệ_thống được thực_hiện trong đề_tài này thông_qua sơ_đồ dưới_đây
+hình sơ_đồ tổng_quan kiến_trúc hệ_thống
+thiết_bị điện_thoại iosandroid reactnative
+react native firebase
+firebase firebase – authentication
+firebase firebase – database
+sử_dụng dữ_liệu tại cơ_sở_dữ_liệu của firebase – hoạt_động theo dạng tree
+firebase firebase – storage
+lưu_trữ và quản_lý dữ_liệu dạng ảnh videos mà người_dùng tạo_ra
+firebasereact native
+react native api google maps
+react native thiết_bị điện_thoại iosandroid
+kiến_trúc phần_mềm
+trong phần này chúng_tôi trình_bày về kiến_trúc phần_mềm của hệ_thống thông_qua sơ_đồ dưới đây kiến_trúc phần_mềm của hệ_thống được chia_làm phần client side iosandroid server side data side
+hình sơ_đồ kiến_trúc phần_mềm hệ_thống
+client side
+· tầng application layer ứng_dụng điện_thoại được viết bằng ngôn_ngữ react native và sử_dụng bộ thư_viện của react native
+· tầng data access component truy_cập tới dữ_liệu cục_bộ trên_máy
+· tầng local data source phần_dữ_liệu cục_bộ trên máy sử_dụng redux với thư_viện persist
+server side
+· tầng service layer cung_cấp các service giao_tiếp giữa server và client thông_qua giao thức http
+· tầng google cloud platform cung_cấp hai server chính đó là firebase và google api maps
+· tầng data access layer quản_lý kho dữ_liệu firebase database realtime firebase authentication firebase storage
+data side
+· tầng data access quản_lý kho_dữ_liệu lớn trên hệ quản_trị cơ_sở_dữ_liệu gồm
+· firebase database realtime cơ_sở_dữ_liệu đám_mây nosql đồng_bộ_hóa_dữ_liệu được đồng_bộ_hóa trên tất_cả các client trong thời_gian thực và luôn có sẵn khi ứng_dụng offline
+· firebase storage được xây_dựng cho các nhà phát_triển ứng_dụng để lưu_trữ và phục_vụ nội_dung do người_dùng tạo_ra chẳng_hạn như hình_ảnh hoặc video
+· firebase authentication hầu_hết các ứng_dụng cần xác_thực_quyền giúp ứng dụng lưu_dữ_liệu an_toàn sử_dụng trong các đám_mây thường là tài_khoản người_dùng
+chương một số vấn_đề gặp_phải
+truong chương này chúng_tôi sẽ khi rõ những khó_khăn gặp_phải khi bắt_đầu thực_hiện một ứng_dụng sử_dụng framework react nativengôn ngữ
+vấn_đề đặt_ra
+react native là ngôn_ngữ đa nền_tảng mới được tạo từ facebook dựa_trên javascript mọi thử đều rất mới_mẻ và ít_có tài_liệu tham_khảo hầu_hết tài_liệu về ngôn_ngữ này đều được phát_hành ở nước_ngoài và được soạn_thảo bằng tiếng nước_ngoài
+khó_khăn
+để hiểu được react native ngoài học ngôn_ngữ trong thời_gian dài_ra bạn còn phải đọc tài_liệu bằng tiếng nước_ngoài và điều này khá khó_khăn cho các bạn có khả_năng dịch_thuật bị hạn_chế
+mối quan_hệ với các anh_chị rành rỏi về ngôn_ngữ này cũng ít cho_nên khi gặp lỗi không tra được trên google thì tụi em cũng không có ai để support
+hướng giải_quyết
+để làm_được ứng_dụng này tụi em phải học_lại từ đầu tất_cả
+mọi_thứ phải_biết sử_dụng tối_thiểu javascript để áp_dụng vào react native hoặc
+là một số framework khác của javascript tìm_kiếm bộ thư_viện phù_hợp với ứng
+dụngserver vấn_đề đặt_ra
+server phù_hợp để sử_dụng cho ứng_dụng là hoàn_toàn miễn_phí và vì nó miễn_phí nên nó cũng bị hạn_chế khó_khăn
+giới_hạn_số lần truy_cập ảnh trong một ngày load ảnh từ server về chậm và đôi_khi bị lỗi cảnh_báo xuất_hiện trên màn_hình ứng_dụng
+hình giới_hạn truy_cập vào storage ngày
+hình_phân_tích mức_độ sử_dụng ngàyhướng giải_quyết
+nên nâng_cấp gói sử_dụng để_được hỗ_trợ tốt_hơn
+hình storage đã có_thể sử_dụng đượcluồng dữ liệu vấn_đề đặt_ra
+react native được tạo_ra từ sự_kết_hợp giữa các component với_nhau các component liên_kết với_nhau thông_qua export và importcác component truyền dữ_liệu với_nhau thông_qua props hoặc kết_hợp với redux để render dữ liệukhó khăn
+để xử_lý luồng trên react native rất khó_khăn ví_dụ dữ_liệu sẽ được truyền từ component a z mà giữa component này còn có các component abc… thì dữ_liệu chắc_chắn đi_qua các component này nữa điều này đồng_nghĩa ở mỗi component abc người lập_trình phải thêm phương_thức để chuyển_hướng trong mỗi component
+trong trường_hợp ứng_dụng có thêm component hoặc xóa component nằm_trong khoảng từ a z thì bắt_buộc phải sửa lại từ đầu toàn_bộ code
+nếu một_lúc dữ_liệu quá lớn thì việc truyền_dữ_liệu sẽ gặp trục_trặc vì sự_trao_đổi dữ_liệu chằn chịthướng giải_quyết
+redux là một framework tối_ưu_hóa luồng_dữ_liệu trong react native và ai dùng react native thì phải chắn chắn phải học thêm redux
+redux hỗ_trợ việc trao_đổi dữ_liệu giữa các component được suôn_sẻ
+hình phương_thức kết_nối tới store của redux
+hình lấy_được trạng_thái mới của store nhanh chóngthiết bị vấn_đề đặt raứng dụng cần phải được cài_đặt và chạy_thử trên các thiết_bị tương_thích với nókhó khăn
+build ứng_dụng chạy trên nền_tảng ios thì phải cần_thiết bị đến từ apple như_là iphone và macbook hoặc ipad để test thử ứng_dụng mà các thiết_bị này chi_phí rất cao
+ta cũng có_thể build ứng_dụng chạy trên nền_tảng ios bằng các thiết_bị hướng giải_quyết
+mượn được macbook từ người_quen nhưng thời_gian mượn được thì hơi ngắn_ngủi nên ứng_dụng chưa được trơn_tru trên cả_hai nền_tảng còn về điện_thoại thì chúng_em phải tự mua mỗi_người một chiếc iphone để sử_dụng
+hình một số thiết_bị mượn và muathư việnvấn đề đặt_ra
+hạn_chế về thư_viện cho react native khó_khăn
+vì là ngôn_ngữ mới nên bộ thư_viện hỗ_trợ cho react native rất ít và bộ thư_viện này cũng do các bạn lập trình viên khác trên thế_giới tự viết nên có_khi bị lỗi nhiềucó vài bộ thư_viện chỉ hỗ_trợ cho một nền_tảng android hoặc ioshướng giải quyếttự cài_đặt và sử_dụng thư_viện cho mỗi hệ_điều_hành và đợi bản update mới từ thư việnversion librariesvấn đề đặt_ra
+sự_xung_đột hoặc không tương_thích giữa các version library và react native hoặc khi cập_nhật vesion của react nativekhó khăn
+khi gặp sự_xung_đột hoặc không tương_thích giữa các vesion library và react native thì sẽ dẫn đến tình_trạng crack app ngay lần chạy đầu_tiên
+khi cập_nhật version mới cho react native sẽ có sự_thay_đổi về tên hoặc tính_năng của các component nếu không cập_nhật các tính_năng mới hoặc sự_thay_đổi về tên của các component hoặc cũng_như tên các chức_năng thì sẽ gặp lỗi tình_trạng nặng nhất là sẽ phải thay_đổi_lại vesion ban_đầu của react nativehướng giải_quyết
+khi gặp sự_xung_đột hoặc không tương_thích giữa các version library với react native thì ta phải hạ version của library xuống sao_cho thích_hợp với version của react native đang sử_dụng
+đảm_bảo sử_dụng đúng các tính_năng hoặc tên component của version react native mới hoặc đảm_bảo không bị xung_đột giữa các version library trong project
+chương kết_quả đạt được và hướng phát_triển
+trong chương này chúng tối sẽ ghi_rõ kết_quả đạt được sau khi hoàn_thành một ứng_dụng sử_dụng framework react naitive cũng_như kết_quả sau khi phát_triển một đề_tài luận_văn tốt_nghiệp kèm_theo đó là mặt hạn_chế và hướng phát triểnkết quả đạt đượcvề kiến_thức
+trong quá tình tìm_hiểu và thực_hiện đề_tài này chúng_tôi đã có thêm kiến_thức để tạo_ra một ứng_dụng được viết bằng ngôn_ngữ react native redux
+ứng_dụng chúng_tôi viết được là một ứng_dụng phục_vụ việc trao_đổi xe và cung_cấp xe cho nhu_cầu đi_lại của mọi_người tại mọi khu_vực
+biết_được cách_thức hoạt_động giữa các bên client – server – databse diễn_ra như_thế_nào và xử_lý dữ_liệu thông_qua các luồng hoạt_động trao_đổi giữa bên chúng_tôi biết thêm được một server có rất nhiều tính_năng nổi_trội và hoàn_toàn miễn_phí cho các lập_trình viên để thử_nghiệm đó là firebase
+đây cũng là lần_đầu_tiên chúng_tôi làm_việc với google cloud plaform – google maps và đưa được maps lên thiết_bị di_động trên hai nền_tảng iosandroid
+về phần_cứng ngoài trãi_nghiệm các thiết_bị của microsoft và android ra chúng_tôi còn được sử_dụng các thiết_bị của apple như_là macbook và iphone để build ứng_dụng thấy được sự_khác_nhau giữa hai nền_tảng iosandoird về dộ_mượt cũng_như giao diệnvề nhận_thức
+trong thời_gian nghiên_cứu và phát_triển đề_tài này chúng_tôi đã có những thay_đổi khác_biệt về sự_tiến_bộ về phương_pháp tự_học và các kĩ_năng làm_việc theo nhóm
+việc áp_dụng react native để lập_trình một ứng_dụng chạy trên điện_thoại rất nhanh và dễ_dàng sử_dụng và chắc_chắn rằng ngôn_ngữ này sẽ được hỗ_trợ và phát_triển trong thời_gian tớivề sản_phẩm
+sau_khi hoàn_thành đề_tài này sản_phẩm chúng_tôi đúc_kết_lại đó là một ứng_dụng chợ xe được lập_trình bằng ngôn_ngữ react native cùng framework redux chạy được trên hay nền_tảng iosandroid
+ứng_dụng này cho_phép người_dùng có_thể đăng_tải thông_tin chiếc xe của mình để bán hoặc cho_thuê với mức_giá tự_do đồng_thời cũng tạo_ra một môi_trường trao_đổi phương_tiện_đi_lại ở khắp mọi_nơi trên đất_nước bằng phương_thức tìm đường_đi của google cloud platform api maps việc sở_hữu xe_cộ trở_nên dễ_dàng và đơn_giản hơn bao_giờ hết khoảng_cách không_còn là trở_ngại lớn nếu_như xung_quanh bạn có người sử_dụng ứng_dụng này ngoài_ra người_dùng cũng có_thể lưu lại những bài đăng mình yêu_thích quản_lý được các sản_phẩm mình bán bằng cách xóa_sửa hoặc thêm tin mới đẩy_mạnh các bài_viết mới ở mục các tin mới trong ngày và gọi_điện hoặc nhắn_tin trực_tiếp tới chủ_nhân của phương_tiện mình yêu_thích các ứng_dụng của người_dùng được liệt_kê ra như_sau về phía người_dùng
+· cho_phép người_dùng đăng_ký tài_khoản
+· cho_phép người_dùng xem và chỉnh sửa thông_tin cá nhân· cho_phép người_dùng đăng_tin bán hoặc cho_thuê
+· cho_phép người_dùng yêu_thích một sản_phẩm có trên màn_hình chính
+· cho_phép người_dùng xem chi_tiết thông_tin sản_phẩm
+· cho_phép người_dùng nhắn_tin tới chủ_nhân của sản_phẩm
+· cho_phép người_dùng gọi_điện_thoại tới chủ_nhân của sản_phẩm
+· cho_phép người_dùng biết_được địa_chỉ sản_phẩm và kết_nối tới đó bằng đường_đi ngắn nhất
+· cho_phép người_dùng sử_dụng bản_đồ để tìm_kiếm vị_trí khác_nhau
+· cho_phép người_dùng xem được tin mới_đăng
+· cho_phép người_dùng tìm_kiếm sản phẩmhạn chế
+hướng tiếp cập với react native bị hạn_chế do sự_phổ_biến của nó ở việt nam nói_riêng và thế_giới nói_chung còn mới_mẻ và chưa được hỗ_trợ nhiều về thư_viện
+thiết_bị để build ứng_dụng trên nền_tảng ios quá mắc và không dễ_dàng mượn được dẫn tới việc viết và thử_nghiệm ứng_dụng bị chậm trễhướng phát_triển
+· phát_triển thêm về thuận toán hiển_thị trang_chủ người_dùng
+· có_nhiều tính_năng hơn_nữa như tìm theo giá tìm theo địa_điểm tìm địa_điểm gần tôi chat trực_tuyến
+· đẩy_mạnh sự_mượt_mà của ứng_dụng bằng cách nâng_cấp server
+· giao_diện đẹp bắt mắt người_dùng hơn
+· triển_khai ứng_dụng vào thực_tế
+tài_liệu tham_khảo
+trong mục này chúng_tôi ghi rõ các nguồn tài_liệu tham_khảo được sử_dụng trong_khi làm ứng_dụng
+tài_liệu về firebasehttpskipalogcompostsgooglefirebaselagitaoungdungchatfirebasehttpsenwikipediaorgwikifirebasehttpscloudgooglecomsolutionsmobilemobilefirebaseappengineflexiblehttpshackernooncomintroductiontofirebaseacdhttpsdanglongnamevnfirebaselagihttpsgithubcominvertasereactnativefirebasehttpsrnfirebaseiohttpsfirebasegoogleblogcomthebeginnersguidetoreactnativeand htmlvideo tham_khảo httpswwwyoutubecomwatchvqmuydeyebc
+tài_liệu về xcodehttpshuygamerwordpresscomtagxcodelagihttpswwwcodehubvntaoungdungdongianvoixcode
+tài_liệu về android studiohttpsquantrimangcomandroidstudiolagi
+tài_liệu về proptypehttpsvibloasiapreactproptypeskhaibaokieudulieuchocomponentnaqzrapkvxhttpsreactjsorgdocstypecheckingwithproptypeshtmlhttpswwwnpmjscompackageproptypeshttpsvibloasiapreactproptypeskhaibaokieudulieuchocomponentnaqzrapkvxhttpshackernooncomareyouusingproptypesinreactnativeeebhttpscodeburstiovalidatingpropseasilywithreactproptypesehttpstechtalkvncachtotnhatdevietreactcomponethtml
+tài_liệu về reactnativehttpsmediumcomalexmngnfromreactjstoreactnativewhatarethemaindifferencesbetweenbothdeeebfhttpsvibloasiapnhungdiemkhacbietchinhgiuareactjsvareactnativelagilkxoadvhttpstechtalkvntumoreactnativekhongchilahelloworldhtmlhttpswwwtopitworkscomblogsthuvienreactnativematoisudungtrongungdungcuatoihttpreactnativevnlaptrinhmobileappvoireactnativehttpitdievnrreactnativehttpreactnativevnlaptrinhmobileappvoireactnative httpbabeljsioreplbabilifalsebrowsersbuildbuiltinsfalsespecfalseloosefalsecode lzdwfqpghglgfbcwaabaywbyaodwdmaueadebugfalseforcealltransformsfalseshippedproposalsfalsecirclecirepoevaluatetruefilesizefalsetimetravelfalsesourcetypemodulelinewrapfalsepresetsesclatestcreactcstageprettierfalsetargetsversionenvversionhttpsfacebookgithubioreactnativedocstutorialhtmlhttpreactnativevnlaptrinhmobileappvoireactnativehttpsvibloasiapgioithieuvalamquenvoireactnativenaqzrgglvxhttpsfullstackstationcomreactnativelagihttpsfullstackstationcomhocreactnativetrongngayquaviduthuctehttpsunbuggitbooksioreactnativetrainingcontent absolute  relativehtmlhttpsgithubcomfangweidaysofreactnative
+tài_liệu về reactnative communicationshttpsvibloasiaphowreactnativeworkqwqrmzwbhttpsgithubcomanarchicknightreactnativecommunicationshttpstechblogvnhowreactnativework
+tài_liệu về reactnative custompickervideo tham_khảo httpswwwyoutubecomwatchvjcydmtznghttpswwwnpmjscompackagereactnativecustompicker
+tài_liệu về reactnative fetchblobhttpsgithubcomwkhreactnativefetchblob
+tài_liệu về reactnativegeocoderhttpsgithubcomdevfdreactnativegeocoderhttpsgithubcommarlovereactnativegeocoding
+tài_liệu về reactnativeimagepickervideo tham_khảo httpswwwyoutubecomwatchvorukhxpighttpswwwyoutubecomwatchvdnwqdlvw
+tài_liệu về reactnativeimmediatephonecallhttpswwwnpmjscompackagereactnativeimmediatephonecall
+tài_liệu về reactnativemapshttpsgithubcomreactcommunityreactnativemapshttpscodeburstioreactnativegooglemapwithreactnativemapsedeeevideo tham_khảo httpswwwyoutubecomwatchvwdssmjomabqhttpswwwyoutubecomwatchvxtwpytntvhttpswwwyoutubecomwatchvrjwhmoam
+tài_liệu về reactnativemapsdirectionsvideo tham_khảo httpswwwyoutubecomwatchvorsxppgmssách tham_khảo ksramya april sreshma drsvenkatesan direction with way point maker using google map api ininternational journal on applications in information and communication engineering pp httpswwwyoutubecomwatchvhhttbiemhttpswwwnpmjscompackagereactnativegooglemapsdirectionshttpsgithubcombramusreactnativemapsdirectionshttpsmediumcomprincessjanfreactnativemapswithdirectionfromcurrentlocationabac
+tài_liệu về reactnativenavigatorhttpsvibloasiaphaiphuongphapdieuhuongnavigationtrongungdungreactnativeoevkbrakkwhttpswixgithubioreactnativenavigationvdocsinstalling httpsvibloasiapreactcachdieuhuonghienthitrenviewbwrznlaoxwhttpstechblogvnhaiphuongphapdieuhuongnavigationtrongungdungreactnativehttpsceobeginerblogspotcombainavigatingbetweenscreenshtml
+tài_liệu về reduxhttpsvibloasiapreduxchonguoimoibatdaupartintroductionzjleabbzkqjvideo tham_khảo httpswwwyoutubecomwatchvzmghejphttpswwwyoutubecomwatchviiec sktshttpsmediumcomalexmngnfromreactjstoreactnativewhatarethemaindifferencesbetweenbothdeeebf
+tài_liệu về reduxloggervideo tham_khảo httpswwwyoutubecomwatchvdjfrmzmhttpswwwnpmjscompackagereduxloggerhttpstechtalkvnhocreactreduxquaviduthuctereduxhtml
+tài_liệu về reduxpersistvideo tham_khảo httpswwwyoutubecomwatchvgkchfpzzuhttpswwwyoutubecomwatchvyavsnhuiohttpstechtalkvnblogpostsmobileappreactnativedautienhttpscodeburstioreduxpersisthttpsgithubcomrtzzreduxpersistthefbcdcd
+tài_liệu về reduxthunkhttpsgithubcomreduxjsreduxthunkhttpsvibloasiapreduxchonguoimoibatdaupartmiddlewareqwdxmkwbhttpsinsightsinnovatubecomreduxthebaadtlcaccangiebaanphebaancuebbibcfed
+tài_liệu về buil ứng_dụng lên thiết_bị thựchttpsfacebookgithubioreactnativedocssignedapkandroidhttpwwwiceteavietcomdebugungdungreactnativetrenthiethtml
+phụ_lục
+mục này chúng_tôi ghi rõ cách_thức sử_dụng các công_cụ tham_gia vào quá_trình xây_dựng ứng_dụng cách xây_dựng ứng_dụng trên hai nền_tảng android và ios và cách sử_dụng ứng_dụng sau khi hoàn_thành
+i hướng_dẫn sử_dụng firebase
+đầu_tiên bạn vào đường dẫn httpsfirebasegooglecom
+tiếp_theo chọn get started
+hình giới_thiệu firebase
+để tiếp_tục dễ_dàng đọc và hiểu firebase bạn cần thay_đổi ngôn_ngữ của trang web thường thì trang web sẽ tự_biên dịch sang tiếng pháp nên bạn cần thay_đổi nó hoặc thêm ngôn_ngữ tiếng anhusa bằng các bước_sau
+hình thay_đổi ngôn_ngữ trên firebase
+sau_khi thay_đổi ngôn_ngữ màn_hình của firebase sẽ hiển_thị như_thế này
+hình khởi tạo project
+và việc của bạn là add project để tạo mới một project
+hình điền thông_tin project
+điền tất_cả thông_tin như project name vị_trí và tick vào hai điều_khoản đồng_ý của google rồi nhấn create project
+hình chờ_đợi khởi tạo project
+chờ_đợi firebase khởi_tạo project và continue
+hình khởi tạo xong project
+giao_diện cloud của bạn sẽ hiện_ra với đầy_đủ thông_tin về công_cụ của google platform bên tay_trái như là authentication database realtime storage vv
+hình trang chính của firebase
+để làm_việc với react – native bạn cần nhúng đoạn script vào reactnativechọn mục thứ sau_đó coppy đoạn mã ở dưỡi vào
+hình mã code cần import vào project
+tới đây bạn quay_lại chương – mục trang mình đã ghi sẵn cách kết_nối firebase với reactnative rất cụ_thể và rõ_ràng các bước chỉ cần làm giống mình là phần kết_nối giữa thiết_bị và server đã sẳn sàng hoạt_động
+tiếp_theo bạn cần tạo cho mình một database để hỗ_trợ ứng_dụng click vô database chọn creat database như_hình
+lúc_này sẽ có mục cho bạn lựa_chọn nếu bạn chọn phần start in locked mode đồng_nghĩa với việc toàn_bộ bên thứ bangười truy_cập vào database của bạn sẽ ko thể_đọc hoặc viết nếu bạn chọn phần start in test mode thì việc bạn cho_phép mọi_người có_thể can_thiệp vào việc chỉnh sửa project của bạn
+vậy là hoàn_tất việc sở_hữu một database trên cloud môt cách dễ_dàng hình lựa_chọn hai danh_mục cần để khởi tạo project
+hình nhận add collection để tạo một cơ_sở_dữ_liệu
+nhấn add collection để khởi tạo một cơ_sở_dữ_liệu mới
+hình ví_dụ về field
+một ví_dụ về các trường của cơ_sở_dữ_liệu và đây là kết_quả
+hình một đối_tượng trong cơ_sở_dữ_liệu firebase
+ii hướng_dẫn cài_đặt react nativelập trình trên hđh windows – nền_tảng android
+đầu_tiên ta cần phải cài_đặt tất_cả các công_cụ hỗ_trợ react native dưới đây khi cài_đặt trên hệ_điều_hành windowsjdk httpwwworaclecomtechnetworkjavajavasedownloadsjdkdownloadshtmlnode  httpsnodejsorgenpython  httpswwwpythonorgdownloads
+react native khuyến_cáo người_dùng nên cài_đặt jdk nodejs và pythons qua chocolatey – một trình quản_lý package phổ_biến cho hệ_điều_hành windows
+giải_thích công_cụ hỗ_trợ trên như_sau
+· jdk viết tắt của java development kit bao_gồm jre và các development toollà một bộ công_cụ phát_triển java nó dành cho những người lập_trình java để phát_triển ứng_dụng nó bao_gồm một môi_trường chạy ứng_dụng java một chương_trình để dịch_mã mà bạn viết thành mã bytecode khi ứng_dụng java chạy nó dịch_mã bytecode thành mã máy_tính và thực_thi điều đó có_nghĩa là bytecode chỉ_là một mã trung_gian
+· node node là nền_tảng chạy trên môi_trường v javascript runtime node cho_phép lập_trình viên xây_dựng các ứng_dụng có tính mở_rộng cao sử_dụng javascript trên server và vì được porting từ c nên về mặt tốc_độ xử_lý thì rất nhanh
+· python là một ngôn ngữ lập trình bậc cao cho các mục_đích lập_trình đa_năng do guido van rossum tạo ra và lần_đầu ra_mắt vào năm  python được thiết_kế với ưu_điểm mạnh là dễ_đọc dễ học và dễ nhớ python là ngôn_ngữ có hình_thức rất sáng_sủa cấu_trúc rõ_ràng thuận_tiện cho người_mới học lập_trình cấu_trúc của python còn cho_phép người_sử_dụng viết mã lệnh với số lần gõ phím tối thiểulý do python được cài_đặt khi sử_dụng react native bởi_vì hệ_thống xây_dựng của react native là dựa python nó được sử_dụng để biên_dịch_mã nguồn và phục_vụ trong chế_độ phát_triển
+install công_cụ này như_sau
+đầu_tiên install chocolatey
+mở administrator command prompt cmd run dòng lệnh
+systemroot\system\windowspowershell\v\powershellexe noprofile inputformat none executionpolicy bypass command iex newobject systemnetwebclientdownloadstringhttpschocolateyorginstallps set pathpathallusersprofile\chocolatey\bin
+sau_đó run dòng lệnh trên cmd để tải nodejs pythong jdk về và install
+choco install y nodejsinstall python jdkandroid  studio httpsdeveloperandroidcomstudioindexhtml
+tải xuống và cài_đặt android studio chọn thiết_lập tùy_chỉnh khi được nhắc chọn loại cài_đặt đảm_bảo các hộp bên_cạnh tất_cả các mục sau được chọn
+· android sdk
+· android sdk platform
+· performance intel ® haxm
+· android virtual device
+android studio sẽ cài_đặt android sdk mới nhất theo mặc định tuy_nhiên việc xây_dựng ứng_dụng react native có_mã gốc yêu_cầu sdk android marshmallow nói_riêng bạn có_thể cài_đặt sdk android bổ_sung thông_qua trình quản_lý sdk trong android studio
+bạn có_thể truy_cập trình quản_lý sdk từ màn_hình welcome to android studio nhấp vào configure sau_đó chọn sdk manager
+chọn tab sdk platforms từ bên_trong trình quản_lý sdk sau_đó chọn hộp bên_cạnh show package details ở góc dưới cùng bên_phải tìm và mở_rộng mục nhập android marshmallow sau_đó đảm_bảo tất_cả các mục sau đều được chọn
+· api google
+· nền_tảng sdk android
+· hình_ảnh hệ_thống intel x atom
+· google api hình_ảnh hệ_thống intel x atom
+· trình quản_lý sdk android
+tiếp_theo chọn tab sdk tools và chọn hộp bên_cạnh show package details tại_đây tìm_kiếm và mở_rộng mục nhập android sdk builttools sau_đó đảm_bảo rằng được chọn
+cuối_cùng nhấp vào áp_dụng để_tải xuống và cài_đặt android sdk và các công_cụ xây_dựng có liên_quan
+định cấu hình biến môi_trường android home
+công_cụ react native yêu_cầu một_số biến môi_trường được thiết_lập để xây_dựng ứng_dụng với mã gốc
+mở ngăn system trong system and security trong windows control panel sau_đó nhấp vào change setting mở tab advanced và nhấp vào envirorment variable nhấp vào new để tạo biến người_dùng android home mới trỏ đến đường dẫn đến sdk android của bạn
+sdk được cài_đặt theo mặc định tại_vị_trí sau
+c \ users \ your username \ appdata \ local \ android \ sdk
+bạn có_thể tìm vị_trí thực_tế của sdk trong hộp thoại preferences của android studio bên_dưới  appearance behavior → system settings → android sdk
+mở một cửa_sổ command prompt mới để đảm_bảo biến môi_trường mới được nạp trước_khi tiến_hành bước_tiếp theolập trình trên hđh macos nền_tảng ios
+đầu_tiên ta cần phải cài_đặt tất_cả các công_cụ hỗ_trợ react native dưới đây khi cài_đặt trên hệ_điều_hành windowsnodewatchman
+react native khuyên bạn nên cài_đặt node và watchman bằng homebrew chạy các lệnh sau trong terminal sau_khi cài đặt homebrew
+brew install node
+brew install watchmanxcode cách dễ nhất để cài_đặt xcode là thông_qua mac app store cài_đặt xcode cũng sẽ cài đặt trình mô_phỏng ios và tất_cả các công_cụ cần_thiết để xây_dựng ứng_dụng ios của bạn
+iii hướng_dẫn sử cài đặt bộ thư_viện hướng_dẫn cài đặt bộ thư_viện navigation trên iosmột số yêu_cầu trước_khi cài_đặt
+· node
+· reactnative
+· nmp npm install save reactnativenavigationalpha
+trong xcode trong project navigator khung bên_trái nhấp chuột phải vào libraries thêm tệp vào project namethêm node modules reactnativenavigation lib ios reactnativenavigationxcodeproj
+trong xcode trong project navigator khung bên_trái nhấn vào dự_án của bạn trên cùng sau_đó nhấp vào hàng mục_tiêu của bạn project and targets list ở cột bên_trái của khung bên_phải và chọn build phases ngăn bên_phải trong phần link binary with libraries thêm libreactnativenavigationa
+trong xcode bạn sẽ cần chỉnh sửa tệp này appdelegatem chức_năng này là điểm vào chính cho ứng_dụng của bạnboolapplicationuiapplication application didfinishlaunchingwithoptionsnsdictionary launchoptions hướng_dẫn cài đặt bộ thư_viện navigation trên android
+· thêm thông_tin sau vào androidsettingsgradle
+include reactnativenavigation
+projectreactnativenavigationprojectdir new filerootprojectprojectdir node modulesreactnativenavigationlibandroidapp
+· đảm_bảo bạn đang sử_dụng plugin gradle mới trong đường dẫn androidgradlewrappergradlewrapperproperties
+distributionbasegradle user home
+distributionpathwrapperdists
+zipstorebasegradle user home
+zipstorepathwrapperdists
+distributionurlhttps\servicesgradleorgdistributionsgradleallzip
+distributionurlhttps\servicesgradleorgdistributionsgradleallzip
+· cập_nhật androidbuildgradle
+buildscript repositories googlemavenlocalmavencentraljcentermaven url httpsmavengooglecomname googledependencies classpath comandroidtoolsbuildgradleclasspath comandroidtoolsbuildgradleallprojects repositories googlemavencentralmavenlocaljcentermaven all of react native js objc sources android binaries is installed from npmurl rootdirnode modulesreactnativeandroidmaven url httpsmavengooglecomname googlemaven url httpsjitpackio ext buildtoolsversion buildtoolsversion minsdkversion minsdkversion compilesdkversion targetsdkversion supportlibversion
+· cập_nhật project independence trong androidappbuildgradle
+android compilesdkversion rootprojectextcompilesdkversionbuildtoolsversion rootprojectextbuildtoolsversiondefaultconfig applicationid comyourprojectminsdkversion rootprojectextminsdkversiontargetsdkversion rootprojectexttargetsdkversionversioncode versionname ndk abifilters armeabiva xcompileoptions sourcecompatibility javaversionversion  targetcompatibility javaversionversion  dependencies compile filetreedir libs include jarcompile comandroidsupportappcompatvrootprojectextsupportlibversioncompile comfacebookreactreactnative from node modulesimplementation filetreedir libs include jarimplementation comandroidsupportappcompatvrootprojectextsupportlibversionimplementation comfacebookreactreactnative from node modulesimplementation projectreactnativenavigation
+· cập_nhật gradleproperties và vô_hiệu_hóa xử_lý tài_nguyên gia tăngdisable incremental resource processing as it broke release build
+androidenableaaptfalse
+· cập_nhật mainactivityjava
+mainactivityjava nên được extends từ comreactnativenavigationnavigationactivity thay_vì reactactivity
+tệp này nằm_trong android app src main java com mainactivityjava
+import comfacebookreactreactactivity
+import comreactnativenavigationnavigationactivity
+public class mainactivity extends reactactivity
+public class mainactivity extends navigationactivity overrideprotected string getmaincomponentname return yourproject· cập_nhật mainapplicationjava
+tệp này nằm_trong đường dẫn androidappsrcmainjavacommainapplicationjava
+import androidappapplication
+import comfacebookreactreactapplication
+import comfacebookreactreactnativehost
+import comfacebookreactreactpackage
+import comfacebookreactshellmainreactpackage
+import comfacebooksoloadersoloader
+import comreactnativenavigationnavigationapplication
+import comreactnativenavigationreactnavigationreactnativehost
+import comreactnativenavigationreactreactgateway
+import javautilarrays
+import javautillist
+public class mainapplication extends application implements reactapplication
+public class mainapplication extends navigationapplication overrideprotected reactgateway createreactgateway reactnativehost host new navigationreactnativehostthis isdebug createadditionalreactpackages overrideprotected string getjsmainmodulename return indexreturn new reactgatewaythis isdebug hostoverridepublic boolean isdebug return buildconfigdebugprotected list getpackages add additional packages you require hereno need to add rnnpackage and mainreactpackagereturn arraysaslisteg new vectoriconspackageoverridepublic list createadditionalreactpackages return getpackages· rnn and react native version
+reactnativenavigation hỗ_trợ nhiều phiên_bản native react nhắm mục_tiêu phiên_bản react native được yêu_cầu bởi dự_án của bạn bằng cách chỉ_định hương_vị xây_dựng rnn trong android appbuildgradle
+android defaultconfig applicationid comyourprojectminsdkversion rootprojectextminsdkversiontargetsdkversion rootprojectexttargetsdkversionmissingdimensionstrategy rnnreactnativeversion reactnativeversioncode versionname · xây_dựng ứng_dụng với lệnh gradle
+giải_pháp ưa_thích rnn bạn muốn xây_dựng được chỉ_định trong app buildgradle vì_vậy để biên_dịch chỉ có cách đó thay_vì xây_dựng toàn_bộ dự_án của bạn bằng cách sử_dụng gradlew assembledebug bạn nên hướng_dẫn gradle để xây_dựng môđun ứng_dụng gradlew app asembledebug cách dễ nhất là thêm lệnh packagejson để xây_dựng và cài_đặt apk gỡ lỗi android của bạn
+scripts android cd android gradlew appassembledebug gradlew installdebug
+bây_giờ chạy npm chạy android để xây_dựng ứng_dụng của bạn
+· bỏ_qua các flavor khác của rnn
+nếu bạn không muốn chạy npm chạy android và muốn giữ lệnh reactnative runandroid bạn cần chỉ_định để sắp_xếp để bỏ_qua các flavor khác mà rnn cung_cấp
+để làm_như vậy hãy chỉnh sửa android buildgradle và thêm
+subprojects subproject afterevaluate if subprojectpluginshaspluginandroid subprojectpluginshaspluginandroidlibrary android variantfilter variant def names variantflavorsnameif namescontainsreactnative namescontainsreactnative setignoretrue· bạn có_thể sử_dụng phản ứngnativenavigation
+cập_nhật indexjs 
+import navigation from reactnativenavigation
+import appregistry from reactnative
+import app from app
+import name as appname from appjson
+appregistryregistercomponentappname app
+navigationregistercomponent`navigationplaygroundwelcomescreen` app
+navigationeventsregisterapplaunchedlistener navigationsetrootroot component name navigationplaygroundwelcomescreeniv hướng_dẫn build ứng_dụng trên thiết_bị thựcbật chức_năng gỡ lỗi qua usb android
+hầu_hết các thiết bị android mặc định bạn chỉ có_thể cài_đặt và chạy ứng_dụng được tải xuống từ google play store để cài_đặt ứng_dụng do chính bạn dev ra bạn sẽ cần bật tính năng gỡ lỗi qua usb usb debugging trên thiết_bị của mình
+để bật gỡ lỗi qua usb trên thiết_bị của bạn đầu_tiên bạn cần tìm và bật menu tùy_chọn nhà phát_triển developer options bằng cách 
+· chọn cài đặt → giới thiệu về điện thoại about phone
+· sau_đó chạm vào dòng build number bảy lần cho_đến_khi nó hiện_lên thông_báo bạn đã là nhà phát_triển youre now a developer là thành công 
+· cuối_cùng bạn có_thể quay lại cài đặt → tùy_chọn nhà phát_triển tick vào checkbox để bật gỡ lỗi qua usbthiết lập trên thiết_bị ios
+để chạy ứng_dụng trên ios các bạn cần đăng ký apple developer accountkết nối thiết_bị với máy_tính qua usb android
+điều này là bắt_buộc kể_cả bạn có muốn debug và reload qua wifi đi chăng_nữa thì cũng phải kết_nối thiết_bị qua usb để install app vào trước
+kết_nối thiết_bị vào qua cổng usb như khi cài_đặt app native thông_thường sau_đó kiểm_tra kết_nối bằng cách gõ lệnh sau
+· windows macos adb devices
+· linux lsusb
+nếu thấy thiết_bị của mình ở trong danh dách hiện_ra thì thành_công nếu không bạn hay kiểm_tra lại đã bật usb debugging chưacáp nối có chắc_chắn thiết_bị có hiển_thị đang sạc hay khôngđã chọn mục đưa máy_tính này vào danh_sách thiết_bị tin_tưởng việc cần làm để_cho thiết_bị chấp_nhận_việc cài_đặt ứng dụngtruy cập bộ_nhớ từ một máy_tính lạđã cài jdk và android sdk chưakết nối thiết_bị với máy_tính qua usb ios
+kết_nối thiết_bị của bạn tới máy macos bằng cáp usb lighting đi đến thư mục ios trong thư_mục chưa project của bạn sau_đó mở tệp xcodeproj bên trong bằng xcode
+chọn ứng_dụng của bạn trong project navigator và tìm tab general chuyển đến signing và đảm_bảo rằng tài_khoản nhà phát_triển apple của bạn đã được chọn
+mở menu product từ thanh menu xcode sau_đó chuyển đến destination tìm và chọn thiết_bị của bạn từ danh_sách xcode sẽ đăng_ký thiết_bị của bạn để phát_triển
+nếu mọi_thứ được thiết_lập chính_xác thiết_bị của bạn sẽ được liệt_kê là mục_tiêu xây_dựng trong thanh công_cụ xcode bây_giờ bạn có_thể nhấn nút build và chạy hoặc chọn run từ menu product ứng_dụng của bạn sẽ sớm khởi chạy trên thiết_bị của bạncài đặt và chạy ứng_dụng của bạn
+để cài_đặt và chạy ứng_dụng của bạn ở chế_độ debug bạn cần bật cmd cd đến thư_mục chứa profile của bạn thư_mục có các file appjson indexandroidjs indexiosjs rồi gõ lệnh
+reactnative runandroid
+hoặc
+reactnative runios
+khi này máy_tính sẽ tiến_hành build project và install vào tất_cả thiết_bị và emulator đang được kết_nối với máy tínhkết nối đến development server
+react native khi hoạt_động cần kết_nối tới một server ở_đây thường là localhost bằng cách kết_nối như_vậy mỗi_lần bạn có thay_đổi nhỏ trong các view ở file indexandroidjs indexiosjs thì chỉ cần ấn reload hoặc lắc nhẹ thiết_bị thật_là thay_đổi sẽ tự động cập nhật và hiển_thị ngay
+bạn thường có hai cách để kết_nối đến server
+· cách sử_dụng adb reverse nên_dùng
+bạn nên sử_dụng phương_pháp này nếu thiết_bị của bạn đang chạy android lollipop hoặc cao hơn đối_với các phiên_bản dưới android thì bạn có_thể google adb reverse android pre lollipop và tham_khảo một_số cách workaroundchạy lệnh sau 
+adb reverse tcp tcp
+sau_đó mở app trên thiết_bị lên lắc nhẹ thiết_bị hoặc ấn phím menu trên thiết_bị để show dialog developer settings lên và chọn reload nếu thay_đổi cập_nhật ngay thì bạn đã thành_công tuy_nhiên nếu xuất_hiện lỗi như_sau
+thì bạn cần kiểm_tra lại kết_nối của mình xem cáp usb có kết_nối một_cách chắc_chắn không đã bật usb debugging chưa nêu không được bạn nên chuyển qua cách
+· cách kết_nối bằng wifi
+bạn có_thể kết_nối với development server thông_qua sóng wifi tuy_nhiên như mình đã đề_cập ở trên trước tiên bạn phải cài_đặt ứng_dụng lên thiết_bị của mình qua cáp usb và một_khi đã cài_đặt và chạy lần_đầu xong bạn có_thể tháo cáp usb ra thực_hiện debug qua wifi bằng cách làm_theo các hướng_dẫn sau 
+bạn cần kết_nối cả_hai thiết_bị đến_cùng một wifi và bạn cũng cần biết địa_chỉ ip hiện_tại của máy_tính của mình trước_khi tiếp_tục
+để lấy_được địa_chỉ ip của máy_tính bạn mở cmd và gõ ipconfig 
+các bạn tìm đến dòng wireless lan adapter wifi và lấy địa chỉ ipv đó chính là private ip của máy bạn dùng để kết nôi đến wifi hiện tai 
+· đảm_bảo rằng thiết_bị và máy_tính chứa source code để chạy server cùng kết_nối đến một mạng wifi
+· mở app react native của bạn trên thiết_bị
+· bạn sẽ thấy màn_hình lỗi màu_đỏ mình ví_dụ ở phía_trên nhưng không_sao do chưa kết_nối đến development server mà d
+· ấn nút menu trên thiết_bị để mở developer settings trên app
+· chọn  dev settings → debug server host for device
+· gõ vào địa_chỉ ip của máy bạn kèm_theo port mà development server đang chạy trên ví_dụ máy mình là
+· ấn back trở_lại menu developer settings chọn reload
+v hướng_dẫn đưa ứng_dụng lên app store và ch playđưa ứng_dụng lên ch play
+android yêu_cầu tất_cả các ứng_dụng phải được ký bằng kỹ_thuật số với chứng_chỉ trước_khi chúng có_thể được cài_đặt do_đó để phân_phối ứng_dụng android của bạn qua cửa_hàng google play bạn sẽ cần tạo apk phát_hành đã được đăng_ký trang đăng_ký ứng_dụng của bạn trên tài_liệu dành cho nhà phát_triển android mô_tả chi_tiết chủ_đề hướng_dẫn này trình_bày tóm_tắt quy_trình cũng_như liệt_kê các bước cần_thiết để_đóng gói gói javascript
+· tạo khóa kýsigning key
+bạn có_thể tạo khóa_key riêng bằng keytool trên windows keytool phải được chạy từ c\program files\java\jdkxxx x\binkeytool genkey v keystore myreleasekeykeystore alias mykeyalias keyalg rsa keysize validity
+lệnh này sẽ nhắc bạn nhập mật_khẩu cho keystore và key và cung_cấp các trường tên phân_biệt cho key của bạn sau_đó nó sẽ tạo kho khóa dưới dạng tệp được gọi_là myreleasekeykeystore
+keystore chứa một khóa duy_nhất hợp_lệ trong ngày bí_danh là tên mà bạn sẽ sử_dụng sau_này khi đăng_ký ứng_dụng của bạn vì_vậy hãy nhớ ghi_chú bí_danh
+trên máy mac nếu bạn không chắc_chắn thư_mục jdk bin của bạn ở đâu thì thực_hiện lệnh sau để tìm nóusrlibexecjava home
+nó sẽ xuất kết_quả trực_tiếp của jdk dưới dạng một đường dẫn sau_đó bạn điều hướng đến thư_mục đó bằng lệnh sau
+cdlibraryjavajavavirtualmachinesjdk jdkcontentshome
+bây_giờ bạn có_thể thực_hiện lệnh keytool với quyền sudo như hiển_thị bên dướisudo keytool genkey v keystore myreleasekeykeystore alias mykeyalias keyalg rsa keysize validity
+lưu_ý hãy nhớ giữ tệp keystore của bạn ở chế_độ riêng_tư và không_bao_giờ cam_kết điều_khiển phiên_bản
+· thiết_lập biến gradle
+đặt file myreleasekeykeystore dưới đường dẫn androidapp trong project của bạn
+chỉnh sửa tệp ~gradlegradleproperties hoặc androidgradleproperties và thêm thông_tin sau thay_thế bằng mật_khẩu keystore chính_xác bí_danh và mật_khẩu khóa
+myapp release store filemyreleasekeykeystore
+myapp release key aliasmykeyalias
+myapp release store password
+myapp release key password
+đây sẽ là các biến global gradle mà sau_này chúng_ta có_thể sử_dụng trong cấu hình gradle của chúng_ta để ký ứng_dụng của chúng_ta
+lưu_ý về cách_lưu keystore
+khi bạn xuất_bản ứng_dụng trên ch play bạn sẽ cần phải xuất_bản lại ứng_dụng của mình dưới tên gói khác mất tất_cả tải xuống và xếp_hạng nếu bạn muốn thay_đổi khóa ký tại bất_kỳ thời_điểm nào vì_vậy sao lưu_kho khóa của bạn và đừng quên mật_khẩu
+lưu_ý về bảo_mật nếu bạn không muốn lưu_trữ mật_khẩu của mình trong văn_bản thuần túy và bạn đang chạy osx bạn cũng có_thể lưu_trữ thông_tin đăng nhập của mình trong ứng_dụng keychain access sau_đó bạn có_thể bỏ_qua hai_hàng cuối_cùng trong ~gradlegradleproperties
+· thêm cấu hình đăng_ký vào cấu hình gradle của ứng_dụng
+chỉnh sửa tệp android appbuildgradle trong thư_mục project của bạn và thêm cấu hình đăng_ký
+android defaultconfig signingconfigs release if projecthaspropertymyapp release store file storefile filemyapp release store filestorepassword myapp release store passwordkeyalias myapp release key aliaskeypassword myapp release key passwordbuildtypes release signingconfig signingconfigsrelease· xuất ra file apk
+đơn_giản chỉ cần chạy dòng code trong terminalcd androidgradlew assemblerelease
+gradles assemblerelease sẽ gói tất_cả javascript cần_thiết để chạy ứng_dụng của bạn vào apk nếu bạn cần phải thay_đổi gói javascript và hoặc gói tài_nguyên ví_dụ nếu bạn đã thay_đổi tên tập_tin mặc định thư_mục hoặc cấu_trúc chung của dự_án hãy xem qua_đường dẫn androidappbuildgradle để hiểu cách bạn có_thể cập_nhật và phản_ánh những thay_đổi này
+bạn có_thể tìm được file apk trong đường dẫn androidappbuildoutputsapkappreleaseapk và sẵn_sàng được phân_phối
+· thử_nghiệm bản phát_hành ứng_dụng của bạn
+trước_khi tải bản_dựng bản phát_hành lên ch play hãy đảm_bảo bạn đã kiểm_tra kỹ_lưỡng trước_tiên hãy gỡ cài_đặt mọi phiên_bản trước của ứng_dụng bạn đã cài_đặt cài đặt nó trên thiết_bị bằng cách sử dụngreactnative runandroid variantrelease
+lưu_ý rằng variant release chỉ khả_dụng nếu bạn đã thiết_lập ký như mô_tả ở trên
+bạn có_thể giết bất_kỳ phiên_bản trình đóng_gói đang chạy nào tất_cả khung và mã javascript của bạn được đóng_gói trong nội_dung của apk
+· phân_tách apk bằng abi để giảm kích_thước tệp
+theo mặc định file apk được tạo có_mã gốc cho cả kiến_trúc cpu x và armva điều này giúp dễ_dàng chia_sẻ apk chạy trên hầu_hết các thiết_bị android tuy_nhiên điều này có nhược_điểm là sẽ có một số mã gốc không_được sử_dụng trên bất_kỳ thiết_bị nào dẫn đến không cần_thiết đối_với các file apk lớn hơn
+bạn có_thể tạo apk cho từng cpu bằng cách thay_đổi dòng sau trong androidappbuildgradledef enableseparatebuildpercpuarchitecture falsedef enableseparatebuildpercpuarchitecture true
+tải cả_hai tệp này lên các cửa_hàng mà hỗ_trợ theo thiết_bị chẳng_hạn như google play và amazon appstore và người_dùng sẽ tự_động nhận_được apk thích_hợp nếu bạn muốn tải lên các thị_trường khác như apkfiles không hỗ_trợ nhiều apk cho một ứng_dụng hãy thay_đổi dòng sau để tạo apk phổ_biến mặc định với các tệp nhị_phân cho cả_hai cpuuniversalapk false if true also generate a universal apkuniversalapk true if true also generate a universal apk
+· bật proguard để giảm kích_thước của apk tùy_chọn
+proguard là một công_cụ có_thể làm_giảm kích_thước của apk nó thực_hiện điều này bằng cách loại_bỏ các phần của mã byte bytecode react native và các phụ_thuộc của nó mà ứng_dụng của bạn không sử_dụng
+quan_trọng hãy đảm_bảo kiểm_tra kỹ ứng_dụng của bạn nếu bạn đã bật proguard proguard thường yêu_cầu cấu hình_cụ_thể cho từng thư_viện gốc bạn đang sử_dụng xem appproguardrulespro
+để bật proguard hãy chỉnh sửa file androidappbuildgradlerun proguard to shrink the java bytecode in release buildsdef enableproguardinreleasebuilds trueđưa ứng_dụng lên app store
+a cắm thiết_bị của bạn qua usb
+kết_nối thiết_bị ios của bạn với máy mac bằng cáp usb đến lightning điều hướng đến thư_mục trong dự_án của bạn sau_đó mở tệp xcodeproj hoặc nếu bạn đang sử_dụng cocoapods mở xcworkspace bên_trong nó bằng cách sử_dụng xcode
+nếu đây là lần_đầu_tiên bạn chạy một ứng_dụng trên thiết_bị ios bạn có_thể cần phải đăng_ký thiết_bị của mình để phát triển mở menu sản phẩm từ thanh thực_đơn của xcode sau_đó đi đến đích  tìm và chọn thiết_bị của bạn từ danh sách xcode sau_đó sẽ đăng_ký thiết_bị của bạn để phát_triển
+b cấu hình ký_mã
+đăng ký tài khoản nhà phát_triển apple nếu bạn chưa có tài khoản 
+chọn dự_án của bạn trong xcode project navigator sau_đó chọn mục_tiêu chính của bạn nó sẽ chia_sẻ dự_án cùng tên với bạn tìm tab chung chuyển đến đăng_nhập và đảm_bảo tài_khoản nhà phát_triển apple hoặc nhóm của bạn được chọn trong danh_sách thả_xuống nhóm
+lặp_lại bước này cho mục_tiêu tests trong dự_án của bạn
+c xây_dựng và chạy ứng_dụng của bạn
+nếu mọi_thứ được thiết_lập chính_xác thiết_bị của bạn sẽ được liệt_kê như là mục_tiêu xây_dựng trong thanh công_cụ xcode và nó cũng sẽ xuất_hiện trong cửa_sổ devices bây_giờ bạn có_thể nhấn nút build and run hoặc chọn run từ menu product  ứng dụng của bạn sẽ sớm khởi chạy trên thiết_bị của bạn
+nếu bạn gặp_phải bất_kỳ sự_cố nào vui_lòng xem apple khởi chạy ứng_dụng của bạn trên tài liệu thiết bị 
+d kết_nối với máy chủ_phát_triển
+bạn cũng có_thể lặp_lại nhanh_chóng trên một thiết_bị bằng cách sử_dụng máy chủ phát triển bạn chỉ phải trên cùng một mạng wifi như máy_tính của mình lắc thiết_bị của bạn để mở menu nhà phát triển  sau_đó bật tải lại trực tiếp ứng dụng của bạn sẽ tải lại bất_cứ khi_nào mã javascript của bạn đã thay_đổi
+i xử_lý sự_cố
+nếu bạn gặp bất_kỳ sự_cố nào_hãy đảm_bảo rằng máy_mac và thiết_bị của bạn nằm trên cùng một mạng và có_thể liên_lạc với nhau nhiều mạng không dây mở với cổng cố_định được cấu hình để ngăn thiết_bị tiếp_cận các thiết_bị khác trên mạng bạn có_thể sử_dụng tính_năng điểm phát_sóng cá_nhân của thiết_bị trong trường_hợp này
+khi cố_gắng kết_nối với máy chủ phát_triển bạn có_thể gặp màn hình màu_đỏ có lỗi 
+kết_nối với httplocalhostdebuggerproxyroleclient hết thời_gian chờ bạn có đang chạy proxy node không nếu bạn đang chạy trên thiết_bị hãy kiểm_tra xem bạn có đúng địa_chỉ ip không rctwebsocketexecutorm
+để giải_quyết vấn_đề này hãy kiểm_tra các điểm sau_đây
+ii mạng wifi
+đảm_bảo máy_tính xách_tay và điện_thoại của bạn nằm trên cùng một mạng wifi
+iii địa_chỉ ip
+đảm_bảo rằng tập lệnh xây_dựng đã phát_hiện địa_chỉ ip của máy của bạn chính_xác
+mở tab điều hướng báo cáo  chọn xây dựng và tìm_kiếm xipio địa chỉ ip được nhúng trong ứng_dụng phải khớp_với địa_chỉ ip_máy của bạn cộng với miền xipio
+iv cấu hình mạng bộ định_tuyến
+react native sử_dụng dịch_vụ dns ký_tự đại diện xipio để giải_quyết thiết_bị của bạn vì apple ats cấm url có địa_chỉ ip thay_vì tên miền và mạng của nhà phát_triển thường không_được thiết_lập để giải_quyết tên máy chủ cục bộ một số bộ định tuyến có các tính_năng bảo_mật để ngăn máy chủ dns giải_quyết mọi_thứ trong dải ip cục_bộ
+bây_giờ hãy kiểm_tra xem bạn có_thể giải_quyết địa_chỉ xipio không bằng cách chạy nslookupnslookup xipio
+nếu nó không giải_quyết địa_chỉ ip cục_bộ của bạn thì dịch vụ xipio bị hỏng hoặc nhiều khả_năng router của bạn sẽ ngăn_chặn nó
+để vẫn sử_dụng xipio phía_sau bộ định tuyến của bạn
+· định cấu hình điện_thoại của bạn để sử_dụng google dns
+· tắt tính_năng bảo_mật thích_hợp trong bộ định tuyến của bạn
+v xây_dựng ứng_dụng của bạn để phát_hành
+bạn đã xây_dựng một ứng_dụng tuyệt_vời bằng cách sử_dụng react native và giờ_đây bạn đã sẵn_sàng phát_hành ứng_dụng đó trong app store quá trình này giống với bất_kỳ ứng_dụng ios gốc nào khác với một_số cân_nhắc bổ_sung cần tính đến
+· bật bảo_mật giao_thông ứng_dụng
+app transport security là một tính_năng bảo_mật được giới_thiệu trong ios loại_bỏ tất_cả các yêu_cầu http không_được gửi qua https điều này có_thể dẫn đến lưu_lượng truy_cập http bị chặn bao_gồm cả máy chủ react native của nhà phát triển ats bị tắt localhosttheo mặc_định trong các dự_án react native để giúp phát_triển dễ_dàng hơn
+bạn nên bật lại ats trước_khi xây_dựng ứng_dụng của mình để sản_xuất bằng cách xóa localhostmục nhập khỏi từ nsexceptiondomainsđiển trong tệp infoplist của bạn trong ios thư mục bạn cũng có_thể bật lại ats từ bên_trong xcode bằng cách mở các thuộc_tính đích của bạn trong ngăn thông_tin và chỉnh sửa mục nhập cài_đặt bảo_mật giao_thông ứng_dụng
+· định cấu hình lược_đồ phát_hành
+xây_dựng ứng_dụng để phân_phối trong app store yêu_cầu sử dụng releaselược đồ trong xcode các ứng_dụng được tạo cho release sẽ tự_động vô hiệu hóa menu nhà phát_triển ứng_dụng điều này sẽ ngăn người_dùng của bạn vô_tình truy_cập menu trong quá_trình sản xuất nó cũng sẽ gói javascript cục_bộ vì_vậy bạn có_thể đặt ứng_dụng trên thiết_bị và kiểm_tra trong_khi không được kết_nối với máy_tính
+để cấu hình ứng_dụng của bạn được xây_dựng bằng cách sử_dụng chương trình release đi đến sản phẩm → scheme → sửa scheme  chọn tab chạy trong thanh_bên sau_đó đặt trình đơn thả_xuống cấu hình xây dựng release
+· định cấu hình ứng_dụng để sử_dụng gói_tĩnh
+trong quá_trình phát_triển react native đã tải mã javascript của bạn một_cách linh_hoạt khi chạy đối với một bản dựng sản_xuất bạn muốn gói trước gói javascript và phân_phối nó bên_trong ứng_dụng của bạn làm điều này đòi_hỏi một sự_thay_đổi mã trong mã của bạn để nó biết để tải gói_tĩnh
+trong appdelegatem thay_đổi mặc định jscodelocation để trỏ đến gói tĩnh được xây_dựng trong bản phát hànhjscodelocation nsbundle mainbundle urlforresourcemain withextensionjsbundle
+điều này sẽ tham_chiếu đến tệp mainjsbundle tài_nguyên được tạo trong bundle react native code and images giai_đoạn xây_dựng trong xcode
+if configuration debug thenexport skip bundlingtruefi
+· mẹo chuyên_nghiệp
+khi gói ứng_dụng của bạn tăng kích_thước bạn có_thể bắt_đầu thấy một màn hình trắng nhấp_nháy giữa màn_hình giật_gân và hiển_thị chế_độ xem ứng_dụng gốc của bạn nếu trường_hợp này xảy_ra bạn có_thể thêm mã sau vào appdelegatem để giữ cho màn_hình của bạn được hiển_thị trong quá_trình chuyển đổiplace this code after selfwindow makekeyandvisible and before return yesuiview launchscreenview nsbundle mainbundle loadnibnamedlaunchscreen ownerself optionsnil objectatindexlaunchscreenviewframe selfwindowboundsrootviewloadingview launchscreenview
+· xây_dựng ứng_dụng để phát_hành
+giờ đây bạn có_thể tạo ứng_dụng để phát_hành bằng cách nhấn ⌘b hoặc chọn sản phẩm → xây dựng từ thanh trình đơn sau khi được xây_dựng để phát_hành bạn sẽ có_thể phân_phối ứng_dụng cho người thử_nghiệm beta và gửi ứng_dụng tới app store
+vi hướng_dẫn sử_dụng ứng_dụng
+bước_đăng_ký một tài_khoản người_dùng sau_đó đăng_nhập
+hình đăng_ký tài_khoản người_dùng và đăng_nhập
+bước_sau khi đăng nhập thành_công màn_hình chính xuất hiệnmặc định là giao_diện xe được bán
+hình giao_diện chính
+bước_bạn có_thể searching sản_phẩm xe tương_ứng với khung tìm_kiếm sản_phẩm ở trên
+hình tính_năng search trong choxe
+bước_lướt từ trái qua phải chúng_ta sẽ có_được thanh drawer menu với nhiều chức_năng khác
+hình tạo thanh drawer menu
+bước giao_diện sẽ xuất_hiện khi người dụng click vàohình tính_năng chính trong drawer menu
+bước để đăng_tin một tin về bán xe bạn click vào đăng_tin bán xe
+hình chức_năng đăng_tin xe cần bán
+tương_tự ta có_được đăng_tin cho_thuê xe như_sau
+hình chức_năng đăng_tin cho_thuê xe
+bước_ta click vào xem chi_tiết để_được xem chi_tiết sản_phẩm
+hình chi_tiết sản_phẩm
+bước hãy gọi điên và nhắn_tin cho chủ_nhân của sản_phẩm nhấn vào gọi_điện hoặc nhắn_tin
+hình hai chức_năng gọi_điện và nhắn_tin
+bước để yêu_thích và lưu_sản_phẩm bấm vào trái_tim ở sản_phẩm
+hình chức_năng yêu_thích sản_phẩm
+bước để xem vị_trí của sản_phẩm và vị_trí hiện_tại của bạn bấm định_vị google map sẽ hiễn thị và chỉ_dẫn bạn đến vị_trí của sản_phẩm
+hình chức_năng định_vị sản_phẩm
+bước_xem thông_tin người_dùng click vào icon
+hình chức_năng xem thông_tin người_dùng
+bước_chỉnh sửa người_dùng bằng icon
+hình chức_năng chỉnh sửa thông_tin người_dùng
+bước_xem lại lịch_sử đăng_tin thuê xebán xe
+bước_xem lại các tin đã yêu_thích vào mục thông_tin người_dùng click vào dòng này
+hình chức_năng xem lại các xe đã được yêu_thích
+giao_diện xe quan_tâm sẽ xuất_hiện
+hình danh_sách xe thuêbán đã quan_tâm

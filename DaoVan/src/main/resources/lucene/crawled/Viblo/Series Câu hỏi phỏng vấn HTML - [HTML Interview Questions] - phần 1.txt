@@ -1,0 +1,65 @@
+httpsvibloasiapseries-cau-hoi-phong-van-html-html-interview-questions-phan--gDVKBqnKLjVũ Minh_Tiến tienvm Follow Published Thursday AM min read Series Câu_hỏi phỏng_vấn HTML - [HTML Interview Questions] - phần Report Có rất nhiều cách để chúng_ta có_thể học tiếp_thu kiến_thức trong ngành_IT này
+Ví_dụ đọc sách xem video tutorial đọc blog vv và học từ những câu_hỏi phỏng_vấn cũng là cách để chúng_ta có_thể kiểm_tra được kiến_thức hiện_tại của mình cũng_như mở_rộng kiến_thức ở những phần mình chưa biết chưa nắm_chắc
+Thỉnh_thoảng mình cũng lên mạng để hóng mấy câu_hỏi phỏng_vấn kiểu này để_bổ_sung kiến_thức v Xem để học_hỏi chứ không_phải chuẩn_bị để nghỉ_việc nhé các brooo hahah Đó là lý_do tại_sao mình bắt_đầu tổng_hợp trong series này À quên chưa giới_thiệu chào mọi_người mình là Tiến 😅 Series này sẽ là câu_hỏi phỏng_vấn HTML mình lượm nhặt tổng_hợp trên mạng bạn có_thể tham_khảo để cover lại kiến_thức nhé
+Dự sau sẽ có cả câu_hỏi phỏng_vấn CSS câu_hỏi phỏng_vấn JS câu_hỏi phỏng_vấn ABC XYZ
+Việc của bạn là like và lưu bài_viết để ủng_hộ mình nếu mọi người ủng_hộ nhiệt_tình
+Mình sẽ cố_gắng tổng_hợp để có các series tiếp_theo ❤️ Hơi lan_man dài_dòng nhỉ v Giờ thì bắt_đầu thôi iframe trong HTML là_gì
+Và cách nó hoạt_động iframe là một thẻ trong HTML thẻ này sẽ giúp chúng_ta có_thể nhúng nội_dung tài_liệu khác vào trong tài_liệu HTML
+Ví_dụ
+Giải_thích về thẻ meta trong HTML
+Có vài điểm chúng_ta cần lưu_ý về thẻ meta trong HTML như_sau Thẻ meta luôn được đặt trong thẻ head ở đầu trang HTML
+Thẻ meta sẽ không hiển_thị trên trang nhưng có_thể sử_dụng ispect trên trình_duyệt để xem nội_dung Thẻ meta có_thể chứa thông_tin về character encoding description title Thẻ meta sẽ cung_cấp thông_tin cho các công_cụ tìm_kiếm
+VD như Search Engine của Google Ví_dụ Home Page
+Thuộc_tính alt của hình_ảnh có ý_nghĩa gì
+Thuộc_tính alt sẽ cung_cấp thông_tin thay_thế cho một hình_ảnh trong trường_hợp user không_thể xem nódo kết_nối chậm lỗi trong thuộc_tính srcvv Thuộc_tính alt nên được sử_dụng để mô_tả bất_kỳ hình_ảnh nào ngoại_trừ những hình_ảnh chỉ phục_vụ mục_đích trang_trí trong trường_hợp đó nó nên được để_trống
+Sự_khác_nhau giữa thẻ span và thẻ div div là một block element span là một inline element Bổ_sung về cơ_bản việc để một block element bên_trong một inline element có_vẻ không hợp_lý
+Ví_dụ Trong_khi thẻ div có_thể có thẻ p và thẻ p có thẻ span bên_trong
+Tuy_nhiên việc để thẻ div hoặc thẻ p bên_trong thẻ span có_vẻ không hợp_lý
+Tất_nhiên bạn vẫn có_thể sử_dụng nhưng đây như là một convention bạn nên theo
+Dưới đây là giải_thích của trang httpsdevelopermozillaorg cho vấn_đề này
+Làm thế_nào để Search Engines có_thể tìm_kiếm chỉ mụcindex tốt_hơn
+Bạn có_thể đánh index tốt_hơn bằng cách sử_dụng lệnh sau trong phần của tài_liệu HTML của bạn Cả đều chứa tối_đa ký_tự
+Nếu một từ khóa được sử_dụng nhiều hơn lần keywords tag sẽ bị bỏ_qua hoàn_toàn
+Một_vài concept về HTML
+HTML được thiết_kế để thay_thế HTML XHTML và HTML DOM Level
+Một_vài có_thể kể đến như Cung_cấp nội_dung phong phúgraphics movies audio etc mà_không cần bổ_sung thêm plugins chẳng_hạn như Flash
+Cung_cấp các thẻ sematic support tốt_hơn cho cấu_trúc trang web
+Cung_cấp hỗ_trợ đa nền_tảng tốt_hơn cho dù chạy trên PC tablet hoặc smartphone
+Làm thế_nào để highlight text trong HTML
+Nếu bạn làm_việc với HTML hãy sử_dụng tag để highlight text một_cách dễ_dàng và nhanh_chóng highlighted text Nếu chỉ sử_dụng HTML thì bạn có_thể set background-color cho thẻ
+Như ví_dụ dưới đây Yellow text
+Giải_thích ý_nghĩa một về các thẻ sematic trong HTML Được sử_dụng để xác_định phần_đầu của một trang tài_liệu hay phần_đầu của một_đoạn
+Phần tử  nên được sử_dụng như một containter chứa nội_dung giới_thiệu hoặc mở_đầu được sử_dụng cho các nội_dung độc_lập và chứa nội_dung của riêng nó
+Nội_dung bên_trong phần_tử có_ý nghĩa riêng_biệt và có_thể độc_lập với các nội_dung khác của trang web Phần_tử xác_định một phần có trong tài_liệu
+Dựa_theo tài_liệu về HTML của WC thì “Một section là một nhóm các nội_dung giống_nhau có cùng chủ đề” Phần tử  xác_định phần cuối của một trang tài_liệu hay phần cuối của một_đoạn
+Phần tử  nên chứa thông_tin như thông_tin về tác giả thông tin bản_quyền liên_kết kết tới điều_khoản sử_dụng thông_tin liên hệ…
+Character Encoding là gì Để hiển_thị trang HTML một_cách chính xách trình_duyệt web phải_biết bộ ký_tự nàocharacter encoding được sử_dụng Điều này sẽ chỉ_định trong thẻ meta
+HTML HTML
+Thẻ tự đóng trong HTMLself closing tag
+Câu_chuyện về thẻ tự đóng không_mấy thú_vị khi bạn chưa quan_tâm tới nó
+Thẻ tự đóng có liên_quan đến những cách mà HTML đã được phát_triển trong_suốt quá_trình sử_dụng từ cuối những năm
+Thẻ HTML thông_thường có thẻ mở và thẻ_đóng như bạn đã_biết
+Tuy_nhiên có các phần_tử trong HTML được gọi_là các phần_tử void chẳng_hạn như hình_ảnh và liên_kết không yêu_cầu nghiêm_ngặt các thẻ_đóng vì cấu_trúc vốn có của chúng
+Và chắc là như_thế nên các chuyên_gia cho_rằng những thứ như hình_ảnh và liên_kết không_cần và không_thể có nội_dung - chúng chỉ_là loại con trỏ đến một yếu_tố được cài_đặt trong trang Là mt thẻ khá dị có chức_năng là định_vị khu_vực cho một cái ảnh   Chỉ_địn thuộc_tính cho mỗi cột Nhúng flash hay ứng_dụng gì_đó bên_ngoài vào Nhúng một ảnh thông_qua thuộc_tính src Nó là input vậy đó etc
+Một_số thẻ tự đóng bạn có_thể tham_khảo ngoài_ra còn rất nhiều thẻ khác mình không tiện liệt_kê hết
+Bạn có_thể xem thêm ở_đây nhé
+Sự_khác_biệt giữa attribute và property trong HTML attribute sẽ được định_nghĩa trong thẻ HTML còn property sẽ được định_nghĩa trong DOM
+Lấy ví_dụ chúng_ta có thẻ như_sau const input documentquerySelector'input'consoleloginputgetAttribute'value' Helloconsoleloginputvalue Hello Sau khi chúng_ta thêm giá_trị của text field bằng cách thêm World!
+Nó sẽ trở_thành như_sau consoleloginputgetAttribute'value' Helloconsoleloginputvalue Hello World!
+Khi_nào thì sử_dụng thẻ small
+Thẻ small làm_cho kích_thước front size nhỏ hơn một cỡVí dụ Từ lớn đến trung_bình hoặc nhỏ xuống cỡ phông chữ tối_thiểu của trình_duyệt
+Trong HTML phần_tử này sử_dụng để thể_hiện các bình_luận bên_lề và bản_in nhỏ
+Hoặc đơn_giản nhất bạn có_thể thấy là bản quyềncopyright ở dưới footer The copyright of this image is owned by Aurelio De Rosa
+Sự_khác_nhau giữa block element và inline eement block element là những phần_tử sẽ chiếm toàn_bộ chiều_rộng có sẵ trên một trang web chặn hiệu_quả bất_kỳ phần_tử nào khác ở bên_trái hoặc bên_phải inline element là những phần_tử chỉ chiếm chiều_rộng cần_thiết để hiển_thị nội dungcontent của phần_tử
+Do_đó cho_phép các phần_tử inline khác có_thể cùng trên dòng
+Một_vài block element phổ_biến như Paragraphs Headers  through  Divisions Lists and list items   and  Forms Một_vài inline element phổ_biến như Spans Images Anchors
+Giải_thích về standard full standard and quirks mode
+Quay_lại thuở khai sơ các trang web thường được viết bằng hai version Một cho Netscape Navigator và một cho Internet Expoler
+Khi WC khai_sáng tạo_ra standard thì các trang web không_thể sử_dụng chúng vì như_vậy sẽ làm_vỡ hầu_hết các trang web hiện_có
+Do_đó các trình_duyệt đã giới_thiệu tiêu_chuẩn để phù_hợp với trang web mới và cũ
+Bây_giờ thì nó có chế_độ quirks mode standards mode và full standards Đối_với HTML browser sẽ sử_dụng DOCTYPE ở đầu page để quyết_định xem nên xử_lý nó ở chế_độ nào
+Bạn có_thể tham_khảo đoạn code ở dưới       Hello World!    Bạn có_thể tìm_hiểu thêm tại_đây
+Làm thế_nào để set mode phù_hợp với IEInternet Explorer
+Sử_dụng http-equivX-UA-Compatible meta với content IEedge IEedge sẽ nói_với IE hiển_thị nội_dung mới mode cao nhất hiện_tại
+Bạn có_thể tham_khảo hình dưới Phần tạm_thời_thế đã 😅 Bạn hãy like và up vote bài_viết nếu thấy nó cần_thiết nhé
+Nó sẽ là động_lực để mình có các bài_viết và các series tiếp_theo Đừng ngại để_lại comment để chúng_ta có_thể tương_tác và học_tập lẫn_nhau nhé Thank you for reading and see you next posts v Interview Questions for HTML HTML All Rights Reserved Report
